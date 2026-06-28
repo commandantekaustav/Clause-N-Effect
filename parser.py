@@ -1,32 +1,77 @@
 import os
 import dotenv
+import shutil
+import time
+from pathlib import Path
 from llama_parse import LlamaParse
 
-# 1. Set your API key
+
+# Initialize cloud keys
 dotenv.load_dotenv()
 os.environ["LLAMA_CLOUD_API_KEY"] = os.getenv("LLAMA_CLOUD_API_KEY")
 
-# 2. Configure the parser
-parser = LlamaParse(
-    result_type="markdown",  # Options: "markdown" or "text"
-    num_workers=4,           # Number of workers for parallel processing
-    verbose=True,
-)
+def ingest_curated_documents(
+    curated_dir_path: str = "curated", 
+    scanned_dir_path: str = "scanned", 
+    master_output_path: str = "output.md"
+):
+    """
+    Automated batch processing pipeline. Parses PDFs in the curated directory,
+    appends markdown output, and safely moves processed documents to scanned archive.
+    """
+    curated_dir = Path(curated_dir_path)
+    scanned_dir = Path(scanned_dir_path)
+    
+    # Ensure execution directories exist
+    curated_dir.mkdir(exist_ok=True)
+    scanned_dir.mkdir(exist_ok=True)
+    
+    # Locate all target PDFs
+    pdf_files = list(curated_dir.glob("*.pdf")) + list(curated_dir.glob("*.PDF"))
+    
+    if not pdf_files:
+        print(f"No documents detected in administrative directory: '{curated_dir.resolve()}'. Ingestion idle.")
+        return
 
-# 3. Parse the PDF document
-# This returns a list of document objects (one per page or single combined)
-documents = parser.load_data(r"data\Vijaya_Bank_vs_Prashant_B_Narnaware_on_14_May_2025.PDF")
+    print(f"Scanning detected {len(pdf_files)} target documents. Initializing LlamaParse...")
+    
+    parser = LlamaParse(
+        result_type="markdown",
+        num_workers=4,
+        verbose=True,
+    )
+    
+    for pdf_path in pdf_files:
+        print(f"Processing: {pdf_path.name}")
+        start_time = time.perf_counter()
+        
+        try:
+            # Parse PDF through Cloud Engine
+            parsed_data = parser.load_data(str(pdf_path))
+            combined_markdown = "\n\n".join([page.text for page in parsed_data])
+            
+            # Append markdown payload to cumulative master record
+            with open(master_output_path, "a", encoding="utf-8") as master_file:
+                master_file.write(f"\n\n# Document Reference: {pdf_path.stem}\n")
+                master_file.write(f"--- Ingestion Timestamp: {time.asctime()} ---\n\n")
+                master_file.write(combined_markdown)
+                master_file.write("\n\n")
+                
+            latency = time.perf_counter() - start_time
+            print(f"Successfully compiled markdown for {pdf_path.name} in {latency:.2f}s.")
+            
+            # Build non-colliding destination path in archive directory
+            timestamp = int(time.time())
+            archive_filename = f"{pdf_path.stem}_{timestamp}{pdf_path.suffix}"
+            archive_destination = scanned_dir / archive_filename
+            
+            # Relocate file to commit pipeline stage
+            shutil.move(str(pdf_path), str(archive_destination))
+            print(f"Moved source file to archive: '{archive_destination.name}'")
+            
+        except Exception as e:
+            print(f"Pipeline Execution Failure processing document '{pdf_path.name}': {str(e)}")
+            print("Document retained in curated execution path for recovery.")
 
-# 4. Access the parsed Markdown content
-for page_num, doc in enumerate(documents, start=1):
-    print(f"--- Page {page_num} Markdown Content ---")
-    print(doc.text)
-
-# Combine all document pages into one text string
-full_markdown = "\n\n".join([doc.text for doc in documents])
-
-# Save to a file
-with open("output.md", "w+", encoding="utf-8") as f:
-    f.write(full_markdown)
-
-print("Saved successfully to output.md!")
+if __name__ == "__main__":
+    ingest_curated_documents()

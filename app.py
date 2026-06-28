@@ -1,126 +1,105 @@
-import streamlit as st
 import os
-import json
+import time
+import streamlit as st
+from agent_engine import app as crag_app
+from logger import log_transaction
 
-# --- 1. Streamlit Page Setup ---
+# ==========================================
+# Streamlit UI Configuration
+# ==========================================
 st.set_page_config(
-    page_title="LexAudit-Zero", 
-    page_icon="⚖️", 
+    page_title="Clause-N-Effect: Legal Compliance Auditor",
     layout="wide",
     initial_sidebar_state="expanded"
 )
 
-# --- 2. Sidebar for API Keys (Securing your colleagues) ---
+st.title("Clause-N-Effect")
+st.subheader("Agentic Legal Compliance Auditor (CRAG)")
+
+# Sidebar for API Configuration & Logs Preview
 with st.sidebar:
-    st.header("⚙️ System Configuration")
-    st.markdown("Enter your API keys to initialize the audit engine. *Keys are not stored.*")
-    
-    # We use type="password" so keys are masked on the screen
-    groq_key = st.text_input("Groq API Key (For Llama 3.3)", type="password")
-    tavily_key = st.text_input("Tavily API Key (For Legal Search)", type="password")
+    st.header("Configuration")
+    groq_api_key = st.text_input("Groq API Key", type="password")
+    tavily_api_key = st.text_input("Tavily API Key", type="password")
     
     st.markdown("---")
-    st.markdown("### 📚 About LexAudit-Zero")
-    st.markdown("This tool audits Offer Letters and HR Policies against the Indian Labour Codes (2026).")
-    st.markdown("**Architecture:** Corrective RAG (CRAG)")
-    st.markdown("*(Maintained as an open-source rebellion utility)*")
+    st.markdown("### Telemetry Status")
+    if os.path.exists(".DONT_UPLOAD/track.json"):
+        st.success("Telemetry Active: Logging to `.DONT_UPLOAD/track.json`")
+    else:
+        st.info("No logs captured yet. Run an audit to generate telemetry.")
 
-# --- 3. Main UI ---
-st.title("⚖️ LexAudit-Zero: Compliance Engine")
-st.markdown("Identify non-compliant corporate clauses, illegal bonds, and labor law violations.")
+# ==========================================
+# Main Application Flow
+# ==========================================
+col1, col2 = st.columns(2)
 
-# We only load the engine IF keys are provided to prevent LangChain from crashing on import
-if not groq_key or not tavily_key:
-    st.info("👈 Please enter both Groq and Tavily API keys in the sidebar to begin.")
-else:
-    # Set environment variables so LangChain/LangGraph can pick them up dynamically
-    os.environ["GROQ_API_KEY"] = groq_key
-    os.environ["TAVILY_API_KEY"] = tavily_key
-    
-    # Import the graph ONLY after keys are set in the environment
-    try:
-        from agent_engine import app as crag_app
-        st.success("✅ Audit Engine Online. FAISS Vector Store Connected.")
-    except Exception as e:
-        st.error(f"Failed to initialize the engine. Ensure 'faiss_legal_db' exists in this directory. Error: {e}")
-        st.stop()
-
-    # --- 4. Query Input ---
-    user_query = st.text_area(
-        "Enter the clause or policy rule you want to audit:",
-        placeholder="e.g., 'The employee must serve a 90-day notice period, but the company reserves the right to terminate employment with 15 days notice.'",
-        height=100
+with col1:
+    employer_facts = st.text_area(
+        "1. Paste the Employer Clause / Email:",
+        placeholder="e.g., 'Original certificates will be held for 3 years...' or paste the HR email here.",
+        height=200
     )
 
-    if st.button("Run Compliance Audit", type="primary"):
-        if not user_query:
-            st.error("Please enter a clause or question to audit.")
-        else:
-            # st.status gives us a cool expanding loading box to show the CRAG steps
-            with st.status("Initiating CRAG Pipeline...", expanded=True) as status:
-                inputs = {"question": user_query}
-                final_report = ""
-                
-                # Stream the LangGraph execution steps live to the UI
+with col2:
+    user_query = st.text_area(
+        "2. What is your legal query?",
+        placeholder="e.g., Is this legal? How do I get my marksheet back?",
+        height=200
+    )
+
+# Single Button Execution Block
+if st.button("Run Compliance Audit", type="primary"):
+    if not groq_api_key or not tavily_api_key:
+        st.error("Please provide both Groq and Tavily API keys in the sidebar.")
+    elif not user_query.strip() or not employer_facts.strip():
+        st.warning("Please fill out both the employer facts and your specific query.")
+    else:
+        os.environ["GROQ_API_KEY"] = groq_api_key
+        os.environ["TAVILY_API_KEY"] = tavily_api_key
+        
+        status_placeholder = st.empty()
+        
+        # Combine the two textboxes into the single "question" string expected by GraphState
+        combined_payload = f"USER QUERY: {user_query.strip()}\n\nTARGET HR FACTS:\n{employer_facts.strip()}"
+        inputs = {"question": combined_payload}
+        
+        final_generation = ""
+        final_steps = []
+        distilled_query = combined_payload 
+        
+        start_time = time.perf_counter()
+        
+        try:
+            with status_placeholder.status("Executing Agentic Routing Nodes...", expanded=True) as status:
                 for output in crag_app.stream(inputs):
-                    for node_name, node_state in output.items():
-                        if node_name == "retrieve":
-                            st.write("🔍 **Step 1:** Retrieving local policy documents from FAISS...")
+                    for node_name, state_delta in output.items():
+                        st.write(f"Completed Node: {node_name}")
                         
-                        elif node_name == "grade_documents":
-                            score = node_state.get("generation", "NO")
-                            if score == "YES":
-                                st.write("✅ **Step 2:** Grader determined local documents are sufficient.")
-                            else:
-                                st.write("⚠️ **Step 2:** Local documents insufficient or ambiguous. Triggering Legal Web Search Fallback.")
-                        
-                        elif node_name == "web_search":
-                            st.write("🌐 **Step 3:** Executing external Tavily Search for Indian Labor Codes...")
-                        
-                        elif node_name == "generate_audit":
-                            st.write("📝 **Step 4:** Synthesizing legal audit report...")
-                            final_report = node_state.get("generation", "")
+                        if "steps" in state_delta:
+                            final_steps = state_delta["steps"]
+                        if "generation" in state_delta:
+                            final_generation = state_delta["generation"]
+                        # Intercept the distilled query post-compression
+                        if "question" in state_delta:
+                            distilled_query = state_delta["question"]
                 
-                # Close the status box once done
-                status.update(label="Audit Complete!", state="complete", expanded=False)
-
-            # --- 4.5 Auto-Logging to .DONT_UPLOAD/track.json ---
-            # Automatically save the prompt and response, incrementing the execution number
-            log_dir = ".DONT_UPLOAD"
-            log_file = os.path.join(log_dir, "track.json")
+                status.update(label="Audit Completed!", state="complete", expanded=False)
             
-            # Ensure the directory exists
-            os.makedirs(log_dir, exist_ok=True)
+            execution_latency = time.perf_counter() - start_time
             
-            # Read existing logs to determine the next execution number
-            existing_logs = []
-            if os.path.exists(log_file):
-                try:
-                    with open(log_file, "r", encoding="utf-8") as f:
-                        existing_logs = json.load(f)
-                        if isinstance(existing_logs, dict): # Handle if it was manually saved as a single dict
-                            existing_logs = [existing_logs]
-                except json.JSONDecodeError:
-                    existing_logs = []
+            st.markdown("### Compliance Audit Report")
+            st.markdown(final_generation, unsafe_allow_html=True)
             
-            next_exec = 1 if not existing_logs else max([log.get("execution_number", 0) for log in existing_logs]) + 1
+            # Log ONLY the distilled query to track.json, saving ~85% storage space
+            log_transaction(
+                query=distilled_query,
+                response=final_generation,
+                steps=final_steps,
+                execution_time=execution_latency
+            )
             
-            # Append new log
-            existing_logs.append({
-                "execution_number": next_exec,
-                "data": {
-                    "Prompt": user_query,
-                    "Response": final_report
-                }
-            })
+            st.toast(f"Audit completed in {execution_latency:.2f}s. Transaction logged.")
             
-            # Write back to file
-            with open(log_file, "w", encoding="utf-8") as f:
-                json.dump(existing_logs, f, indent=4)
-
-            # --- 5. Display the Final Report ---
-            st.markdown("---")
-            st.subheader("📑 Audit Findings")
-            
-            # Render the Markdown response directly
-            st.markdown(final_report)
+        except Exception as e:
+            st.error(f"An execution error occurred in the state machine: {str(e)}")

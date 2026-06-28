@@ -209,3 +209,13076 @@ Vijaya Bank vs Prashant B Narnaware on 14 May, 2025
 Haryana Financial Corporation v. Jagdamba Oil Mills (2002) 3 SCC 496
 
 Indian Kanoon - http://indiankanoon.org/doc/42763766/
+
+
+# Document Reference: EPFScheme
+--- Ingestion Timestamp: Sun Jun 28 19:54:00 2026 ---
+
+The Employees’ Provident Funds Scheme, 1952
+# CONTENTS
+
+# CHAPTER I
+
+# Preliminary
+
+1. Short, title and application
+2. Definition
+
+# CHAPTER II
+
+# Board of Trustees, Executive Committee and Regional Committees
+
+1. Election of certain members of the Executive Committee
+2. Regional Committee
+3. Terms of Office
+4. Resignation
+5. Cessation and restoration of trusteeship
+6. Disqualifications for trusteeship or membership of Regional
+7. Removal from Trusteeship or membership of a Regional
+8. Absence from India
+9. Meetings
+10. Notice of a meeting and list of business
+11. Chairman to preside at meetings
+12. Quorum
+13. Nomination of a substitute during the absence of a trustee/members of the Central Board/Regional Committee
+14. Disposal of business
+15. Minutes of Meetings
+16. Acts of a Regional Committee not invalid by reason merely of any vacancy in, or defect in the constitutions, etc.
+17. Fees and allowances
+
+# CHAPTER III
+
+# Appointment and Powers of Commissioner and other Staff of Board of Trustees
+
+1. Central provident Fund Commissioner and Financial Adviser and Chief Accounts Officer
+2. Omitted
+3. Opening of regional and other offices.
+4. Secretary of the Central Board or a Regional Committee
+5. Appointment of officers and employees of the Central Board
+6. Information of appointments to the Central Board
+7. Administrative and financial powers of a Commissioner
+8. Delegation of power by the Central Board
+9. Powers of the Central Government until the Central Board is
+
+# CHAPTER IV
+
+# Membership of the Fund
+
+1. Classes of employees entitled and required to join the Fund
+2. Retention of membership
+3. Resolution of doubts
+4. Exemption of an employee
+5. Exemption of a class of employees
+6. Terms and conditions of exemption
+
+www.epfindia.gov.in
+
+
+
+
+
+# CHAPTER V
+
+# Contributions
+
+# 28
+
+Transfer of accumulations from existing Provident Funds
+
+# 29
+
+Contributions
+
+# 30
+
+Payment of contribution
+
+# 31
+
+Employer’s share not to be deducted from the members
+
+# 32
+
+Recovery of a member’s share or contribution
+
+# 32-A
+
+Recovery of damages for default in payment of any contribution
+
+# 32-B
+
+Terms and contributions for reduction or waiver of damages
+
+# CHAPTER VI
+
+# Declaration, Contribution Cards and Returns
+
+# 33
+
+Declaration by persons already employed at the time of the institution of the Fund
+
+# 34
+
+Declaration by persons taking up employment after the Fund has been established
+
+# 35
+
+Preparation of contribution cards
+
+# 36
+
+Duties of employers
+
+# 36-A
+
+Employer to furnish particulars of ownership
+
+# 36-B
+
+Duties of Contractors
+
+# 37
+
+Allotment of Account Number
+
+# 38
+
+Mode of payment of contribution
+
+# 39
+
+Fixation of administration charges
+
+# 40
+
+Contributions to be entered in the contribution card
+
+# 40-A
+
+Supply of Pass Books to the members
+
+# 41
+
+Currency of contribution cards
+
+# 42
+
+Renewal of contribution cards
+
+# 43
+
+Submission of contribution cards to the Commissioner
+
+# 44
+
+Custody of contribution cards
+
+# 45
+
+Inspection of cards by members
+
+# 46
+
+Production of cards and records for inspection by the Commissioner or Inspector
+
+# 47
+
+Supply of cards and forms to employers
+
+# 48
+
+Current Account
+
+# CHAPTER VII
+
+# Administration of the Fund, Accounts and Audit
+
+# 49
+
+Administration Account
+
+# 50
+
+Provident Fund Account
+
+# 51
+
+Interest Account
+
+# 52
+
+Investment of moneys belonging to Employees’ Provident Fund
+
+# 53
+
+Disposal of the Fund
+
+# 54
+
+Expenses of administration
+
+# 55
+
+Form and manner of maintenance of accounts
+
+# 56
+
+Audit
+
+# 57
+
+Inter-State transfer of members
+
+# 58
+
+Budget
+
+# 59
+
+Member’s Accounts
+
+# 60
+
+Interest
+
+# CHAPTER VIII
+
+# Nominations, Payments and Withdrawals from the Fund
+
+www.epfindia.gov.in
+
+
+
+
+
+
+# Nomination
+
+# Financing of Member’s Life Insurance Policies
+
+# Conversion of Policy into a paid-up one and payment of late fee
+
+# Assignment of Policies to the Fund
+
+# Bonus on policy to be adjusted against payments made from the
+
+# Reassignment of policies
+
+# Recovery of amounts paid towards Insurance Policies
+
+# Omitted
+
+# Omitted
+
+# Withdrawal from the Fund for the purchase of a dwelling house/flat or for the construction of a dwelling house including the acquisition of a suitable site for the purpose
+
+# Withdrawal from the Fund for repayment of loans in special
+
+# Withdrawal/financing from the Fund for the purchase of a dwelling house/flat or the construction of a dwelling house including the acquisition of a suitable site by the member
+
+# Withdrawal of, and financing from, the Fund for purchase of dwelling house or flat or the construction of a dwelling house
+
+# Omitted
+
+# Omitted
+
+# Computation of period of membership
+
+# Omitted
+
+# Omitted
+
+# Omitted
+
+# Grant of advances in special cases
+
+# Omitted
+
+# Advance from the Fund for illness in certain cases
+
+# Advance from the Fund for marriages or post-matriculation education of children
+
+# Grant of advances in abnormal conditions
+
+# Grant of advance to members affected by cut in the supply of
+
+# Grant of advance to members who are physically handicapped
+
+# Withdrawal within one year before the retirement
+
+# Option for withdrawal at the age of 55 years for investment in Varishtha Pension Bima Yojana
+
+# Payment of withdrawal or advance
+
+# Circumstances in which accumulations in the Fund are payable to member
+
+# Accumulation of a deceased member to whom payable
+
+# Payment of provident fund accumulations in the case of a person charged with the offence of murder
+
+# Omitted
+
+# Payment of Provident Fund
+
+# Annual statement of member’s account
+
+# Omitted
+
+# CHAPVER IX
+
+# Miscellaneous
+
+# Annual Report on the work and activities of the Board and its audited accounts
+
+# Issue of copies of Member’s Accounts, Annual Reports, etc.
+
+
+
+
+
+
+# 76
+
+Punishment for failure to pay contributions etc.
+
+# 77
+
+Conduct of business of the Central Board
+
+# 78
+
+Power of issue directions
+
+# 79
+
+Special provisions relating to factories or other establishments in respect of which applications for exemption are received
+
+# 79-A
+
+Filling application for review
+
+# 79-B
+
+Time-limit for communicating the views of the Central Board to the appropriate Government on a proposal for grant of exemption to an establishment
+
+# 79-C
+
+Composition of the Board of Trustees of the exempted establishments and the terms and conditions of service of the
+
+# CHAPTER X
+
+# 80
+
+Special provisions in the case of newspaper establishments and newspaper employees
+
+# 81
+
+Special provisions in the case of Cine-Workers
+
+# 82
+
+Special provisions in respect of certain employees
+
+# 83
+
+Special provision in respect of International Workers
+
+
+
+
+
+
+EMPLOYEES' PROVIDENT FUNDS SCHEME, 1952
+
+# CHAPTER I Preliminary
+
+# 1. Short title and application.
+
+(1) This Scheme may be called the Employees' Provident Funds Scheme, 1952.
+
+(2) [Save as otherwise provided in the Scheme, this Chapter] and Chapters II and III shall come into force at once and the remaining provisions shall come into force on such date or dates as the Central Government may by notification in the Official Gazette appoint and different states may be appointed for different provisions.
+
+(3) (a) Subject to provisions of sections 16 and 17 of the Act, this Scheme shall apply to all factories [and other establishments] to which the Act applies or is applied under sub-section (3) [or sub-section 4(1) of section 1 or section 3 thereof]:
+
+Provided that the provisions of this scheme shall not apply to:
+
+- (i) [***]
+- (ii) [***]
+- (iii) tea factories in the State of Assam.
+
+(b) Provisions of this Scheme shall—
+
+- (i) as respects every establishment which is a factory engaged in any industry mentioned herein, namely, cement, cigarettes, electrical, mechanical or general engineering products, iron and steel, paper and textiles (made wholly or in part of cotton or wool or jute or silk, whether natural or artificial) be deemed to have come into force, with effect from 2nd day of September, 1952;
+- (ia) as respects factories relating to the industries added to Schedule I of the Act, by notification of the Government of India in the Ministry of Labour, No. S.R.O. 1566, dated 4th July, 1956, come into force on the 31st day of July, 1956;
+- (ii) as respects factories relating to the industries added to Schedule I of the Act, by notification of the Government of India in the Ministry of Labour, No. S.R.O. 2026, dated 3rd September, 1956, come into force on the 30th day of September, 1956;
+
+www.epfindia.gov.in
+
+
+
+
+
+# (iii)
+
+as respects factories relating to the mineral oil refining industry added to Schedule I of the Act by notification of the Government of India in the Ministry of Labour, No. S.R.O. 218, dated the 19th January, 1957, come into force on the 31st day of January, 1957;
+
+# (iv)
+
+as respects plantations of tea (other than tea plantations in the State of Assam, coffee, rubber, cardamom and pepper, covered by the notification of the Government of India in the Ministry of Labour, No. S.R.O. 529, dated the 16th February, 1957, come into force on the 30th day of April, 1957;
+
+# (v)
+
+as respects factories relating to the oxygen, acetylene and carbon dioxide gases in industry added to Schedule I of the Act as item (x) under the head "Heavy and Fine Chemicals" by the notification of the Government of India in the Ministry of Labour and Employment, No. S.R.O. 1976, dated the 15th June, 1957, come into force on the 31st day of July, 1957;
+
+# (vi)
+
+as respects iron ore, limestone, manganese and gold mines, covered by the notification of the Government of India in the Ministry of Labour and Employment, No. S.R.O. 2705, dated the 24th August, 1957, come into force on the 30th day of November, 1957;
+
+# (vii)
+
+as respects factories relating to the Industrial and Power Alcohol and Asbestos Cement Sheets Industries added to Schedule I of the Act by the notification of the Government of India in the Ministry of Labour and Employment, No. S.R.O. 3067, dated the 28th September, 1957, come into force on the 30th day of November, 1957;
+
+# (viii)
+
+as respects coffee curing establishments covered by the notification of the Government of India in the Ministry of Labour and Employment, No. S.R.O. 3411, dated the 26th October, 1957, come into force on the 30th day of November, 1957;
+
+# (ix)
+
+as respects factories relating to the biscuit making industry including composite units making biscuits and products such as bread, confectionery and milk and milk powder, added to Schedule I of the Act, vide Government of India, Ministry of Labour and Employment, Notification No. G.S.R. 170, dated the 12th March, 1958, come into force on the 30th day of April, 1958;
+
+# (x)
+
+as respects motor roads transport establishments covered by the notification of the Government of India in the Ministry of Labour and Employment, No. G.S.R. 399, dated the 24th March, 1959, come into force on the 30th day of April, 1959;
+
+# (xi)
+
+as respects mica mines and mica industry covered by the notifications of the Government of India in the Ministry of Labour and Employment, Nos. G.S.R.312 and 313, dated the 5th March, 1960, respectively, come into force on the 31st day of May, 1960;
+
+
+
+
+
+
+(xii) as respects factories relating to the plywood industry covered by the notification of the Government of India in the Ministry of Labour and Employment, No. G.S.R. 632, dated the 30th May, 1960, come into force on the 30th day of June, 1960;
+
+(xiii) as respects factories relating to the automobile repairing and servicing industry covered by the notification of the Government of India in the Ministry of Labour and Employment, No. G.S.R. 683, dated the 9th June, 1960, come into force on the 30th day of June, 1960;
+
+(xiv) as respects any cane farm owned by a sugar factory covered by the notification of the Government of India in the Ministry of Labour and Employment, No. G.S.R. 1274, dated the 21st October, 1960, come into force on the 30th day of November, 1960;
+
+(xv) as respects factories relating to rice, flour and dal milling industries covered by the notification of the Government of India in the Ministry of Labour and Employment, No. G.S.R. 1443, dated the 24th November, 1960, come into force on the 31st December, 1960;
+
+(xvi) as respects factories relating to the starch industry covered by the notification of the Government of India in the Ministry of Labour and Employment, No. G.S.R. 535, dated the 10th April, 1961, come into force on the 31st May, 1961;
+
+(xvii) as respects hotels and restaurants covered by the notification of the Government of India in the Ministry of Labour and Employment, No. G.S.R. 704, dated the 19th May, 1961, come into force on the 30th day of June, 1961;
+
+(xviii) as respects factories relating to petroleum or natural gas exploration, prospecting, drilling or production and petroleum or natural gas refining and establishments engaged in the storage or transport or distribution of petroleum or natural gas or products of either petroleum or natural gas covered by the notifications of the Government of India in the Ministry of Labour and Employment Nos. G.S.R. 705 and 706, dated the 16th May, 1961, respectively, come into force on the 30th day of June, 1961;
+
+(xix) as respects the establishments covered by the notification of the Government of India in the Ministry of Labour and Employment, No. G.S.R. 827, dated the 19th June, 1961, come into force on the 31st day of July, 1961;
+
+(xx) as respects the establishments covered by the notification of the Government of India in the Ministry of Labour and Employment, No. G.S.R. 1013, dated the 29th July, 1961, come into force on the 31st day of July, 1961;
+
+(xxi) as respects the factories relating to the leather and leather products industry covered by the notification of the Government of India in the
+
+
+
+
+
+
+Ministry of Labour and Employment
+
+No. G.S.R. 993, dated the 29th July, 1961, come into force on the 31st day of August, 1961;
+
+(xxii) as respects the factories relating to the stoneware jars and crockery industries covered by the notification of the Government of India in the Ministry of Labour and Employment, No. G.S.R. 1382, dated the 4th November, 1961, come into force on the 30th day of November, 1961;
+
+(xxiii) as respects the establishments covered by the notification of the Government of India in the Ministry of Labour and Employment, No. G.S.R. 1458, dated the 2nd December, 1961, but not including the establishments referred to in sub-clause (xiv), come into force on the 31st December, 1961;
+
+(xxiv) as respects every trading and commercial establishment engaged in the purchase, sale or storage of any goods including establishments of exporters, importers, advertisers, commission agents and brokers, and commodity and stock exchanges, but not including banks or warehouses established under any Central or State Act, covered by the notification of the Government of India in the Ministry of Labour and Employment, No. G.S.R. 346, dated the 7th March, 1962, come into force on the 30th day of April, 1962;
+
+(xxv) as respects the factories relating to fruit and vegetable preservation industry covered by the notification of the Government of India, in the Ministry of Labour and Employment, No. G.S.R. 786, dated the 6th June, 1962 [as amended by the notification No. G.S.R. 1461, dated the 29th August, 1963], come into force on the 30th June, 1962;
+
+(xxvi) as respects the factories relating to cashewnut industry covered by the notification of the Government of India in the Ministry of Labour and Employment, No. G.S.R. 1125, dated the 18th August, 1962, come into force on the 30th September, 1962;
+
+(xxvii) as respects the establishment specified in the notification of the Government of India in the Ministry of Labour and Employment, No. G.S.R. 1232, dated the 7th September, 1962, come into force on the 31st October, 1962;
+
+(xxviii) as respects bauxite mines covered by the notification of the Government of India in the Ministry of Labour and Employment, No. G.S.R. 1625, dated the 23rd November, 1962, come into force on the 31st December, 1962;
+
+(xxix) as respects the confectionery industry come into force on the 31st March, 1963;
+
+(xxx) as respects establishment engaged in laundry and laundry services referred to in the notification of the Government of India in the Ministry of
+
+www.epfindia.gov.in
+
+
+
+
+Labour and Employment
+
+No. G.S.R. 561, dated the 23rd March, 1963, come into force on the 30th April, 1963;
+
+1. as respects the industries engaged in the manufacture of buttons, brushes, plastic and plastic products and stationery products, come into force on the 30th day of April, 1963;
+2. as respects the establishments covered by the notification of the Government of India in the Ministry of Labour and Employment, No. G.S.R. 728, dated the 20th April, 1963, come into force on the 31st day of May, 1963;
+3. as respects canteens covered by the notification of the Government of India in the Ministry of Labour and Employment, No. G.S.R. 1285, dated the 29th July, 1963, come into force on 31st day of August, 1963;
+4. as respects aerated water industry, that is to say, any industry, engaged in the manufacture of aerated water, soft drinks, carbonated water, come into force on 31st day of August, 1963;
+5. as respects distilling and rectifying of spirits (not falling under industrial and power alcohol) and blending of spirits industry, come into force on the 31st day of October, 1963;
+6. as respects the establishments in Pondicherry territory covered under the Employees' Provident Funds Act, 1952 (19 of 1952), by virtue of the Pondicherry (Laws) Regulation, 1963 (7 of 1963), come into force on the 31st day of October, 1963;
+7. as respects the paint and varnish industry come into force on the 31st day of January, 1964;
+8. as respects bone crushing industry come into force on the 31st day of January, 1964;
+9. as respects china clay mines come into force on the 30th day of June, 1964;
+10. as respects pikers industry come into force on the 30th day of June, 1964;
+11. as respects the establishments in the Union territory of Goa, Daman and Diu in which territory the Employees' Provident Funds Act, 1952 (19 of 1952), has been enforced from the 1st July, 1964 by the notification of the Government of Goa, Daman and Diu, Industries and Labour Department No. LC/6/64, dated the 24th June, 1964, come into force on the 31st day of July, 1964;
+12. as respects the establishments specified in the notification of the
+
+www.epfindia.gov.in
+
+
+
+Government of India in the Department of Social Security
+
+No. G.S.R. 1398, dated the 17th September, 1964, come into force on the 31st day of October, 1964;
+
+(xliii) as respects milk and milk products industry specified in the notification of the Government of India in the Department of Social Security, No. G.S.R.1723, dated the 27th November, 1964, come into force on the 31st day of December, 1964;
+
+(xliv) as respects (1) travel agencies engaged in the (i) booking of international air and sea passages and other travel arrangements, (ii) booking of internal air and mail passages and other travel arrangements, and (iii) forwarding and clearing of cargo from and to overseas and within India; and (2) forwarding agencies engaged in the collection, packing, forwarding or delivery of any goods including, carloading, break-bulk service and foreign freight service specified in the notification of the Government of India in the Department of Social Security, No. G.S.R. 1796, dated the 9th December, 1964, come into force on the 31st day of January, 1965;
+
+(xlv) as respects non-ferrous metals and alloys in the form of ingots industry specified in the notification of the Government of India in the Department of Social Security, No. G.S.R. 1795, dated the 9th December, 1964, come into force on the 31st day of January, 1965;
+
+(xlvi) as respects bread industry specified in the notification of the Government of India in the Department of Social Security, No. G.S.R. 402, dated the 2nd March, 1965, come into force on the 31st day of March, 1965;
+
+(xlvii) as respects the stemming or redrying of tobacco leaf industry, that is to say, any industry engaged in the stemming, redrying, handling, sorting, grading or packing of tobacco leaf specified in the notification of the Government of India in the Department of Social Security, No. G.S.R. 768, dated the 18th May, 1965, come into force on the 30th day of June, 1965;
+
+(xlviii) as respects agarbatee (including dhoop and dhoop batee) industry specified in the notification of the Government of India in the Department of Social Security, No. G.S.R. 910, dated the 23rd June, 1965, come into force on the 31st day of July, 1965;
+
+(xlix) as respects coir (excluding the spinning sector) industry specified in the notification of the Government of India in the Department of Social Security, No. G.S.R. 952, dated the 3rd July, 1965, come into force on the 30th day of September, 1965;
+
+(l) as respects magnesite mines covered by the notification of the Government of India in the Department of Social Security, No. G.S.R. 1166, dated the 9th August, 1965, come into force on the 31st day of August, 1965;
+
+www.epfindia.gov.in
+
+
+
+
+1. as respects stone quarries producing roof and floor slabs, dimension stones, monumental stones and mosaic chips covered by the notification of the Government of India in the Department of Social Security, No. G.S.R. 1779, dated the 27th November, 1965, come into force on the 31st day of December, 1965;
+2. as respects [banks other than the nationalised banks established under any Central or State Act] covered by the notification of the Government of India in the Department of Social Security, No. G.S.R. 2, dated the 18th December, 1965, come into force on the 31st day of January, 1966;
+3. as respects the tobacco industry, that is to say, any industry engaged in the manufacture of cigars, zarda, snuff, quivam and guraku from tobacco covered by the notification of the Government of India in the Ministry of Labour, Employment and Rehabilitation (Department of Labour and Employment), No. G.S.R. 895, dated the 1st June, 1966, come into force on the 30th day of June, 1966;
+4. as respects paper products industry covered by the notification of the Government of India in the Ministry of Labour, Employment and Rehabilitation (Department of Labour and Employment), No. G.S.R. 1119, dated the 11th July, 1966, come into force on the 31st day of July, 1966;
+5. as respects licensed salt industry covered by the notification of the Government of India in the Ministry of Labour, Employment and Rehabilitation (Department of Labour and Employment), No. G.S.R. 1362, dated 30th August, 1966, come into force on the 30th day of September, 1966;
+6. as respects linoleum and indoleum industries specified in the notification of the Government of India in the Ministry of Labour, Employment and Rehabilitation (Department of Labour and Employment), No. G.S.R. 437, dated the 27th March, 1967, come into force on the 30th day of April, 1967;
+7. as respects explosives industry, come into force on the 31st day of July, 1967;
+8. as respects Jute bailing or pressing industry specified in the notification of the Government of India in the Ministry of Labour, Employment and Rehabilitation (Department of Labour and Employment), No. G.S.R. 1226, dated the 5th August, 1967, come into force on the 31st day of August, 1967;
+9. as respects fireworks and percussion cap works industry specified in the notification of the Government of India in the Ministry of Labour, Employment and Rehabilitation (Department of Labour and Employment), No. G.S.R. 1530, dated the 5th October, 1967, come into force on the 31st day of October, 1967;
+
+
+
+
+
+
+(lx) as respects tent making industry specified in the notification of the Government of India in the Ministry of Labour, Employment and Rehabilitation (Department of Labour and Employment), No. G.S.R. 1716, dated the 3rd November, 1967, come into force on the 30th day of November, 1967;
+
+(lxi) as respects the barytes, dolomite, fireclay, gypsum, kyanite, siliminite and steatite mines, come into force on the 31st day of August, 1968;
+
+(lxii) as respects Chinchona plantations, come into force on the 31st day of December, 1968;
+
+(lxiii) as respects ferro-manganese industry, come into force on the 30th day of April, 1969;
+
+(lxiv) as respect ice or ice-cream industry, come into force on the 30th day of June, 1969;
+
+(lxv) as respects diamond mines come into force on the 30th day of June, 1969;
+
+(lxvi) as respects establishments which are exclusively or principally engaged in general insurance business, come into force on the 31st day of January, 1970;
+
+(lxvii) as respects establishments rendering expert services, come into force on the 31st day of May, 1971;
+
+(lxviii) as respects factories engaged in the winding of thread and yarn reeling covered by the notification of the Government of India in the Ministry of Labour, Employment and Rehabilitation (Department of Labour and Employment), No. G.S.R. 1988, dated the 22nd November, 1971, come into force on the 30th day of November, 1971;
+
+(lxix) as respects Railway Booking Agencies run by the contractors or by other private establishments on commission basis specified in the notification of the Government of India in the Department of Labour and Employment, No. 4/3/65-P.F.11.(i) dated the 17th March, 1972, come into force on the 31st day of March, 1972;
+
+(lxx) as respects cotton ginning, bailing and pressing industry specified in the notification of the Government of India in the Ministry of Labour, Employment and Rehabilitation (Department of Labour and Employment), No. G.S.R. 1251, dated the 23rd September, 1972, come into force on the 30th day of September, 1972;
+
+(lxxi) as respects messes other than military messes covered by the notification of the Government of India in the Ministry of Labour, Employment and Rehabilitation (Department of Labour and Employment), No. G.S.R. 299, dated the 24th March, 1973, come into force on the 31st
+
+
+
+
+
+March, 1973;
+
+(lxxii) as respects factories relating to "Katha" making industry covered by the notification of the Government of India in the Ministry of Labour, Employment and Rehabilitation (Department of Labour and Employment), No. G.S.R.503, dated the 2nd May, 1973, come into force on 31st day of May, 1973;
+
+(lxxiii) as respects the establishments known as hospitals specified in the notification of the Government of India in the Ministry of Labour, Employment and Rehabilitation (Department of Labour and Employment), No. G.S.R. 1082, dated the 29th September, 1973, come into force on the 31st August, 1973;
+
+(lxxiv) as respects the employees of the beer manufacturing industry, that is to say, any industry engaged in the manufacture of the product of alcoholic fermentation of a mash in potable water of malted barley and hops, or of hops concentrated with or without the addition of other malted or unmalted cereals or other carbohydrate preparations, specified in the notification of the Government of India in the Ministry of Labour, No. G.S.R. 428, dated the 27th April, 1974, come into force on the 30th April, 1974;
+
+(lxxv) as respects the establishments engaged in sorting, cleaning and teasing of cotton waste specified in the notification of the Government of India, in the Ministry of Labour, No. G.S.R. 1094, dated the 26th September, 1974, come into force on the 30th day of September, 1974;
+
+(lxxvi) as respect societies, clubs, or associations which render service to their members without charging any fee over and above the subscription fee or membership fee specified in the notification of the Government of India in the Ministry of Labour, No. G.S.R. 1294, dated 16th November, 1974, come into force on the 30th day of November, 1974;
+
+(lxxvii) as respects every garments making factory specified in the notification of the Government of India in the Ministry of Labour No. G.S.R. 1295, dated 23rd November, 1974, come into force on the 30th day of November, 1974;
+
+(lxxviii) as respects the Agricultural Farms, Fruit, Orchards, Botanical gardens, and Zoological Gardens specified in the notification of the Government of India in the Ministry of Labour No. G.S.R. 1315, dated 27th November, 1974, come into force on the 31st day of December, 1974;
+
+(lxxix) as respects soap stone mines and establishment engaged in the grinding of soap stone covered by the notification of the Government of India in the Ministry of Labour, S.O. 1955, dated the 21st June, 1975,
+
+www.epfindia.gov.in 13
+
+
+
+
+
+
+come into force on the 30th June, 1975;
+
+- (lxxxi) as respects the apatite, asbestos, calcite, ball clay, corundum, emerald, feldspar, silica (sand), quartz, ochre, Chromite, graphite and flourite mines covered by the notification of the Government of India in the Ministry of Labour, No. G.S.R. 1102, dated the 24th July, 1976, come into force on the 30th September, 1976;
+- (lxxxii) as respects,—
+1. establishments which are factories engaged in the manufacture of glue and gelatine,
+2. stone quarries producing stone chips, stone sets, stone boulders, and ballasts, and
+3. establishments engaged in fish processing and nonvegetable food preservation industry including bacon factories and pork preservation plants, covered by the notification of the Government of India in the Ministry of Labour, No. G.S.R. 204, dated the 31st January, 1977, come into force on the 28th February, 1977;
+- (lxxxiii) as respects the beedi industry, that is to say, any industry engaged in the manufacture of beedies, specified in the notification of the Government of India in the Ministry of Labour, No. G.S.R. 660, dated the 17th May, 1977, come into force on the 31st May, 1977;
+- (lxxxiv) as respects the financial establishment (other than banks) engaged in the activities of borrowing, lending, advancing of money and dealing with other monetary transactions with a view to earn interest not being the Unit Trust of India established under the Unit Trust of India Act, 1963 (52 of 1963), the Agricultural Refinance Corporation established under the Agricultural Refinance Corporation Act, 1963 (10 of 1963), the Industrial Development Bank of India established under the Industrial Development Bank of India Act, 1964 (18 of 1964), the Industrial Finance Corporation of India established under the Industrial Finance Corporation Act, 1948 (15 of 1948) and State Finance Corporations established under the State Finance Corporation Acts specified in the notification of the Government of India in the Ministry of Labour No. G.S.R. 1458, dated the 18th November, 1978, come into force on the day of 31st day of December, 1978;
+- (lxxxv) as respects lignite mines specified in the notification of the Government of India in the Ministry of Labour, No. G.S.R. 31, dated the 16th December, 1978, come into force on the 6th January, 1979;
+- (lxxxvi) as respects the Ferro Chrome Industry, that is to say, any industry engaged in the manufacture of Ferro Chrome, specified in the notification of the Government of India in the Ministry of Labour No. G.S.R. 938, dated the 25th June, 1978, come into force on the 31st July, 1979;
+- (lxxxvii) as respects the Diamond Cutting Industry, that is to say, any
+
+
+
+
+
+
+industry engaged in the cutting of diamond, specified in the notification of the Government of India in the Ministry of Labour, No. G.S.R. 564, dated the 17th May, 1980, come into force on the 31st May, 1980;
+
+(Ixxxviii) as respects the quartzite mines covered by the notification of the Government of India in the Ministry of Labour, No. G.S.R. 563, dated the 17th May, 1980, come into force on the 31st May, 1980;
+
+(lxxxix) as respects the inland water transport establishments, that is to say, any establishment engaged in the activities of inland water transport specified in the notification of the Government of India in the Ministry of Labour, No. G.S.R. 565, dated the 17th May, 1980, come into force on the 31st May, 1980;
+
+(xc) as respects the establishments engaged in Building and Construction Industry specified in the notification of the Government of India in the Ministry of Labour, No. G.S.R. 1069, dated the 11th October, 1980, come into force on the 31st October, 1980;
+
+(xci) as respects factories relating to the Myrobalan Extract Power, Myrobalan Extract Solid, and Vegetable Tannin Blended Extract Industries, specified in the notification of the Government of India in the Ministry of Labour No. G.S.R. 613(E), dated the 30th October, 1980, come into force on the 31st October, 1980;
+
+(xcii) as respects the Brick Industry, that is to say, any industry engaged in the manufacture of bricks, specified in the notification of the Government of India in the Ministry of Labour, No. G.S.R. 662(E), dated the 27th November, 1980, come into force on the 30th November, 1980;
+
+(xciii) as respects the establishments engaged in stevedoring, loading and unloading of ships specified in the notification of the Government of India in the Ministry of Labour, No. G.S.R. 611(E), dated the 23rd November, 1981, published in Part II, Section 3, sub-section (i) of the Gazette of India, Extraordinary, dated the 23rd November, 1981;
+
+(xciv) as respects establishments engaged in poultry farming specified in the notification of the Government of India in the Ministry of Labour, No. G.S.R.643(E), dated the 7th December, 1981 published at page 1834 in Part II, Section 3, sub-section (i) of the Gazette of India, Extraordinary, dated the 7th December, 1981;
+
+(xcv) as respects the establishments engaged in Cattle Feed Industry specified in the notification of the Government of India in the Ministry of Labour, No. G.S.R. 644(E), dated the 7th December, 1981, published at page 1834 in Part II, Section 3, sub-section (i) of the Gazette of India, Extraordinary, dated the 7th December, 1981;
+
+(xcvi) as respects the educational, scientific, research and training institutions specified in the notification of the Government of India in the
+
+
+
+
+
+Ministry of Labour
+
+No. S.O. 986, dated the 19th February, 1981, published in Part II, Section 3, sub-section (ii) of the Gazette of India, dated 6th March, 1982;
+
+1. as respects the industries based on asbestos as principal raw material, specified in the notification of the Government of India in the Ministry of Labour and Rehabilitation No. S.O. 2459, dated the 21st May, 1983, published in Part II, Section 3, sub-section (ii) of the Gazette of India, dated the 4th June, 1983;
+2. as respect the cinema theatres employing 5 or more workers as specified in section 24 of the Cine-Workers and Cinema Theatre Workers (Regulations of Employment) Act, 1981 (50 of 1981) be deemed to have come into force with effect from the 1st day of October, 1984;
+3. as respects the Iron Ore pellets industry as specified in the notification of the Government of India in the Ministry of Labour, No. S.O. 2276, dated 30th August, 1989, published in Part II, Section 3, sub-section (ii) of the Gazette of India, dated 16th September, 1989;
+4. as respects the establishments engaged in Guar Gum Factories, Marble Mines and Diamond Saw Mills specified in the notification of the Government of India, in the Ministry of Labour, No. G.S.R. 170, dated 25th March, 1992, published in Part II, Section 3, sub-section (ii) of the Gazette of India, dated 11th April, 1992;
+5. as respects the establishments engaged in rendering—
+
+courier services,
+6. aircraft or airlines other than the aircrafts or air-lines owned or controlled by the Central or State Government, and
+7. cleaning and sweeping services, specified in the notification of Government of India in the Ministry of Labour, No. S.O. 746, dated 22nd March, 2001, published in Part II, Section 3, sub-section (ii) of the Gazette of India dated 7th April, 2001; come into force with effect from 1st April, 2001;
+
+With respect to the establishments engaged in Railways for construction, maintenance, operation and commercial activities of Railways, excluding Indian Railways exclusively managed by Government of India whose employees are in enjoyment of the Provident Fund, Pension and other retiral benefits under the rules made by the Central Government; specified in notification of the Government of India in the Ministry of Labour and Employment, G.S.R. 401, dated 10.11.2005 published in Part II of Section 3, sub-section (i) of the Gazette of India dated 19.11.2005 comes into force from the date of publication.
+
+www.epfindia.gov.in
+
+
+
+
+# Establishment and Class of Establishments
+
+With respect to the establishment engaged in manufacture, marketing, servicing and usage of a computer as defined in clause (i) of sub-section (1) of Section 2 of the Information Technology Act (21 of 2000)/or deriving any form of output there from/or employing it for any type of processing services including software product companies, Internet and E-commerce Companies, Information Technology Services and Remote Maintenance Companies, Research and Development Companies, Systems Integrators, On-site Services Companies and Off-shore Software Development Companies etc. specified in the notification S.0.1190(E) of Ministry of Labour and Employment New Delhi dated 27th July 2006.
+
+With respect to the class of establishment to which the Act shall apply, with effect from 28 December 2008 the date of publication of this notification in the official Gazette, namely:
+
+1. companies offering life insurance, annuities etc. other than life Insurance Corporation of India;
+2. private airports and joint venture airports;
+3. electronic media companies in private sector; and
+4. lodging houses, service apartments and condominiums.
+
+as specified in S.O.3456 notification dated 16 November 2007.
+
+(S.O.1190(E): establishment engaged in manufacture, marketing, servicing and usage of a computer {as defined in clause (i) of sub-section (1) of Section 2 of the Information Technology Act (21 of 2000)}/or deriving any form of output therefrom/or employing it for any type of processing services including software product companies, Internet and E-Commerce Companies, Information Technology Services and Remote Maintenance Companies, Research and Development Companies, Systems Integrators, On-site Services Companies and Off-shore Software Development Companies etc.)
+
+{S.O.3456 establishments employing twenty or more persons as the class of establishments to which the Act shall apply, with regard to –
+
+1. companies offering life insurance annuities, etc. other than Life Insurance Corporation of India :
+2. private airports and joint venture airports:
+3. electronic media companies in private sector : and
+4. lodging houses, service apartments and condominiums.
+
+{S.O. 30(E) following establishments employing twenty or more persons as the class of establishments to which the said Act shall apply, with effect from the date of publications of this notification in the Official Gazette, namely: -
+
+“Municipal Councils and Municipal Corporations constituted under sub-clauses (b) and (c) of clause (1) of article 243-Q of the Constitution of India}
+
+
+
+
+
+S.O.444 (E)
+In exercise of the powers conferred by clause (b) of sub-section (3) of Section I read with section 16 of the Employees’ Provident Funds and Miscellaneous Provisions Act, 1952 (19 of 1952), the Central Government hereby specifies that the said Act shall apply to all banks employing twenty or more number of persons as a class of establishment in respect of those employees who are not entitled to the benefit of Contributory Provident Fund or old age pension in accordance with any Scheme or rule framed by the Central Government or by the respective banks established under the Banking Regulations Act 1949(10 of 1949).
+
+# 2. Definition
+
+In this Scheme, unless the context otherwise requires: —
+
+- (a) "Act" means the Employees' [Provident Funds and Family Pension Fund] Act, 1952 (19 of 1952);
+- (b) [***]
+- (c) "Children" means legitimate children and includes adopted children if the Commissioner is satisfied that under the personal law of the member adoption of a child is legally recognized;
+- (d) "Commissioner" means a Commissioner for Employees' Provident Fund appointed under section 5D of the Act and includes a Deputy Provident Fund Commissioner and a Regional Provident Fund Commissioner; "continuous service" means uninterrupted service and includes service which is interrupted by sickness, accident, authorised leave, strike which is not illegal or cessation of work not due to the employee's fault;
+- (f) "excluded employee" means—
+- - (i) an employee who, having been a member of the Fund, withdrew the full amount of his accumulations in the Fund under clause (a) or (c) of sub-paragraph (1) of paragraph 69;
+- (ii) an employee whose pay at the time he is otherwise entitled to become a member of the Fund, exceeds [fifteen thousand rupees] per month;
+- Explanation : --'Pay' includes basic wages with dearness allowance [retaining allowance (if any) and cash value of food concessions admissible thereon;]
+- (iii) [omitted];
+- (iv) an apprentice.
+
+Explanation :-- An apprentice means a person who, according to the certified
+
+
+
+
+# Definitions
+
+Standing orders applicable to the factory or establishment, is an apprentice, or who is declared to be an apprentice by the authority specified in this behalf by the appropriate Government;
+
+1. "family" means—
+1. in the case of a male member, his wife, his children, whether married or unmarried, his dependant parents and his deceased son's widow and children:
+Provided that if a member proves that his wife has ceased, under the personal law governing him or the customary law of the community to which the spouses belong, to be entitled to maintenance she shall no longer be deemed to be a part of the member's family for the purpose of this Scheme, unless the member subsequently intimates by express notice in writing to the Commissioner that she shall continue to be so regarded;
+2. in the case of a female member, her husband, her children, whether married or unmarried, her dependant parents, her husband's dependant parents and her deceased son's widow and children:
+Provided that if a member by notice in writing to the Commissioner expresses her desire to exclude her husband from the family, the husband and his dependent parents shall no longer be deemed to be a part of the member's family for the purpose of this Scheme, unless the member subsequently cancels in writing any such notice.
+
+Explanation -- In either of the above two cases, if the child of a member [or as the case may be, the child of a deceased son of the member] has been adopted by another person and if, under the personal law of the adopter, adoption is legally recognized, such a child shall be considered as excluded from the family of the member;
+2. "financial year" means the year commencing on the first day of April;
+3. "Government security" shall have the meaning assigned to it in the Public Debts Act, 1944 (18 of 1944);
+4. "Inspector" means a person appointed as such under section 13 of the Act;
+5. "quarter" means a period of three months commencing on the first day of January, the first day of April, the first day of July and the first day of October of each year;
+6. 'seasonal factory' means a factory which is exclusively engaged in the manufacture of tea, sugar, rubber, [turpentine, resin], [indigo], [lac, fruit and vegetable preservation industry, rice milling industry, dal milling industry], [cashewnut industry], [stemming or redrying of tobacco leaf industry, tiles industry, hosiery industry], [oil milling industry], [licensed salt industry], [jute bailing or pressing industry], [fireworks and percussion cap works industry, ice or ice cream industry or cotton ginning, baling and pressing industry];
+
+
+
+
+
+(kkk) "seasonal establishment" means a plantation of tea, coffee, rubber, cardamom or pepper, a coffee curing establishment, a fireclay mine or a gypsum mine;
+
+(l) "Trustee" means a member of a Board of Trustees; and
+
+(m) all other words and expressions shall have the meanings respectively assigned to them in the Act.
+
+www.epfindia.gov.in
+
+20
+
+
+
+# CHAPTER II
+
+# Board of Trustees, Executive Committee and Regional Committees
+
+# 3. Election of certain members of the Executive Committee
+
+(1) The Chairman of the Central Board shall call a meeting of the Board for the purpose of election to the Executive Committee of the members representing the employer or, as the case may be, the employees referred to in clauses (d) and (e) of sub-section (2) of section 5AA of the Act.
+
+(2) In the meeting referred to in sub-paragraph (1), the Chairman of the Central Board may invite the members to propose the names of those members who represent the employers or, as the case may be, the employees and every such proposal shall be duly seconded by another member of the Board.
+
+(3) If the number of persons proposed and seconded for election under sub-paragraph (2) does not exceed the number of vacancies to be filled up from amongst the persons representing the employers, or, as the case may be, the employees, the persons whose names have been so proposed and seconded in relation to the category of employers or employees, shall be declared elected to the Executive Committee.
+
+(4) If the number of persons proposed and seconded for election under sub-paragraph (2) exceeds the number of vacancies to be filled up from amongst the persons representing the employers or, as the case may be, the employees, each member of the Board present at the meeting shall be given a ballot paper containing the names of all the candidates so proposed and seconded and he may record his votes thereon for as many candidates belonging to the categories of employers or employees, as there are vacancies to be filled up in relation to each such category, but not more than one vote shall be given in favour of any one candidate. If any member votes for more candidates than the number of vacancies in relation to the categories of employers or employees or given more than one vote in favour of any one candidate, all his votes shall be deemed to be invalid.
+
+(5) The persons getting the highest number of votes shall be declared by the Chairman as duly elected to the Executive Committee at the same meeting or as soon thereafter as possible:
+
+Provided that where there is an equality of votes between any candidates, and the addition of one vote will entitle any of the candidates to be declared elected, such candidate shall be selected by lot to be drawn in the presence of the Chairman in such manner as he may determine.
+
+(6) If any question arises as to the validity of any election, it shall be referred to the Central Government, who shall decide the same.
+
+www.epfindia.gov.in    21
+
+
+
+
+
+# 4. Regional Committee
+
+(1) Until such time as a State Board is constituted for a State, the Chairman of the Central Board may, by notification in the Official Gazette, set up a Regional Committee for the State, which will function under the control of the Central Board. The Regional Committee shall consist of the following persons, namely: —
+
+- (a) a Chairman [appointed] by the [Chairman of the Central Board];
+- (b) Two persons [appointed] by the [Chairman of the Central Board] on the recommendation of the State Government;
+- (c) [two persons] representing employers in the [industries or establishments] to which this Scheme applies in the State [appointed by the Chairman of the Central Board] in consultation with such organisations of employers in the State as may be recognised for the purpose by the Central Government;
+- (d) [two persons] representing employees in the [industries or establishments] to which this Scheme applies in the State [appointed by the Chairman of the Central Board] in consultation with such organisations of employees in the State as may be recognised for the purpose by the Central Government; and
+- (e) the non-official members of the Central Board ordinarily resident in the State:
+
+Provided that where the Chairman of the Central Board considers it expedient so to do, he may appoint up to [five] additional representatives of the employers or, as the case may be, the employees.
+
+(2) A Regional Committee shall advise the Central Board—
+
+- (i) on such matters as the Central Board may refer to it from time to time;
+- (ii) generally, on all matters connected with the administration of the Scheme in the State and, in particular on—
+
+(3) As soon as a State Board is constituted for any State, the Regional Committee constituted for that State under this paragraph shall stand dissolved.
+
+www.epfindia.gov.in    22
+
+
+
+
+
+# 5. Terms of office
+
+(1) The term of office of the Chairman, Vice-Chairman and every Trustee of the Central Board referred to in clauses (b), (c), (d) and (e) of sub-section (1) of section 5A of the Act shall be five years commencing on and from the date on which their appointment is notified in the Official Gazette.
+
+(2) The term of office of the Chairman and every Member of the Executive Committee referred to in clauses (b), (c), (d) and (e) of sub-section (2) of section 5-AA shall be two years and six months commencing on and from the date on which their appointment is notified in the Official Gazette.
+
+(2A) The term of office of the Chairman and every Member of a Regional Committee referred to in clauses (b), (c) and (d) of sub-paragraph (1) of paragraph 4 shall be three years commencing on and from the date on which their appointment is notified in the Official Gazette.
+
+(2B) Notwithstanding anything contained in sub-paragraphs (1), (2) and (2- A) every Trustee or Member shall continue to hold office until the appointment of his successor is notified in the Official Gazette:
+
+Provided that a member of the Executive Committee shall cease to hold office when he ceases to be a member of the Central Board.
+
+(3) A Trustee or a member referred to in [sub-paragraphs (1), (2) and (2A)] appointed to fill a casual vacancy shall hold office for the remaining period of the term of office of the Trustee or Member in whose place he is appointed and shall continue to hold office on the expiry of the term of office until the appointment of his successor is notified in the Official Gazette.
+
+(4) An outgoing Trustee or Member shall be eligible for re-appointment as member of the Central Board or the Regional Committee, as the case may be, for a maximum of not more than two terms:
+
+Provided that the limitation mentioned above shall not apply to an official trustee or member:
+
+Provided further that a non-official member who has already completed two or more terms of the Central Board or the Regional Committee, as the case may be, may continue his present term subject to the provisions of the Scheme.
+
+# 6. Resignation
+
+(1) A Trustee of the Central Board or a member of [the Executive Committee] may resign his office by letter in writing addressed to the Central Government and his office shall fall vacant from the date on which his resignation is accepted by the Central Government. [A member of a Regional Committee may resign his office by a letter in writing addressed to the Chairman, Central Board, and his
+
+www.epfindia.gov.in
+
+23
+
+
+
+
+
+
+# 7. Cessation and restoration of trusteeship
+
+If a trustee or a member of the Executive Committee or a Regional Committee fails to attend three consecutive meetings of the Board or Committee, as the case may be, without obtaining leave of absence from the Chairman of the Board or Committee, he shall cease to be a trustee or member of the Committee:
+
+Provided that the Central Government in the case of the Central Board or the Executive Committee and the Chairman, Central Board in the case of any Regional Committee may restore him to trusteeship or membership of the Executive Committee or of the Regional Committee, as the case may be, if it is satisfied that there were reasonable grounds for the absence.
+
+# 8. Disqualifications for trusteeship or membership of Regional Committee
+
+(1) A person shall be disqualified for being appointed as, or for being a trustee or member of a Regional Committee: —
+
+- (i) if he is declared to be of unsound mind by a competent court; or
+- (ii) if he is an undischarged insolvent; or
+- (iii) if before or after the commencement of the Act he has been convicted of an offence involving moral turpitude; or
+- (iv) if he as an employer in relation to an exempted establishment or an establishment to which the Scheme applies has defaulted in the payment of any dues to the Central Board or the Fund recoverable from him under the Act or the Scheme, as the case may be.
+
+(2) If any question arises whether any person is disqualified under sub-paragraph (1), it shall be referred to the Central Government and the decision of the Central Government on any such question shall be final.
+
+# 9. Removal from trusteeship or membership of a Regional Committee
+
+The Central Government may remove from office any trustee of the Central Board or the Chairman, Central Board, may remove from office any member of a Regional Committee—
+
+- (i) if, in the opinion of the Central Government or the Chairman, Central Board, such trustee or member has ceased to represent the interest which he purports to represent on the Board or Committee, as the case may be; or
+- (ii) if he as an employer in relation to an exempted establishment or an establishment to which the Scheme applies has defaulted in the payment of any
+
+
+
+
+
+
+
+dues to the Board or the Fund recoverable from him under the Act or the Scheme, as the case may be:
+
+Provided that no such trustee or member shall be removed from office unless a reasonable opportunity is given to such trustee or member and the body whom he represents, of making any representation against the proposed action.
+
+# 10. Absence from India
+
+1. Before a non-official trustee or a member of a Regional Committee, leaves India: —
+2. - (a) he shall intimate to the Chairman of the [Central Board] or of the Committee, as the case may be, of the dates of his departure from and expected return to India, or
+- (b) if he intends to absent himself for a period longer than six months, he shall tender his resignation.
+
+If any Trustee or a Member of a Regional Committee leaves India for a period of six months or more without intimation to the Chairman of the [Central Board] or of the Regional Committee, as the case may be, he shall be deemed to have resigned from the [Central Board] or the Committee.
+
+# 11. Meetings
+
+1. The [Central Board] or Trustees [or the Executive Committee] or Regional Committee shall, subject to the provisions of paragraph 12, meet at such place and time as may be appointed by the Chairman:
+2. Provided that the Central Board or the Regional Committee shall meet at least twice in each financial year and the Executive Committee shall meet at least four times in each financial year.
+
+The Chairman, may, whenever he thinks fit, and shall within fifteen days of the receipt of a requisition in writing from not less than one-third of the members in the case of the [Central Board] [or the Executive Committee] and not less than three members excluding the Chairman in the case of [a Regional Committee] call a meeting thereof.
+
+# 12. Notice of meeting and list of business
+
+Notice of not less than 15 days from the date of posting, containing the date, time and place of every ordinary meeting together with a list of business to be conducted at the meeting shall be dispatched by registered post or by special messenger to each trustee or a member of [the Executive Committee or] the
+
+
+
+
+
+
+# 13. Chairman to preside at meetings
+
+The Chairman of the Central Board or the Executive Committee or a Regional Committee shall preside at every meeting of the Central Board or the Executive Committee or the Regional Committee, as the case may be, at which he is present. If the Chairman of the Central Board is absent at any time, the Vice-Chairman thereof shall preside over the meeting of the Central Board and exercise all the powers of the Chairman at the meeting. If the Vice-Chairman of the Central Board or the Chairman of the Executive Committee or of a Regional Committee is absent at any time, the trustees or members present shall elect one of the trustees or, as the case may be, the members to preside over the meeting and the trustee or member so elected, shall exercise all the powers of the Chairman at the meeting.
+
+# 14. Quorum
+
+1. No business shall be transacted at a meeting of the Central Board [or the Executive Committee or a Regional Committee unless at least eleven trustees or four members of the Executive Committee or a Regional Committee, as the case may be] are present, of whom:
+2. - (a) in the case of the Central Board at least one each shall be from among those appointed under clauses (d) and (e) respectively of sub-section (1) of section 5A of the Act;
+- (aa) in the case of the Executive Committee at least one each shall be from among those appointed under clauses (c) and at least one from among those appointed under clause (d) and (e) of sub-section (2) of section 5-AA of the Act;
+- (b) in the case of Regional Committee, at least one shall be from among those [appointed] under clause (c) and at least one from among those [appointed] under clause (d) of sub-paragraph (1) of paragraph 4.
+
+If at any meeting the number of trustees or members of [the Executive Committee or] a Regional Committee is less than the required quorum, the Chairman shall adjourn the meeting to a date not later than seven days from the date of the original meeting informing the trustees or members of [the Executive Committee or] the Regional Committee, as the case may be, of the date, time and place of the adjourned meeting and it shall thereupon be lawful to dispose of the business at such adjourned meeting irrespective of the number of trustees or members of [the Executive Committee or] the Regional Committee present.
+
+
+
+
+
+
+
+# 14A. Nomination of a substitute during the absence of a trustee/member of the [Central Board]/Regional Committee
+
+(1) If a trustee or a member is unable to attend any meeting of the [Central Board] or the Regional Committee, as the case may be, he may, by a written instrument, signed by him, addressed to the Chairman of the [Central Board] or the Regional Committee, as the case may be, and explaining the reasons for his inability to attend the meeting, appoint any representative of the Organisation, which he represents on the [Central Board] or the Regional Committee, as his substitute for attending that meeting of the [Central Board] or the Regional Committee in his place:
+
+Provided that no such appointment shall be valid unless—
+
+- (i) such appointment has been approved by the Chairman of the [Central Board] or the Regional Committee as the case may be; and
+- (ii) the instrument making such appointment has been received by the Chairman of the [Central Board] or the Regional Committee, as the case may be before the date fixed for the meeting.
+
+(2) A substitute validly appointed under sub-paragraph (1) shall have all the rights and powers of a Trustee or a member, in relation to the meeting of the [Central Board] or the Regional Committee, in respect of which he is appointed and shall receive allowances, and be under obligations as if he were a Trustee or a member appointed under the Act and the Scheme respectively.
+
+(3) A Trustee or a member appointing a substitute for attending any meeting of the [Central Board] or the Regional Committee, as the case may be, shall, notwithstanding anything contained in this paragraph, continue to be liable for the misappropriation or misapplication of the Fund by the substitute and shall also be liable for any act of misfeasance or non-feasance committed in relation to the Fund by the substitute appointed by him.
+
+# 15. Disposal of business
+
+Every question considered at a meeting of [the Central Board] [or the Executive Committee] or a Regional Committee shall be decided by a majority of the votes of the trustees or [members of the Executive Committee or a Regional Committee] present and voting. In the event of an equality of votes the Chairman shall exercise a casting vote:
+
+Provided that the Chairman may, if he thinks fit, direct that any question shall be decided by the circulation of necessary papers to trustees or [members of the Executive Committee or a Regional Committee] present in India and by securing their opinions in writing. Any such question shall be decided in accordance with the opinion of the majority of trustees or members received within the time-limit allowed and if the opinions are equally divided, the opinion of the Chairman shall prevail:
+
+
+
+
+
+
+Provided further that any trustee or member of [the Executive Committee or] Regional Committee may request that the question referred to trustees or, members of the [Executive Committee or a Regional Committee], as the case may be, for written opinion be considered at a meeting of the [Central Board], [or the Executive Committee] or a Regional Committee and thereupon the Chairman may, and if the request is made by not less than three Trustees or [members of the Executive Committee or a Regional Committee], shall direct that it be so considered.
+
+# 16. Minutes of meetings
+
+1. The minutes of a meeting of [the Central Board] [or the Executive Committee] or a Regional Committee showing inter alia the names of the trustees or members of [Executive Committee or a Regional Committee] present thereat shall be circulated to all trustees or members of [Executive Committee or a Regional Committee] present in India not later than one month from the date of the meeting. The minutes shall thereafter be recorded in minute book as a permanent record:
+
+Provided that if another meeting is held within a period of one month and ten days, the minutes shall be circulated so as to reach the trustees or members at least ten days before such meeting.
+
+The records of the minutes of each meeting shall be signed by the Chairman after confirmation with such modifications, if any, as may be considered necessary at the next meeting.
+
+# 17. Acts of a Regional Committee not invalid by reason merely of any vacancy in, or defect in the constitution, etc.
+
+No act or proceeding of a Regional Committee shall be deemed to be invalid by reason merely of any vacancy in or any defect in the constitution of the Regional Committee.
+
+# 18. Fees and allowances
+
+1. The [travelling allowance and daily allowance of an official trustee or official member of the Executive Committee or a Regional Committee] shall be governed by the rules applicable to him for journeys performed on official duties and shall be paid by the authority paying his salary.
+2. Subject to the provisions of sub-paragraphs (3) and (4), every non-official trustee or non-official member of the Executive Committee or a Regional Committee shall be allowed travelling and daily allowances for attending the meeting of the Central Board or the Executive Committee or the Regional Committee, as the case may be, at the following rates, namely: —
+
+(i) Travelling allowance: —
+
+
+
+
+
+
+# Travel and Daily Allowances for Non-Official Trustees or Members
+
+# 1. Expenditure Allowances
+
+(A) A non-official trustee or member residing at the place where a meeting is held shall be allowed the actual expenditure incurred by him on conveyance, subject to the maximum of rupees fifty for each day on which he attends one or more meetings.
+
+(B) A non-official trustee or member not residing at the place where a meeting is held, shall be allowed,—
+
+- (a) actual expenditure incurred by him on air journey by economy (tourist) class;
+- (b) actual expenditure incurred by him on single return journey fare by rail [by first air-conditioned class or] by 2nd A.C., two-tier sleeper or first class, as the case may be;
+- (c) actual fare or expenditure incurred by him on road journey by taxi or own car or auto-rickshaw or bus (other than an air-conditioned bus) but not exceeding the rates notified by the concerned Director of Transport for journey by taxi or auto-rickshaw. When the journey is performed between places connected by rail, the fare will be limited to what would have been admissible to the trustee or member under clause (b) of this item.
+
+# 2. Daily Allowance
+
+(A) A non-official trustee or member residing at a place where a meeting is held shall not be entitled to any daily allowance.
+
+(B) A non-official trustee or member not residing at the place where a meeting is held shall be paid daily allowance at the rate of Rs.1500/- per day if the member stays in a hotel and Rs.200/- per day if the member does not stay in a hotel:
+
+# 3. Special Provisions for Members of State Legislature
+
+Where such Trustee or member being a member of a State Legislature attends a meeting of the [Central Board] or [the Executive Committee or] the Regional Committee, as the case may be, he shall be entitled—
+
+- (i) when the State Legislature is not in session, to such travelling and daily allowances as are admissible to Grade I Officers of the State Government; and
+- (ii) when the State Legislature is in session, to such travelling and daily allowances as are admissible to the members of that Legislature for attending meetings of the Legislature.
+
+# 4. Provisions for Members of Parliament
+
+Where such trustee or member being a member of either House of Parliament attends a meeting of the [Central Board] or [the Executive Committee or] the Regional Committee, as the case may be, he shall be entitled to such
+
+
+
+
+
+
+
+travelling and daily allowances as may be admissible to him under the rules laid down by the Central Government on the subject from time to time:
+
+Provided that when a Minister is appointed as Chairman or member of the Board or of [the Executive Committee or of the Regional Committee], and attends a meeting of such Central Board or [the Executive Committee or] Regional Committee, as the case may be, his travelling and daily allowance shall be governed by the rules applicable to him for journeys performed on official duties and shall be paid by the authority paying his salary.
+
+(4) [***]
+
+Explanation I: No daily or travelling allowance in respect of any day journey, as the case may be, shall be claimed under this paragraph by a trustee or member of [the Executive Committee or] a Regional Committee if he has drawn or will draw allowance for the same from his employer or as a member of [the Executive Committee or] any Legislature or of any Committee or Conference constituted or convened by Government and no travelling allowance shall be claimed if he uses a means of transport provided at the expense of Government or his employer.
+
+Explanation II. [***]
+
+# CHAPTER III
+
+# Appointment and Powers of Commissioner and other staff of Board of Trustees
+
+# 19. Central Provident Fund Commissioner and Financial Adviser and Chief Accounts Officer
+
+The Central Provident Fund Commissioner and the Financial Adviser and Chief Accounts Officer shall not undertake any work unconnected with their office without the previous sanction of the Central Government;
+
+# 20 [***]
+
+# 21. Opening of regional and other offices
+
+The Central Board may, open such regional and local offices as it may consider desirable for the proper implementation of the Scheme. It may also define the functions and duties of the regional and local offices.
+
+# 22. Secretary of the Central Board or a Regional Committee
+
+(1) The Central Provident Fund Commissioner shall be the Secretary of the
+
+
+
+
+
+
+# 22A. Appointment of officers and employees of the Central Board
+
+The power of appointment vested in the Central Board under sub-section (3) of section 5D of the Act shall be exercised by the Board in relation to posts equivalent to Joint Secretary of the Government of India.
+
+# 23. Information of appointments to the Central Board
+
+References relating to all appointments of officers of the [level of the Regional Provident Fund Commissioners and above made by the Chairman, Central Board] shall be placed before the next meeting of the Central Board for information.
+
+# 24. Administrative and financial powers of a Commissioner
+
+1. A Commissioner may, without reference to the [Central Board], sanction expenditure on contingencies, supplies and services and purchase of articles required for administering the Fund subject to financial provision in the budget and subject to the limits up to which a Commissioner may be authorized to sanction expenditure on any single item from time to time by the Central Board.
+2. A Commissioner may also exercise such administrative and financial powers other than those specified in sub-paragraph (1) above, as may be delegated to him from time to time by the Central Board.
+3. A Commissioner may delegate from time to time the administrative and financial powers delegated to him by the Central Board to any officer under his control or superintendence to the extent considered suitable by him for the administration of the Scheme. A statement of such delegation shall be placed before the next meeting of the Central Board for information.
+
+# 24A. Delegation of power by the Central Board
+
+1. The Central Board may, by a resolution, empower its Chairman to sanction expenditure on any item, whether in the nature of capital expenditure or revenue expenditure, as it may deem necessary for the efficient administration of the Fund, subject to financial provisions in the Budget, where such expenditure is beyond the limits upto, which the Commissioner is authorised to sanction expenditure on any single item.
+
+
+
+
+
+
+
+(2) The Central Board may also, by a resolution, empower its Chairman to such officers and employees other than those mentioned in sub-sections (1) and (2) of section 5D of the Act, as he may consider necessary for the efficient administration of the Scheme.
+
+(3) All sanctions of expenditure made by the Chairman in pursuance of sub-paragraph (1) shall be reported to the Central Board as soon as possible after the sanction of the expenditure.
+
+# 25. Powers of the Central Government until the Central Board is constituted
+
+Until the Central Board is constituted, the Central Government shall administer the Fund and may exercise any of the powers and discharge any of the functions of the Board:
+
+Provided that on the constitution of the Central Board, the Central Government shall transfer amounts standing to the credit of the Fund to the Central Board.
+
+# CHAPTER IV
+
+# Membership of the Fund
+
+# 26. Classes of employees entitled and required to join the fund
+
+(1) (a) Every employee employed in or in connection with the work of a factory or other establishment to which this scheme applies, other than an excluded employee, shall be entitled and required to become a member of the Fund from the day this paragraph comes into force in such factory or other establishment.
+
+(b) Every employee employed in or in connection with the work of a factory or other establishment to which this Scheme applies, other than an excluded employee, shall also be entitled and required to become a member of the fund from the day this paragraph comes into force in such factory or other establishment if on the date of such coming into force, such employee is a subscriber to a provident fund maintained in respect of the factory or other establishment or in respect of any other factory or establishment (to which the Act applies) under the same employer:
+
+Provided that where the Scheme applies to a factory or other establishment on the expiry or cancellation of an order of exemption under section 17 of the Act, every employee who but for the exemption would have become and continued as a member of the Fund, shall become a member of the Fund forthwith.
+
+(2) After this paragraph comes into force in a factory or other establishment,
+
+www.epfindia.gov.in 32
+
+
+
+
+
+
+# 26. Membership
+
+Every employee employed in or in connection with the work or that factory or establishment, other than an excluded employee, who has not become a member already shall also be entitled and required to become a member of the Fund from the date of joining the factory or establishment.
+
+# (3)
+
+An excluded employee employed in or in connection with the work of a factory or other establishment, to which this Scheme applies shall, on ceasing to be such an employee, be entitled and required to become a member of the Fund from the date he ceased to be such employee.
+
+# (4)
+
+On re-election of an employee or a class of employees exempted under paragraph 27 or paragraph 27-A to join the Fund or on the expiry or cancellation of an order under that paragraph, every employee shall forthwith become a member thereof.
+
+# (5)
+
+Every employee who is a member of a private provident fund maintained in respect of an exempted factory or other establishment and who but for exemption would have become and continued as a member of the fund shall, on joining a factory or other establishment to which this Scheme applies, become a member of the fund forthwith.
+
+# (6)
+
+Notwithstanding anything contained in this paragraph [an officer not below the rank of an Assistant Provident Fund Commissioner] may, on the joint request in writing, of any employee of a factory or other establishment to which this Scheme applies and his employer, enroll such employee as a member or allow him to contribute more than rupees [fifteen thousand rupees] of his pay per month if he is already a member of the Fund and thereupon such employee shall be entitled to the benefits and shall be subject to the conditions of the Fund, provided that the employer gives an undertaking in writing that he shall pay the administrative charges payable and shall comply with all statutory provisions in respect of such employee.
+
+# 26A. Retention of membership
+
+# (1)
+
+A member of the Fund shall continue to be member until he withdraws under paragraph 69 the amount standing to his credit in the Fund or is covered by a notification of exemption under section 17 of the Act or an order of exemption under paragraph 27 or paragraph 27A.
+
+# (2)
+
+Every member employed as an employee other than an excluded employee, in a factory or other establishment to which this Scheme applies, shall contribute to the Fund, and the contribution shall be payable to the Fund in respect of him by the employer. Such contribution shall be in accordance with the rate specified in paragraph 29: Provided that subject to the provisions contained in sub-paragraph (6) of paragraph 26 and [in paragraph 27], or sub-paragraph (1) of paragraph 27-A, where the monthly pay of such a member exceeds [fifteen thousand rupees] the contribution payable by him, and in respect of him by the employer, shall be limited to the amounts payable on a monthly pay of [fifteen thousand rupees].
+
+
+
+
+
+
+including [dearness allowance, retaining allowance (if any) and] cash value of food concession]
+
+# 26-B. Resolution of doubts
+
+If any question arises whether an employee is entitled or required to become or continue as a member, or as regards the date from which he is so entitled or required to become a member, the same shall be referred to the Regional Provident Fund Commissioner who shall decide the same. Provided that both the employer and the employee shall be heard before passing any order in the matter.
+
+# 27. Exemption of an employee
+
+1. A Commissioner may by order and subject to such conditions as may be specified in the order exempt from the operation of all or any of the provisions of this Scheme an employee to whom the Scheme applies on receipt of application in Form I from such an employee:
+2. Provided that such an employee is entitled to benefits in the nature of Provident Fund, gratuity or old age pension according to the rules of the factory or other establishment and such benefits separately or jointly are on the whole not less favourable than the benefits provided under the Act and the Scheme.
+
+Where an employee is exempted as aforesaid, the employer shall in respect of such employee maintain such account, submit such returns, provide such facilities for inspection, pay such inspection charges and invest provident fund collections in such manner as the Central Government may direct. Provided that the above mentioned returns shall be submitted by the employer in electronic format also, in such form and manner, as may be specified by the Commissioner.
+3. An employee exempted under sub-paragraph (1) may by an application to the Commissioner make a declaration that he shall become a member of the Fund.
+4. No employee shall be granted exemption or permitted to apply out of exemption more than once on each account.
+
+# 27A. Exemption of a class of employees
+
+1. [The appropriate Government] may by order and subject to such conditions as may be specified in the order exempt from the operation of all or any of the provisions of this Scheme any class of employees to whom the Scheme applies:
+
+
+
+
+
+less favourable than the benefit provided under the Act and this Scheme.
+
+(2) Where any class of employees is exempted as aforesaid, the employer shall in respect of such class of employees maintain such account, submit such returns, provide such facilities for inspection, pay such inspection charges and invest provident fund collections in such manner as the Central Government may direct.
+
+(3) A class of employees exempted under sub-paragraph (1) or the majority of employees constituting such class may by an application to the Commissioner make a declaration that the class desires to join the Fund and thereupon such class of employees shall become members of the Fund.
+
+(4) No class of employees shall be granted exemption or permitted to apply out of exemption more than once on each account.
+
+(5) The provisions of this paragraph shall be deemed to have come into force with effect from the 14th of October, 1953.
+
+# 27AA. Terms and conditions of exemption
+
+All exemptions already granted or to be granted hereafter under section 17 of the Act or under paragraph 27A of the scheme shall be subject to the terms and conditions as given in the Appendix A.
+
+# Appendix "A"
+
+1. The employer shall establish a Board of Trustees under his Chairmanship for the management of the Provident Fund according to such directions as may be given by the Central Government or the Central Provident Fund Commissioner, as the case may be, from time to time. The Provident Fund shall vest in the Board of Trustees who will be responsible for and accountable to the employees' Provident Fund Organisation, inter alia, for proper accounts of the receipts into and payment from the Provident fund and the balance in the custody. For the purpose, the "employer" shall mean-
+1. In relation to an establishment, which is factory, the owner or occupier of the factory; and
+2. In relation to any other establishment, the person who, or the authority, that has the ultimate control over the affairs of the establishments.
+2. The Board of Trustees shall meet at least once in every three months and shall function in accordance with the guidelines that may be issued from time to time by the Central Government/Central Provident Fund Commissioner (CPFC) or an officer authorized by him.
+3. All employees, as defined in section 2(f) of the Act, who have been eligible to become members of the Provident Fund, had the establishment not been
+
+www.epfindia.gov.in 35
+
+
+
+
+# granted exemption, shall be enrolled as members.
+
+1. Where an employee who is already a member of Employees' Provident Fund or a provident fund of any other exempted establishment is employed in his establishment, the employer shall immediately enroll him as a member of the fund. The employer should also arrange to have the accumulations in the provident fund account of such employee with his previous employer transferred and credited into his account.
+2. the employer shall transfer to the Board of Trustees the contributions payable to the provident fund by himself and employees at the rate prescribed under the Act from time to time by the 15th of each month following the month for which the contributions are payable. The employer shall be liable to pay simple interest in terms of the provisions of section 7Q of the Act for any delay in payment of any dues towards the Board of Trustees.
+3. The employer shall bear all the expenses of the administration of the Provident Fund and also make good any other loss that may be caused to the Provident Fund due to theft, burglary, defalcation, misappropriation or any other reason.
+4. Any deficiency in the interest declared by the Board of Trustees is to be made good by the employer to bring it up to the statutory limit.
+5. The employer shall display on the notice board of the establishment, a copy of the rules of the funds as approved by the appropriate authority and as and when amended thereto along with a translation in the language of the majority of the employees.
+6. the rate of contribution payable, the conditions and quantum of advances and other matters laid down under the provident fund rules of the establishment and the interest credited to the account of each member, calculated on the monthly running balance of the member and declared by the Board of Trustees shall not be lower than those declared by the Central Government under the various provisions prescribed in the Act and the Scheme framed there under.
+7. Any amendment to the Scheme, which is more beneficial to the employees than the existing rules of the establishment, shall be made applicable to them automatically pending formal amendment of the Rules of the Trust.
+8. No amendment in the rules shall be made by the employer without the prior approval of the Regional Provident Fund Commissioner (referred to as RPFC hereafter). The RPFC shall before giving his approval give a reasonable opportunity to the employees to explain their point of view.
+9. All claims for withdrawals, advance and transfer should be settled expeditiously, within the maximum time frame prescribed by the Employees' Provident Fund Organisation.
+10. The Board of Trustees shall maintain detailed accounts to show the
+
+
+
+
+
+contribution credited, withdrawal and interest in respect of each employee. The maintenance of such records should preferably be done electronically. The establishments should periodically transmit the details of members' accounts electronically as and when direct by the CPFC/RPFC.
+
+# 14.
+
+The Board of Trustees shall issue an annual statement of accounts or pass books to every employee within six months of the close of financial/accounting year free of cost once in the year. Additional printouts can be made available as and when the members want, subject to nominal charges. In case of passbook, the same shall remain in custody of employee to be updated periodically by the trustees when presented to them.
+
+# 15.
+
+the employer shall make necessary provisions to enable all the members to be able to see their account balance from the computers terminals as and when required by them.
+
+# 16.
+
+The Board of Trustees and the employer shall file such returns monthly/annually as may be prescribed by the Employees' Provident Fund Organization within the specified time-limit, failing which it will be deemed as a default and the Board of Trustees and employer will jointly and separately be liable for suitable penal action by the Employees' Provident Fund Organisation.
+
+Provided that above mentioned return shall be filed by the employer in electronic format also, in such form and manner, as may be specified by the Commissioner.
+
+# 17.
+
+the Board of Trustees shall invest the monies of the provident fund as per the directions of the government from time to time. Failure to make investments as per directions of the Government shall made the Board of Trustees separately and jointly liable to surcharge as may be imposed by the Central Provident Fund Commissioner or his representative.
+
+# 18.
+
+(a) The securities shall be obtained in the name of Trust. The securities so obtained should be in dematerialized (DEMAT) form and in case the required facility is not available in the area where the trust operates, the Board of Trustees shall inform the Regional Provident Fund Commissioner concerned about the same.
+
+(b) the Board of Trustees shall maintain a script wise register and ensure timely realization of interest.
+
+(c) The DEMAT Account should be opened through depository participants approved by Reserve Bank of India and Central Government in accordance with the instruction issued by the Central government in this regard.
+
+(d) The cost of maintaining DEMAT account should be treated as incidental cost of investment by the Trust. Also all types of Cost of investment like brokerage for purchase of securities etc. shall be treated as incidental cost of investment by the Trust.
+
+www.epfindia.gov.in
+
+
+
+
+
+
+# 19.
+
+All such investments made, like purchase of securities and bonds, should be lodged in the safe custody of depository participants, approved by Reserve Bank of India and Central Government, who shall be the custodian of the same. On closure of establishment or liquidation or cancellation of exemption from EPF Scheme, 1952, such custodian shall transfer the investment obtained in the name of the Trust and standing in its credit to the RPFC concerned directly on receipt of request from the RPFC concerned to that effect.
+
+# 20.
+
+The exempted establishment shall intimate to the RPFC concerned the details of depository participants (approved by the Reserve Bank of India and Central Government), with whom and in whose safe custody, the investments made in the name of trust, viz., Investments made in securities, bonds, etc. have been lodged. However, the Board of Trustees may raise such sum or sums of money as may be required for meeting obligatory expenses such as settlement of claims, grant of advances as per rules and transfer of member's P.F. accumulations in the events of his/her leaving service of the employer and any other receipts by sale of the securities or other investments standing in the name of the Fund subject to the prior approval of the Regional Provident Fund Commissioner.
+
+# 21.
+
+Any commission, incentive, bonus, or other pecuniary rewards given by any financial or other institutions for the investments made by the Trust should be credited to its account.
+
+# 22.
+
+The employer and the members of the Board of Trustees, at the time of grant of exemption, shall furnish a written undertaking to the RPFC in such format as may be prescribed from time to time, inter alia, agreeing to abide by the conditions which are specified and this shall be legally binding on the employer and Board of Trustees, including their successors and assignees, or such conditions as may be specified later for continuation of exemption.
+
+# 23.
+
+The employer and the Board of Trustees shall also give an undertaking to transfer the funds promptly within the time limit prescribed by the concerned RPFC in the event of cancellation of exemption. This shall be legally binding on them and will make them liable for prosecution in the event of any delay in the transfer of funds.
+
+# 24.
+
+(a) The account of the Provident Fund maintained by the Board of Trustees shall be subject to audit by a qualified independent chartered accountant annually. Where considered necessary, the CPFC or the RPFC in-charge of the Region shall have the right to have the accounts re-audited by any other qualified auditor and the expenses so incurred shall be borne by the employer.
+
+(b) A copy of the Auditor's report along with the audited balance sheet should be submitted to the RPFC concerned by the Auditors directly within six months after the closing of the financial year from 1st April to 31st March. The format of the balance sheet and the information to be furnished in the report shall be as prescribed by the Employees' Provident Fund.
+
+
+
+
+
+
+Organisation and made available with the RPFC Office in electronic format as well as a signed hard copy.
+
+(c) The same auditors should not be appointed for two consecutive years and not more than two years in a block of six years.
+
+# 25.
+
+A company reporting loss for three consecutive financial years or erosion in their capital base shall have their exemption withdrawn from the first day of the next/succeeding financial year.
+
+# 26.
+
+The employer in relation to the exempted establishment shall provide for such facilities for inspection and pay such inspection charges as the Central Government may from time to time direct under clause (a) of subsection (3) of section 17 of the Act within 15 days from the close of every month.
+
+# 27.
+
+In the event of any violation of the conditions for grant of exemption, by the employer or the Board of Trustees, the exemption granted may be cancelled after issuing a show cause notice in this regard to the concerned persons.
+
+# 28.
+
+In the event of any loss to the trust as a result of any fraud, defalcation, wrong investment decisions etc. the employer shall be liable to make good the loss.
+
+# 29.
+
+In case of any change of legal status of the establishment, which has been granted exemption, as a result of merger, demerger, acquisition, sale amalgamation, formation of a subsidiary, whether wholly owned or not, etc., the exemption granted shall stand revoked and the establishment should promptly report the matter to the RPFC concerned for grant of fresh exemption.
+
+# 30.
+
+In case, there are more than one unit/establishment participating in the common Provident Fund Trust which has been granted exemption, all the trustees shall be jointly and separately liable/responsible for any default committed by any of the trustees/employer of any of the participating units and the RPFC shall take suitable legal action against all the trustees of the common Provident Fund Trust.
+
+# 31.
+
+The Central government may lay down any further condition for continuation of exemption of the establishments.
+
+# 28.
+
+Transfer of accumulations from existing Provident Funds
+
+(1) Every authority in charge of, or entrusted with the management of, any Provident Fund in existence the accumulations wherein are to be transferred to the Fund under sub-section (2) of section 15 of the Act, [or sub-section (5) of section 17 thereof, as the case may be] shall —
+
+(1) send to the Commissioner a statement showing the amount standing to the credit of each subscriber on the date of the transfer, the total accumulations to the credit of subscribers generally on that date and the advances, if any, taken by the subscribers [within twenty-five days of the application of the Scheme, or cancellation of exemption, as the case may
+
+
+
+
+
+
+# Transfer of Accumulations
+
+(ii) transfer to the Fund in the manner specified in sub-paragraph (2) the total accumulations standing to the credit of the subscribers in relation to each factory or other establishment [within ten days of the application of the Scheme, or cancellation of the exemption, as the case may be, in case of liquid cash in bank and within thirty days in case of securities], and
+
+(iii) transfer to the [Central Board] all pass books, books of account and other documents relating to the said accumulations.
+
+# (2)
+
+All accumulations standing to the credit of the subscribers, howsoever invested, shall be transferred to the Fund by the authority aforesaid in cash:
+
+Provided that where the whole or any part of such accumulations consists of investments in Government securities, [or in securities guaranteed by appropriate Government as regards repayment of principal and payment of interest or in both], the authority making the transfer to the Fund shall transfer those securities at the price for which they were actually purchased or transfer a sum equivalent to such price. In case, however, the whole or any part of such accumulations is invested in National Savings Certificates or National Plan Savings Certificates, the appreciated value of such certificates at the time of the transfer will be taken into account in determining the amount of the accumulations to be transferred, provided that the difference between the face value of such certificate and their appreciated value at the time of the transfer has already been credited to the accounts of the subscribers: Provided further that where the whole or any part of such accumulations consists of investments in [securities bearing no guarantee of an appropriate Government as regards repayment of principal and payment of interest], the Central Government may, in exceptional cases, allow acceptance of the transfer of such securities from the authority making the transfer to the Fund at the price for which they were actually purchased.
+
+Explanation: The total amount of provident fund accumulations includes interest thereon and the authority in charge of the Fund shall transfer in cash any balance of interest on investments which happens to be undistributed on the date of the transfer, or realised or realisable for the period prior to the registration of the securities in the name of the Central Board of Trustees, Employees' Provident Fund.
+
+# (3)
+
+Any cash transferred under sub-paragraph (2) shall be deposited in any office or branch of the Reserve Bank of India or the [State Bank of India] to the credit of the [Central Board], and the receipt obtained in respect thereof shall be forwarded to the Commissioner:
+
+Provided that where there is no office or branch of either of the two Banks at the place where the [factory or other establishment] is situated the amount shall be
+
+
+
+
+
+
+credited to the Central Board by means of a Reserve Bank of India [Governmental Draft at par].
+
+(4) The accumulations, transferred to the Fund in accordance with this paragraph shall be credited to the account of each of the members of the Fund, to the extent to which he may be entitled thereto having regard to the statement furnished by the authority aforesaid.
+
+(5) When the accumulations in any such Provident Fund as is referred to in sub-paragraph (1) have been so transferred to the Fund, the Commissioner may, by notification in the Gazette of India, declare that the subscribers of such Provident Fund have now become members of the Fund and that the accumulations aforesaid have now become vested in the Central Board.
+
+
+
+
+
+# CHAPTER V
+
+# Contributions
+
+# 29. Contributions
+
+(1) The contributions payable by the employer under the Scheme shall be at the rate of [ten per cent] of the [basic wages, dearness allowance (including the cash value of any food concession) and retaining allowance (if any)] payable to each employee to whom the Scheme applies:
+
+Provided that the above rate of contribution shall be [twelve] per cent in respect of any establishment or class of establishments which the Central Government may specify in the Official Gazette from time to time under the first proviso to sub-section (1) of section 6 of the Act.
+
+(2) The contribution payable by the employee under the Scheme, shall be equal to the contribution payable by the employer in respect of such employee:
+
+Provided that in respect of any employee to whom the Scheme applies, the contribution payable by him may, if he so desires, be an amount exceeding [ten per cent] or [twelve per cent], as the case may be, of his basic wages, dearness allowance and retaining allowance (if any) subject to the condition that the employer shall not be under an obligation to pay any contribution over and above his contribution payable under the Act;
+
+(3) The contributions shall be calculated on the basis of [basic wages, dearness allowance (including the cash value of any food concession) and retaining allowance (if any)] actually drawn during the whole month whether paid on daily, weekly, fortnightly or monthly basis.
+
+(4) Each contribution shall be calculated to [the nearest rupee, 50 paise or more to be counted as the next higher rupee and fraction of a rupee less than 50 paise to be ignored.
+
+# 30. Payment of contributions
+
+(1) The employer shall, in the first instance, pay both the contribution payable by himself (in this Scheme referred to as the employer's contribution) and also, on behalf of the member employed by him directly or by or through a contractor, the contribution payable by such member (in this Scheme referred to as the member's contribution).
+
+(2) In respect of employees employed by or through a contractor, the contractor shall recover the contribution payable by such employee (in this Scheme referred to as the member's contribution) and shall pay to the principal employer the amount of member's contribution so deducted together with an equal amount of contribution (in this Scheme referred to as the employer's
+
+www.epfindia.gov.in
+
+
+
+
+
+
+contribution) and also administrative charges.
+
+(3) It shall be the responsibility of the principal employer to pay both the contribution payable by himself in respect of the employees directly employed by him and also in respect of the employees employed by or through a contractor and also administrative charges.
+
+Explanation: For the purposes of this paragraph the expression "administrative charges" means such percentage of the pay (basic wages, dearness allowance, retaining allowance, if any, and cash value of food concessions admissible thereon) for the time being payable to the employees other than an excluded employee, and in respect of which Provident Fund Contribution are payable as the Central Government may, in consultation with the Central Board and having regard to the resources of the Fund for meeting its normal administrative expenses, fix.
+
+# 31. Employer's share not to be deducted from the members
+
+Notwithstanding any contract to the contrary the employer shall not be entitled to deduct the employer's contribution from the wage of a member or otherwise to recover it from him.
+
+# 32. Recovery of a member's share of contribution
+
+(1) The amount of a member's contribution paid by the employer [or a contractor] shall, notwithstanding the provisions in this scheme or any law for the time being in force or any contract to the contrary, be recoverable by means of deduction from the wages of the member and not otherwise:
+
+Provided that no such deduction may be made from any wages other than that which is paid in respect of the period or part of the period in respect of which the contribution is payable:
+
+Provided further that the employer [or a contractor] shall be entitled to recover the employee's share from a wage other than that which is paid in respect of the period for which the contribution has been paid or is payable where the employee has in writing given a false declaration at the time of joining service with the said employer [or a contractor] that he was not already a member of the Fund:
+
+Provided further that where no such deduction has been made on account of an accidental mistake or a clerical error, such deduction may, with the consent in writing of the Inspector, be made from the [subsequent] wages.
+
+(2) Deduction made from the wages of a member paid on daily, weekly or fortnightly basis should be totalled up to indicate the monthly deductions.
+
+(3) Any sum deducted by an employer [or the contractor] from the wages of an employee under this Scheme shall be deemed to have been entrusted to him for the purpose of paying the contribution in respect of which it was deducted.
+
+
+
+
+
+# 32A. Recovery of damages for default in payment of any contribution
+
+(1) Where an employer makes default in the payment of any contribution to the fund, or in the transfer of accumulations required to be transferred by him under sub-section (2) of section 15 or sub-section (5) of section 17 of the Act or in the payment of any charges payable under any other provisions of the Act or Scheme or under any of the conditions specified under section 17 of the Act, the Central Provident Fund Commissioner or such officer as may be authorised by the Central Government by notification in the Official Gazette, in this behalf, may recover from the employer by way of penalty, damages at the rates given below: —
+
+| S.No. | Period of default                              | Rates of Damages (percentage of arrears per annum) |
+| ----- | ---------------------------------------------- | -------------------------------------------------- |
+| (a)   | Less than two months                           | Five                                               |
+| (b)   | Two months and above but less than four months | Ten                                                |
+| (c)   | Four months and above but less than six months | Fifteen                                            |
+| (d)   | Six months and above                           | Twenty-five                                        |
+
+(2) The damages shall be calculated to the nearest rupee, 50 paise or more to be counted as the nearest higher rupee and fraction of a rupee less than 50 paise to be ignored.
+
+# 32B. Terms and conditions for reduction or waiver of damages
+
+The Central Board may reduce or waive the damages levied under section 14B of the Act in relation to an establishment specified in the second proviso to section 14B, subject to the following terms and conditions, namely: —
+
+- (a) in case of a change of management including transfer of the undertaking to workers' co-operative and in case of merger or amalgamation of the sick industrial company with any other industrial company, complete waiver of damages may be allowed;
+- (b) in cases where the Board for Industrial and Financial Reconstruction, for reasons to be recorded in its schemes, in this behalf recommends, waiver of damages up to 100 per cent may be allowed;
+- (c) in other cases, depending on merits, reduction of damages up to 50 per cent may be allowed.
+
+www.epfindia.gov.in 44
+
+
+
+# CHAPTER VI
+
+# DECLARATION, CONTRIBUTION CARDS AND RETURNS
+
+# 33. Declaration by persons already employed at the time of institution of the Fund
+
+Every person who is required or entitled to become a member of the Fund shall be asked forthwith by his employer to furnish and shall, on such demand, furnish to him, for communication to the Commissioner, particulars concerning himself and his nominee required for the declaration form in Form 2. Such employer shall enter the particulars in the declaration form and obtain the signature or thumb impression of the person concerned.
+
+# 34. Declaration by persons taking up employment after the Fund has been established
+
+The employer in relation to a [factory or other establishment] shall, before taking any person into employment, ask him to state in writing whether or not he is a member of the Fund and if he is, ask for the Account Number and/or the name and particulars of the last employer. If he is unable to furnish the Account Number, he shall, require such person to furnish and such person shall, on demand, furnish to him for communication to the Commissioner, particulars regarding himself and his nominee required for the Declaration Form. Such employer shall enter the particulars in the Declaration Form and obtain the signature or thumb impression of the person concerned:
+
+Provided that in the case of any such employee who has become a member of the Family Pension Fund under the Employees' Family Pension Scheme, 1971, the aforesaid Declaration Form shall also contain such particulars as are necessary to comply with the requirements of that Scheme.
+
+# 35. Preparation of Contribution Cards
+
+The employer shall prepare a contribution card [in Form 3] [or Form 3A] as may be appropriate, in respect of every employee in his employment at the commencement of the Scheme or who is taken into employment after that date and who is required or entitled to become or is a member of the Fund including those who produce an Account Number and in respect of whom no fresh Declaration Form is prepared:
+
+www.epfindia.gov.in
+
+
+
+
+Provided that in the case of any such employee who has become a member of the Family Pension Fund under the Employees' Family Pension Scheme, 1971, the aforesaid Forms shall also contain such particulars as are necessary to comply with the requirements of that Scheme.
+
+# 36. Duties of employers
+
+(1) Every employer shall send to the Commissioner, within fifteen days of the commencement of this Scheme, a consolidated return in such form as the Commissioner may specify of the employees required or entitled to become members of the Fund showing the [basic wage, retaining allowance (if any) and dearness allowance including the cash value of any food concession] paid to each of such employees:
+
+Provided that if there is no employee who is required or entitled to become a member of the Fund, the employer shall send a 'NiL' return.
+
+(2) Every employer shall send to the Commissioner within fifteen days of the close of each month a return-
+
+- (a) in Form 5, of the employees qualifying to become members of the Fund for the first time during the preceding month together with the declarations in Form 2 furnished by such qualifying employees, and
+- (b) [in such form as the Commissioner may specify], of the employees leaving service of the employer during the preceding month: Provided that if there is no employee qualifying to become a member of the Fund for the first time or there is no employee leaving service of the employer during the preceding month, the employer shall send a 'NIL' return.
+- (c) Provided further that a copy of the forms as mentioned in clauses (a) &#x26; (b) above shall be provided by the employer to concerned employees immediately after joining the service or at the time of leaving the service, as the case may be.
+
+(3) [Omitted]
+
+(4) Every employer shall maintain an inspection note book in such form as the Commissioner may specify, for an Inspector to record his observation on his visit to the establishment.
+
+(5) Every employer shall maintain such accounts in relation to the amounts contributed to the Fund by him and by his employees as the Central Board from time to time, direct, and it shall be the duty of every employer to assist the Central Board in making such payments from the Fund to his employees as are sanctioned by or under the authority of the Central Board.
+
+
+
+
+
+
+Notwithstanding anything hereinbefore contained in this paragraph, the Central Board may issue such directions to employers generally as it may consider necessary or proper for the purpose of implementing the Scheme, and it shall be the duty of every employer to carry out such directions.
+
+# 36A. Employer to furnish particulars of ownership
+
+Every employer in relation to a factory or other establishment to which the Act applies on the date of coming into force of the Employees' Provident Funds (Tenth Amendment) Scheme, 1961, or is applied after that date, shall furnish *[in duplicate] to the Regional Commissioner in Form No. 5A annexed hereto, [particulars of all the branches and departments, owners]*, occupiers, directors, partners, manager or any other person or persons who have the ultimate control over the affairs of such factory or establishment and also send intimation of any change in such particulars, within fifteen days of such change, to the Regional Commissioner by registered post and in such other manner as may be specified by the Regional Commissioner:
+
+Provided that in the case of any employer of a factory or other establishment to which the Act and the Family Pension Scheme, 1971, shall apply the aforesaid Form may be deemed to satisfy the requirements of the Employees' Family Pension Scheme, 1971, for the purpose specified above.
+
+Provided further that above mentioned details shall be furnished by the employer in the electronic format also, in such form and manner, as may be specified by the Commissioner.
+
+# 36-B. Duties of contractors
+
+Every contractor shall, within seven days of the close of every month, submit to the principal employer a statement showing the recoveries of contributions in respect of employees employed by or through him and shall also furnish to him such information as the principal employer is required to furnish under the provisions of the Scheme to the Commissioner.
+
+# 37. Allotment of Account Numbers
+
+On receipt of the information referred to in paragraphs 33, 34 and 36, the Commissioner shall promptly allot an Account Number to each employee qualifying to become a member and shall communicate the Account Number to the member through the employer.
+
+# 38. Mode of payment of contributions
+
+(1) The employer shall, before paying the member his wages in respect of any period or part of period for which contributions are payable, deduct the employee's contribution from his wages which together with his own contribution as well as an administrative charge of such percentage *[of the pay (basic wages,*
+
+
+
+
+
+
+dearness allowance, retaining allowance, if any, and cash value of food concessions admissible thereon) for the time being payable to the employees other than excluded employee and in respect of which provident fund contribution payable, as the Central Government may fix. He shall within fifteen days of the close of every month pay the same to the fund [electronic through internet banking of the State Bank of India or any other Nationalized Bank] [or through PayGov platform or through scheduled banks in India including private sector banks authorized for collection on account of contributions and administrative charge:
+
+Provided that the Central Provident Fund Commissioner may for reasons to be recorded in writing, allow any employer or class of employer to deposit the contributions by any other mode other than internet banking.
+
+1. The employer shall forward to the Commissioner, within twenty-five days of the close of the month, a monthly abstract in such form as the Commissioner may specify showing the aggregate amount of recoveries made from the wages of all the members and the aggregate amount contributed by the employer in respect of all such members for the month:
+2. Provided that an employer shall send a Nil return, if no such recoveries have been made from the employees:
+
+Provided further that in the case of any such employee who has become a member of the pension fund under the Employees' Pension Scheme, 1995, the aforesaid form shall also contain such particulars as are necessary to comply with the requirements of that Scheme.
+
+The employer shall send to the Commissioner within one month of the close of the period of currency, a consolidated annual Contribution Statement in Form 6-A, showing the total amount of recoveries made during the period of currency from the wages of each member and the total amount contributed by the employer in respect of each such member for the said period. The employer shall maintain on his record duplicate copies of the aforesaid monthly abstract and consolidated annual contribution statement for production at the time of inspection by the Inspector.
+
+# 39. Fixation of administrative charges
+
+The Central Government may, in consultation with the Central Board and having regard to the resources of the Fund available for meeting its normal administrative expenses, fix the percentage of administrative charges payable under sub-paragraph (1) of paragraph 38 above.
+
+
+
+
+
+
+
+# 40. Contributions to be entered in the contribution card
+
+The amount recovered every month from the wages of an employee as well as the contribution made by the employer in respect of each such employee shall be entered by the employer every month in the contribution card opened in the name of each member under this Scheme.
+
+# 40-A. Supply of pass books to the members
+
+With effect from such date as the Commissioner may specify in this behalf, every employer shall, on an employee becoming a member of the Fund, provide a Pass Book to every such member and maintain the same in such form and manner as the Commissioner may direct from time to time: Provided that different dates may be specified for different industries or classes of establishments or for different areas.
+
+# 41. Currency of Contribution Cards
+
+The contribution cards issued under this Scheme shall be current for one year:
+
+Provided that the said period of one year may commence and terminate at such different times, in different [factories and other establishments] as may be decided by the Commissioner from time to time:
+
+Provided further that the cards issued—
+
+- (i) in respect of the first contribution period, or
+- (ii) in respect of the contribution period immediately preceding the date from which the establishment is notified as an annually posted establishment, may be for a period which may be less or more than a year.
+
+# 42. Renewal of contribution cards
+
+An employer shall, on or before the expiration of the period of currency of the contribution card, prepare in respect of each member employed by him a card [in Form 3] [or Form 3A] as may be appropriate, for the next period of currency:
+
+Provided that in the case of any such employee who has become a member of the Family Pension Fund under the Employees' Family Pension Scheme, 1971, the aforesaid Form shall also contain such particulars as are necessary to comply with the requirements of that Scheme.
+
+Provided further that above mentioned contribution card in respect of each employee shall be prepared by the employer in electronic format also, in such form and manner, as may be specified by the Commissioner.
+
+
+
+
+
+
+
+# 43. Submission of contribution cards to the Commissioner
+
+Every employer shall within one month from the date of expiration of the period of currency of the contribution cards in respect of members employed by him, send the contribution cards to the Commissioner together with a statement in Form 6:
+
+Provided that where a member leaves service, the employer shall send the contribution card in respect of such members before the twentieth day of the month following that in which the members left the service:
+
+Provided further that in the case of any such employee who has become a member of the Family Pension Fund under the Employees' Family Pension Scheme, 1971, the aforesaid Form shall also contain such particulars as are necessary to comply with the requirements of the Scheme.
+
+# 44. Custody of contribution cards
+
+The employer shall retain in his custody the contribution cards in respect of each member employed by him and shall take every precaution against loss or damage of the contribution cards.
+
+# 45. Inspection of cards by members
+
+Any member making a request in this behalf to the employer shall be permitted to inspect his cards himself or to have the same inspected by any person duly authorised by him in writing to do so, within 72 hours of making such request provided that no such request be entertained more than once in every two calendar months.
+
+# 46. Production of cards and records for inspection by the Commissioner or Inspector
+
+Every employer shall, whenever the Commissioner or any other officer authorised by him in this behalf or an Inspector so requests, either in person or by notice in writing, produce before the Commissioner, Officer or Inspector, as the case may be, the records of any member employed by him and any card then in his possession, and if so required, by the said Commissioner, Officer or Inspector shall deliver such record to the said Commissioner, Officer or Inspector, who may, if he thinks fit, retain the record provided that he shall grant a receipt for every record retained by him.
+
+# 47. Supply of cards and Forms to employers
+
+The Commissioner shall supply to employers, free of charge on demand contribution cards. [Pass books] Declaration forms and other forms referred to in this Scheme:
+
+Provided that if any employer desires to obtain any cards, [pass books] or forms
+
+
+
+
+
+
+in excess of the number which the Commissioner considers to be the requirements of the employer, the Commissioner may, if he thinks fit, supply such extra cards, [pass books] or forms and make such charge therefor as he considers reasonable.
+
+# 48. Current Account
+
+The Commissioner shall deposit the contributions received from the employers electronically through internet banking or any other mode other than internet banking in the Reserve Bank or the State Bank of India or any other Nationalized Bank or through PayGov platform or through the scheduled banks in India including private sector banks in the Current Account of the Fund.
+
+# CHAPTER VII
+
+# ADMINISTRATION OF THE FUND, ACCOUNTS AND AUDIT
+
+# 49. Administration Accounts
+
+1. A separate account shall be kept called the "Central Administration Account" for recording all administration expenses of the Fund including such administrative charges as the Fund may be authorised to levy.
+2. [***]
+
+# 50. Provident Fund Account
+
+The aggregate amount received as the employers' and the employees' contributions to the Fund shall be credited to an account to be called the "Provident Fund Account".
+
+# 51. Interest Account
+
+All interest, rent and other income realised, and net profits or losses, if any, from the sale or investments not including therein the transactions of the Administration Account, shall be credited or debited, as the case may be, to an account called the "Interest Account", and the brokerage and commission of the purchase and sale of securities and other investments, shall be included in the purchase or sale price, as the case may be, and not separately charged to the "Interest Account".
+
+# 52. Investment of moneys belonging to Employees' Provident Fund
+
+1. All moneys belonging to the Fund shall be deposited in the Reserve Bank or
+
+
+
+
+
+
+
+the [State] Bank of India or in such other Scheduled Banks as may be approved by the Central Government from time to time or shall be invested, subject to such directions as the Central Government may from time to time give, in the securities mentioned or referred to in section 20 of the Indian Trusts Act, 1882 (11 of 1882), provided that such securities are payable both in respect of capital and in respect of interest in India.
+
+(2) All expenses incurred in respect of, and loss, if any, arising from, any investment shall be charged to the Fund.
+
+# 53. Disposal of the Fund
+
+(1) Subject to the provisions of the Act and of this Scheme, the Fund, not including therein the Administration Account, shall not, except with the previous sanction of the Central Government, be expended for any purpose other than the payment of the sums standing to the credit of individual members of the Fund or to their nominees or heirs or legal representatives in accordance with the provisions of this Scheme.
+
+(2) The Fund shall be operated upon by such officers as may be authorized in this behalf by the [Central Board].
+
+# 54. Expenses of Administration
+
+(1) All expenses relating to the administration of the Fund including those incurred on Regional Committee shall be met from the Fund.
+
+(2) All expenses of administration of the Fund, including the fees and allowances, of the trustees of the Central Board and salaries, leave and joining time allowances, travelling and compensatory allowances, gratuities and compassionate allowances, pensions, contributions to provident fund and other benefit fund instituted for the officers and employees of the Central Board, the cost of audit of the accounts, legal expenses and cost of all stationery and forms incurred in respect of the Central Board, cost and all expenses incurred in connection with the construction of office buildings and staff quarters shall be met from the Administration Account of the Fund.
+
+(3) The expenses incurred by the Central Government in connection with the establishment of the Fund shall be treated as a loan and such loan shall be repaid from the Administration Account.
+
+# 55. Form and manner of maintenance of accounts
+
+The Central Board shall maintain proper accounts of its income and expenditure, including its administrative accounts, in Form 10, and the balance sheet in Form 11. The accounts shall be prepared for the financial year and the books shall be balanced on the Thirty First March each year.
+
+
+
+
+
+
+
+# 56. Audit
+
+(1) The accounts of the Fund, including the Administration Account shall be audited in accordance with the instructions issued by the Central Government in consultation with the Comptroller and Auditor-General of India.
+
+(2) The charges on account of audit shall be paid out of the Administration Account.
+
+# 57. Inter-State transfer of members
+
+(1) Where a member of the Fund ceases to be employed in one region and secures employment in another region in an establishment to which this Scheme applies or which is an exempted establishment or which is not covered under the Act but has a provident funds scheme of its own, he may apply to the Commissioner within whose jurisdiction he was previously employed, in such form as the Commissioner may specify, for transfer of balance of the provident fund in his existing account to his account in the other region.
+
+(2) Where a member of the Fund ceases to be employed in one establishment and secures employment in another establishment in the same region, he may apply to the Commissioner of the region, in such form as the Commissioner may specify for the transfer of balance of the Provident Fund in his previous account to his account in the new establishment where he takes up the employment.
+
+# 58. Budget
+
+(1) The Commissioner shall place before the Central Board each year before the first fortnight of February, a budget showing separately the probable receipts from the contributions and from the levy of administrative charges and the expenditure which it proposes to incur during the following financial year. The budget as approved by the Central Board shall be submitted for sanction to the Central Government within a month of its being placed before the Central Board.
+
+(2) The Central Government may make such modifications in the budget as it considers desirable before sanctioning it.
+
+(3) The Commissioner may, at any time during the year, make budgetary re-appropriation of funds sanctioned in the budget by the Central Government, provided that—
+
+- (i) the total amount sanctioned in the budget by the Central Government is not exceeded;
+- (ii) it is made only for meeting such expenses of administration as are to be met from the Administration Account in accordance with paragraph 54;
+
+
+
+
+
+
+# 59. Member's Accounts
+
+(1) All account shall be opened in the office of the Fund in the name of each member in which it shall be credited: —
+
+- (a) his contributions,
+- (b) the contributions made by the employer in respect of him, and
+- (c) Interest as provided in paragraph 60.
+
+(2) All items of account shall be calculated to [the nearest rupee, 50 paise or more to be counted as the next higher rupee and fraction of a rupee less than 50 paise to be ignored].
+
+(3) On receipt of the contribution card or cards of a member from his employer or employers at the end of the period of currency of the contribution card, the Commissioner shall compare the entries made in the contribution card or cards with those made in the member's individual account in the office of the Fund and shall rectify any discrepancy found in these entries.
+
+# 60. Interest
+
+(1) The Commissioner shall credit to the account of each member interest at such rate as may be determined by the Central Government in consultation with the Central Board.
+
+(2) (a) Interest shall be credited to the member's account on monthly running balances basis with effect from the last day in each year in the following manner:—
+
+- (i) on the amount at the credit of a member on the last day of the preceding year, less any sums withdrawn during the current year— interest for twelve months;
+
+
+
+
+
+(ii) on sums withdrawn during the current year— interest from the beginning of the current year upto the last day of the month preceding the month of withdrawal;
+
+(iii) on all the sums credited to the member's account after the last day of the preceding year—interest from the 1st day of the month succeeding the month of credit to the end of the current year;
+
+(iv) the total amount of interest shall be rounded to the nearest whole rupee (fifty paise counting as the next higher rupee).
+
+(2) (b) In the case of a claim for the refund under paragraph 69 or 70, interest shall be payable up to the end of the month preceding the date on which the final payment is authorised irrespective of the date of receipt of the claim from the claimant concerned:
+
+Provided that interest up to and for the current month shall be payable on the claims which are authorised on or after the 25th day of a particular month along with actual payment after the end of the current month:
+
+Provided further that the rate of interest to be allowed on claims for refund for the broken currency period shall be the rate fixed for the financial year in which the refund is authorised.
+
+Provided also that the rate of interest to be allowed on claims for refund for the broken currency period shall be the last declared rate on Employees' Provident Fund and if the rate declared for any current year happens to be less than the previous year's declared rate, then it would accrue as bonus to the outgoing members and it shall be incorporated into calculation for deriving the current year's rate of interest at the end of the year and the claims settled under this proviso shall be final.
+
+Explanation.— If an establishment is covered for the first time under the Act/Scheme during the course of the currency period the interest shall be allowed on the sums credited to the member's account on and from the first day of the month succeeding the month of credit to the end of the current year.
+
+(3) The aggregate amount of interest credited to the accounts of the members shall be debited to "Interest Account".
+
+(4) In determining the rate of interest, the Central Government shall satisfy itself that there is no overdrawal on the Interest Suspense Account as a result of the debit thereto of the interest credited to the accounts of members.
+
+(5) Interest shall not be credited to the account of a member if he informs the Commissioner in writing that he does not wish to receive it. If, however, the member subsequently asks for interest, it shall be credited to his account with effect from the first day of the period of currency in which he makes a request therefor.
+
+www.epfindia.gov.in 55
+
+
+
+
+
+# CHAPTER VIII
+
+# NOMINATIONS, PAYMENTS AND WITHDRAWALS FROM THE FUND
+
+# 61. Nomination
+
+(1) Each member shall make in his declaration in Form 2, a nomination conferring the right to receive the amount that may stand to his credit in the Fund in the event of his death before the amount standing to his credit has become payable, or where the amount has become payable, before payment has been made.
+
+(2) A member may in his nomination distribute the amount that may stand to his credit in the Fund amongst his nominees at his own discretion.
+
+(3) If a member has a family at the time of making a nomination, the nomination shall be in favour of one or more persons belonging to his family. Any nomination made by such member in favour of a person not belonging to his family shall be invalid.
+
+Provided that a fresh nomination shall be made by the member on his marriage and any nomination made before such marriage shall be deemed to be invalid.
+
+(4) If at the time of making a nomination the member has no family, the nomination may be in favour of any person or persons but if the member subsequently acquires a family, such nomination shall forthwith be deemed to be invalid and the member shall make a fresh nomination in favour of one or more persons belonging to his family.
+
+(4A) Where the nomination is wholly or partly in favour of a minor, the member may, for the purposes of this Scheme, appoint a major person of his family, as defined in clause (g) of paragraph 2, to be the guardian of the minor nominee in the event of the member predeceasing the nominee and the guardian so appointed:
+
+Provided that where there is no major person in the family, the member may, at his discretion, appoint any other person to be a guardian of the minor nominee.
+
+(5) A nomination made under sub-paragraph (1) may at any time be modified by a member after giving a written notice of his intention of doing so in Form [2]
+
+
+
+
+
+
+annexed hereto. If a nominee predeceases the member, the interest of the nominee shall revert to the member who may make a fresh nomination in respect of such interest.
+
+(6) A nomination or its modification shall take effect to the extent that it is valid on the date on which it is received by the Commissioner.
+
+# 62. Financing of Members' Life Insurance Policies
+
+(1) Where a member desires that premium due on a policy of Life Insurance taken by him on his own life should be financed from his Provident Fund Account, he may apply in such form and in such manner as may be prescribed by the Commissioner.
+
+(2) On receipt of such application, the Commissioner, or, where so authorised by the Commissioner, any other officer subordinate to him may make payment on behalf of the member to the Life Insurance Corporation of India towards premium due on his policy:
+
+Provided that no such payment shall be made unless the premium is payable yearly.
+
+(3) Any payment made under sub-paragraph (2) shall be made out of and debited to the member's own contribution with interest thereon standing to his credit in the Fund.
+
+(4) No payment shall be made under sub-paragraph (2) unless the member's own contribution in his Provident Fund Account with interest thereon is sufficient to pay the premium; and where the payment is to be made on the first premium, sufficient to pay the premium for two years.
+
+(5) No payment shall be made towards a policy unless it is legally assignable by the member to the Central Board.
+
+(6) The Commissioner shall before making payment in respect of existing policies, satisfy himself by reference to the Life Insurance Corporation that no prior assignment of the policy exists and the policy is free from all encumbrances.
+
+(7) No education endowment policy or marriage endowment policy shall be financed from the Fund, if such policy is due for payment in whole or in part before the member attains the age of 55 years.
+
+# 63. Conversion of policy into a paid up one and payment of late fee, etc.
+
+Where a policy of Life Insurance of a member is financed from his Provident Fund Account, the Commissioner may,
+
+(a) convert the Insurance Policy into a paid up one when the credit in his Provident Fund on account of his share becomes inadequate for the payment of
+
+
+
+
+
+
+any premium;
+
+(b) pay late fee and interest out of the member's own contribution in his Provident Fund Account, if any premium cannot be remitted to the Life Insurance Corporation in time because of delay in sending to the Commissioner the policy duly assigned to the Central Board or any other reasons for which the member or his employer may be responsible.
+
+# 64. Assignment of policies to the Fund
+
+1. The policy shall, within six months of the first payment under paragraph 62, be assigned by endorsement thereon, to the Central Board and shall be delivered to the Commissioner.
+2. Notice of the assignment of the policy shall be given by the member to the Life Insurance Corporation and the acknowledgement of the said notice by the Corporation shall be sent to the Commissioner within three months of the date of assignment.
+3. The terms of the policy shall not be altered nor shall the policy be exchanged, for another policy without the prior consent of the Commissioner to whom the details of the alteration or of the new policy shall be furnished in such form as he may specify.
+4. If the policy is not assigned and delivered as required under subparagraph (1), or is assigned otherwise than to the Central Board or is charged or encumbered or lapses any amount paid from the Fund in respect of such policy shall, with interest thereon at the rate provided under paragraph 60, be repaid by the member forthwith to the Fund. In the event of default, the employer shall, on receipt of such directions as may be issued by the Commissioner in this behalf, deduct the amount in lump sum or in such instalments as the Commissioner may determine from the emoluments of the member and pay it to the Fund within such time and in such manner as may be specified by the Commissioner. The amount so repaid or recovered shall be credited to the member's account in the Fund.
+
+# 65. Bonus on policy to be adjusted against payments made from the Fund
+
+So long as the policy remains assigned to the Central Board, any bonus accruing on it may be drawn by the Central Board or where authorised by the Central Board by the Commissioner, and adjusted against the payments made on behalf of the member under paragraph 62.
+
+# 66. Reassignment of policies
+
+1. Where the accumulations standing to the credit of the member are withdrawn under paragraph 69 or when the member repays to the Fund the amounts of premium paid by the Board with interest thereon at the rate provided in paragraph 60, the Central Board or where authorised by the Central Board, the
+
+
+
+
+
+
+Commissioner shall reassign by endorsement thereon the policy to the member together with a signed notice of reassignment addressed to the Life Insurance Corporation.
+
+(2) If the member dies before the policy has been reassigned under subparagraph (1), the Central Board or where, authorised by the Central Board, the Commissioner shall reassign by the endorsement thereon, the policy to the nominee of the member if a valid nomination subsists, and if there be no such nominee, to such person as may be legally entitled to receive it together with a signed notice of reassignment addressed to the Life Insurance Corporation.
+
+# 67. Recovery of amounts paid towards Insurance Policies
+
+If a policy matures or otherwise falls due for payment during the currency of its assignment, the Central Board or, where so authorised by the Central Board, the Commissioner shall realise the amount assured together with bonus, if any, accrued thereon place to the credit of the member the amount so realised, or the whole of the amount paid from the Fund in respect of the policy with interest thereon, whichever is less, and refund the balance, if any, to the member.
+
+# 68. [***]
+
+# 68A. [***]
+
+# 68B. Withdrawal from the Fund for the purchase of a dwelling house/flat or for the construction of a dwelling house including the acquisition of a suitable site for the purpose
+
+(1) The Commissioner, or where so authorised by the Commissioner, any officer subordinate to him, may on an application from a member in such form as may be prescribed and subject to the conditions prescribed in this paragraph sanction from the amount standing to the credit of the member in the fund, a [withdrawal]—
+
+- (a) for purchasing a dwelling house/flat, including a flat in a building owned jointly with others (outright or on hire purchase basis), or for constructing dwelling house including the acquisition of a suitable site for the purpose from the Central Government, the State Government, a co-operative society, and institution, a trust, a local body or a Housing Finance Corporation (hereinafter referred to as the agency/agencies); or
+- (b) for purchasing a dwelling site for the purpose of construction of a dwelling house or a ready-built dwelling house/flat from any individual or
+- (bb) for purchasing dwelling house/flat on ownership basis from a promoter governed by the provisions of any Flats or Apartments Ownership Act or by any other analogous or similar law of the Central Government or the State Government as may be in force in any State or area for the time being and who intends to construct or constructs dwelling house or block of flats.
+
+
+
+
+
+The member is required to pay to the said promoter in advance for financing the said construction of the house/flat;
+
+Provided that the member has entered into an agreement with the promoter as may be required under the Flats or Apartments Ownership Act or any other analogous or similar law of the Central Government or State Government which may be in force in any State or any area and the said agreement is registered under the Indian Registration Act, 1908; or
+
+(c) for the construction of a dwelling house on a site owned by the member or the spouse of the member or jointly by the member and the spouse, or for completing/continuing the construction of a dwelling house already commenced by the member or the spouse, on such site, [or for purchase of a house/flat in the joint name of the member and the spouse under clauses (a) and (b) above].
+
+Explanation I: In this paragraph, the expression, 'co-operative society' means a society registered or deemed to be registered under the Cooperative Societies Act, 1912 (2 of 1912), or under any other law for the time being in force in any State relating to co-operative societies.
+
+Explanation 2: [***]
+
+(2) (a) For the purpose of purchase of a site for construction of house thereon, the amount of withdrawal shall not exceed the member's basic wages and dearness allowance for twenty-four months or the member's own share of contributions, together with the employer's share of contributions with interest thereon or the actual cost towards the acquisition of the dwelling site, whichever is the least.
+
+(b) For the purpose of acquisition of a ready built house/flat or for construction of a house/flat, the withdrawal shall not exceed the member's basic wages and dearness allowance for thirty-six months or the member's own share of contributions, together with the employer's share of contributions, with interest thereon, or the total cost of construction, whichever is the least.
+
+(3) (a) No withdrawal under this paragraph shall be granted unless:
+
+- (i) the member has completed five years' membership of the Fund;
+- (ii) the member's own share of contributions, with interest thereon in the amount standing to his credit in the Fund is not less than one thousand rupees;
+- (iii) a declaration from the member that the dwelling site or the dwelling house/flat or the house under construction is free from encumbrances and the same is under title of the member and/or the spouse:
+
+Provided that where a dwelling site or a dwelling house/flat is mortgaged to any of
+
+www.epfindia.gov.in 60
+
+
+
+
+
+
+the agencies, referred to in clause (a) of sub-paragraph (1), solely for having obtained funds for the purchase of a dwelling house/flat or for the construction of a dwelling house including the requisition of a suitable site for the purpose, such a dwelling site or a dwelling house/flat, as the case may be, shall not be deemed to be an encumbered property:
+
+Provided further that a land acquired on a perpetual lease or on lease for a period of not less than 30 years for constructing a dwelling house/flat or a house/flat built on such a leased land, shall also not be deemed to be an encumbered property:
+
+Provided also that where the site of the dwelling house/flat is held in the name of any agency, referred to in clause (a) of sub-paragraph (1) and the allottee is precluded from transferring or otherwise disposing of, the house/flat, without the prior approval of such agency, the mere fact that the allottee does not have absolute right of ownership of the house/flat and the site is held in the name of the agency, shall not be a bar to the giving of a withdrawal under clause (a) of sub-paragraph (1), if the other conditions mentioned in this paragraph are satisfied.
+
+(b) No withdrawal shall be granted for purchasing a share in a joint property or for constructing a house on a site owned jointly except on a site owned jointly with the spouse.
+
+(4) Subject to the limitation prescribed in sub-paragraph (2)—
+
+- (a) where the withdrawal is for the purchase of a dwelling house/flat or a dwelling site from an agency referred to in clause (a) of sub-paragraph (1), the payment of withdrawal shall not be made to the member but shall be made direct to the agency in one or more instalments, as may be authorised by the member;
+- (b) where the withdrawal is for the construction of a dwelling house, it may be sanctioned in such number of instalments as the Commissioner or where so authorised by the Commissioner, any officer subordinate to him, thinks fit;
+- (c) [***]
+- (d) where the withdrawal is for purchasing a dwelling house/flat on ownership basis from a promoter as referred to in clause (bb) of sub-paragraph (1), the payment or withdrawal shall be made to the member in one or more instalments as may be required to be paid by the said promoter and as authorised by the member.
+
+Explanation: "Promoter" includes a person who constructs or causes to be constructed a block or building of flats or apartments for the purpose of selling some or all of them to other persons or to a Company, Co-operative Society or other association of persons and his assignees and where the person who builds
+
+
+
+
+
+
+and the person who sells are different persons, the term "promoter" includes both.
+
+(5) Where a withdrawal is sanctioned for the construction of a dwelling house, the construction shall commence within six months of the withdrawal of the first instalment and shall be completed within twelve months of the withdrawal of the final instalment. Where the withdrawal is sanctioned for the purchase of a dwelling house/flat or for the acquisition of a dwelling site, the purchase or acquisition, as the case may be, shall be completed within six months of the withdrawal of the amount: Provided that this provision shall not be applicable in case of purchase of a dwelling house/flat on hire-purchase basis and in cases where a dwelling site is to be acquired or houses are to be constructed by a co-operative society on behalf of its members with a view to their allotment to the members.
+
+(6) Except in the cases specified in sub-paragraphs (7) [and (7A)], no further withdrawal shall be admissible to a member under this paragraph.
+
+(7) An additional withdrawal up to [twelve months] basic wages and dearness allowance or the member's own share of contributions with interest thereon, in the amount standing to his credit in the Fund, whichever is less, may be granted in one instalment only, for additions, substantial alterations or improvements necessary to the dwelling house owned by the member or by the spouse or jointly by the member and the spouse: Provided that the withdrawal shall be admissible only after a period of five years from the date of completion of the dwelling house.
+
+(7A) A further withdrawal equivalent to the amount of difference between the amount of withdrawal admissible to a member under sub-paragraph (2) above as on the date of fresh application and the amount of withdrawal that was drawn by a member under this paragraph any time during 6 years preceding 3rd October, 1981, may be granted to such a member (i) who had availed of the earlier withdrawal for purchase of a dwelling site and has now proposed to construct a dwelling house on the land so purchased or (ii) who had availed of the earlier withdrawal for making initial payment towards the allotment/purchase of a house/flat from any agency as referred to in clause (a) of sub-paragraph (1) above and has now proposed to avail of an advance for completing the transaction to get the sole ownership of the house/flat so purchased or (iii) who had availed the earlier advance for construction of a house but could not complete the construction in the time due to lack of funds.
+
+(7B) A further withdrawal up to twelve months basic wages and dearness allowance or member's own share of contribution with interest thereon in his account, whichever is the least, may be granted for addition, alteration, improvement or repair of the dwelling house owned by the member or by the spouse or jointly by the member and the spouse, after ten years of withdrawal, under sub-paragraph (7).
+
+
+
+
+
+
+(8)  [***].
+
+(9)  (a) If the withdrawal granted under this paragraph exceeds the amount actually spent for the purpose for which it was sanctioned, the excess amount shall be refunded by the member to the Fund in one lump sum within thirty days of the finalisation of the purchase, or the completion of the construction of, or necessary additions, alterations, or improvements to a dwelling house, as the case may be. The amount so refunded shall be credited to the employer's share of contributions in the member's account in the Fund to the extent of withdrawal granted out of the said share and the balance, if any, shall be credited to the member's share of contributions in his account.
+
+(b)  In the event of the member not having been allotted a dwelling site/dwelling house/flat, or in the event of the cancellation of an allotment made to the member and of the refund of the amount by the agency, referred to in clause (a) of sub-paragraph (1) or in the event of the member not being able to acquire the dwelling site or to purchase the dwelling house/flat from any individual or to construct the dwelling house, the member shall be liable to refund to the Fund in one lump sum and in such manner as may be specified by the Commissioner, or where so authorised by the Commissioner, any officer subordinate to him, the amount of withdrawal remitted under this paragraph to him or, as the case may be, to the agency referred to in clause (a) of sub-paragraph (1).
+
+The amount so refunded shall be credited to the employer's share of contributions in the member's account in the Fund, to the extent of withdrawal granted out of the said share, and the balance, if any, shall be credited to the member's own share of contributions in his account.
+
+(10) If the Commissioner, or where so authorised by the Commissioner, any officer subordinate to him is satisfied that the withdrawal granted under this paragraph has been utilised for a purpose other than that for which it was granted or that the member refused to accept an allotment or to acquire a dwelling site or that the conditions of withdrawal have not been fulfilled or that there is reasonable apprehension that they will not be fulfilled wholly or partly; or that the excess amount will not be refunded in terms of clause (a) of sub-paragraph (9) or that the amount remitted back to the member by any agency referred to in clause (a) of sub-paragraph (1), will not be refunded in terms of clause (b), of sub-paragraph (9), the Commissioner, or where so authorised by the Commissioner, any officer subordinate to him, shall forthwith take steps to recover the amount due with penal interest thereon at the rate of two per cent per annum from the wages of the member in such number of instalments as the Commissioner, or where so authorised by the Commissioner, any officer subordinate to him, may determine. For the purpose of such recovery the Commissioner or where so authorised by the Commissioner, any officer subordinate to him may direct the employer to deduct such instalment from the wages of the member and on receipt of such direction, the employer shall deduct accordingly. The amount so deducted, shall be remitted by the employer to the
+
+
+
+
+
+
+Commissioner, or where so authorised by the Commissioner, any officer subordinate to him within such time and in such manner as may be specified in the direction. The amount so refunded, excluding the penal interest, shall be credited to the employer's share of contributions in the member's account in the Fund to the extent of withdrawal granted out of the said share and the balance, if any, shall be credited to the member's own share of contributions in his account. The amount of penal interest shall, however, be credited to the Interest Account:
+
+Provided that the recovery of withdrawal under sub-paragraph (10) shall be restricted to cases where the recovery has been ordered by the sanctioning authority while the member is in service.
+
+# (11)
+
+Where any withdrawal granted under this paragraph has been misused by the member, no further withdrawal shall be granted to him under this paragraph within a period of three years from the date of grant of the said withdrawal or till the full recovery of the amount of the said withdrawal, with penal interest thereon, whichever is later.
+
+# 68-BB. Withdrawal from the Fund for repayment of loans in special cases
+
+# (1)
+
+(a) The Commissioner, or, where so authorised by the Commissioner, any officer subordinate to him, may on an application from a member, sanction from the amount standing to the credit of the member in the Fund, *[withdrawal] for the repayment, wholly or partly, of any outstanding principal and interest of a loan [obtained in the name of the member or spouse of the member or jointly by the member and spouse from a State Government, registered Co-operative Society, State Housing Board, Nationalised Banks, Public Financial Institutions], Municipal Corporation or a body similar to the Delhi Development Authority solely for the purposes specified in subparagraph (i) of paragraph 68B.*
+
+(b) The amount of *[withdrawal] shall not exceed the member's basic wages and dearness allowance for [thirty-six months]* or his own share of contributions together with the employer's share of contributions, with interest thereon, in the member's account in the Fund or the amount of outstanding principal and interest of the said loans, whichever is least.
+
+# (2)
+
+No *[withdrawal]* shall be sanctioned under this paragraph unless—
+
+- (a) the member has completed *[ten]* years membership of the Fund; and
+- (b) the member's own share of contributions, with interest thereon, in the amount standing to his credit in the Fund, is one thousand rupees or more; and
+- (c) the member produces a certificate or such other documents, as may be prescribed by the Commissioner or where so authorised by the Commissioner, any officer subordinate to him from such agency, indicating the particulars of the member, the loan granted, the
+
+
+
+
+
+
+
+outstanding principal and interest of the loan and such other particulars as may be required.
+
+(3) The payment of the [withdrawal] under this paragraph shall be made direct to such agency on receipt of an authorisation from the member in such manner as may be specified by the Commissioner, or where so authorised by the Commissioner, any officer subordinate to him, and in no event the payment shall be made to the member.
+
+# 68BC. Withdrawal/financing from the Fund for the purchase of a dwelling house/flat or the construction of a dwelling house including the acquisition of a suitable site by the Member
+
+(1) Notwithstanding anything contained in Paragraph 68B or 68BB, where a member desires to purchase a dwelling house/flat, including a flat in a building owned jointly with others (outright or on hire purchase basis), or for construction of a dwelling house including the acquisition of a suitable site for the purpose, from the Central Government, a State Government, or a Housing Agency under a Housing Scheme as notified by the Central Provident Fund Commissioner from time to time, may apply in such form and in such manner, as may be prescribed by the Commissioner, for withdrawal from the amount standing to the credit of the member in the Fund, and the Commissioner, or where so authorized by the Commissioner, any officer subordinate to him, on receipt of such application may sanction such amount not exceeding the members own share of contributions with interest thereon (and the employers share of contributions with interest thereon to his credit) or the cost of the acquisition of the proposed property whichever is less by debiting to the members account:
+
+Provided that no withdrawal under this paragraph shall be granted unless—
+
+- (i) the member has completed five years membership of the Fund; and
+- (ii) the share of contributions with interest thereon in the amount standing to the credit in the Fund of the member/or together with the spouse who is also a member, is not less than twenty thousand rupees:
+
+Provided further that the Commissioner may, on sufficient grounds being shown through an application from a member in this regard, reduce the period as stipulated in (i) above to three years for withdrawal from the amount standing to the credit of the member in the Fund, for the repayment, wholly or partly, of any outstanding principal and/or interest of a loan obtained in the name of the member or spouse of the member or jointly by the member and spouse from any Government or a Housing Agency under Housing Scheme so notified, solely for the purposes specified in this proviso and the Commissioner, or where so authorized by the Commissioner, any officer subordinate to him, on receipt of such application may sanction such amount not exceeding the member's own share of
+
+
+
+
+
+
+contributions with interest thereon alongwith with the employers share of contributions with interest thereon, or the amount requested by the member or the outstanding balance in the loan account, whichever is less, by debiting to the members account:
+
+Provided also that, where a member desires that monthly instalments for the repayment, wholly or partly, of any outstanding principal and/or interest of a loan obtained in the name of the member or spouse of the member or jointly by the member and spouse, solely for the purposes specified in this proviso, may be paid from the amount standing to the credit of the member in the Fund, he may apply in such form and in such manner, as may be prescribed by the Commissioner and on receipt of such an application, the Commissioner or where so authorized by the Commissioner, any other officer subordinate to him may make payment by the 15th of each month on behalf of the member to the Government or a Housing Agency concerned, as the case may be:
+
+Provided also that when the membership of the member ceases to exist, to, where the amount standing in the credit of the member's account is not sufficient to pay the monthly instalment for any month, the Commissioner or where so authorized by the Commissioner any other officer subordinate to him shall not be liable to pay the monthly instalment or any late fee and/or interest, if any monthly instalment could not be remitted in time.
+
+1. The withdrawal or finance for the purchase of a dwelling house/flat or a dwelling site or construction of a dwelling house, under sub-paragraph (1) and proviso thereunder, shall not be made to the member in any event and shall be made direct to the Government or Housing Agency concerned only, as the case may be, in one or more instalments, as may be authorized by the member.
+2. No further withdrawal under this sub-paragraph (1) above shall be admissible to a member unless he has discharged his liability towards the existing loan.
+3. 1. (a) If the withdrawal or finance granted under this paragraph exceeds the amount actually spent for the purpose for which it was sanctioned, the excess amount shall be refunded by the member to the Fund in one lump sum within thirty days of the finalisation of the purchase, or the completion of the construction of, or necessary additions or alterations to a dwelling house/flat, as the case may be.
+2. (b) The amount so refunded under sub-paragraph (a) shall be credited to the employer's share of contributions in the member's account in the Fund to the extent of withdrawal granted out of the said share and the balance, if any, shall be credited to the member's share of contributions in his account.
+3. (c) In the event of the member not having been allotted a dwelling site/dwelling house/flat or in the event of the cancellation of an allotment made to the member by the Government or the Housing Agency, referred to in sub-paragraph (1) above, then the Government or the said Housing Agency, to which
+
+
+
+
+
+
+the amount so withdrawn had been given shall be liable to refund the amount to the Fund in one lump sum in such manner as may be specified by the Commissioner, within a period not exceeding fifteen days from the date of such cancellation or non-allotment.
+
+(d) The amount so refunded under clause (c) shall be credited to the employer's share of contributions in the members account in the Fund, to the extent of withdrawal granted out of the said share, and the balance, if any, shall be credited to members own share of contributions in his account.
+
+(5) The Commissioner or where so authorized by the Commissioner any officer subordinate to him has reason to believe that the amount remitted to the Housing Agency under the Housing Scheme under this paragraph has been misutilized and will not be refunded, he shall forthwith take steps to recover the amount due with interest including penal interest thereon at the rate to be notified by the Commissioner from time to time and the amount so recovered shall be credited to member's account in the Fund to the extent of withdrawal granted out of the said account and interest thereon and the remaining amount, if any shall be credited to Administrative Account.
+
+(6) The Commissioner may notify such Housing Agency be debarred from participation in the Housing Scheme.
+
+# 68BD. Withdrawal of, and financing from, the Fund for purchase of dwelling house or flat or the construction or a dwelling house
+
+(1) Notwithstanding anything contained in paragraph 68B or 68BB or 68BC, where a member of the Fund, who,-
+
+- (a) being a member of a cooperative society or a society registered for housing purpose under any law for the time being in force and such society has at least ten members of the Fund, and
+- (b) desires to purchase a dwelling house or flat including flat in a building owned jointly with others, outright or on hire-purchase basis, or for construction of a dwelling house including the acquisition of a suitable site for the purpose, from the Central Government, a State Government, or any housing agency under any housing scheme or any promoter or builder for the members,
+
+may apply in such form and in such manner, as may be prescribed by the Commissioner, for withdrawal from the amount standing to the credit of the member in the Fund.
+
+(2) The Commissioner, or any other officer subordinate to him where so authorized by the Commissioner, on receipt of such application may, sanction such amount not exceeding the member’s own share of contribution with interest thereon and the employer’s share of contribution with interest thereon to his credit or the cost of the acquisition of the proposed property whichever is less by
+
+www.epfindia.gov.in
+
+
+
+
+
+
+debiting to the member’s account:
+
+Provided that the amount of the withdrawal shall not exceed ninety percent of the employer’s share of contribution and interest thereon and employee’s share of contribution and interest thereon;
+
+Provided further that the member and the society as the case may be, shall be, liable in accordance with the terms of the agreement with the housing agency or promoter and the Commissioner shall not be responsible or liable or make himself liable for the act of the parties to the agreement.
+
+# (3)
+
+No withdrawal under this paragraph shall be granted-
+
+- (i) unless the member has membership of the Fund for at least three years;
+- (ii) more than once;
+- (iii) unless the share of contribution with interest thereon in the amount standing to the credit in the Fund of the member/or together with the spouse who is also a member, is not less than twenty thousand rupees:
+
+# (4)
+
+Where a member desires and authorizes that monthly installment for the repayment, wholly or partly, of any outstanding principal or interest of a loan obtained in the name of the member or spouse of the member or jointly by the member and spouse may be paid from the amount standing to the credit of the member in the Fund, and payment may be made on behalf of the member to the Government or a housing agency or primary lending agency or bank concerned as the case may be:
+
+Provided that when the membership of the member ceases to exist, or, where the amount standing to in the credit of the member’s account is not sufficient to pay the monthly installment for any month, the Commissioner or where so authorized by the Commissioner any other officer subordinate to him shall not be liable to pay the monthly installment or any late fee or interest or other such charges.
+
+# (5)
+
+The withdrawal for the purchase of a dwelling house or flat or a dwelling site or construction of a dwelling house under sub-paragraph (1) and (2), shall not be made to the member in any event and shall be made direct to the Cooperative Society, Central Government, a State Government or any Housing Agency under any Housing Scheme or any promoter or builders as the case may be, in one or more installments, as may be authorized by the member.
+
+# (6)
+
+(a) If the withdrawal or finance granted under this paragraph exceeds the amount actually spent for the purpose for which it was sanctioned, the excess
+
+
+
+
+
+amount shall be refunded by the member to the Fund in one lump sum within thirty days of the finalization of the purchase, or the completion of the construction of, or necessary additions or alterations to a dwelling house or flat, as the case may be;
+
+(b) The amount so refunded under sub-paragraph (a) shall be credited to the employer’s share of contribution in the member’s account in the Fund to the extent of withdrawal granted out of the said share and the balance, if any, shall be credited to the member’s share of contribution in his account;
+
+(c) In the event of the member failing to get allotted a dwelling site or dwelling house or flat or in the event of the cancellation of an allotment, made to the member by the Cooperative Society, the Central Government, a State Government, or any Housing Agency under any Housing Scheme or any promoter or builder to which the amount so withdrawn has been given the member shall be liable to ensure the refund of the amount to the Fund in one lump sum in such manner as may be specified by the Commissioner, within a period not exceeding fifteen days from the date of such cancellation or non-allotment;
+
+(d) The amount so refunded under clause (c) shall be credited to the employer’s share of contribution in the member’s account in the Fund, to the extent of withdrawal granted out of the said share, and the balance, if any, shall be credited to the member’s own share of contribution in his account.
+
+# 68C. [***]
+
+# 68D. [***]
+
+# 68-E Computation of period of membership
+
+In computing the period of membership of the Fund of a member under paragraphs 68-B, 68-BB and 68-K, his total service exclusive of periods of breaks under the same employer of factory/establishment before this scheme applied to him, as well as the periods, of his membership, whether of the Fund or of private provident fund of exempted factories/establishments or as an employee exempted under paragraph 27 or 27A as the case may be, immediately preceding the current membership of the Fund, shall be included:
+
+Provided that the member has not severed his membership by withdrawal of his provident fund during such period.
+
+# 68-F. [***]
+
+# 68-G. [***]
+
+# 68-GG.[***]
+
+
+
+
+# 68-H Grant of advances in special cases
+
+(1) In case a factory or other establishment has been locked up or closed down for more than fifteen days and its employees are rendered unemployed without any compensation or in case an employee does not receive his wages for a continuous period of two months or more, these being for reasons other than a strike, the Commissioner or where so authorised by the Commissioner, any officer subordinate to him may on an application from an employee, who is a member of the Fund, in such form as may be prescribed, authorise payment to him, of one or more non-recoverable advances from his provident fund account not exceeding from his own total contribution including interest thereon upto the date the payment has been authorised.
+
+(1-A) In case a provident fund member is discharged or dismissed or retrenched by the employer and such discharge or dismissal or retrenchment is challenged by the member and the cases are pending in a Court of Law, an officer not below the rank of Assistant Provident Fund Commissioner may on an application from the member in such form as may be prescribed, authorise payment to him of one or more non-recoverable advance from his Provident Fund Account not exceeding fifty percent of his own share of contribution with interest thereon standing to his credit in the fund on the date of such authorisation.
+
+(2) (a) In case the factory or other establishment continues to remain locked up or closed down for more than six months, the Commissioner, or where so authorised by the Commissioner any officer subordinate to him, on being satisfied that a member who has already been granted one or more non-recoverable advances from his provident fund account under sub-paragraph (1) still continues to be unemployed and no compensation is likely to be paid to him at an early date, may, on receipt of an application therefor in such form as may be prescribed in this behalf, authorise payment to the member of one or more recoverable advances from his provident fund account up to the extent of 100% of the employers' total contribution including interest thereon upto the date on which the payment has been authorized: Provided that if the factory or establishment in which the member is employed remains closed for more than five years for reasons other than strike, recoverable advance may be converted into non-recoverable advance on receipt of a request in writing from the member concerned.
+
+(b) The advance granted under clause (a) shall be interest-free.
+
+(c) The advance granted under clause (a) shall be recovered by deductions from the wages of the member in such instalments [subject to a maximum of thirty-six instalments] as may be determined by the Commissioner [or where so authorised by the Commissioner, any officer subordinate to him]. The recovery shall commence from the first wages paid to the member immediately after the re-start of the factory or establishment.
+
+
+
+
+
+
+(d) The employer shall remit the amount so deducted to the Fund within such time and in such manner as may be specified by the Commissioner [or where so authorised by the Commissioner, any officer subordinate to him]. The amount on receipt, shall be credited to the member's account in the Fund.
+
+Explanation: For the purpose of grant of advance under this paragraph, the establishment may be closed legally, illegally, with permission or without permission, so long as the establishment is closed.
+
+# 68HH. Non-refundable advance to a member in case of continuous un-employment for a period of not less than one month
+
+The Commissioner or, where so authorized by the Commissioner, any other officer subordinate to him, may permit a member, on ceasing to be an employee in any factory or establishment to which the Act applies, a non-refundable advance up to seventy-five percent of the amount standing to his credit in the Fund, if he has not been employed in any factory or other establishment for a continuous period of not less than one month immediately preceding the date on which he makes an application for such non-refundable advance.
+
+# 68-I. [***]
+
+# 68-J. Advance from the Fund for illness in certain cases
+
+1. A member may be allowed non-refundable advance from his account in the Fund in cases of:
+1. hospitalisation lasting for one month or more, or
+2. major surgical operation in a hospital, or
+3. suffering from T.B., leprosy, [paralysis, cancer, mental derangement or heart ailment] and having been granted leave by his employer for treatment of the said illness.
+2. Deleted.
+3. A member may be allowed non-refundable advance from his account in the Fund for the treatment of a member of his family who has been hospitalised, or requires hospitalization, for one month or more:
+1. for a major surgical operation, or
+2. for the treatment of T.B., leprosy, [paralysis, cancer, mental derangement or heart ailment]:
+4. The amount advanced under this paragraph shall not exceed the member's [basic wages and dearness allowance] for [six] months or his own share of contribution with interest in the Fund, whichever is less.
+5. [***]
+
+
+
+
+
+
+(6) No advance shall be granted to the member under sub-paragraph (1) or sub-paragraph (3) unless he produces a self-declaration to that effect.
+
+# 68K. Advance from the Fund for marriages or post-matriculation education of children
+
+(1) The Commissioner or where so authorised by the Commissioner, an officer
+
+
+
+
+
+
+subordinate to him, may on an application from a member, authorise payment to him or her of a non-refundable advance from his or her provident fund account not exceeding fifty per cent of his or her own share of contribution, with interest thereon, standing to his or her credit in the Fund, on the date of such authorisation, for his or her own marriage, the marriage of his or her daughter, son, sister or brother or for the post-matriculation education of his or her son or daughter.
+
+1. No advance under this paragraph shall be sanctioned to a member unless—
+2. - (a) he has completed seven years' membership of the Fund; and
+- (b) the amount of [his own share of contributions] with interest thereon standing to his credit in the Fund is rupees one thousand or more.
+
+Not more than [three] advances shall be admissible to a member under this paragraph.
+3. [1]
+
+# 68L. Grant of advances in abnormal conditions
+
+1. The Commissioner [or where so authorised by the Commissioner, any officer subordinate to him] may, on an application from a member whose property, movable or immovable, has been damaged by a calamity of exceptional nature, such as floods, earthquakes or riots, authorise payment to him from the provident fund account, a non-refundable advance of [rupees five thousand] or fifty per cent of his own total contribution including interest there on standing to his credit on the date of such authorisation, whichever is less, to meet any unforeseen expenditure:
+2. No advance under sub-paragraph (1) shall be paid unless—
+
+
+
+
+
+
+# 68-M. Grant of advance to members affected by cut in the supply of electricity
+
+A member may be allowed a non-refundable advance from his account in the Fund, if there is a cut in the supply of electricity to a factory or establishment in which he is employed on the following conditions, namely: —
+
+- (a) The advance may be granted only to a member whose total wages for any one month commencing from the month of January, 1973 were three fourths or less than three-fourths of wages for a month.
+- (b) The advance shall be restricted to the amount of wages for a month or [Rs.300] or the amount standing to the credit of the member in the fund as his own share of contribution with interest thereon, whichever is less.
+- (c) No advance shall be paid unless the State Government certify that the cut in the supply of electricity was enforced in the area in which the factory or establishment is located and the employer certifies that the fall in the member's pay was due to cut in the supply of electricity.
+- (d) Only one advance shall be admissible under this paragraph.
+
+Explanation: 'Wages' means for the purpose of this paragraph, basic wages and dearness allowance excluding lay-off compensation, if any.
+
+# 68-N. Grant of advance to members who are physically handicapped
+
+1. A member, who is physically handicapped, may be allowed a non-refundable advance from his account in the Fund, for purchasing an equipment required to minimize the hardship on account of handicap.
+2. No advance shall be paid to the member under sub-paragraph (1) unless he produces a self-declaration to that effect.
+3. The amount advanced under this paragraph shall not exceed the member's basic wages and dearness allowance for six months or his own share of contributions with interest thereon or the cost of the equipment, whichever is the least.
+4. No second advance under this paragraph shall be allowed within a period of three years from the date of payment of an advance allowed under this paragraph.
+
+# 68-NN. Withdrawal within one year before the retirement
+
+The Commissioner, or where so authorised by the Commissioner, any officer subordinate to him, may, on an application from a member in such form as may be prescribed, permit withdrawal of upto 90 per cent of the amount standing at
+
+
+
+
+
+
+# 68-NNN. Option for withdrawal at the age of 55 years for investment in Varishtha Pension Bima Yojana
+
+The Commissioner, or where so authorized by the Commissioner, any officer subordinate to him, may, on an application from a member in such form as may be prescribed, permit withdrawal of upto 90 per cent of the amount standing at his credit at any time after attaining the age of 55 years by the member, to be transferred to the Life Insurance Corporation of India for investment in Varishtha Pension Bima Yojana.
+
+# 68-O. Payment of withdrawal or advance
+
+The payment of withdrawal or advance under paragraphs 68-B, 68-H, 68-J, 68-K, 68-L, 68-M and [68-N and 68-NN] of the Scheme may be made, at the option of the member—
+
+- (i) by postal money order, or
+- (ii) by deposit in the payee's bank account in any Scheduled Bank or in Co-operative Bank (including the Urban Co-operative Bank) or any post office, or
+- (iii) through the employer.
+
+# 69. Circumstances in which accumulations in the Fund are payable to a member
+
+(1) A member may withdraw the full amount standing to his credit in the Fund—
+
+- (a) On retirement from service after attaining of the age of 55 years:
+- Provided that a member, who has not attained the age of 55 years at the time of termination of his service, shall also be entitled to withdraw the full amount standing to his credit in the Fund if he attains the age of 55 years before the payment is authorized;
+
+(b) on retirement on account of permanent and total incapacity for work due to bodily or mental infirmity duly certified by the medical officer of the establishment, or where an establishment has no regular medical officer, by a registered medical practitioner designated by the establishment;
+- (c) immediately before migration from India for permanent settlement abroad [or for taking employment abroad];
+- (d) on termination of service in the case of mass or individual
+
+
+
+
+
+
+retrenchment;
+
+[***]
+
+(dd) on termination of service under a voluntary scheme of retirement framed by the employer and the employees under a mutual agreement specifying, inter alia, that notwithstanding the provisions contained in sub-clause (a) of clause (oo) of section 2 of the Industrial Disputes Act, 1947, excluding voluntary retirements from the scope of definition of "retrenchment" such voluntary retirements shall for the purpose be treated as retrenchments by mutual consent of the parties;
+
+(e) in any of the following contingencies, provided the actual payment shall be made only after completing a continuous period of not less than [two months] immediately preceding the date on which a member makes the application for withdrawal:—
+
+- (i) where a factory or other establishment is closed but certain employees who are not retrenched, are transferred by the employer to other factory or establishment, not covered under the Act;
+- (ii) where a member is transferred from a covered factory or other establishment to another factory or other establishment not covered under the Act, but is under the same employer; and
+- (iii) where a member is discharged and is given retrenchment compensation under the Industrial Disputes Act, 1947 (14 of 1947) or;
+
+(f) [***]
+
+(1-A) For the purpose of clause (d) of sub-paragraph (1)—
+
+- (i) where an establishment has been closed, the certificate of any registered medical practitioner may be accepted;
+- (ii) where there is no medical officer in the establishment, the employer shall designate a registered medical practitioner stationed in the vicinity of the establishment; or
+- (iii) where the establishment is covered by the Employees' State Insurance Scheme, medical certificate from a medical officer of the Employees' State Insurance Dispensary with which, or from the Insurance Medical Practitioner with whom, the employee is registered under that Scheme, shall be produced:
+
+Provided that where by mutual agreement of employers and employees, a Medical Board exists for any establishment or a group of establishments, certificate issued by such Medical Board may also be accepted for the purpose of this paragraph:
+
+Provided further that it shall be open to the Regional Commissioner to demand from the member a fresh certificate from a Civil Surgeon or any doctor acting on
+
+
+
+
+
+
+his behalf where the original certificate, produced by him gives rise to suspicion regarding its genuineness:
+
+Provided further the entire fee of the Civil Surgeon or any doctor acting in his behalf shall be paid from the Fund in case the findings of the Civil Surgeon or any doctor acting on his behalf agree with the original certificate and that where such findings do not agree with the original certificate, only half of the fee shall be paid from the Fund and the remaining half shall be debited to the member's account;
+
+(iv) A member suffering from tuberculosis or leprosy [or cancer] even if contracted after leaving the service of an establishment on grounds of illness but before payment has been authorised, shall be deemed to have been permanently and totally incapacitated for work.
+
+(2) In cases other than those specified in sub-paragraph (1), the Central Board, or where so authorised by the Central Board, the Commissioner, or where so authorised by the Commissioner, any officer subordinate to him, may permit a member to withdraw the full amount standing to his credit in the fund on ceasing to be an employee in any establishment to which the Act applies provided that he has not been employed in any factory or other establishment to which the Act applies for a continuous period of not less than two months immediately preceding the date on which he makes an application for withdrawal. The requirement of two months waiting period shall not, however, apply in cases of female members resigning from the services of the establishment for the purpose of getting married.
+
+(3) [***]
+
+(4) [***]
+
+(5) Any member who withdraws the amount due to him under subparagraph (2) shall, on obtaining re-employment in a [factory or other establishment] to which the Scheme applies, be required to qualify again for the membership of the Fund and on qualifying for membership shall be treated as a fresh member thereof.
+
+(6) [***]
+
+# 70. Accumulations of a deceased member to whom payable
+
+On the death of a member before the amount standing to his credit has become payable, or where the amount has become payable before payment has been made—
+
+- if a nomination made by the member in accordance with paragraph 61 subsists, the amount standing to his credit in the Fund or that part thereof to which the nomination relates, shall become payable to his nominee or nominees in accordance with such nomination; or
+
+
+
+
+
+
+(ii) if no nomination subsists or if the nomination relates only to a part of the amount standing to his credit in the Fund, the whole amount or the part thereof to which the nomination does not relate, as the case may be, shall become payable to the members of his family in equal shares:
+
+Provided that no share shall be payable to—
+
+- (a) sons who have attained maturity;
+- (b) sons of a deceased son who have attained maturity;
+- (c) married daughters whose husbands are alive;
+- (d) married daughters of a deceased son whose husbands are alive;
+
+if there is any member of the family other than those specified in clauses (a), (b), (c) and (d):
+
+Provided further that the widow or widows, and the child or children of a deceased son shall receive between them in equal parts only the share which that son would have received if he had survived the member and had not attained the age of majority at the time of the member's death.
+
+(iii) in any case to which the provisions of clauses (i) and (ii) do not apply the whole amount shall be payable to the person legally entitled to it.
+
+Explanation: For the purpose of this paragraph a member's posthumous child, if born alive, shall be treated in the same way as a surviving child born before the member's death.
+
+# 70A. Payment of provident fund accumulations in the case of a person charged with the offence of murder
+
+1. If a person, who in the event of the death of a member of the fund is eligible to receive provident fund accumulations of the deceased member under paragraph 70, is charged with the offence of murdering the member or abetting in the commission of such an offence, his claim to receive the share of provident fund shall remain suspended till the conclusion of the criminal proceedings initiated against him for such offence.
+2. If on the conclusion of the criminal proceedings referred to in subparagraph (1), the person concerned is,—
+
+
+
+
+
+(b) acquitted of the murdering or abetting the murder of the member, his share of provident fund shall be payable to him.
+
+# 72. Payment of Provident Fund
+
+1. When the amount standing to the credit of a member, becomes payable, it shall be the duty of the Commissioner to make prompt payment as provided in this scheme. In case there is no nominee in accordance with this Scheme, [or there is no person entitled to receive such amount under sub-paragraph (ii) of paragraph 70] the Commissioner may, if the amount to the credit of the Fund does not exceed [Rs. 10,000] and if satisfied after enquiry about the title of the claimant, pay such amount to the claimant.
+2. If any portion of the amount, which has become payable, is in dispute or doubt, the Commissioner shall make prompt payment of that portion of the amount in regard to which there is no dispute or doubt, the balance being adjusted as soon as may be possible.
+3. If the person to whom any amount is to be paid under this Scheme is a minor for whose estate a guardian under the Guardians and Wards Act, 1890 (8 of 1890), has been appointed, the payment shall be made to such guardian. Where no guardian under the Guardians and Wards Act, 1890 (8 of 1890), has been appointed, the payment shall be made to the guardian, if any, appointed under the sub-paragraph (4A) of paragraph 61. Where no guardian under the Guardians and Wards Act, 1890 (8 of 1890) or under sub-paragraph (4A) of paragraph 61 has been appointed, the payment shall be made to the natural guardian and in the absence of a natural guardian, to such person as the Commissioner, where the amount does not exceed [Rs. 20.0] or the Chairman of the Central Board, if the amount exceeds [Rs. 20.0], considers to be the proper person representing the minor and the receipt of such person for the amount paid shall be a sufficient discharge thereof.
+4. If the person to whom any amount is to be paid under this Scheme is a lunatic for whose estate a manager under the Indian Lunacy Act, 1912 (4 of 1912), has been appointed, the payment shall be made to such manager. If no such manager has been appointed, the payment shall be made to the natural guardian of the lunatic and in the absence of any such natural guardian, to such person as the Commissioner, where the amount does not exceed [Rs. 20,000] or the Chairman of the Central Board, if the amount exceeds [Rs. 20,000] considers to be the proper person representing the lunatic and the receipt of such person for the amount paid shall be a sufficient discharge thereof.
+5. If it is brought to the notice of the Commissioner that a posthumous child is to be born to the deceased member he shall retain the amount which will be due to the child in the event of its being born alive and distribute the balance. If subsequently no child is born or the child is still-born, the amount retained shall be distributed in accordance with the provisions of paragraph 70.
+
+www.epfindia.gov.in
+
+
+
+
+# (5)
+
+(a) Every employer shall, at the time when a member of the Fund leaves the service, be required to get the claim application, for payment of provident fund in cases specified in clauses (a) to (dd) of sub-paragraph (1), of paragraph 69, duly filled in and attested, and to forward the said application [within five days of its receipt] to the Commissioner or any other officer authorised by him in this behalf.
+
+(b) Every employer shall, at the time when a member of the Fund leaves the service, be required to get the claim application, for payment of provident fund in cases specified in clause (e) of subparagraph (1), and in sub-paragraph (2) of paragraph 69, duly filled in and attested, and to give the said application to the member, for submission, on completion of the period specified in sub-paragraph (2) of paragraph 69, [provided the member continues to remain unemployed in a factory or other establishment to which the Act applies] either through post or in person with proper identification, to the Commissioner or any other officer authorised by him in this behalf.
+
+(c) Every employer shall, on the death of the member and on receipt of an application for receiving the amount standing to the credit of such member, forward forthwith [but not later than five days of its receipt] the said application to the Commissioner or any other officer authorised by him in this behalf.
+
+(d) If the applicant is unable to send the claim application through the employer or duly attested by him, for any reason whatsoever, he may forward it to the Commissioner or any other officer authorised by him in this behalf, and wherever necessary, the Commissioner or any other officer authorised by him in this behalf may forward such application to the employer and the employer shall be required, to return it within five days of its receipt.
+
+(i) The payment may be made to the person, to whom payment is to be made, through electronic or digital fund transfer system of any Scheduled commercial bank or any post office.
+
+(e) Every employer shall, at the time when the employee joins the service, be required to get the application for transfer of provident fund in cases specified in sub-paragraphs (1) and (2) of paragraph 57, duly filled in and attested, and to forward the said application within five days of its receipt to the Commissioner or any other officer authorized by him in this behalf.
+
+Provided that notwithstanding anything contained in this sub-paragraph, the Central Provident Fund Commissioner may permit a member to submit his claim, in such form and manner, and on such terms and conditions as may be specified by him in this regard, directly to the Commissioner.
+
+# (6)
+
+Any amount becoming due to a member as a result of: (i) supplementary
+
+
+
+
+
+
+
+contribution from the employer in respect of leave wages/arrears of pay, instalment of arrear contribution received in respect of a member whose claim has been settled on account but which could not be remitted for want of latest address, or (ii) accumulation in respect of any member who has either [retired from service after attaining age fifty-five years or migrated abroad permanently] or died, [but no application for withdrawal under paragraph 69 or 70 has been preferred] within a period of [thirty six months] from the date it becomes payable, or if any amount remitted to a person, is received back undelivered, and it is not claimed within a period of [thirty six months] from the date it becomes payable, shall be transferred to an account to be called the [Inoperative Account]: Provided that in the case of a claim for the payment of the said balance, the amount shall be paid by debiting the [Inoperative Account].
+
+Provided further that if any amount becoming due to a member, as a result of supplementary contributions on account of litigation or default by the establishment or a claim which has been settled but is received back undelivered not attributable to the member, shall not be transferred to the Inoperative Account.
+
+# (7) The claims, complete in all respects submitted along with the requisite documents shall be settled and benefit amount paid to the beneficiaries within 30 days from the date of its receipt by the Commissioner. If there is any deficiency in the claim, the same shall be recorded in writing and communicated to the applicant within 20 days from the date of receipt of such application. In case the Commissioner fails without sufficient cause to settle a claim complete in all respects within 20 days, the Commissioner shall be liable for the delay beyond the said period and penal interest at the rate of 12% per annum may be charged on the benefit amount and the same may be deducted from the salary of the Commissioner.
+
+# 73. Annual statement of member's account
+
+(1) As soon as possible after the close of each period of currency of contribution card the Commissioner shall send to each member through the employer of the [factory or other establishment] in which he was last employed a statement of his account in the Fund showing the opening balance at the beginning of the period, amount contributed during the year, the total amount of interest credited at the end of the period or debited in the period and the closing balance at the end of the period.
+
+(2) Members should satisfy themselves as to the correctness of the annual statement and any error should be brought to the notice of the Commissioner within six months of the receipt of the statement.
+
+# 73A. [* * *]
+
+
+
+
+
+# CHAPTER IX
+
+# MISCELLANEOUS
+
+# 74. Annual report on the work and activities of the Board and its audited accounts
+
+(1) The annual report on the work and activities of the Central Board and its audited accounts together with the report of Comptroller and Auditor General of India shall be considered by the Executive Committee and shall be placed for adoption at a meeting of the Board to be held before the Tenth of December following the close of the financial year concerned:
+
+Provided that if the report of the Comptroller and Auditor General is not received by the first of December following the close of the financial year to which it pertains, the audited accounts together with report of the Comptroller and Auditor General may be placed before the Executive Committee/Board separately from the annual report on the work and activities of the Board.
+
+(2) The annual report on the work and activities of the Board and the audited accounts of the Board together with the report of the Comptroller and Auditor General of India, as adopted by the Board, shall be authenticated by affixing the common seal of the Board and four copies thereof together with the comments of the Board on the report of the Comptroller and Auditor General shall be submitted to the Central Government not later than Twentieth of December following the close of the financial year concerned for being placed before Parliament:
+
+Provided that if the report of the Comptroller and Auditor General is not received, by the first of December following the close of the financial year to which it pertains, the audited accounts together with the report of the Comptroller and Auditor General and the comments of the Board thereon shall be submitted to the Central Government separately from the annual report on the work and activities of the Board.
+
+# 75. Issue of copies of Member's Accounts, Annual Reports, etc.
+
+The Commissioner shall furnish copies of the member's account and of the Annual Reports of the Fund to any employer or member on written application and on payment of such fees and subject to such conditions as may be specified by the Central Board in this behalf.
+
+# 76. Punishment for failure to pay contribution, etc
+
+If any person—
+
+www.epfindia.gov.in 82
+
+
+
+
+(a) deducts or attempts to deduct from the wages or other remuneration of a member the whole or any part of the employer's contribution, or
+
+(b) fails or refuses to submit any return, statement or other document required by this Scheme or submits a false return, statement or other document, or makes a false declaration, or
+
+(c) obstructs any Inspector or other official appointed under the Act or this Scheme in the discharge of his duties or fails to produce any record for inspection by such Inspector or other official, or
+
+(d) is guilty of contravention of or non-compliance with any other requirement of this Scheme,
+
+he shall be punishable with imprisonment which may extend to [one year, or with fine which may extend to four thousand rupees], or with both.
+
+# 77. Conduct of business of the Central Board
+
+(1) All orders and other instruments shall be made and executed in the name of the Central Board and shall be authenticated by such person and in such manner as the Central Board may specify.
+
+(2) All contracts and assurances of property shall be expressed to be made by the Central Board and shall be executed on behalf of the Central Board by the Commissioner.
+
+# 78. Power to issue directions
+
+(1) The Central Government may, from time to time, issue such directions to State Governments, the Central Board or any other authority under this Act or Scheme as it may consider necessary for the proper implementation of the Scheme or for the purpose of removing any difficulty which may arise in the administration thereof including difficulties in the matter of payment of accumulations in the Fund to members after they cease to be such members.
+
+(2) [***]
+
+(3) The authority to whom any directions are issued under this paragraph shall comply with such directions.
+
+# 79. Special provisions relating to factories or other establishments in respect of which applications for exemption are received
+
+Notwithstanding anything contained in this Scheme, the Commissioner may in relation to [factory or other establishments] in respect of which an application for exemption under section 17 of the Act has been received, relax, pending the disposal of the application the provisions of this Scheme in such manner as he
+
+
+
+
+
+
+# 79A. Filing application for review
+
+Any person aggrieved by an order made under sub-section (1) of section 7-A and who desires to obtain a review of such order may apply for a review of that order, as provided in sub-section (1) of section 7B of the Act in Form 9 to the officer who passed such order:
+
+Provided that no application for review of an order will be entertained by the concerned officer, unless the application for review is submitted within 45 days from the date of making such order.
+
+# 79B. Time limit for communicating the views of the Central Board to the appropriate Government on a proposal for grant of exemption to an establishment
+
+When an appropriate Government consults the Central Board with regard to its proposal for grant of exemption to an establishment under section 17 of the Act, the Board shall give its views on the proposal within a period of three months from the date on which such proposal is received by it.
+
+# 79C. Composition of the Board of Trustees of the exempted establishments and the terms and conditions of service of the trustees
+
+1. The Board of Trustees of the establishment granted exemption under clause (a) of sub-section (2) of section 17 of the Act shall consist of not less than two and not more than six representatives each of the employers and employees. The number of trustees shall be so fixed, as to afford, as far as possible, representation to employees of each branch or department of the establishment. In the case of common provident fund for a group of two or more establishments, there will be at least one representative each from the participating establishments:
+2. The employer shall nominate his representatives on the Board of Trustees from amongst the officers employed in managerial or administrative capacity in the establishment.
+3. The representatives of the employees, on the Board of Trustees shall be nominated or elected in the following manner, namely: —
+
+
+
+
+
+
+# 4
+
+The employer shall nominate one of his representatives on the board to be the Chairman thereof. In the events of equality of votes, the Chairman may exercise a casting vote.
+
+# 5
+
+The terms of office of the Trustee shall be five years from the date of election or nomination. An outgoing Trustee shall be eligible for re-election or re-nomination. A Trustee elected or nominated to fill the casual vacancy shall hold office for the remaining period of the term of the trustee in whose place he is elected or nominated.
+
+# 6
+
+A person shall be disqualified from being a trustee if he,
+
+- (a) is declared to be of unsound mind by a competent court; or
+- (b) has been convicted of an offence involving moral turpitude; or
+- (c) is an undischarged insolvent; or
+- (d) is an employer of an exempted or un-exempted establishment which has defaulted in payment of any dues under the Act.
+
+# 7
+
+A person shall cease to be a Trustee of the Board if,
+
+- (a) he ceases to be an employee of the establishment; or
+- (b) he ceases to be a member of the provident fund of the establishment; or
+- (c) the union on whose behalf he was elected or nominated, ceases to be recognised by the employer; or
+- (d) he fails to attend three consecutive meetings of the Board without obtaining leave of absence from the Chairman of the Board of Trustees. The Chairman may, however, condone the absence of a trustee if he is satisfied that there were reasonable grounds for such absence.
+
+
+
+
+
+
+# 8
+
+The procedure for election or nomination of trustees, the quorum at the meeting of the Board, records to be kept of the transaction of business and all other matters not specifically provided for in the Scheme shall be regulated as per the provisions of the approved provident fund rules of the establishment and the guidelines for the functioning of the Board of Trustees of the exempted establishments which the Commissioner may specify from time to time.
+
+# 9
+
+In case of any dispute or doubt, the matter shall be referred to the Regional Provident Fund Commissioner in whose jurisdiction the head office of the establishment is located. The decision of the Commissioner in the matter shall be final and binding.
+
+
+
+
+
+# CHAPTER X
+
+# 80. Special provisions in the case of newspaper establishments and newspaper employees
+
+The Scheme shall, in its application to newspaper establishments and newspaper employees, as defined in section 2 of the Working Journalists (Conditions of Service) and Miscellaneous Provisions Act, 1955, come into force on the 31st day of December, 1956 and be subject to the modifications mentioned below:
+
+1. In Chapters I to IX, references to 'industry', 'factories' and 'employees' shall be construed as references to 'newspaper industry', 'newspaper establishments' and 'newspaper employees', respectively;
+2. For paragraph 2(f), the following shall be substituted, namely: —
+
+"(f) 'excluded employee' means,
+- (i) an employee who, having been a member of the Fund, has withdrawn the full amount of his accumulations in the Fund under clause (a) or (c) of sub-paragraph (1) of paragraph 69;
+- (ii) an apprentice.
+
+Explanation: 'Apprentice' means a person who, according to the standing orders applicable to the newspaper establishment concerned, is an apprentice or who is declared to be an apprentice by the authority specified in this behalf by the appropriate Government.
+
+3. For para.26, the following shall be substituted, namely: —
+# 26. Class of employees entitled and required to join the Fund
+
+1. (a) Every newspaper employee employed to do any work in, or in relation to, any newspaper establishment to which this Scheme applies, other than an excluded employee, shall be entitled and required to become a member of the Fund from the beginning of the months following that in which this paragraph comes into force in such establishment, if on the date of such coming into force he has completed [three months' continuous service] or has actually worked for not less than [60 days during a period of three months or less] in that newspaper establishment or in other such establishment [to which the Act applies] under the same employer or partly in one and partly in the other [or has been declared permanent in any such factory or other newspaper establishment, whichever is the earliest].
+2. (b) Every newspaper employee employed to do any work, in or in relation to, any newspaper establishment to which this Scheme applies other than an excluded employee, shall be entitled and required to become a member of the Fund from the beginning of the month following that in which this
+
+www.epfindia.gov.in 87
+
+
+
+
+paragraph comes into force in such newspaper establishment, if on the date of such coming into force, such employee is a subscriber to a provident fund maintained in respect of the establishment or in respect of another establishment [to which the Act applies] under the same employer.
+
+1. Where the Scheme applies to a newspaper establishment on the expiry or the cancellation of an order of exemption under section 17 of the Act, every employee, who, but for the exemption, would have become and continued as a member of the Fund shall become a member of the Fund forthwith.
+2. After this paragraph comes into force in a newspaper establishment, every newspaper employee thereof, other than an excluded employee, who has not become a member already shall also be entitled and required to become a member from the beginning of the month following that in which he completes [three months' continuous service] or has actually worked for not less than [60 days during a period of three months or less], in that establishment or in another such establishment [to which the Act applies] under the same employer or partly in one and partly in the other [or has been declared permanent in any such factory or other newspaper establishment, whichever is the earliest.
+3. An excluded employee referred to in clause (ii) or paragraph 2(f) of a newspaper establishment to which this Scheme applies shall, on ceasing to be such an employee be entitled and required to become a member of the Fund from the beginning of the month following that in which he ceases to be such employee, provided that on the date on which he ceases to be an excluded employee, he has completed [three months' continuous service] or has actually worked for not less than [60 days during a period of three months or less] in the newspaper establishment or in another such establishment [to which the Act applies] under the same employer or partly in one and partly in the other [or has been declared permanent in any such newspaper establishment, whichever is the earliest].
+4. On re-election of a class of newspaper employees exempted under paragraph 27-A to join the Fund or on the expiry or cancellation of an order under that paragraph, every newspaper employee, who but for such exemption would have become and continued as a member of the Fund, shall forthwith become a member thereof.
+5. Every newspaper employee who is a member of a private provident fund maintained in respect of an exempted newspaper establishment and who, but for the exemption would have become and continued as a member of the Fund shall, on joining a newspaper establishment to which this Scheme applies, become a member of the Fund forthwith.
+6. Notwithstanding the other provisions of this paragraph, a Commissioner may, on a joint request in writing of any newspaper employee of a newspaper establishment to which this Scheme applies and his
+
+
+
+
+
+
+employer, enroll such employee as a member who shall, thereafter, be entitled to the benefits and shall be subject to the conditions of the Fund:
+
+Provided that the employer gives an undertaking, in writing, that he shall pay the administrative charges payable and comply with all statutory provisions of the Act and this Scheme in respect of such employee.
+
+# Explanation I:
+
+For purposes of this paragraph the provision contained in clause (e) of paragraph (2) shall not apply and "continuous service" shall mean uninterrupted service but include service which is interrupted by sickness, accident, authorised leave, strike which is not illegal or involuntary unemployment.
+
+# Explanation II:
+
+In computing the period of work for [60 days] under this paragraph:
+
+- (a) periods of involuntary unemployment caused by stoppage of work due to shortage of raw materials or fuel, changes in the line of production, breakdown of machinery or any other similar cause;
+- (b) periods of authorised leave;
+- (c) in the case of female employees, period of maternity leave for any number of days not exceeding twelve weeks; and
+- (d) Sundays and holidays intervening the days of actual work,
+
+shall also be deemed to be days on which the employee has worked in the [establishment].
+
+# 26A. Retention of membership
+
+A member of the Fund shall continue to be a member until he withdraws under paragraph 69 the amount standing to his credit in the Fund or is covered by a notification of exemption under section 17 of the Act or an order of exemption under paragraph 27 or 27-A.
+
+Explanation.—In the cases of a claim for refund by a member under sub-paragraph (2) of paragraph 69 the membership of the Fund shall be deemed to have been terminated from the date the payment is authorised to him by the authority specified in this behalf by the Commissioner irrespective of the date of claim.
+
+# 26B. Resolution of doubts
+
+If any question arises as to whether a newspaper employee is entitled or required to become or continue as member or as to the date from which he is entitled or required to become a member, the same shall be referred to the Regional Provident Fund Commissioner:
+
+www.epfindia.gov.in
+
+
+
+
+
+
+Provided that both the employer and the newspaper employee shall be heard before passing any order in the matter.
+
+# Special provisions in the case of cine-workers
+
+The Scheme shall, in its application to cine-workers as defined in clause (c) of section 2 of the Cine-Workers and Cinema Theatre Workers (Regulation of Employment) Act, 1981 (50 of 1981), be subject to the following modifications, namely:
+
+1. In Chapters I to IX references to "industry" and "employees" shall be construed as references to "film production" and "cine-workers", respectively;
+2. For sub-paragraph (f) of paragraph 2, the following sub-paragraph shall be substituted, namely:
+3. - (f) "excluded employee" means:
+- - (i) a cine-worker who having been a member of the Fund, has withdrawn the full amount of his accumulations in the fund under clause (a) or clause (c) of sub-paragraph (1) of paragraph 69;
+- (ii) a "cine-worker" whose wages at the time he is otherwise entitled to become a member of the Fund exceeds one thousand and six hundred rupees per month and where such remuneration is by way of a lump sum exceeding fifteen thousand rupees.
+
+Explanation: "Wages" means "wages" as defined in clause (k) of section 2 of the Cine Workers and Cinema Theatre Workers (Regulation of Employment) Act, 1981 (50 of 1981);
+
+For paragraph 26, the following paragraphs shall be substituted:
+
+
+
+
+
+
+paragraph comes into force in such film production unit, if on the date of such coming into force, such employee is a subscriber to a provident fund maintained in respect of the establishment or in respect of another establishment under the same employer.
+
+(2) Where the scheme applies to a film production unit on the expiry or cancellation of an order of exemption under section 17 of the Act, every cine-worker who, but for the exemption would have become and continued as a member of the Fund shall become a member of the fund forthwith.
+
+(3) After this paragraph comes into force in a film production unit, every cine-worker thereof, other than an excluded employee, who has not become a member already shall also be entitled and required to become a member from the beginning of the month following that in which he completes work in three feature films in that production unit or in another such unit (to which the Act applies) under the same producer or partly in one and partly in the other.
+
+(4) An excluded employee referred to in clause (ii) of paragraph 2(f) of a film production unit to which this scheme applies shall, on ceasing to be such an employee be entitled and required to become a member of the Fund from the beginning of the month following that on which he ceases to be such employee provided that on the date on which he ceases to be an excluded employee, he had worked in not less than three feature films in that production unit to which the Act applies under the same producer or partly in one and partly in the other.
+
+(5) On re-election of a class of cine-workers exempted under paragraph 27-A to join the Fund or on the expiry or cancellation of an order under that paragraph, every cine-worker, who but for such exemption would have become and continued as a member of the fund, shall forthwith become a member thereof.
+
+(6) Every cine-worker who is a member of a private Provident Fund maintained in respect of an exempted film production unit and who but for the exemption, would have become and continued as a member of the Fund shall, on joining a film production unit to which this scheme applies, become a member of the Fund forthwith.
+
+(7) Notwithstanding, the other provisions of this paragraph, a Commissioner may, on a joint request in writing of any cine-worker of a film production unit to which this Scheme applies and his producer, enroll such cine-worker as a member who shall, thereafter, be entitled to the benefits and shall be subject to the conditions of the fund:
+
+Provided that the producer gives an undertaking in writing, that he shall pay the administrative charges payable and comply with all statutory provisions of the Act and this Scheme in respect of such cine-worker.
+
+
+
+
+
+
+# 26-A. Retention of membership
+
+A member of the Fund shall continue to be a member until he withdraws under paragraph 69 the amount standing to his credit in the Fund or is covered by a notification of exemption under section 17 of the Act or an order of exemption under paragraph 27 or 27A.
+
+Explanation.—In the case of a claim for refund by a member under sub-paragraph (2) of paragraph 69, the membership of the fund shall be deemed to have been terminated from the date of the payment is authorised to him by the authority specified in this behalf by the Commissioner irrespective of the date of claim.
+
+# 26-B. Resolution of doubts
+
+If any question arises as to whether a cine-worker is entitled or required to become or continue as member, or as to the date from which he is entitled or required to become a member, the same shall be referred to the Regional Provident Fund Commissioner:
+
+Provided that both the employer and the newspaper employee shall be heard before passing any order in the matter.
+
+
+
+
+
+
+# 81. Special provisions in the case of cine-Workers.
+
+The Scheme shall, in its application to Cine-Workers as defined in clause (c) of section 2 of the Cine-Workers and Cinema Theatre Workers (Regulation of Employment) Act, 1981 (50 of 1981), be subject to the following modification, namely:
+
+1. In chapters I to IX, references to ‘industry‘ and ‘employees‘ shall be construed as references to ‘film production‘ and ‘cine-workers‘, respectively.
+2. For sub-paragraph (f) of paragraph 2, the following sub-paragraph shall be substituted, namely:
+
+A cine-worker, who having been a member of the Fund, has withdrawn the full amount of his accumulations, in the Fund under clause (a) or clause (c) of sub-paragraph (1) of paragraph 69;
+3. A ‘cine-worker‘, whose wages at the time he is otherwise entitled to become a member of the Fund exceeds one thousand and six hundred rupees per month and where such remuneration is by way of a lump sum exceeding fifteen thousand rupees.
+
+Explanation. – ‘Wages‘ means ‘wages‘ as defined in clause (k) of section 2 of the Cine-Workers and Cinema Theatre Workers (Regulation of Employment) Act, 1981 (50 of 1981).
+
+For paragraph 26, the following paragraph shall be substituted, namely:
+“26. Class of employees entitled and required to join the fund.
+
+1. Every cine-worker to whom this Scheme applies, other than an excluded employee, shall be entitled and required to become a member of the Fund from the beginning of the month following that in which this paragraph comes into force, if on the date of such coming into force he had worked in not less than three feature films with one or more producers.
+2. Explanation. – ‘Feature film‘ means ‘feature film‘ as defined in clause (f) of section 2 of the Cine-Workers and Cinema Theatre Workers (Regulation of Employment) Act, 1981 (50 of 1981).
+
+Every cine-worker employed to do any work, in or in relation to any feature film in a film production unit to which this Scheme applies, other than an excluded employee, shall be entitled and required to become a member of the Fund from the beginning of the month following that in which this paragraph comes into force in such film production unit, if on the date of such coming into force, such employee is a subscriber to a Provident Fund maintained in respect of the establishment or in respect of another establishment under the same employer.
+
+
+
+
+
+
+(2) Where the Scheme applies to a film production unit on the expiry or cancellation of an order of exemption under section 17 of the Act, every cine-worker who, but for the exemption would have become and continued as a member of the Fund shall become a member of the Fund forthwith.
+
+(3) After this paragraph comes into force in a film production unit, every cine-worker thereof, other than an exclude employee, who has not become a member already shall also be entitled and required to become a member from the beginning of the month following that in which he completes work in three feature films in that production unit or in another such unit (to which the Act applies) under the same producer or partly in one and partly in the other.
+
+(4) An excluded employee referred to in clause (ii) of paragraph 2 (f) of a film production unit to which this Scheme applies shall, on ceasing to be such an employee be entitled and required to become a member of the Fund from the beginning of the month following that on which he ceases to be such employee, provided that on the date on which he ceases to be an excluded employee, he had worked in not less than three feature films in that production unit to which the Act applies under the same producer or partly in one and partly in the other.
+
+(5) On re-election of a class of cine-workers exempted under paragraph 27-A to join the fund or on the expiry or cancellation of an order under that paragraph, every cine-worker, who for such exemption would have become and continued as a member of the fund, shall forthwith become a member thereof.
+
+(6) Every cine-worker who is a member of a private provident Fund maintained in respect of an exempted film production unit and who, but for the exemption, would have become and continued as a member of the Fund shall, on joining a film production unit to which this Scheme applies, become a member of the Fund forthwith.
+
+(7) Notwithstanding the other provisions of this paragraph, a Commissioner may, on a joint request in writing of any cine-worker of a film production unit to which this Scheme applies and his producer, enrol such cine-worker as a member who shall, thereafter, be entitled to the benefits and shall be subject to the conditions of the Fund:
+
+Provided that the producer gives an undertaking, in writing, that he shall pay the administrative charges payable and comply with all statutory provisions of the Act and this Scheme in respect of such cine worker.
+
+# 26-A Retention of membership.
+
+A member of the Fund shall continue to be a member until he withdraws under paragraph 69 the amount standing to his credit in the Fund or is covered by a notification of exemption under section 17 of the Act or an order exemption under paragraph 27 or 27-A.
+
+Explanation. – In the case of a claim for refund by a member under sub-paragraph (2) of paragraph 69, the membership of the fund shall be
+
+
+
+
+
+
+
+deemed to have been terminated from the date the payment is authorised to him by the authority specified in this behalf by the Commissioner irrespective of the date of claim.
+
+# 1[26B. Resolution of doubts.
+
+If any question arises as to whether a Cine-Worker is entitled to, or required to become, or continue as, a member, or as to the date from which he is entitled or required to become a member, the same shall be referred to the Regional Provident Fund Commissioner who shall decide the same:
+
+*[Provided that both the film produced and the Cine-Workers shall be heard before passing final order in the matter.]
+
+# 82. Special provisions in respect of certain employees.
+
+The Scheme shall, in its application to an employee who is a person with disability under the persons with Disabilities (Equal Opportunities, Protection of Right and Full Participation) Act, 1995 (1 of 1996) and under the National Trust for Welfare of Persons with Autism, Cerebral Palsy, mental Retardation and Multiple Disabilities Act, 1999 (44 of 1999) respectively, be subject to the following modifications namely:-
+
+1. For paragraph 2 (f) the following shall be substituted, namely:
+2. 1. For clause (1) of paragraph 2, the following clause shall be substituted namely:
+
+In paragraph 30, after sub-paragraph (3), the following proviso shall be inserted, namely:
+3. “Provided that the Central Government shall contribute the employer’s share of contribution upto a maximum period of three years from the date of commencement of membership of the Fund, in respect of an employee who is a person with disability. Employed directly by the principal employer or through a contractor.”
+
+In paragraph 34, after the first proviso, the following proviso shall be inserted, namely:
+
+
+
+
+
+
+# (4)
+
+In paragraph 36, after sub-paragraph (1), the following sub-paragraph shall be inserted, namely:-
+
+“(1A) every employer shall send the commissioner, within fifteen days of every month commencing from the 1st day of April, 2005, in such form as the
+
+# (5)
+
+In paragraph 38, in sub-paragraph (1), after the second proviso, the following proviso shall be inserted, namely:-
+
+“Provided also that the Central Government shall pay the employer’s share of contribution in respect of an employee who is a person with disability. Upto a maximum period of three years from the date of commencement of membership of the Fund.”
+
+# 83, Special provision in respect of International Workers.
+
+The Scheme shall, in its application to international Workers as defined in this paragraph, be subject to the following modifications, namely:-
+
+1. For clause (f) of paragraph 2, the following clause shall be substituted, namely :-
+2.
+(f) “excluded employee “ means, -
+
+1. an International Worker, who is contributing to a social security programme of his country of origin, either as a citizen or resident, with whom India has entered into a social security agreement on reciprocity basis and enjoying the status of detached worker for the period and terms, as specified in such an agreement; or
+2. an International Worker, who is contributing to a social security programme of his country of origin, either as a citizen or resident, with whom India has entered into a bilateral comprehensive economic agreement containing a clause on social security prior to 1st October, 2008, which specifically exempts natural persons of either country to contribute to the social security fund of the host country;
+
+After clause (i) of paragraph 2, the following clause shall be substituted, namely:-
+3.
+(ja) “International Worker” means,-
+
+1. an Indian employee having worked or going to work in a foreign country with which India has entered into a social security agreement and being eligible to avail the benefits under a social security programme of that country, by virtue of the eligibility gained or going to gain, under the said agreement;
+2. an employee other than an Indian employee, holding other than an Indian Passport, working for an establishment in India to which the Act applies;
+
+For Paragraphs 26, 26-A and 25-B, the following paragraphs shall be substituted, namely :-
+
+
+
+
+
+
+# 26. Class of international Workers entitled and required to join the Fund.
+
+(1) (a) Every international Worker (other than an excluded employee), employed as on first day of October, 2008, in an establishment to which this Scheme applies, shall be entitled and required to become a member of the Fund with effect from the first day of November, 2008.
+
+(2) Every International Worker (other than an excluded employee), employed after the 1st day of October, 2008 in an establishment to which this Scheme applies, who has not become a member already shall be entitled and required to become a member of the Fund from the date of his joining the establishment.
+
+(3) Where the Scheme applies to an establishment on the expiry or cancellation of an order of exemption under section 17 of the Act, every international Worker who, but for the exemption would have become and continued as a member of the Fund shall become a member of the Fund forthwith.
+
+(4) An excluded employee of an establishment to which this Scheme applies shall, on ceasing to be such an employee, be entitled and required to become a member of the Fund from the date he ceases to be such employee.
+
+(5) On re-election of a class of International Workers exempted under paragraph 27-A to join the Fund or on the expiry of cancellation of an order under that paragraph, every International Worker, who but for such exemption would have become and continued as a member for the Fund, shall forthwith become a member thereof.
+
+(6) Every International Worker who is a member of a private provident fund maintained in respect of an exempted establishment and who, but for the exemption, would have a become and continued as a member of the Fund shall, on joining an establishment to which this Scheme applies, become a member of the Fund forthwith.
+
+# 26-A. Retention of membership.
+
+A member of the Fund shall continue to be a member until he withdraws under paragraph 69 the amount standing to his credit in the Fund or is covered by a notification of exemption under section 17 of the Act or an order of exemption under paragraph 27 or 27-A or the benefits are settled in terms of the relevant provisions under the social security agreement entered into between India and his country of origin.
+
+# 26-B. Resolution of doubts.
+
+If any question arises as to whether an International Worker is entitled to, or required to become, or continue as, a member, or as to the date from which he is entitled or required to become a member, the same shall be referred to the Regional Provident Fund Commissioner who shall decide the same:
+
+Provided that both the employer and the International worker shall be heard before passing any order in the matter and such hearing, if any, shall be in India.
+
+4. In paragraph 29, in sub-paragraph (1), after the points, the following provision shall be inserted, namely:
+
+Provided further that where wages are paid in a currency other than in the Indian Rupee, the rate of conversion of that currency shall be the telegraphic transfer buying rate offered by the State Bank of India established under the State Bank of
+
+
+
+
+
+India Act, 1995 (23 of 1994)
+
+for buying such currency on the last working of the month for which the wages are due.
+
+# 5. For paragraph 36, the following paragraph shall be substituted, Namely:-
+
+“36. Duties of employer. – (1) Every employer of an establishment to which this scheme applies shall send to the commissioner within fifteen days from the application of the Scheme to such establishment, a consolidated return in such form as the Commissioner may specify, of the International Workers (indicating distinctly the nationality of each and every International Worker) required or entitled to become members of the Fund showing the basic wage, retaining allowance (if any) and dearness allowance including the cash value of any food concession paid to each of such International Worker:
+
+Provided that if there is no International Worker who is required or entitled to become a member of the Fund, the employer shall send a ‘Nil’ return.
+
+(2) Every employer shall send to the Commissioner, within fifteen days of the close of each month, a return –
+
+- (a) in Form 5, of the International Workers qualifying to become members of the Fund for the first time during the preceding month together with the declarations in Form 2 furnished by such qualifying International Workers (indicating distinctly the nationality of each and every International Worker), and
+- (b) In such form as the Commissioner may specify, of the International Workers (indicating distinctly the nationality of each and every International Worker) leaving service of the employer during the preceding month:
+
+Provided that if there is no International Worker qualifying to become a member of the Fund for the first time or there is no International Worker leaving service of the employer during the preceding month, the employer shall send a ‘Nil’ return.
+
+1[Provided further that a copy of the forms as mentioned in clauses (a) and (b) above shall be provided by the employer to concerned employees immediately after joining the service or at the time of leaving the service, as the case may be.]
+
+# 6. For paragraph 69, the following paragraph shall be substituted, namely:-
+
+“69. Circumstances in which accumulations in the Fund are payable to an International Worker. – (1) An International Worker may withdraw the full amount standing to his credit in the Fund –
+
+- (a) On retirement from service in the establishment at any time after the attainment of 58 years:
+- (b) on retirement on account of permanent and total incapacity for work due to bodily or mental infirmity duly certified by the medical officer of the establishment, or where an establishment has no regular medical officer, by a registered medical practitioner designated by the establishment:
+
+Provided that-
+
+- (i) Where an establishment has been closed, the certificate of any registered medical practitioner may be accepted;
+
+www.epfindia.gov.in 98
+
+
+
+
+(ii) where the establishment is covered by the Employees’ State insurance Scheme, medical certificate from a medical officer of the Employees’ State insurance Dispensary with which or from the Insurance Medical Practitioner with whom the employee is registered under the Scheme, shall be produced;
+
+(iii) where by mutual agreement of employers and employees, a Medical Board exists for any establishment or a group of establishments, a certificate issued by such medical Board may also be accepted for the purposes of this subparagraph.
+
+(2) It shall be open to the Regional Commissioner to demand from the member a fresh certificate from a Civil Surgeon or any doctor acting on his behalf where the original certificate produced by him under clause (b) of sub-paragraph (1) gives rise to suspicion regarding its genuineness:
+
+Provided that the entire fee the Civil Surgeon or any doctor acting in his behalf shall be paid from the Fund in case the findings of the Civil Surgeon or any doctor acting on his behalf agree with the original certificate, and that where such findings do not agree with the original Certificate, only half of the fee shall be paid from the fund and the remaining half shall be debited to the member’s account.
+
+(3) A member suffering from tuberculosis or leprosy or cancer, even if contracted after leaving the service of an establishment on ground of illness but before payment has been authorised, shall be deemed to have been permanently and totally incapacitated for work.
+
+[(4) In respect of a member covered under social security agreement entered into between Government of India and any other country, on ceasing to be an employee in an establishment covered under the Act.]
+
+# 7. For paragraph 72, the following paragraph shall be substituted, namely:
+
+“72. Payment of Provident Fund. – (1) When the amount standing to the credit of a member becomes payable, it shall be the duty of the Commissioner to make prompt payment as provided in the Scheme.
+
+[(2) The due amount in respect of the member shall be payable in the payee's bank account directly or through the employer.]
+
+(3) In all the other cases, the amount due shall be payable to the credit of the payee’s bank account in India.
+
+# 8. After paragraph 78, the following paragraph shall be inserted, namely:
+
+“78-A. Performing certain special functions under social security agreements. – The Commissioner shall perform all such functions as are assigned to the Employees’ Provident Fund Organisation under a social security agreement entered into between the Government of India and any other country, in manner and as per the terms specified therein.]
+
+
+
+
+
+# Document Reference: K.V.Deepa vs The State Of Tamilnadu on 22 January, 2026
+--- Ingestion Timestamp: Sun Jun 28 19:54:00 2026 ---
+
+
+
+
+
+# Document Reference: Labour Welfare - Code on Wages 2019 - Enacted by Government of India
+--- Ingestion Timestamp: Sun Jun 28 19:54:43 2026 ---
+
+
+# ABSTRACT
+
+# LABOUR WELFARE AND SKILL DEVELOPMENT DEPARTMENT
+
+G.O. (Ms.) No.36 Dated: 11.04.2022
+
+ou6 6(LD, U(56o - 28 666602053
+
+# Read:
+
+1. The Gazette of India - Extraordinary No.48, dated 08.08.2019 issued by Ministry of Law and Justice, Government of India, New Delhi.
+2. From the Commissioner of Labour Letter No.L2/34221/2020, dated 24.11.2020 and 22.10.2021.
+
+# ORDER:
+
+The Ministry of Law and Justice, Government of India, New Delhi has notified the Code on Wages, 2019 (Central Act No.29 of 2019), an Act to amend and consolidate the laws relating to wages and bonus and matters connected therewith or incidental thereto, vide the Gazette of India notification first read above.
+
+In the letters 2nd read above, the Commissioner of Labour has sent a proposal for formulation of State Rule namely, Code on wages (Tamil Nadu) rules, 2022 under Code on Wages, 2019 (Central Act No.29 of 2019).
+
+After careful examination, the Government have decided to accept the above said proposal of the Commissioner of Labour.
+
+Accordingly, the appended Preliminary Notification shall be published in the Tamil Nadu Government Gazette Extraordinary dated 11.04.2022.
+
+The Works Manager, Government Central Press, Chennai - 600 001 is requested to publish the Preliminary Notification and send 75 copies of the Gazette Notification to the Government and 75 copies to the Commissioner of Labour, Chennai directly.
+
+(BY ORDER OF THE GOVERNOR)
+
+R.KIRLOSH KUMAR,
+SECRETARY TO GOVERNMENT.
+
+To
+The Works Manager, Government Central Press,
+Chennai - 600 001.
+(for publication in the Tamil Nadu Government Gazette Extraordinary)
+
+
+
+
+
+
+# 2
+
+The Principal Secretary / Commissioner of Labour,
+
+Chennai - 600 006.
+
+The Director of Industrial Safety and Health,
+
+Chennai - 600 032.
+
+Copy to
+
+The Hon'ble Chief Minister Office,
+
+Chennai - 600 009.
+
+The Special Personal Assistant to the Hon'ble Minister (LW&#x26;SD),
+
+Chennai - 600 009.
+
+The Law Department,
+
+Chennai - 600 009.
+
+The Senior Private Secretary to the Secretary to Government,
+
+Labour Welfare and Skill Development Department,
+
+Chennai - 600 009.
+
+All Sections,
+
+Labour Welfare and Skill Development Department,
+
+Chennai - 600 009.
+
+Stock File/Spare copy/Clean Copy to file (C.No.15806/H2/2020)
+
+//FORWARDED BY ORDER//
+
+E. Pramen Cumay
+
+SECTION OFFICER.uto4 2a2
+
+drimn
+
+114/2-
+
+
+
+
+
+
+©                            [Regd. No. TN/CCN/467/2012-14.
+GOVERNMENT OF TAMIL NADU     [R. Dis. No. 197/2009.
+2022                         [Price: Rs. 20.00 Paise.
+
+# OF TAMIL NADU
+
+# GOVERNMENT GAZETTE
+
+# EXTRAORDINARY
+
+# PUBLISHED BY AUTHORITY
+
+No. 214] CHENNAI, MONDAY, APRIL 11, 2022
+
+Panguni 28, Pilava, Thiruvalluvar Aandu–2053
+
+Part III—Section 1(a)
+
+General Statutory Rules, Notifications, Orders, Regulations, etc., issued by Secretariat Departments.
+
+# NOTIFICATIONS BY GOVERNMENT
+
+# LABOUR WELFARE AND SKILL DEVELOPMENT DEPARTMENT
+
+# CODE ON WAGES (TAMIL NADU) RULES, 2022.
+
+[G.O. Ms. No. 36, Labour Welfare and Skill Development (H2), 11 April 2022, பங்குனி 2053.]
+
+No. SRO A-8(a)/2022.
+
+The following draft rules, which the Government of Tamil Nadu proposes to make in exercise of the powers conferred by section 67 of the Code on Wages, 2019 (Central Act 29 of 2019) read with section 24 of the General Clauses Act, 1897 (Central Act X of 1897) and in supersession of the – (i) The Tamil Nadu Payment of Wages Rules, 1937, (ii) The Tamil Nadu Payment of Wages (Unclaimed Amounts) Rules, 1949 and (iii) The Minimum Wages (Tamil Nadu) Rules, 1953, made by the Governor of Tamil Nadu in exercise of the powers conferred by the Payment of Wages Act 1936 (Central Act IV of 1936) and the Minimum Wages Act, 1948 (Central Act XI of 1948), as the case may be, which are repealed by section 69 of the said Code on Wages, 2019, except as respects things done or omitted to be done before such supersession, are hereby notified, as required by sub-section (1) of said section 67, for information of all persons likely to be affected thereby and the notice is hereby given that the said draft rules will be taken into consideration after the expiry of a period of forty-five days from the date on which the copies of the Official Gazette in which this Notification is published are made available to the public.
+
+Objections and suggestions, if any, may be addressed to the Secretary to the Government, Labour Welfare and Skill Development Department, Fort St. George, Chennai – 600009 through the Commissioner of Labour, DMS Campus, Chennai – 600 006 or by e-mail - com.tnlabour@nic.in. The objection or suggestion should be sent in a proforma containing columns, (i) specifying the name and address of the persons and organisations (ii) specifying the rule or sub-rule which is proposed to be modified and (iii) specifying the revised rule or sub-rule proposed to be substituted and the reasons therefor; The Objections and Suggestions, which may be received from any persons with respect to the said draft rules before expiry of the period specified above will be considered by the Government of Tamil Nadu.
+
+[ 1 ]
+Ex-III 1(a)-(214)
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+
+# CODE ON WAGES (TAMIL NADU) RULES, 2022.
+
+# CHAPTER - I.
+
+# PRELIMINARY.
+
+# 1. Short title, extent and commencement.
+
+(1) These rules may be called the Code on Wages (Tamil Nadu) Rules, 2022.
+
+(2) They extend to the whole of the State of Tamil Nadu.
+
+(3) They shall come into force after the date of their final publication in the Official Gazette, on the date of the commencement of the Code on Wages, 2019 (Central Act 29 of 2019).
+
+# 2. Definitions.
+
+In these rules, unless the subject or context otherwise requires,—
+
+- (a) “authority” means the authority appointed by the State Government under sub-section (1) of section 45;
+- (b) “appellate authority” means the appellate authority appointed by the Government under sub-section (1) of section 49;
+- (c) “appeal” means an appeal preferred under sub-section (1) of section 49;
+- (d) “Board” means the State Advisory Board constituted by the Government under sub-section (4) of section 42;
+- (e) “Chairperson” means the Chairperson of the Board or a chairperson appointed by the Board to a committee or sub-committee;
+- (f) “Code” means the Code on Wages, 2019 (Central Act 29 of 2019);
+- (g) “Committee” means a committee constituted by the Board under sub-section (5) of section 42;
+- (h) “day” means a period of 24 hours beginning at mid-night;
+- (i) “Form” means a form appended to these rules;
+- (j) “Government” means the Government of Tamil Nadu;
+- (k) “highly skilled occupation” means an occupation which calls in its performance a specific level of perfection and required competence acquired through intensive technical or professional training or practical occupational experience for a considerable period and also requires of an employee to assume full responsibility for his judgement or decision involved in the execution of such occupation;
+- (l) “Inspector-cum-Facilitator” means a person appointed by the Government, by notification under sub-section (1) of section 51;
+- (m) “member” means a member of the Board and includes its Chairperson;
+- (n) “metropolitan area” means an area which is constituted under the Tamil Nadu District Municipalities Act, 1920 (Tamil Nadu Act V of 1920) or the respective City Municipal Corporation Acts and having a population of above 10 lakhs;
+- (o) “non-metropolitan area” means an area which is constituted under the Tamil Nadu District Municipalities Act, 1920 (Tamil Nadu Act V of 1920) or the respective City Municipal Corporation Acts and having a population of less than 10 lakhs;
+- (p) “population” means the population as ascertained at the last preceding census of which the relevant figures have been published;
+- (q) “registered trade union” means a trade union registered under the Trade Unions Act, 1926 (Central Act XVI of 1926) or under the Industrial Relations Code, 2020 (Central Act 35 of 2020);
+- (r) “rural area” means an area which is not a metropolitan area or non-metropolitan area;
+- (s) “Schedule” means the Schedule to these rules;
+- (t) “section” means a section of the Code;
+- (u) “semi-skilled occupation” means an occupation which in its performance requires the application of skill gained by the experience on job which is capable of being applied under the supervision or guidance of a skilled employee and includes supervision over the unskilled occupation;
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+
+# CHAPTER II.
+
+# Minimum Wages.
+
+# 3. Manner of calculating the minimum rate of wages.
+
+(1) For the purposes of sub-section (5) of section 6, the minimum rate of wages shall be fixed on ‘day’ basis keeping in view the following criteria, namely:-
+
+- (i) The standard working class family which includes a spouse and two children apart from the earning worker; an equivalent of three adult consumption units;
+- (ii) A net intake of 2700 calories per day per consumption unit;
+- (iii) 66 metres cloth per year per standard working class family;
+- (iv) Housing rent expenditure to constitute 10 per cent of food and clothing expenditure;
+- (v) Fuel, electricity and other miscellaneous items of expenditure to constitute 20 percent of the minimum wages; and
+- (vi) Expenditure for children’s education, medical requirement, recreation and expenditure on contingencies to constitute 25 percent of the minimum wages;
+
+(2) When the rate of wages for a day is fixed, then, such amount shall be divided by eight for fixing the rate of wages for an hour and multiplied by twenty-six for fixing the rate of wages for a month and in such division and multiplication, the factors of one-half and more than one-half shall be rounded as the next figure and the factors less than one-half shall be ignored.
+
+# 4. Norms for fixation of minimum rate of wages.
+
+(1) While fixing the minimum rate of wages under section 6, the Government shall divide the concerned geographical area into three categories, namely, metropolitan area, non-metropolitan area and the rural area.
+
+(2) The Government shall constitute a technical committee for the purpose of advising the Government in respect of skill categorisation, which shall consist of the following members, namely:-
+
+- (i) Commissioner of Labour - Chairperson;
+- (ii) Additional Commissioner of Labour (Conciliation) - Member;
+- (iii) Director of Industrial Safety and Health – Member;
+- (iv) Project Director, Tamil Nadu Skill Development Corporation – Member;
+- (v) Joint Director, Department of Economics and Statistics - Member; and
+- (vi) Joint Commissioner of Labour (Minimum Wages) - Member Secretary.
+
+(3) The Government shall, on the advice of the technical committee referred to in sub-rule (2), categorise the occupations of the employees into four categories, namely unskilled, semi-skilled, skilled and highly skilled by modifying, deleting or adding any entry in the categorisation of such occupations specified in Schedule - A.
+
+(4) The Technical committee referred in sub rule (2) shall, while advising the Government under sub-rule (3), take into account, to the possible extent, the national classification of occupation or national skills qualification frame work or other similar frame work for the time being formulated to identify occupations.
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+
+# 5. Time Interval for revision of cost of living allowance.
+
+Endeavour shall be made so that the cost of living allowance and the cash value of the concession in respect of essential commodities at concession rate shall be computed once before 1st April and then before 1st October, every year to revise the dearness allowance payable to the employees on the minimum wages:
+
+Provided that where immediately before the issue of notification under section 8 fixing or revising the minimum rates of wages, cost of living allowance at the rate higher than the rate so fixed or revised where payable under this Code, or under any law or award or agreement for the time being in force, then notwithstanding anything contained in these rules, cost of living allowance at such higher rate, shall be payable to the employees.
+
+# 6. Number of hours of work which shall constitute a normal working day.
+
+(1) The normal working day under clause (a) of sub-section (1) of section 13 shall be comprised of eight hours of work and one or more intervals of rest which in total shall not exceed one hour.
+
+(2) The working day of an employee shall be so arranged that inclusive of the intervals of rest, if any, it shall not spread over more than twelve hours on any day.
+
+(3) The provisions of sub-rules (1) and (2) shall, in the case of an employee employed in agricultural employment, be subject to such modifications as may, from time to time, be determined by the Government.
+
+(4) Nothing in this rule shall be deemed to affect the provisions of the Occupational Safety, Health and Working Conditions Code, 2020 (Central Act 37 of 2020) or the rules framed under that Code.
+
+# 7. Weekly day of rest.
+
+(1) Subject to the provisions of this rule, an employee shall be allowed a day of rest every week (hereinafter referred to as “the rest day”) which shall ordinarily be Sunday, but the employer may fix any other day of the week as the rest day for any employee or class of employees:
+
+Provided that an employee shall be entitled for the rest day under this sub-rule if he has worked under the same employer for a continuous period of not less than six days:
+
+Provided further that the employee shall be informed of the day fixed as the rest day and of any subsequent change in the rest day before the change is effected, by display of a notice to that effect in the place of employment at the place specified by the Inspector-cum-Facilitator in this behalf or by publishing in the website of the establishment.
+
+Explanation.- For the purpose of computation of the continuous period of not less than six days specified in the first proviso to this sub-rule, any day on which an employee is required to attend for work but is given only an allowance for attendance and is not provided with work, a day on which an employee is laid off on payment of compensation under the Industrial Relations Code, 2020 (Central Act 35 of 2020) and any leave or holiday, with or without pay, granted by the employer to an employee in the period of six days immediately preceding the rest day, shall be deemed to be days on which the employee has worked.
+
+(2) Any such employee shall not be required or allowed to work on the rest day unless he has or will have a substituted rest day for a whole day on one of the five days immediately before or after the rest day:
+
+Provided that no substitution shall be made which will result in the employee working for more than ten days consecutively without a rest day for a whole day.
+
+(3) Where in accordance with the foregoing provisions of this rule, any employee works on a rest day and has been given a substituted rest day on any one of the five days before or after the rest day, the rest day shall, for the purpose of calculating the weekly hours of work, be included in the week in which the substituted rest day occurs.
+
+(4) An employee shall be granted-
+
+- (a) for rest day wages calculated at the rate applicable to the next preceding day; and
+- (b) where he works on the rest day and has been given a substituted rest day, then, he shall be paid wages for the rest day on which he worked, at the overtime rate and wages for the substituted rest day at the rate applicable to the next preceding day:
+
+Provided that where-
+
+- (i) the minimum rate of wages of the employee as notified under the Code has been worked out by dividing the minimum monthly rate of wages by twenty-six; or
+- (ii) the actual daily rate of wages of the employee has been worked out by dividing the monthly rate of wages by
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+
+twenty-six and such actual daily rate of wages is not less than the notified minimum daily rate of wages of the employee then, no wages for the rest day shall be payable; and
+
+(iii) the employee works on the rest day and has been given a substituted rest day, then, he shall be paid, only for the rest day on which he worked, an amount equal to the wages payable to him at the overtime rate; and
+
+(iv) if any dispute arises whether the daily rate of wages has been worked out in accordance with the provisions of this proviso, the Commissioner of Labour or the Joint Commissioner of Labour having territorial jurisdiction may, on application made to him in this behalf, decide the same, after giving an opportunity to the parties concerned to make written representations:
+
+Provided further that in the case of an employee governed by a piece-rate system, the wages for the rest day, or the substituted rest day, as the case may be, shall be such as the Government may, from time to time determine having regard to the minimum rate of wages fixed under the Code, in respect of the employment.
+
+Explanation.- In this sub-rule ‘next preceding day’ means the last day on which the employee has worked, which precedes the rest day or the substituted rest day, as the case may be; and where the substituted rest day falls on a day immediately after the rest day, the next preceding day means the last day on which the employee has worked, which precedes the rest day.
+
+# 8. Night shifts.
+
+Where an employee in an employment works on a shift which extends beyond midnight, then, -
+
+(a) a rest day for the whole day for the purposes of rule 7 shall, in this case means a period of twenty-four consecutive hours beginning from the time when his shift ends; and
+
+(b) the following day in such a case shall be deemed to be the period of twenty-four hours beginning from the time when such shift ends, and the hours after midnight during which such employee was engaged in work shall be counted towards the previous day.
+
+# 9. The extent and conditions for the purposes of sub-section (2) of section 13.
+
+In case of employees-
+
+(a) engaged in any emergency which could not have been foreseen or prevented;
+
+(b) engaged in work of the nature of preparatory or complementary work which must necessarily be carried on outside the limits laid down for the general working in the employment concerned;
+
+(c) whose employment is essentially intermittent;
+
+(d) engaged in any work which for technical reasons has to be completed before the duty is over; and
+
+(e) engaged in a work which could not be carried on except at times dependent on the irregular action of natural forces;
+
+The provisions of rules 6, 7 and 8 shall apply subject to the conditions that –
+
+(i) the spread over of the hours of work of the employee shall not exceed 14 hours in any day; and
+
+(ii) the actual hours of work excluding the intervals of rest and the periods of inaction during which the employee may be on duty but is not called upon to display either physical activity or sustained attendance shall not exceed 9 hours in any day.
+
+# 10. Longer wage period.
+
+The longer wage-period for the purposes of minimum rate of wages under section 14 shall be by the month.
+
+# 11. Wages of Employee who works for less than normal working day.
+
+An employee shall not be entitled to receive wages for a full normal working day under section 10, if he is not entitled to receive such wage under any other law for the time being in force.
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+
+# CHAPTER III.
+
+# Payment of Wages.
+
+# 12. Deduction under sub clause (ii) of clause (f) of sub-section (2) of section 18.
+
+A Loan made from any fund constituted for the welfare of labour, as may be prescribed by the Government, and the interest due in respect of such loan shall be recovered in installments by deduction from wages spread over not more than twenty-four months.
+
+# 13. Recovery under sub-section (4) of section 18.
+
+Where the total deductions authorised under sub-section (2) of section 18 exceed fifty per cent of the wages of an employee, the excess shall be carried forward and recovered from the wages of succeeding wage period or wage periods, as the case may be, in such installments so that the recovery in any month shall not exceed fifty per cent of the wages of the employee in that month.
+
+# 14. The authority under sub-section (1) of section 19.
+
+The Joint Commissioner of Labour having jurisdiction over the place of work of the employee shall be the authority for the purpose of sub-section (1) of section 19.
+
+# 15. The manner of exhibiting the notice under sub-section (2) of section 19.
+
+A notice referred to in sub-section (2) of section 19 shall be displayed in vernacular and English language at conspicuous places in the premises of the work place in which the employment is carried on, so that every concerned employee would be able to easily read the contents of the notice and a copy of the notice shall be sent to the Inspector-cum-Facilitator having jurisdiction. The notice shall also be published in the website of the establishment.
+
+# 16. The procedure under sub-section (3) of section 19.
+
+The employer shall give an intimation in writing / electronically specifying therein the detailed particulars for obtaining the approval of the imposition of fine to authority referred to in rule 14 who shall, before granting or refusing the approval, give opportunity of being heard to the employee and the employer concerned.
+
+# 17. Form of register to record fine and realisation under sub-section (8) of section 19.
+
+(1) In any case, when the employer has obtained approval under sub-section (1) of section 19 to a list of acts and omissions in respect of which fines may be imposed, the employer shall maintain in a Register of fines in Form I, electronically or otherwise.
+
+# 18. Intimation of deduction.
+
+(1) Where an employer makes any deduction in pursuance of the proviso to sub-section (2) of section 20, he shall make intimation electronically or otherwise of such deduction to the Inspector-cum-Facilitator having jurisdiction within 10 days from the date of such deduction explaining therein the reason of such deduction.
+
+(2) The Inspector-cum-Facilitator shall, after receiving intimation under sub-rule (1), examine such intimation and if he finds that the explanation given therein is in contravention of any provision of the Code or the rules made thereunder, he shall initiate appropriate action under the Code against the employer.
+
+# 19. Procedure for deduction under sub-section (2) of section 21.
+
+Any employer desiring to make deduction for damages or loss under sub-section (1) of section 21 from the wages of an employee shall,-
+
+(i) explain to the employee personally and also in writing the damage or loss of goods expressly entrusted to the employee for custody or for loss of money for which he is required to account and how such damages or loss is directly attributable to the neglect or default of the employee; and
+
+(ii) thereafter, give the employee an opportunity to offer any explanation and deduction for any damages or loss, if made, shall be intimated to the employee within fifteen days from the date of such deduction.
+
+# 20. Form of register to record all deductions or realisation for damage or loss under sub-section (3) of section 21.
+
+Any employer desiring to make deduction for damage or loss under sub-section (1) of section 21 from the wages of an employee shall, maintain a Register in Form I.
+
+# 21. Conditions regarding recovery of advance under section 23.
+
+The recovery, as the case may be of,-
+
+(i) advances of money given to an employee after the employment begins under clause (b) of section 23; or
+
+(ii) advances of wages to an employee not already earned under clause (c) of section 23, shall be made by the employer from the wages of the employee concerned in installments determined by the employer, so as any or all installments in a wage period shall not exceed fifty per cent of the wages of the employee in that wage period and the particulars of such recovery shall be recorded in the Register maintained in Form-I.
+
+# 22. Deduction under section 24.
+
+Deductions for recovery of loans granted for house building or other purposes approved by the Government, and the interest due in respect thereof shall be, subject to any direction made or circular issued by the Government from time to time regulating the extent to which such loans may be granted and the rate of interest shall be payable thereon.
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+
+# CHAPTER IV.
+
+# The State Advisory Board.
+
+# 23. Constitution of the Board.
+
+(1) The Board, Committee and Sub-committee shall consist of the persons to be nominated by the Government representing employers and employees as specified in clauses (a) and (b) respectively, of sub-section (6) of section 42 and the independent persons as specified in clause (c) of sub-section (6) of section 42.
+
+(2) The persons representing employers as referred to in clause (a) of sub-section (6) of section 42 shall be eight and the persons representing employees referred to in clause (b) of that sub-section shall also be eight.
+
+(3) The independent persons specified in clause (c) of sub-section (6) of section 42 to be nominated by the Government shall consist of the following, namely:-
+
+- (i) The Chairperson (ex-officio), Hon’ble Minister for Labour Welfare and Skill Development;
+- (ii) Two members from Legislative Assembly;
+- (iii) Two members each of whom shall be from the professionals in the field of wage and labour related issues;
+- (iv) One member who is or who has been a presiding officer of an Industrial Tribunal constituted by the Government under section 7A of the Industrial Dispute Act, 1947 (Central Act XIV of 1947) or as the case may be, under section 44 of the Industrial Relations Code, 2020 (Central Act 35 of 2020).
+
+# 24. Meeting of the Board.
+
+The Chairperson may, subject to the provisions of rule 25, call a meeting of the Board, at any time he thinks fit:
+
+Provided that on requisition in writing from not less than one half of the members, the Chairperson shall call a meeting within thirty days from the date of the receipt of such requisition.
+
+# 25. Notice of meetings.
+
+The Chairperson shall fix the date, time and place of every meeting and a notice in writing containing the aforesaid particulars along with a list of business to be conducted at the meeting shall be sent to each member by registered post and electronically at least fifteen days before the date fixed for such meeting:
+
+Provided that in the case of an emergent meeting, it would suffice to give a notice of seven days.
+
+# 26. Functions of Chairperson.
+
+The Chairperson shall-
+
+- (i) preside at the meetings of the Board:
+- Provided that in the absence of the Chairperson at any meeting, the members shall elect from amongst themselves by a majority of votes, a member who shall preside at such meeting;
+
+(ii) decide agenda of each meeting of the Board;
+- (iii) where in the meeting of the Board, if any issue has to be decided by voting, conduct the voting and count or cause to be counted the secret voting in the meeting.
+
+# 27. Quorum.
+
+No business shall be transacted at any meeting unless at least one-third of the members and at least one representative member each of both the employers and an employee are present:
+
+Provided that, if at any meeting less than one-third of the members are present, the Chairperson may adjourn the meeting to a date not later than seven days from the date of the original meeting and it shall thereupon be lawful to dispose of the business at such adjourned meeting irrespective of the number of members present:
+
+Provided further that the date, time and place of such adjourned meeting shall be intimated to all the members electronically and by registered post.
+
+# 28. Disposal of business of the Board.
+
+All business of the Board, Committee and Sub-committee shall be decided by a majority of the votes of members present and voting and in the event of an equality of votes, the Chairperson shall have a casting vote:
+
+Provided that the Chairperson may, if he thinks fit, direct that any matter shall be decided by the circulation of necessary papers and by securing written opinion of the members:
+
+Provided further that no decision on any matter under the preceding proviso shall be taken, unless supported by not less than two-thirds majority of the members.
+
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+
+# 29. Method of voting.
+
+Voting in the Board shall ordinarily be by show of hands, but if any member asks for voting by ballot, or if the Chairperson so decides, the voting shall be by secret ballot and shall be held in such manner as the Chairperson may decide.
+
+# 30. Proceedings of the meeting.
+
+(1) The proceedings of each meeting of the Board showing inter-alia the names of the members present thereat shall be forwarded to each member and to the Government after the meeting as soon as possible, and in any case, not less than seven days before the next meeting.
+
+(2) The proceedings of each meeting of the Board shall be confirmed with such modification, if any, as may be considered necessary at the next meeting.
+
+# 31. Summoning of witnesses and production of documents.
+
+(1) The Chairperson may summon any person to appear as a witness if required in the course of the discharge of his duty and require any person to produce any document.
+
+(2) Every person who is summoned and appears as a witness before the Board shall be entitled to an allowance for expenses by him in accordance with the scale for the time being in force for payment of such allowance to witnesses appearing before a civil court.
+
+# CHAPTER V.
+
+# Terms of office of members of the Board.
+
+# 32. Term of office of members of the Board.
+
+(1) The independent members of the Board including the Chairperson shall hold office during the pleasure of the Government, as the case may be, under sub-section (6) of section 42.
+
+(2) A non-official member of the Board shall hold office for a period of two years commencing from the date on which his appointment is first notified in the Official Gazette:
+
+Provided that such a member shall, notwithstanding the expiry of the said period of two years, continue to hold office until his successor is nominated.
+
+(3) Notwithstanding anything contained in sub-rule (2) above, all non-official members of the Board shall hold office during the pleasure of the Government.
+
+(4) A non-independent member of the Advisory Board nominated to fill a casual vacancy shall hold office so long only as the member in whose place he is nominated would have held it, if the vacancy has not occurred.
+
+(5) If a member nominated by the Government is unable to attend a meeting of the committee or sub-committee, the Government or the Body which nominated him may, by notice in writing signed on its behalf and by such member and addressed to the chairman of the said committee or sub-committee nominate a substitute in his place to attend that meeting. Such a substitute member shall have all the rights of a member in respect of that meeting and any decision taken at the meeting shall not become invalid on the ground that the said substitute was a party to the decision.
+
+# 33. Travelling allowance.
+
+The Chairperson and every member of the Board, Committee and sub-committee shall be entitled to draw travelling and halting allowance for any journey performed by him in connection with his duties at the rates and subject to the conditions applicable to the first class committee of the Government.
+
+# 34. Officers and Staff.
+
+The Government may appoint a Secretary not below the rank of Joint Commissioner of Labour and staff to the Board, as it may think necessary for the functioning of the Board.
+
+# 35. Eligibility for re-nomination of the members of the Board.
+
+An outgoing member of the Board shall be eligible for re-nomination for the membership of the Board for not more than total two terms.
+
+# 36. Resignation of the Chairperson and other members of the Board.
+
+(1) A member of the Board, committee or sub-committee may, by giving notice in writing to the Chairperson, resign his membership and the Chairperson of the committee or sub-committee may resign by a letter addressed to the Board.
+
+(2) A resignation shall take effect from the date of communication of its acceptance or on the expiry of 30 days from the date of resignation, whichever is earlier.
+
+(3) When a vacancy occurs or is likely to occur in the membership of the Board, the Chairperson shall submit a report to the Government immediately and the Government shall, then, take steps to fill the vacancy in accordance with the provisions of the Code.
+
+# 37. Cessation of membership.
+
+(1) If a member of the Board, committee or sub-committee fails to attend three consecutive meetings, without prior intimation to the Chairperson, he shall, cease to be a member thereof.
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+
+(2) A person who ceases to be member under sub-rule (1) shall be given intimation of such cessation by a letter sent to him by registered post within a period of fifteen days from the date of such cessation. The letter shall indicate that if he desires restoration of his membership, he may apply therefor within a period of thirty days from the receipt of such letter. The application for restoration of membership, if received within the said period, shall be placed before the committee or the Board, as the case may be, and if a majority of members present at the next meeting is satisfied that the reasons for failure to attend three consecutive meetings are adequate, the member shall be restored to membership immediately after a resolution to that effect is passed.
+
+# 38. Disqualification.
+
+(1) A person shall be disqualified for being nominated as, and for being a member of the Board, committee or sub-committee –
+
+- (i) if he is declared to be of unsound mind by a competent court; or
+- (ii) if he is an un-discharged insolvent; or
+- (iii) if before or after the commencement of the Code, he has been convicted of an offence involving moral turpitude.
+
+(2) If any question arises whether a disqualification has been incurred under sub-rule (1), the decision of the Government thereon shall be final.
+
+# CHAPTER VI.
+
+# Payment of dues, claims.
+
+# 39. Payment under clause (a) of sub-section (1) of section 44.
+
+Where any amount payable to an employee under the Code is due after his death or on account of his whereabouts not being known, and the amount could not be paid to the nominee of the employee until the expiry of three months from the date the amount had become payable, then, such amount shall be deposited by the employer with the Joint Commissioner of Labour having jurisdiction, who shall disburse the amount to the person nominated by the employee after ascertaining his identity within two months of the date on which the amount was so deposited with him.
+
+# 40. Deposit of the undisbursed dues under clause (b) of sub-section (1) of section 44.
+
+(1) Where any amount payable to an employee under this Code remains undisbursed because either no nomination has been made by such employee or for any other reason, such amounts could not be paid to the nominee of employee until the expiry of six months from the date the amount had become payable, all such amounts shall be deposited by the employer with the Joint Commissioner of Labour having jurisdiction before the expiry of the fifteenth day after the last day of the said period of six months.
+
+(2) The amount referred to in sub-rule (1) shall be deposited by the employer with the Joint Commissioner of Labour having jurisdiction through bank transfer or through a crossed demand draft obtained from any scheduled bank in India drawn in favour of such Joint Commissioner of Labour.
+
+# 41. Manner of dealing with the undisbursed dues under clause (b) of sub-section (1) of section 44.
+
+(1) The amount referred to in sub rule (1) of rule 41 (hereinafter in this rule referred to as the amount) deposited with the Joint Commissioner of Labour having jurisdiction shall remain with him and invested in the Government Securities or Deposited as a Fixed Deposit in a Nationalised or Scheduled Bank.
+
+(2) The Joint Commissioner of Labour having jurisdiction will exhibit, as soon as maybe possible, a notice containing such particulars regarding the amount, as the Joint Commissioner of Labour considers sufficient, for information of all concerned, at least for fifteen days on the notice board and also publish such notice in any two local newspapers in the language commonly understood in the area in which undisbursed wages were earned and also upload such notice in the department website.
+
+(3) Subject to the provision of sub-rule (4), the Joint Commissioner of Labour having jurisdiction shall release the amount to the nominee or to that person who has claimed such amount, as the case may be, in whose favour such Joint Commissioner of Labour has decided, after giving an opportunity of being heard, the amount to be paid.
+
+(4) If the undisbursed amount remains unclaimed for a period of seven years, from the date of deposit with the Joint Commissioner of Labour, the same shall be treated as “the amount without claimant” and shall be transferred along with the interest amount accrued thereon to the Tamil Nadu Labour Welfare Fund either through Bank transfer or through a crossed Demand Draft obtained from any Scheduled Bank in the State, drawn in favour of the Secretary, Tamil Nadu Labour Welfare Board and thereafter it is deemed to have been treated as lapsed to the Tamil Nadu Labour Welfare Board.
+
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+
+# CHAPTER VII.
+
+# Forms, registers and wage slip.
+
+42. The form of a single application.– A single application, may be filed before the authority notified under sub-section (1) of section 45 in Form-II electronically or otherwise along with documents specified in the Form.
+
+43. Appeal.- Any person aggrieved by an order passed by the authority appointed under sub-section (2) of section 45 may prefer an appeal under sub-section (1) of section 49 in Form-III electronically or otherwise along with the relevant documents before the appellate authority notified by the Government.
+
+44. Form of register, etc.-
+
+1. All fines and all realisations thereof referred to in sub-section (8) of section 19 shall be recorded in a register to be kept by the employer in Form–I electronically or otherwise and the authority referred to in said sub-section (8) shall be the Regional Joint Commissioner of Labour having jurisdiction.
+2. All deductions and all realisations referred to in sub-section (3) of section 21 shall be recorded in a register to be kept by the employer in Form- I electronically or otherwise.
+3. Every employer of an establishment to which the Code applies shall maintain register under sub-section (1) of section 50 in Form IV, electronically or otherwise.
+
+45. Wage slip.- Every employer shall issue wage slips, electronically or otherwise to the employees in Form V under sub-section (3) of section 50 on or before payment of wages.
+
+46. Appointment of officer for the purpose of holding enquiry and imposing penalty under section 53(1) and for compounding of offence under sub-section (1) of section 56.-
+
+1. The authority of the respective jurisdictions shall be the enquiry officer, under subsection (1) of section 53 and for the purpose of holding enquiry and imposing penalty under clauses (a) and (c) of sub-section (1) and sub-section (2) of section 54 and sub-section (7) of section 56.
+2. An accused person desirous of making compounding of offence under sub-section (1) of section 56, may file an application, either before or after the institution of any prosecution in Form VI electronically or before the officer notified for the purpose under that section.
+3. The officer notified under sub-section (1) of section 56 shall on receipt of application in Form VI, satisfy himself as to whether the offence is compoundable or not under the Code and if the offence is compoundable and the accused person appears for the compounding, compound the offence for a sum of fifty percent of the maximum fine provided for such offence under the Code, to be paid by the accused within the time specified in the order of the composition issued by such officer.
+
+# CHAPTER VIII.
+
+# Miscellaneous.
+
+47. Timely Payment of Wages.- Where the employees are employed in an establishment through contractor, then, the company or firm or association or any other person who is the proprietor of the establishment shall pay to the contractor the amount payable to him or it, as the case may be, before the date of payment of wages so that payment of wages to the employees shall be made positively in accordance with the provisions of section 17.
+
+Explanation.- For the purpose of this rule, the expression “firm” shall have the meaning as assigned to it in the Indian Partnership Act, 1932 (Central Act IX of 1932).
+
+48. Responsibility for payment of minimum bonus.- Where in an establishment, the employees are employed through contractor and the contractor fails to pay minimum bonus to them under section 26, then, the company or firm or association or other person as referred to in the proviso to section 43 shall, on the written information of such failure, given by the employees or any registered trade union or unions of which the employees are members and on confirming such failure, pay such minimum bonus to the employees.
+
+49. Inspection Scheme.-
+
+1. For the purposes of the Code and these rules, there shall be formulated an Inspection Scheme by the Commissioner of Labour with the approval of the Government.
+2. In the Inspection Scheme referred to in sub-rule (1), apart from other structural facts, a number shall be specified in the Scheme for each Inspector-cum-Facilitator and establishment.
+
+50. Annual Return.- The Annual Return shall be filed electronically by every employer of an establishment who are not covered under the Occupational Safety and Health Code, in Form VII.
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+# FORM – I.
+
+[(see rule 17, 20, 21 and 44 (1) and (2)]
+
+# Register of Wages, Overtime, Fine, and Deduction for damage and Loss
+
+Name and Address of the Establishment:
+
+Total No. of persons employed:
+
+Name and Address of the Employer:
+
+| Men | Women | Young Person – Male | Young Person – Female | Trans-gender |
+| --- | ----- | ------------------- | --------------------- | ------------ |
+
+Name of the Manager / in charge:
+
+Registration Certificate No. :
+
+Wage Period from ………………….. To…………………….. (Monthly / Fortnightly / Weekly / Daily / Piece Rated)
+
+# Deductions
+
+| Advances                                                                                                                              | Damages / Fines                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| (9) Total Over-time hours worked or production in case of piece rate workers.                                                         | (11) for Leave Wages accumulated (Wages leave) for EL availed / double wages for NFSH / Wages |
+| (20) Nature caused of to the Acts and employer by Omissions for neglect or which fine defect of the imposed / employee Damage or loss | (30) Rate at which subsistence allowance calculated and amount paid                           |
+| (22) Deduction recovery pending at the beginning of the month                                                                         | (17) Advance recovery pending at the beginning of the month                                   |
+| (31) Receipt by Employee / Bank Transaction I.D. and Date                                                                             | (21) Deduction imposed on Damages, Loss or Fines                                              |
+| (23) Deduction made on Damages, Loss or Fines                                                                                         |                                                                                               |
+
+# Other Information
+
+| (14) Employees State Insurance | (5) Number of days worked | (2) Name of the Employee  |
+| ------------------------------ | ------------------------- | ------------------------- |
+| (29) Unpaid accumulations      | (15) Labour Welfare Fund  | (25) Any other deductions |
+| Dearness Allowance             |                           | (32) Signature with Date  |
+| Employee I.D. No.              | (18) Advance recovered    | (19) Pending recovery     |
+|                                | (8) Other Allowances      | (24) Pending recovery     |
+|                                | (10) Over-time Wages      | (28) Date of Payment      |
+| (26) Total Deductions          | (1) Serial Number         | (13) Provident Fund       |
+| (16) Advance paid              | (6) Basic Wages           | (12) Gross Wages          |
+| Designation                    | (27) Net Wages            | (33) Remarks              |
+
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+
+# FORM-II.
+
+[see rule 42]
+
+[SINGLE APPLICATION UNDER SUB-SECTION (5) OF SECTION 45]
+
+# BEFORE THE AUTHORITY APPOINTED UNDER SUB SECTION (1) OF SECTION 45 OF THE CODE ON WAGES, 2019
+
+(CENTRAL ACT 29 OF 2019)
+
+FOR………….                                                                AREA………
+
+Application No...............................................................................................................................................of 20…….............
+
+# Between
+
+……………. (ABC) and ………(State the number) other Applicants
+
+(Through employees concerned or registered trade union or Inspector- cum- Facilitator)
+
+Address……………………………………………………………………
+
+And
+
+……………………………………………………………....................................................( XYZ)
+
+Address………………………
+
+# The application states as follows:
+
+1. The applicant(s) whose name(s) appear in the attached schedule was/were/has/have been employed from …………… to……. as…..(category) in…………….(establishment) Shri/Ms………engaged in ………….(nature of work) which is/are covered by the Code on Wages, 2019.
+2. The opponent(s) is/are the employer(s) within the meaning of section 2(l) of the Code on Wages, 2019.
+3.
+The applicant(s) has/have been paid wages at less than the minimum rates of wage fixed for their category (categories) of employment(s) under the code by Rs……..per day for the period(s) (categories) of employment(s) under the Code by Rs…. …………..Per day for the period(s) from………………………to……… ……………….
+4. The applicant(s) has/ have not been paid wages at Rs…………….. Per day for the weekly days of rest from…… to………………
+5. The applicant(s) has/ have not been paid wages at overtime rate(s) for the period from………………….. to……………..
+6. The applicant(s) has/have not been paid wages for period from………………to………….
+7. Deductions have been made which are in contravention of the Code, from the wage(s) of the applicant(s) as per details specified in the annexure appended with this application.
+8. The applicant(s) has/have not been paid minimum bonus for the accounting year ………
+
+The applicant(s) estimate(s) the value of relief sought by him/ them on each amount as under:
+
+Rs…….
+Rs…….
+Rs…….
+
+Total Rs……
+
+The applicant(s), therefore, pray(s) that a direction may be issued under section 45(2) of the Code on Wages, 2019 (Central Act 29 of 2019) for;
+
+payment of the difference between the wages payable under the Code and the wages actually paid,
+payment of remuneration for the days of rest,
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+# 13
+
+(c) payment of wages at the overtime rates,
+
+(d) Compensation amounting to Rs………………………
+
+(6) The applicant(s) do hereby solemnly declare(s) that the facts stated in this application are true to the best of his/their knowledge, belief and information.
+
+Dated…………. Signature or thumb-impression of the employed person(s) or official of a registered trade union duly authorised or Inspector- cum-Facilitator.
+
+~~Note:~~ The applicant(s), if required, may append annexure containing details, with this application.
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+
+# FORM III.
+
+(see rule 43)
+
+# Appeal under Section 49(1) of the Code on Wages, 2019 (Central Act 29 of 2019)
+
+# Before the Appellate Authority under the Code on Wages, 2019 (Central Act 29 of 2019)
+
+# APPELLANT
+
+A.B.C
+
+Address……………………………………………………………………………………………....................................................
+
+# Vs.
+
+# RESPONDENT
+
+C.D.E.
+
+Address……………………………………………………………………………………....................................................
+
+# DETAILS OF APPEAL:
+
+1. Particulars of the order against which the appeal is made:
+
+- Number and date:
+- The authority who has passed the impugned order:
+- Amount awarded:
+- Compensation awarded, if any:
+2. Facts of the case:
+
+(Give here a concise statement of facts in a chronological order, each paragraph containing as nearly as possible a separate issue or fact).
+3. Grounds for appeal:
+4. Matters not previously filed or pending with any other Court or any Appellate Authority:
+
+The appellant further declares that he had not previously filed any appeal, writ petition or suit regarding the matter in respect of which this appeal has been made, before any Court or any other Authority or Appellate Authority nor any such appeal, writ petition or suit is pending before any of them.
+5. Reliefs sought:
+
+In view of the facts mentioned above the appellant prays for the following relief(s) :—
+
+[Specify below the relief(s) sought]
+6. List of enclosures:
+
+1. (1)
+2. (2)
+3. (3)
+4. (4)
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+
+Signature of the appellant.
+
+Date:
+
+Place:
+
+For office use
+
+Date of filing or Date of receipt by post
+
+Authorised Signatory
+
+Registration No. :
+
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+
+# FORM IV.
+
+[see rule 44(3)]
+
+# EMPLOYEE REGISTER.
+
+Name of the Establishment:
+
+Name of Employer:
+
+Name of Employer:
+
+Name of the Owner:
+
+PAN/TAN of the Employer:
+
+PAN/TAN of the Employer:
+
+Labour Identification Number (LIN):
+
+| Sl.No | Employee Code | Name | Surname | Gender | Father’s / Spouse Name | Date of Birth | Nationality | Education Level | Date of Joining |
+| ----- | ------------- | ---- | ------- | ------ | ---------------------- | ------------- | ----------- | --------------- | --------------- |
+| (1)   | (2)           | (3)  | (4)     | (5)    | (6)                    | (7)           | (8)         | (9)             | (10)            |
+
+Date on which completion of 480 Days &#x26; Service
+
+Date on which made permanent
+
+Category
+
+Date of Superannuation
+
+Designation (HS/S/SS/US)*
+
+Type of Employment
+
+Mobile No.
+
+email ID
+
+UAN
+
+PAN
+
+| Date on which completion of 480 Days & Service | Date on which made permanent | Category | Date of Superannuation | Designation | Type of Employment | Mobile No. | email ID | UAN  | PAN  |
+| ---------------------------------------------- | ---------------------------- | -------- | ---------------------- | ----------- | ------------------ | ---------- | -------- | ---- | ---- |
+| (11)                                           | (12)                         | (13)     | (14)                   | (15)        | (16)               | (17)       | (18)     | (19) | (20) |
+
+ESIC IP No.
+
+AADHAAR Number
+
+Bank A/c
+
+Bank (IFSC)
+
+Present Address
+
+Permanent Address
+
+Service Book No.
+
+Date of Exit
+
+Reason for Exit
+
+| ESIC IP No. | AADHAAR Number | Bank A/c | Bank (IFSC) | Present Address | Permanent Address | Service Book No. | Date of Exit | Reason for Exit |      |
+| ----------- | -------------- | -------- | ----------- | --------------- | ----------------- | ---------------- | ------------ | --------------- | ---- |
+| (21)        | (22)           | (23)     | (24)        | (25)            | (26)              | (27)             | (28)         | (29)            | (30) |
+
+Mark of Identification
+
+Photo
+
+Specimen Signature / Thumb Impression
+
+Remarks
+
+| Mark of Identification | Photo | Specimen Signature / Thumb Impression | Remarks |
+| ---------------------- | ----- | ------------------------------------- | ------- |
+| (31)                   | (32)  | (33)                                  | (34)    |
+
+*(Highly Skilled/Skilled/Semiskilled/Unskilled)
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+# FORM V.
+
+[see rule 45]
+
+# WAGE SLIP.
+
+Date of issue:
+
+Name of the Establishment………………………. .............Address…..………………..…..............................
+
+Period..............................……………..
+
+1. Name of employee:
+2. Father’s / Spouse name:
+3. Designation:
+4. Adhaar No.
+5. UAN:
+6. Bank Account No.:
+7. Wage period:
+8. Rate of wages payable:
+9. - (a.) Basic
+- (b.) D.A.
+- (c.) other allowances
+
+Total attendance/unit of work done:
+10. Total hours of overtime:
+11. Overtime wages:
+12. Gross wages payable:
+13. Total deductions:
+14. - (a) PF
+- (b) ESI
+- (c) TNLW Fund
+- (d) Others
+
+Net wages paid:
+
+Employer / Pay-in-charge signature
+
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+
+# FORM VI.
+
+[See rule 46]
+
+# APPLICATION UNDER SUB-SECTION (4) OF SECTION 56 FOR COMPOSITION OF OFFENCE
+
+1. Name of applicant:
+2. Father’s / Spouse name:
+3. Address of the applicant:
+4. Particular of the offence:
+………………………………………………………………….......................................
+
+..........................................................................................................................................................................
+.........................................................................................................................................................................
+........................................................................................................................................................................
+......................................................................................................................................................................
+5. Section of the Code under which the offence is committed:
+……………………………………………
+6. Maximum fine provided for the offence under the Code:
+………………………………………………
+7. Whether prosecution against the applicant is pending or not:
+……………………………………………
+8. Whether the offence is first offence or the applicant had committed any other offence prior to the offence. If yes, then, full details of the prior offence.
+…………………………………………………………………………………………......................................................
+
+..............................................................................................................................................................................
+
+................................................................................................................................................................................
+9. Any other information which the applicant desires to provide
+………………………………………………………………………………………................................................................
+
+................................................................……………………………………………............................................................
+
+Dated:                                                                                      Applicant
+
+(Name and Signature)
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+# FORM VII.
+
+# ANNUAL RETURN
+
+(see rule 50)
+
+1. Return for the year ending 31st December.
+1. A. Name of the Establishment and Postal Address
+2. B. Name, Aadhaar Number, email ID and Residential Address of the Owner / Contractor
+3. C. Name, Aadhaar Number, email ID and Residential Address of the Managing Agent / Director / Partner in charge of the Day to day affairs of the Establishment owned by a company, body, corporate or association.
+4. D. Person responsible for payment of wages (Name, Aadhaar Number, Address, email ID and Phone Number.)
+2. Hours of work in a Day
+3. No. of shifts worked in a day
+4. Number of days worked during the calendar year
+5. Number of man-days worked during the year
+6. Average daily number of persons employed during the year
+7. | Type of        | Regular Workers |        |             |                  |                   | Contract Workers |        |             |                  |                   |
+| -------------- | --------------- | ------ | ----------- | ---------------- | ----------------- | ---------------- | ------ | ----------- | ---------------- | ----------------- |
+| Skill          | Male            | Female | Transgender | Adolescent – Boy | Adolescent – Girl | Male             | Female | Transgender | Adolescent – Boy | Adolescent – Girl |
+| Unskilled      |                 |        |             |                  |                   |                  |        |             |                  |                   |
+| Semi-skilled   |                 |        |             |                  |                   |                  |        |             |                  |                   |
+| Skilled        |                 |        |             |                  |                   |                  |        |             |                  |                   |
+| Highly Skilled |                 |        |             |                  |                   |                  |        |             |                  |                   |
+
+Total Wages paid in details :
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+
+# 8. Deductions :
+
+| (a) Fines                              | No. of cases. | Total amount | Rs. P. |
+| -------------------------------------- | ------------- | ------------ | ------ |
+| (b) Deductions for damage or loss.     |               |              |        |
+| (c) Deductions for breach of contract. |               |              |        |
+
+# 9. Disbursement from fines :
+
+| Purpose         | D.D. No. | Date | Bank | Amount | Rs. P. |
+| --------------- | -------- | ---- | ---- | ------ | ------ |
+| (a) 1st Quarter |          |      |      |        |        |
+| (b) 2nd Quarter |          |      |      |        |        |
+| (c) 3rd Quarter |          |      |      |        |        |
+| (d) 4th Quarter |          |      |      |        |        |
+
+# 10. Details of Remittance to the Labour Welfare Fund :
+
+| Sl. No. | D.D. No. | Date | Bank | Amount | Rs. P. |
+| ------- | -------- | ---- | ---- | ------ | ------ |
+| (1)     |          |      |      |        |        |
+| (2)     |          |      |      |        |        |
+| (3)     |          |      |      |        |        |
+
+# 11. Balance of fine fund in hand at the end of the year ………………
+
+# 12. Number of Employees eligible for Bonus :
+
+# 13. Percentage of Bonus declared to be paid :
+
+# 14. Total amount of Bonus actually paid :
+
+# 15. Date on which payment paid :
+
+# 16. Settlement, if any, reached under Section 53(3) or 57(1) of the Industrial Relations Code, 2020 (Central Act 35 of 2020) with date :
+
+Certified that the information furnished above is to the best of my knowledge and belief, correct.
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+# SCHEDULE - A
+
+[see rule 4(3)]
+
+| Sl.No | UNSKILLED                                                                      |
+| ----- | ------------------------------------------------------------------------------ |
+| 1.    | Aquatic weed removal                                                           |
+| 2.    | Attender                                                                       |
+| 3.    | Ayahs                                                                          |
+| 4.    | Bailors                                                                        |
+| 5.    | Bamming Helpers                                                                |
+| 6.    | Basket making workers                                                          |
+| 7.    | Bearders                                                                       |
+| 8.    | Beater                                                                         |
+| 9.    | Beating of rotted husks                                                        |
+| 10.   | Bee Keeping workers                                                            |
+| 11.   | Beedi- Ring Lablers                                                            |
+| 12.   | Beedi Rollers                                                                  |
+| 13.   | Bell Blower                                                                    |
+| 14.   | Bicycle Fitter                                                                 |
+| 15.   | Bottle cleaner                                                                 |
+| 16.   | Bottle Filler /Washer                                                          |
+| 17.   | Box Removers (Mosaic)                                                          |
+| 18.   | Bucket Man                                                                     |
+| 19.   | Bundler                                                                        |
+| 20.   | Butcher                                                                        |
+| 21.   | Button and Khaja Stitcher                                                      |
+| 22.   | Calf boy                                                                       |
+| 23.   | Caretaker of goods and Materials                                               |
+| 24.   | Carrier / Carrier (Water) / Carrier (Stone, Water, husk, Rice, Ball Bag etc.,) |
+| 25.   | Carrier of Pandal articles and all types                                       |
+| 26.   | Cartman                                                                        |
+| 27.   | Cattleman                                                                      |
+| 28.   | Chainman                                                                       |
+| 29.   | Charcoal man                                                                   |
+| 30.   | Chips Sorenmers (Mosaic)                                                       |
+| 31.   | Clay Feeders / Clay kneaders / Clay mixers                                     |
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+# 32.
+
+Cleaner / Cleaner (Crane, Truck, Cinder for ash Pit) / Cleaner (Motor shed, Tractor, Cattle, Yard, M.T) and Cleaner of all categories including Floor
+
+# 33.
+
+Coconut – Leaves Braider / Peeling workers
+
+# 34.
+
+Coffee - heaping workers
+
+# 35.
+
+Collecting loose fodder workers
+
+# 36.
+
+Colour Mixers (Mosaic)
+
+# 37.
+
+Composter
+
+# 38.
+
+Concrete Hand Mixer
+
+# 39.
+
+Condenser Attendant
+
+# 40.
+
+Cook-helper
+
+# 41.
+
+Coolie
+
+# 42.
+
+Cotton Ginning and pressing - Borah Opener
+
+# 43.
+
+Cotton Ginning and pressing - Borah roller
+
+# 44.
+
+Cotton Ginning and pressing - Borah filler
+
+# 45.
+
+Cotton Picking workers
+
+# 46.
+
+Dairy’s Haystacking workers
+
+# 47.
+
+Dairyman
+
+# 48.
+
+Decorticator (Groundnut Carrier, husk Carrier, gunny bag filler, gunny bag stitcher)
+
+# 49.
+
+Delivery Boy
+
+# 50.
+
+Despatch Assistant
+
+# 51.
+
+Developing Assistant
+
+# 52.
+
+Digger
+
+# 53.
+
+Dismantling stocks workers
+
+# 54.
+
+Dispensary Attendant
+
+# 55.
+
+Domestic worker
+
+# 56.
+
+Drain Flusher
+
+# 57.
+
+Drawer and Reacher
+
+# 58.
+
+Wire Drawer
+
+# 59.
+
+Dress Washer
+
+# 60.
+
+Dresser
+
+# 61.
+
+Driver (Bullock, Camel, Donkey, Mule)
+
+# 62.
+
+Drum Boys
+
+# 63.
+
+Drying Yard Carrier
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+# 23
+
+1. Duster Boy
+2. Dustleaves supplier
+3. Earth Cutter
+4. Electrical Assistant
+5. Emery Wheel Operator
+6. Excavating Labour
+7. Expeller attender
+8. Workers engaged in Fertilising and Pesticiding of trees
+9. Fire wood slitters
+10. Firewood / Timber Head carriers
+11. Fireworks - Chemical mixing, dipping, filling, Moulding, Fuse fixing
+12. Flag Man
+13. Flashers, splitters in Tanneries
+14. Folders
+15. Frame givers
+16. Fuel Carriers
+17. Gangmen
+18. Gardener Assistant
+19. Gate Man
+20. Godown workers
+21. Grass Cutter
+22. Grazler
+23. Gunny Bag Stitcher
+24. Hand folding workers
+25. Hand Ironers / Ironing workers
+26. Hand Setters
+27. Handle Man
+28. Headload workers
+29. Helper - Baker
+30. Helpers in distribution
+31. Helpers in Textile Mills
+32. Helpers in Match and fire works
+33. Helpers in vessel Making
+34. Hole Cutter
+35. House Keeper
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+
+# 99. Huller Man
+
+# 100. Irrigation workers
+
+# 101. Jelly Maker
+
+# 102. Jumper Man
+
+# 103. Kiln repairer / Setters
+
+# 104. Labelling and Packing Worker
+
+# 105. Labourer (Boiler, Cattle Yard, Cultivation, General Loading and Unloading, Bunding, Carting-Fertilizers, Harvesting, Miscellaneous)
+
+# 106. Lampman
+
+# 107. Layer(Helper)
+
+# 108. Line Operator
+
+# 109. Lint Cleaners
+
+# 110. Workers engaged in Person employed in Loading and Unloading
+
+# 111. Make up Assistant
+
+# 112. Mat weaver
+
+# 113. Messenger
+
+# 114. Mikkals
+
+# 115. Mopper, Floor Cleaner, Floor Sweaper
+
+# 116. Mould helpers
+
+# 117. Mud paster
+
+# 118. Number Taker
+
+# 119. Office Assistant / Helper
+
+# 120. Office Boy
+
+# 121. Oiler in power loom Industry
+
+# 122. Operator in Petrol Bunks
+
+# 123. Other General workers(Cattle feeding, cleaning the cattle, removing cowdung from cowshed, cattle rearing, cowshed cleaning, hay drying, loading of cattle feeds, grass and fertilisers, spade works and such other hand works in fodder fields, sileage pits and cowsheds, etc.,)
+
+# 124. Outerbox maker
+
+# 125. Outline Workers in Hand Embroidery
+
+# 126. Over burden Remover
+
+# 127. Paddy Dryers /Millers / Soakers/ Boilers
+
+# 128. Pallet Collectors
+
+# 129. Pallet Suppliers
+
+# 130. Pantry Man
+
+# 131. Paper Tracing &#x26; Dyeing Helper
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+# 25
+
+1. Bark Peeling workers
+2. Petrolman
+3. Plantation Worker
+4. Planting, paddy sacking workers
+5. Poultry farming workers
+6. Press Boy
+7. Press Machine Operators
+8. Pressing workers
+9. Processing Assistant
+10. Pumping man
+11. Push cart workers
+12. Rat Catcher / Dog Catcher
+13. Raw Bricks and Tiles Carriers
+14. Raw tiles removers from frame
+15. Replanting of seedling workers
+16. Rhodomine dipping workers
+17. Rice Measurers
+18. Roasting workers
+19. Roll Checking man
+20. Room Boy
+21. Rubber Tapers
+22. Sand and Cement Mixers
+23. Sand Remover
+24. Sand Suppliers
+25. Sanitary Workers
+26. Scudders in Tanneries
+27. Searcher
+28. Seasoners
+29. Security Guards
+30. Seed remover or carrier
+31. Seeding / Sowing / Thatching / Transplanting / Weeding workers
+32. Servant Maid
+33. Setting Machine Operators
+34. Sewage Gauge reader / Water Meter reader
+35. Shaving Learners
+36. Shed Clerk
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+
+# 168. Sheller man
+
+# 169. Shop Assistant
+
+# 170. Shunters
+
+# 171. Signal man
+
+# 172. Slab carriers / Cutter / Placers
+
+# 173. Sorters, Counters, Separators and packers of all categories
+
+# 174. Sound Assistant
+
+# 175. Sprayers
+
+# 176. Spreading - coffee curing workers
+
+# 177. Stable man
+
+# 178. Stackers
+
+# 179. Stamping worker
+
+# 180. Steam Road
+
+# 181. Stitchers (other than bale stitcher)
+
+# 182. Store Assistant
+
+# 183. Strikers
+
+# 184. Stripping workers
+
+# 185. Surface loader
+
+# 186. Sweeper
+
+# 187. Tall Boy
+
+# 188. Tappalman
+
+# 189. Thatch carrier cum giver
+
+# 190. Thatch Remover
+
+# 191. Tile Carriers
+
+# 192. Tile Plasters (Mosaic)
+
+# 193. Timber Carriers
+
+# 194. Time Keeper
+
+# 195. Tom-Tom Wallah(Village)
+
+# 196. Trammer
+
+# 197. Trolly man
+
+# 198. Trolly Triper
+
+# 199. Turbo cleaner
+
+# 200. Tying and Carrying loose hay workers
+
+# 201. Under Ground Mukar
+
+# 202. Unskilled workers in Nurseries
+
+# 203. Vaks Controller
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+# 27
+
+1. Valve Man (Water Supply)
+2. Valveman (Other than water supply)
+3. Varukadalai Worker
+4. Vegetable cutter
+5. Ward Boy
+6. Washerman (Clothes)
+7. Washerman (Utensils)
+8. Waste removing worker
+9. Watchman
+10. Weighman (Bales, pally)
+11. Wheeler in Printing Press
+12. White Washing and Colour Washing Man
+13. Winnower
+14. Wireman helper
+15. Wood Cutter
+16. Wooder Woman / Wooder man
+17. Workers engaged in construction of roads (excluding breaking of rocks)
+18. Workers engaged in drying
+19. Workers engaged in earth works (pit making etc)
+20. Workers engaged in Washing/Setting
+21. Workers in Appalam industry
+22. Workers working in forest, nursery and plantations
+23. Workshop tool keeper
+24. Yard worker
+25. Any other categories by whatever name called which are unskilled in nature
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+# SEMI SKILLED
+
+| S.No. | Job Title                                                                       |
+| ----- | ------------------------------------------------------------------------------- |
+| 1.    | All Saw Operator Helper                                                         |
+| 2.    | All Trade Certificate holders including Industrial Training Institute (Grade-I) |
+| 3.    | Aluminium, Iron, Stainless steel etc., vessels maker                            |
+| 4.    | Arch Erector                                                                    |
+| 5.    | Artificial drying fire attenders in Brick and tile industry                     |
+| 6.    | Asbestos / Glass / Lite Roof worker                                             |
+| 7.    | Assembler                                                                       |
+| 8.    | Assembling Operator                                                             |
+| 9.    | Assistant Blacksmith / Helper                                                   |
+| 10.   | Assistant Carpenter                                                             |
+| 11.   | Assistant Cook / Kitchen Assistant / Vegetable Cutter                           |
+| 12.   | Assistant Driller                                                               |
+| 13.   | Assistant Electrician                                                           |
+| 14.   | Assistant Engraver                                                              |
+| 15.   | Assistant Fitter                                                                |
+| 16.   | Assistant Machinist                                                             |
+| 17.   | Assistant Painter                                                               |
+| 18.   | Assistant Photo Artist                                                          |
+| 19.   | Assistant Photographer                                                          |
+| 20.   | Assistant Recordist / Room Assistant                                            |
+| 21.   | Assistant Sales Man                                                             |
+| 22.   | Assistant Tea Maker (in Tea Factory)                                            |
+| 23.   | Assistant Tinker                                                                |
+| 24.   | Assistant Tyre Man                                                              |
+| 25.   | Assistant Wireman                                                               |
+| 26.   | Assistant-Plumber                                                               |
+| 27.   | Attendance-keeper / Attendant                                                   |
+| 28.   | Bag Weigher                                                                     |
+| 29.   | Baker                                                                           |
+| 30.   | Bale Stitcher                                                                   |
+| 31.   | Bar man                                                                         |
+| 32.   | Barber                                                                          |
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+# 33. Bearer
+
+# 34. Bender
+
+# 35. Binder
+
+# 36. Boat Man
+
+# 37. Boiler Attender
+
+# 38. Boiler operator/Mixture/Chemist
+
+# 39. Boundary clearing &#x26; fire protection
+
+# 40. Box-making (Packing) / Packer
+
+# 41. Brander
+
+# 42. Bread-Moulder
+
+# 43. Breaker (Stone, Rock, Rock Stone, Stone Metal) (using mechanical appliances/manual appliances)
+
+# 44. Breakman
+
+# 45. Bricks Maker (or) Tile Makers
+
+# 46. Buffing Machine Operator
+
+# 47. Bullman
+
+# 48. Bun Rounder, Bread Moulder in Bakeries
+
+# 49. Bunkers operation workers in Mushroom growing
+
+# 50. Butler/Cook
+
+# 51. Butterman
+
+# 52. Camera Assistant
+
+# 53. Canvasar in Motor transport
+
+# 54. Canweaver
+
+# 55. Care taker of Aged or sick or differently abled or child
+
+# 56. Workers engaged in Casing / Watering Tamping / flushing in Mushroom growing
+
+# 57. Caulker
+
+# 58. Cement Tiles Pressers
+
+# 59. Chainman(Head)
+
+# 60. Charge-man
+
+# 61. Checker/ Maistry/ Sorter/Supervisor
+
+# 62. Chemical Mixture
+
+# 63. Chemical Operator
+
+# 64. Chief Watchman/Senior Watchman
+
+# 65. Child care - Taking children to school and back
+
+# 66. Classman
+
+# 67. Clay Slicers and Transplers
+
+# 68. Cleaners (machinery inplants etc)
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+
+# 69. Cleaning /Polishing workers
+
+# 70. Coachman
+
+# 71. Cobbler
+
+# 72. Coir Twisting workers
+
+# 73. Collecting of bamboo, cane and reeds workers
+
+# 74. Colour Setting man
+
+# 75. Colourman
+
+# 76. Compositor
+
+# 77. Compost Maistry
+
+# 78. Compounder
+
+# 79. Controller
+
+# 80. Cooper
+
+# 81. Corporal / Seargent /Assistant Security Officer
+
+# 82. Cot Weaver
+
+# 83. Cracker
+
+# 84. Crech Ayah / Ayah / Untrained Crech Attendant
+
+# 85. Crowlder Man
+
+# 86. Crusher
+
+# 87. Cultivator
+
+# 88. Cutting - Earth Cutting / Rock Cutting / Stone Cutting workers
+
+# 89. Defibering Mechanic
+
+# 90. Deliveryman
+
+# 91. Depot Maistry
+
+# 92. Die Pullers
+
+# 93. Disease Control Maistry (Malaria, Dengue etc....)
+
+# 94. Dollyman
+
+# 95. Dough Maker
+
+# 96. Dresser Grade II
+
+# 97. Driller
+
+# 98. Driver (Helper)
+
+# 99. Workers engaged in dying of drag ropes
+
+# 100. Electrical Repairer
+
+# 101. Electrician
+
+# 102. Engraver in Steel and Aluminum Vessels Shops
+
+# 103. Excavator
+
+# 104. Feeder
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+# 31
+
+1. Female Nursing orderly and Male Nursing orderly
+2. Ferroman
+3. Filler / Oil Measurer
+4. Filterman
+5. Fireman / Fireman (Brick Kiln, Steam Road Roller)
+6. Firewood / Timber loading and unloading workers
+7. Firewood Cutter in Fire wood shops
+8. Fitter (Assistant Semi-Skilled)
+9. Fitter Helper
+10. Fixing Handles and Other Accessories on Utensils
+11. Workers engaged in Flanging/Rolling/ Drilling/ Rivetting
+12. Flashers
+13. Flower Decorator
+14. Foreman / Supervisor / Boiler Operator / Mechanic / Production Assistant
+15. Forklift Operator
+16. Frash
+17. Fruit Juice and Lassie Maker in shops
+18. Furnace Operator
+19. Gangman
+20. Gardener
+21. Gate Keeper
+22. Generator Operator
+23. Gharami Thatcher
+24. Gin Feeder
+25. Ginning and Pressing man
+26. Glazing Machine Operator
+27. Goat skin knifers
+28. Godown in-charge
+29. Godown Keeper
+30. Graders
+31. Workers engaged in Grading of coconut
+32. Grater
+33. Greaser
+34. Greaser-cum-Fireman
+35. Grinder
+36. Groundsman (Sports Areas)
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+
+# 141. Hammerman
+
+# 142. Handhole Driller
+
+# 143. Head Mazdoor
+
+# 144. Helper / Helper - Artisan, Blacksmith, loco-Crane Truck, Mason, Carpenter, Sawyer
+
+# 145. Helpers in Motion Picture Industry
+
+# 146. Helpers in ornaments and related works
+
+# 147. Hut Maker
+
+# 148. Kalasis or sarang engaged in heavy engineering construction like heavy machinery bridge work etc
+
+# 149. Keyman
+
+# 150. Kilning of charcoal workers
+
+# 151. Labelling workers
+
+# 152. Laboratory Assistant
+
+# 153. Lamination Workers
+
+# 154. Lascar
+
+# 155. Lathe Operator
+
+# 156. Library Assistant
+
+# 157. Lift Operator
+
+# 158. Line Man
+
+# 159. Log Helper
+
+# 160. Lorry Cleaner
+
+# 161. Lubricating Assistant
+
+# 162. Machine Assistant
+
+# 163. Machine Attender
+
+# 164. Machine Operator
+
+# 165. Mahout
+
+# 166. Maramath
+
+# 167. Masalchi
+
+# 168. Mason - helper
+
+# 169. Mat weaver (Power loom / Hand loom)
+
+# 170. Mazdoor (Heavy-weight) / Mazdoor (literate)
+
+# 171. Mazdoor Mason
+
+# 172. Mechanic
+
+# 173. Mechanical Technician
+
+# 174. Mike Operator
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+# 175. Mike set / Seriel set originator
+
+# 176. Mould Operator
+
+# 177. Mounting workers
+
+# 178. Night-guard
+
+# 179. Nurse - ANM /GNM
+
+# 180. Oil Passing Workers
+
+# 181. Oilers
+
+# 182. Oilman/Oiler
+
+# 183. Ornamental Adorner
+
+# 184. Ornamental Cloth Tier
+
+# 185. Oven-keeper
+
+# 186. Over Head Tank Operators.
+
+# 187. Packer
+
+# 188. Packing and weighing workers
+
+# 189. Paddy Boilers
+
+# 190. Workers engaged in Pavu Pinaithal, Terry / Jacquard ragam in Power Loom Industry
+
+# 191. PDC Operator
+
+# 192. Peeling Worker
+
+# 193. Photo Frame Worker and Cutter
+
+# 194. Pile formation workers in Mushroom growing
+
+# 195. Pipe line Fitter.
+
+# 196. Pit Digger
+
+# 197. Planting Co-ordinator
+
+# 198. Plate Maker
+
+# 199. Ploughman
+
+# 200. Plumbers
+
+# 201. Pole Erector
+
+# 202. Polisher
+
+# 203. Workers engaged in Polishing, Drilling, dying in vessels making
+
+# 204. Press Man
+
+# 205. Press Operator
+
+# 206. Pressmen, Spinner and sheet Maker in Vessesls Making
+
+# 207. Printing Assistant
+
+# 208. Processing Worker
+
+# 209. Projection Operator
+
+# 210. Proof reader
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+
+# 211. Publicity Room Incharge
+
+# 212. Pulper
+
+# 213. Pulper in Paper Industry
+
+# 214. Pump Attendant
+
+# 215. Pump Operator.
+
+# 216. Punch Operator
+
+# 217. Purchase Assistant
+
+# 218. Workers engaged in Putting coal and fire wood in kiln
+
+# 219. Quarry man
+
+# 220. Quarry Operator
+
+# 221. Raft making workers
+
+# 222. Refiners in Paper Industry
+
+# 223. Retreading and Tube Vulcanising shop workers
+
+# 224. Rimming operator
+
+# 225. Roasters
+
+# 226. Roasting or frying workers
+
+# 227. Roof Thatcher
+
+# 228. Ruler
+
+# 229. Runner (Post dak)
+
+# 230. Sales Assistant
+
+# 231. Scraper (semi skilled)
+
+# 232. Scudders
+
+# 233. Seedlings planters in plantation
+
+# 234. Shamiana Erector
+
+# 235. Sheet cutter, circle cutter and threading Operation
+
+# 236. Slab Placers in Brick and tile industry
+
+# 237. Smith
+
+# 238. Soldering workers
+
+# 239. Solvent Plant Operator
+
+# 240. Sorters
+
+# 241. Sound Recordist
+
+# 242. Workers engaged in Sowing seeds / planting in plantation
+
+# 243. Spawn Mixing workers in Mushroom growing
+
+# 244. Splitters
+
+# 245. Stitching and Packing workers
+
+# 246. Stocker
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+# List of Occupations
+
+1. Stoneman
+2. Store Attendant
+3. Supplier
+4. Syce
+5. Table Man
+6. Tailor (Stitching only)
+7. Tannery - Deamers (Back Yard Department)
+8. Tannery - Setters (Back Yard Department)
+9. Technical assistant
+10. Tindals
+11. Trades Man
+12. Trimming Workers
+13. Trollyman (Head Motor)
+14. Turner
+15. Workers engaged in Twisting, drying and Bundling in Bleaching or dyeing Industry
+16. Tyre Grinder in tyre Resoling
+17. Tyre Man
+18. Umbrella fitter
+19. Uncured Coffee / Estate pounded coffee - Workers engaged in unloading and stoking from lorries, Peeling
+20. Valveman / Valveman (Senior)
+21. Vulcanizer and similar workers
+22. Warper
+23. Workers engaged in Warping in silk twisting
+24. Weighman
+25. Workers engaged in Winch Bleaching
+26. Winchman
+27. Winder (Grade - II)
+28. Wire Boy
+29. Wireman fixing tin cables
+30. Woolen weavers
+31. Workers engaged in Match factory and Fire works
+32. Workers engaged in Sericulture
+33. X - Ray Photographer
+34. Any other categories by whatever name called which are semi-skilled in nature.
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+
+# SKILLED
+
+| Sl.No | Occupation                                                                                                                                                                                                                 |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.    | Aari Worker                                                                                                                                                                                                                |
+| 2.    | Accountant                                                                                                                                                                                                                 |
+| 3.    | Agricultural implements maker (including cattle shoe maker)                                                                                                                                                                |
+| 4.    | Workers engaged in Agricultural works of hard nature like digging, loading, bundwork, ridge making, mud fencing, rain pit digging, digging pond for agricultural purposes, Green manure preparation and trimming of trees. |
+| 5.    | Air Compressor Attendant                                                                                                                                                                                                   |
+| 6.    | Air condition Plant Operator                                                                                                                                                                                               |
+| 7.    | Air condition Plant Mechanic                                                                                                                                                                                               |
+| 8.    | Aligner                                                                                                                                                                                                                    |
+| 9.    | Ambulance Driver                                                                                                                                                                                                           |
+| 10.   | Analysist                                                                                                                                                                                                                  |
+| 11.   | Armature Winder Grade-II and III                                                                                                                                                                                           |
+| 12.   | Artificer                                                                                                                                                                                                                  |
+| 13.   | Artist                                                                                                                                                                                                                     |
+| 14.   | Assistant Foreman                                                                                                                                                                                                          |
+| 15.   | Assistant Manager/Supervisor                                                                                                                                                                                               |
+| 16.   | Assistant Tinkers                                                                                                                                                                                                          |
+| 17.   | Assistant Videographer                                                                                                                                                                                                     |
+| 18.   | Audio and Video Mechanic/Repairer                                                                                                                                                                                          |
+| 19.   | Automatic Machineman                                                                                                                                                                                                       |
+| 20.   | B.I.M. Modeler                                                                                                                                                                                                             |
+| 21.   | Batching plant Operator                                                                                                                                                                                                    |
+| 22.   | Batterymen                                                                                                                                                                                                                 |
+| 23.   | Beautician                                                                                                                                                                                                                 |
+| 24.   | Bench Fitter/ Parking Controller (Regulation of parking vehicles supervision, Washing and Lubrication)                                                                                                                     |
+| 25.   | Bill Clerk                                                                                                                                                                                                                 |
+| 26.   | Bill Collector                                                                                                                                                                                                             |
+| 27.   | Bill Writer                                                                                                                                                                                                                |
+| 28.   | Blaster                                                                                                                                                                                                                    |
+| 29.   | Bleacher in Bleaching or Dyeing Industry                                                                                                                                                                                   |
+| 30.   | Workers engaged in Bleaching and Dyeing of silk                                                                                                                                                                            |
+| 31.   | Block Maker                                                                                                                                                                                                                |
+| 32.   | Bobcat Operators                                                                                                                                                                                                           |
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+# List of Occupations
+
+1. Boiler Foreman Grade II
+2. Boilerman Grade II and III
+3. Book Keeper
+4. Booking Clerk
+5. Boreman
+6. Borer
+7. Brass, Copper vessels making workers
+8. Workers engaged in Breaking of boulders
+9. Bulldozer Driver
+10. Cabinet Maker
+11. Camera Mechanic
+12. Camera Technician
+13. Caneman
+14. Carpenter / Blacksmith / Wood Turner / Grinding (Plywood works)
+15. Cashew Peelers
+16. Workers engaged in Celotex making
+17. Cement tile presser
+18. Chargeman
+19. Checkder (Junior)
+20. Chemist
+21. Chick Maker
+22. Chickman (Junior), Concrete Mixer
+23. Chipper/Chipper-Cum-Grinder
+24. Cinema project Operator
+25. Clamp Shelf Operator
+26. Clerical Assistant
+27. Clerks
+28. Coffee / Tea maker / Roti / Dosa Maker
+29. Workers engaged in Colouring of gold ornaments
+30. Compressor Operator
+31. Computer Operator
+32. Concrete Mixer Operator
+33. Conductor
+34. Consultant
+35. Workers engaged in Converting gold into pure gold
+36. Workers engaged in Converting pure gold into gold
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+# 69. Cook
+
+# 70. Coremaker
+
+# 71. Crusher Operator
+
+# 72. CTP operator
+
+# 73. Curtain maker
+
+# 74. Customer Care Executive/Receptionist
+
+# 75. Cutter
+
+# 76. Cutter cum Marker
+
+# 77. Cutter cum Pattern Marker
+
+# 78. Cutting Machine Operator
+
+# 79. Workers engaged in Cutting of gold
+
+# 80. Workers engaged in Cutting the Bark and stacking
+
+# 81. Cylinder treadle machineman
+
+# 82. Data Entry operator
+
+# 83. De-Mineralised water Plant Operator
+
+# 84. Depot Starter
+
+# 85. Die Makers
+
+# 86. Die-Casting Operator
+
+# 87. Diesel Engine Operator
+
+# 88. Diesel Engine Grade II Machanic
+
+# 89. Distemprer
+
+# 90. Dorrick Operator
+
+# 91. Dozer Operator
+
+# 92. Drafts Man
+
+# 93. Dragline Drill Dumber Operator
+
+# 94. Draughtsman
+
+# 95. Dresser Grade-I Mica
+
+# 96. Drill Mechanic
+
+# 97. Driller / Driller (Well Boring)
+
+# 98. Driver (Engine Tractor, M.T.Motor)
+
+# 99. Driver in Engine, Static Stone Crusher, Tractor, Bull Dozer, Steam Road Roller, Water Pump, Mechanical Road Roller, Mechanical / Steam Crane,Tractor with Bull Dozer (Mechanical)
+
+# 100. Driver (Auto)
+
+# 101. Driver (Heavy Vehicle)
+
+# 102. Driver (Loco / Truck)
+
+# 103. Drivers in Auto Rickshaws (fitted with meters)
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+# 39
+
+1. Drivers in Taxis (fitted with meters)
+2. Drivers including those employed by Tourist / Operator
+3. Driving Pantooms with Boiler
+4. DTP Operator
+5. Dumper Tractor Operator
+6. Dye House Workers
+7. Dye Maker
+8. Dyeing Master
+9. Workers engaged in Dieing gold jewellery
+10. Electrician (DIPLOMA)
+11. Electro Platter
+12. Engine Driver
+13. Engraver
+14. Excavator Operator
+15. Expeller Driver
+16. Expeller Maistry/Supervisor
+17. Expeller Workers
+18. Extruder Operator in Polythene industry
+19. Ferro Printer cum-chairman
+20. Ferry Driver
+21. Workers engaged in Fibres Bundling
+22. Field Officer
+23. Finisher
+24. Fireman
+25. Fireman in Mines
+26. Fitter
+27. Floor Supervisor
+28. Fork Lift Operator
+29. Frame Fitting and Setting Worker
+30. Fruit Jam and Pulb Manufactures
+31. Garbling Maistry
+32. Generator Operator
+33. Geologist
+34. Godown Keeper
+35. Gold Smith
+36. Grader Operator
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+
+# 140. Grane Operator
+
+# 141. Grinder (Plywood works)
+
+# 142. Growers
+
+# 143. H.R. Executive
+
+# 144. Hair Dresser
+
+# 145. Haulage Operator
+
+# 146. Head Backer
+
+# 147. Hoist Operator
+
+# 148. Hole Driller for Blasting
+
+# 149. Ice cream Manufactures
+
+# 150. IMCE Driver
+
+# 151. Imposer
+
+# 152. Inspector Grade II
+
+# 153. Interior Decorator
+
+# 154. Issuer Loco
+
+# 155. Jack Hammer Operator
+
+# 156. Jaggery Makers
+
+# 157. JCB Operator
+
+# 158. Jobber in polythene industry
+
+# 159. Joiner / Joiner (Cable,Cable Grade II)
+
+# 160. Junior Engineer
+
+# 161. Lab Technician
+
+# 162. Lathe Operator / Latheman (Turner)
+
+# 163. Lever Operator
+
+# 164. Librarian
+
+# 165. Limco Loader Operator
+
+# 166. Line Man
+
+# 167. Loader Operator
+
+# 168. Loco Driver
+
+# 169. Lubricating Inspector
+
+# 170. M. C. Clerk
+
+# 171. Machine Cleaned Fibre Twistings
+
+# 172. Machine hand (Class II, III, IV)
+
+# 173. Machineman
+
+# 174. Machinist
+
+# 175. Magazine Clerk
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+# 176. Maintenance Assistants on Machines (Electrical, Electro mechanical, mechanical and Electronics)
+
+# 177. Maistries
+
+# 178. Workers engaged in Making gold wire, conversion of gold into golden threads
+
+# 179. Workers engaged in Manufacture of gold covered/silver coated ornaments
+
+# 180. Marker / Markers &#x26; Stencillers
+
+# 181. Mason
+
+# 182. Mat Maker
+
+# 183. Mechanic / Mechanic (Air conditioning, Air conditioning Grade II) / Mechanic (Tube-Well) / Machinist
+
+# 184. Mechanical Road Roller I.C. and Cement Mixer etc.
+
+# 185. Workers engaged in Mechanised sawing
+
+# 186. Meter Reader
+
+# 187. Meteorological Observer
+
+# 188. Mica Cutter Grade -I
+
+# 189. Mild Steel vessels maker
+
+# 190. Miller
+
+# 191. Miller in Electronic Industry
+
+# 192. Mistry
+
+# 193. Mistry / Mistry Grade II, Air conditioning Grade II, P. Way, Survey, Santras / Mistry (Stell, Tube-Well, Telephone)
+
+# 194. Mixture driver
+
+# 195. Mixture including concrete mixture operator
+
+# 196. Molder
+
+# 197. Mono – Caster
+
+# 198. Mono – Operator
+
+# 199. Mono caster, Mono Operator, Leno Operator, off set Printers in printing Industry
+
+# 200. Mosaic Polisher
+
+# 201. Moulder / Moulder (Brick, Tile)
+
+# 202. Moulder Maistry
+
+# 203. Mushroom Growers
+
+# 204. Neera Tappers
+
+# 205. Negative / Positive Checker in Motion Picture Industry
+
+# 206. Network Administrator
+
+# 207. Nurse (Diploma)
+
+# 208. Off-set Printer
+
+# 209. Operator Pneumatic Tools, Operator (Fitter)
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+
+# 210. Optical Mechanic/ Grinder /Purchaser
+
+# 211. Other Technicians (Diploma)
+
+# 212. Painter / Painter Spray (Class II)
+
+# 213. Paper Machine Operator
+
+# 214. Paper Tracing / Dyeing Worker
+
+# 215. Patient Caretaker at home (acquired necessary educational qualification or training)
+
+# 216. Pavment breaker, Loader, Operator
+
+# 217. Persons having experience for a period of 5 years in a particular trade or the persons who possess trade certificate including Industrial Training Institute with experience for a period of three years in a particular trade
+
+# 218. Pharmacist Assistant
+
+# 219. Photographer
+
+# 220. Pickels and Masala Powder Manufactures
+
+# 221. Pile Driving Operator
+
+# 222. Pipe Fitter
+
+# 223. Plant Operator
+
+# 224. Plasterer
+
+# 225. Workers engaged in Ploughing with the help of Tractor/Triller
+
+# 226. Plumber / Plumber-cum-Fitter
+
+# 227. Plumbing Mistry
+
+# 228. Polisher in Automobile Dealers Shop
+
+# 229. Workers engaged in Polishing of gold and Silver ornaments
+
+# 230. Power and Pump House Operator
+
+# 231. Power Shovel Operator
+
+# 232. Press Fitter/General Fitter/Gin Fitter
+
+# 233. Printing Technician
+
+# 234. Production Supervisor
+
+# 235. Projection Operator in Motion picture Industry
+
+# 236. Pulp Making Operator
+
+# 237. Pump Operator
+
+# 238. Pumpman (Assistant)
+
+# 239. Purchaser
+
+# 240. Quality Inspector
+
+# 241. Radiator Fitter
+
+# 242. Radio and Television Mechanic
+
+# 243. Radio Assistant
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+# 244. Radio Mechanic/Repairer
+
+# 245. Radiographer
+
+# 246. Rattan Worker
+
+# 247. Record Keeper
+
+# 248. Refinery Operator
+
+# 249. Refinery Operator in oil Mills
+
+# 250. Refractory Mechanic
+
+# 251. Reinforcement Cum-mechanic, Mechanic and Plumber
+
+# 252. Reverter
+
+# 253. Rivet Cutter (Assistant)
+
+# 254. Rivetter / Rivetter (Cutter)
+
+# 255. Road Inspector Grade II, Railway Plate Layer
+
+# 256. Road Roller Driver Grade II
+
+# 257. Rod Bender
+
+# 258. Roller Driver
+
+# 259. Rope Maker
+
+# 260. Rotary Man
+
+# 261. Rotary Man, Pint Man in oil Mills
+
+# 262. Sales Executive
+
+# 263. Sales Man
+
+# 264. Saw Sharpener
+
+# 265. Sawman
+
+# 266. Sawyer
+
+# 267. Scrapper Operator
+
+# 268. Screening Plant Operator
+
+# 269. Security Guard (without arms) and other categories by whatever name so called
+
+# 270. Senior Mechanic Filter
+
+# 271. Senior Operator
+
+# 272. Senior Security Inspector/Security Officer
+
+# 273. Setter-cum-Operator
+
+# 274. Sharper/Slotter
+
+# 275. Shovel Operator
+
+# 276. Silver cutter
+
+# 277. Skilled Labour in Lift installing Establishment
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+# 278. Skilled Mazdoor
+
+Budding, grafting, preparation of lawn, Garden designing, artificial pollination such other skilled workers
+
+# 279. Smith in Paper Industry
+
+# 280. Solderer
+
+# 281. Solvent Extraction Plant Operator
+
+# 282. Sound department workers in Motion Picture Industry
+
+# 283. Spray Painter
+
+# 284. Sprayer (Asphalt)
+
+# 285. Sprayman
+
+# 286. Sprayman or Mixture man (Road surfacing/Patching Plant Operator)
+
+# 287. Static and Road Roller Boiler Attendant
+
+# 288. Stationery Engine Attendant
+
+# 289. Loading Foreman
+
+# 290. Workers engaged in Stitching and cutting in Umbrella
+
+# 291. Stone Blasterer
+
+# 292. Stone Chisler
+
+# 293. Stone Crusher Operator
+
+# 294. Stone Cutter
+
+# 295. Store Clerk
+
+# 296. Store clerk (Matriculate, Non-matriculate)
+
+# 297. Store Keeper
+
+# 298. Studio Artist
+
+# 299. Studio Assistant/Lab Assistant/Light Boy
+
+# 300. Studio Boy/Binder/Framing Worker
+
+# 301. Suitcase/all kinds of bags and purse maker other than leather
+
+# 302. Supervisor
+
+# 303. Supervisory Fireman
+
+# 304. Supervisory Mechanic
+
+# 305. Surface Supervisor
+
+# 306. Surveyor (Silt) / Surveyor (Assistant)
+
+# 307. Sweet and Savoury Maker
+
+# 308. Tailor (Cutting and stitching)
+
+# 309. Tally Clerk
+
+# 310. Tar man
+
+# 311. Tea Maker (In Tea factory)
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+# List of Technical and Skilled Positions
+
+1. Technical Supporter
+2. Technically qualified Compressor Attendant / Compressor Driller / Compressor Driver / Compressor Operator
+3. Technician
+4. Technician in Musical Instruments Shop
+5. Technologist
+6. Teller Clerk
+7. Tile Flooring workers
+8. Tile maker
+9. Timber Man/Timber Mistry
+10. Time Keeper (Athletics)
+11. Tin Maker
+12. Tinker
+13. Tin-smith
+14. Tool Keeper
+15. Tracer
+16. Tractor Driver
+17. Operator (Tractor, Vibrator, Weight Batcher, Railway Guards, Repairer (Battery)
+18. Trades-Man
+19. Trailors
+20. Transcriptionist
+21. Translator
+22. Transprayer
+23. Tree Climbing and Coconut Plucking workers
+24. Typist and other categories by whatever name called which are of skilled in nature
+25. Tyre Vulcaniser
+26. Tyremen
+27. Upholsterer
+28. Varnisher
+29. Vehicle Driver
+30. Veneering Machine Operator
+31. Veneering pressing (Plywood)
+32. Video Editor
+33. Videographer
+34. Vocational Training Instructor/Teacher
+35. Vulcaniser
+36. Watch Mechanic
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+
+# 349. Water Treatment Plant Operator
+
+# 350. Weaver
+
+# 351. Weigh bridge Operator
+
+# 352. Weigher
+
+# 353. Welder
+
+# 354. Welder (gas)
+
+# 355. Well Driver for removing silt
+
+# 356. Well Sinker
+
+# 357. Wheel Load Operator
+
+# 358. Willow Driver
+
+# 359. Winding Engine Driver
+
+# 360. Wireless Operator
+
+# 361. Wireman
+
+# 362. Woollen carpet weaving workers
+
+# 363. Wood carver
+
+# 364. Wood Turner
+
+# 365. Wooden or Stone packer
+
+# 366. Workers attending all the process of work in the manufacture of snuff (manual)
+
+# 367. Workers engaged in Textile Mills
+
+# 368. Workers engaged in purification of silver/making of silver articles
+
+# 369. Workshop Driver
+
+# 370. Workshop Tool-keeper
+
+# 371. Yard Superintendent
+
+# 372. Zardosi Worker
+
+# 373. Any other categories by whatever name called which are skilled in nature.
+
+# Sl.No                                        HIGHLY SKILLED
+
+| 1.  | Accounts Manager                         |
+| --- | ---------------------------------------- |
+| 2.  | Administrative Manager                   |
+| 3.  | Administrative Officer                   |
+| 4.  | Analyst in Medicine Manufacture Industry |
+| 5.  | Armature Winder Grade I                  |
+| 6.  | Artificier Class I                       |
+| 7.  | Assistant Accounts Manager               |
+| 8.  | Assistant Finance Manager                |
+| 9.  | Bio-chemist                              |
+| 10. | Blacksmith Class I                       |
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+# 11. Boilerman Grade I
+
+# 12. Brick Layer Class I
+
+# 13. Cable Joiner Grade I
+
+# 14. Card Cutter, Designer
+
+# 15. Carpenter Class- I / Carpenter Grade-I
+
+# 16. Celotex Cutter and Decorator
+
+# 17. Chargeman Class I
+
+# 18. Charper/Sletter Grade I
+
+# 19. Checker (Senior), Lorry Driver Grade I
+
+# 20. Chief Accountant
+
+# 21. Chief Analysist
+
+# 22. Chief Boiler Operator
+
+# 23. Chief Cashier
+
+# 24. Chief Chemist / Quality Controlling Inspector
+
+# 25. Chief Operator
+
+# 26. Chief Pharmacist
+
+# 27. Clamp Shell Grade I
+
+# 28. Compressor Grade I
+
+# 29. Co-ordinator
+
+# 30. Crane Operator
+
+# 31. Diamond cutter
+
+# 32. Diesel Engine Operator Grade I
+
+# 33. Dietician
+
+# 34. Dozer Grade I
+
+# 35. Dragline Operator Grade I
+
+# 36. Drill Operator other than Jack Hammer Grade I
+
+# 37. Dumper Grade I
+
+# 38. Editor/Senior Proofer
+
+# 39. Electrical Supervisor
+
+# 40. Electrical Supervisor with Competency Certificate
+
+# 41. Electrician Grade I
+
+# 42. Engineer
+
+# 43. Excavator Grade I
+
+# 44. Fire fighting Supervisor / Leader
+
+# 45. Fitter - Grade I
+
+# 46. Foreman Grade I
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+# 47. Fork Lift Operator Grade I
+
+# 48. Grader Grade I
+
+# 49. Graphic designer
+
+# 50. Grinder (Tool) Grade I
+
+# 51. Head Baker
+
+# 52. Head cook
+
+# 53. Head Electrician
+
+# 54. Head Mechanic
+
+# 55. Head Mistry
+
+# 56. Incharge of Watch and Ward
+
+# 57. Laboratory Technician (Graduate)
+
+# 58. Librarian (with Master Degree) / Senior Librarian
+
+# 59. Line Man Grade I
+
+# 60. Machine Tool Mechanic Grade I
+
+# 61. Manager
+
+# 62. Mason Grade I
+
+# 63. Mast Rigger Mechanic
+
+# 64. Mechanic Class I / Mechanic (Diesel) - Grade I / Road Roller - Grade I, Mechanic / Air Condition Mechanic Grade I
+
+# 65. Medical and sales Representatives in Pharmaceutical Manufacturing or marketing Units / Distribution units
+
+# 66. Micro Biologist
+
+# 67. Mining Supervisor
+
+# 68. Nurse (Degree Holder)
+
+# 69. Operator (Batching Plant Grade I, Heavy Earth Moving Shovel and Bulldozer)
+
+# 70. Other Technicians (Engineering Degree)
+
+# 71. Overseer (Senior and Junior)
+
+# 72. Painter (Grade I, Class I, Spray), Plasterer (Mason) Class I
+
+# 73. Pattern Maker
+
+# 74. Persons engaged in the Manufacture of specially designed handicraft ornaments in Gold Jewellery
+
+# 75. Pharmacist / Chemist ( Degree holders)
+
+# 76. Physiotherapist
+
+# 77. Pile Driver Grade I
+
+# 78. Pipe Man Class I (Head)
+
+# 79. Plant Foreman
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+# 80. Production Incharge
+
+# 81. Production Manager
+
+# 82. Programmer/Software Engineer/Proofer
+
+# 83. Project Leader
+
+# 84. Purchase Officer
+
+# 85. Quality Tester
+
+# 86. Radiographer
+
+# 87. Rigger Grade I
+
+# 88. Road Inspector Grade I
+
+# 89. Road Roller Grade I
+
+# 90. Safety Officer
+
+# 91. Salesman in Pharmaceutical wholesale or distributor Units
+
+# 92. Screening Plant Operator Grade I
+
+# 93. Section Head
+
+# 94. Security Guard (Armed)
+
+# 95. Senior Accountant
+
+# 96. Senior Airconditioning Mechanic
+
+# 97. Senior Analysist
+
+# 98. Senior Consultant/Senior Executive
+
+# 99. Senior Fitter
+
+# 100. Senior Foreman
+
+# 101. Senior Geologist
+
+# 102. Senior Mason
+
+# 103. Senior Mistry
+
+# 104. Senior Plumber
+
+# 105. Senior Software Engineer
+
+# 106. Senior Steno Typist
+
+# 107. Senior Surveyor
+
+# 108. Shovel and Dragline Operator Grade I
+
+# 109. Steno-Typist with 7 years of Experience
+
+# 110. Superintendent / Head Clerk
+
+# 111. System Analyst
+
+# 112. Team Manager/Financial Specialist/Assistant Project Manager
+
+# 113. Technical Leader
+
+# 114. Technical Manager(Chemical / Mechanical / Electrical / Civil / Instrumentation)
+
+
+
+
+
+
+TAMIL NADU GOVERNMENT GAZETTE EXTRAORDINARY
+
+# 115. Technical Supervisor
+
+# 116. Tiler Class I
+
+# 117. Tinsmith Grade I and Class I
+
+# 118. Tradesman Class I
+
+# 119. Upholstery Maker
+
+# 120. Welder (Gas) Class I / Welder-Cum-Fitter and Air Conditioning Mechanic Grade I
+
+# 121. Wireman Grade I, Class I
+
+# 122. Workshop Supervisor / Assembling Supervisor
+
+# 123. Any other categories by whatever name called which are highly skilled in nature.
+
+R. KIRLOSH KUMAR,
+
+Secretary to Government.
+
+PRINTED AND PUBLISHED BY THE COMMISSIONER OF STATIONERY AND PRINTING, CHENNAI ON BEHALF OF THE GOVERNMENT OF TAMIL NADU
+
+
+
+
+# Document Reference: Niranjan Shankar Golikari vs The Century Spinning And Mfg. Co. Ltd on 17 January, 1967
+--- Ingestion Timestamp: Sun Jun 28 19:54:43 2026 ---
+
+
+
+
+
+# Document Reference: The Bharatiya Nyaya Sanhita, 2023
+--- Ingestion Timestamp: Sun Jun 28 19:55:39 2026 ---
+
+# The Bharatiya Nyaya Sanhita, 2023
+
+# (ACT NO. 45 OF 2023)
+
+# [As on the 6th October, 2025]
+
+
+
+
+# LIST OF ABBREVIATIONS USED
+
+| G.S.R.  | for | General Statutory Rules. |
+| ------- | --- | ------------------------ |
+| S.O.    | ,,  | Statutory Order.         |
+| Notifn. | ,,  | Notification.            |
+
+
+
+
+
+
+THE BHARATIYA NYAYA SANHITA, 2023
+
+# ARRANGEMENT OF SECTIONS
+
+# CHAPTER I
+
+# PRELIMINARY
+
+| 1. | Short title, commencement and application. |
+| -- | ------------------------------------------ |
+| 2. | Definitions.                               |
+| 3. | General explanations.                      |
+
+# CHAPTER II
+
+# OF PUNISHMENTS
+
+| 4.  | Punishments.                                                                                           |
+| --- | ------------------------------------------------------------------------------------------------------ |
+| 5.  | Commutation of sentence.                                                                               |
+| 6.  | Fractions of terms of punishment.                                                                      |
+| 7.  | Sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple.                |
+| 8.  | Amount of fine, liability in default of payment of fine, etc.                                          |
+| 9.  | Limit of punishment of offence made up of several offences.                                            |
+| 10. | Punishment of person guilty of one of several offences, judgment stating that it is doubtful of which. |
+| 11. | Solitary confinement.                                                                                  |
+| 12. | Limit of solitary confinement.                                                                         |
+| 13. | Enhanced punishment for certain offences after previous conviction.                                    |
+
+# CHAPTER III
+
+# GENERAL EXCEPTIONS
+
+| 14. | Act done by a person bound, or by mistake of fact believing himself bound, by law.         |
+| --- | ------------------------------------------------------------------------------------------ |
+| 15. | Act of Judge when acting judicially.                                                       |
+| 16. | Act done pursuant to judgment or order of Court.                                           |
+| 17. | Act done by a person justified, or by mistake of fact believing himself justified, by law. |
+| 18. | Accident in doing a lawful act.                                                            |
+| 19. | Act likely to cause harm, but done without criminal intent, and to prevent other harm.     |
+| 20. | Act of a child under seven years of age.                                                   |
+| 21. | Act of a child above seven and under twelve years of age of immature understanding.        |
+| 22. | Act of a person of unsound mind.                                                           |
+| 23. | Act of a person incapable of judgment by reason of intoxication caused against his will.   |
+| 24. | Offence requiring a particular intent or knowledge committed by one who is intoxicated.    |
+
+
+
+
+
+
+# SECTIONS
+
+# 25.
+
+Act not intended and not known to be likely to cause death or grievous hurt, done by consent.
+
+# 26.
+
+Act not intended to cause death, done by consent in good faith for person's benefit.
+
+# 27.
+
+Act done in good faith for benefit of child or person of unsound mind, by, or by consent of guardian.
+
+# 28.
+
+Consent known to be given under fear or misconception.
+
+# 29.
+
+Exclusion of acts which are offences independently of harm caused.
+
+# 30.
+
+Act done in good faith for benefit of a person without consent.
+
+# 31.
+
+Communication made in good faith.
+
+# 32.
+
+Act to which a person is compelled by threats.
+
+# 33.
+
+Act causing slight harm.
+
+# Of right of private defence
+
+# 34.
+
+Things done in private defence.
+
+# 35.
+
+Right of private defence of body and of property.
+
+# 36.
+
+Right of private defence against act of a person of unsound mind, etc.
+
+# 37.
+
+Acts against which there is no right of private defence.
+
+# 38.
+
+When right of private defence of body extends to causing death.
+
+# 39.
+
+When such right extends to causing any harm other than death.
+
+# 40.
+
+Commencement and continuance of right of private defence of body.
+
+# 41.
+
+When right of private defence of property extends to causing death.
+
+# 42.
+
+When such right extends to causing any harm other than death.
+
+# 43.
+
+Commencement and continuance of right of private defence of property.
+
+# 44.
+
+Right of private defence against deadly assault when there is risk of harm to innocent person.
+
+# CHAPTER IV
+
+# OF ABETMENT, CRIMINAL CONSPIRACY AND ATTEMPT
+
+# of abetment
+
+# 45.
+
+Abetment of a thing.
+
+# 46.
+
+Abettor.
+
+# 47.
+
+Abetment in India of offences outside India.
+
+# 48.
+
+Abetment outside India for offence in India.
+
+# 49.
+
+Punishment of abetment if act abetted is committed in consequence and where no express provision is made for its punishment.
+
+# 50.
+
+Punishment of abetment if person abetted does act with different intention from that of abettor.
+
+# 51.
+
+Liability of abettor when one act abetted and different act done.
+
+# 52.
+
+Abettor when liable to cumulative punishment for act abetted and for act done.
+
+# 53.
+
+Liability of abettor for an effect caused by act abetted different from that intended by abettor.
+
+# 54.
+
+Abettor present when offence is committed.
+
+
+
+
+
+
+# SECTIONS
+
+# 55. Abetment of offence punishable with death or imprisonment for life.
+
+# 56. Abetment of offence punishable with imprisonment.
+
+# 57. Abetting commission of offence by public or by more than ten persons.
+
+# 58. Concealing design to commit offence punishable with death or imprisonment for life.
+
+# 59. Public servant concealing design to commit offence which it is his duty to prevent.
+
+# 60. Concealing design to commit offence punishable with imprisonment.
+
+# Of criminal conspiracy
+
+# 61. Criminal conspiracy.
+
+# Of attempt
+
+# 62. Punishment for attempting to commit offences punishable with imprisonment for life or other imprisonment.
+
+# CHAPTER V
+
+# OF OFFENCES AGAINST WOMAN AND CHILD
+
+# Of sexual offences
+
+# 63. Rape.
+
+# 64. Punishment for rape.
+
+# 65. Punishment for rape in certain cases.
+
+# 66. Punishment for causing death or resulting in persistent vegetative state of victim.
+
+# 67. Sexual intercourse by husband upon his wife during separation.
+
+# 68. Sexual intercourse by a person in authority.
+
+# 69. Sexual intercourse by employing deceitful means, etc.
+
+# 70. Gang rape.
+
+# 71. Punishment for repeat offenders.
+
+# 72. Disclosure of identity of victim of certain offences, etc.
+
+# 73. Printing or publishing any matter relating to Court proceedings without permission.
+
+# Of criminal force and assault against woman
+
+# 74. Assault or use of criminal force to woman with intent to outrage her modesty.
+
+# 75. Sexual harassment.
+
+# 76. Assault or use of criminal force to woman with intent to disrobe.
+
+# 77. Voyeurism.
+
+# 78. Stalking.
+
+# 79. Word, gesture or act intended to insult modesty of a woman.
+
+# Of offences relating to marriage
+
+# 80. Dowry death.
+
+
+
+
+
+
+# SECTIONS
+
+# 81. Cohabitation caused by man deceitfully inducing belief of lawful marriage.
+
+# 82. Marrying again during lifetime of husband or wife.
+
+# 83. Marriage ceremony fraudulently gone through without lawful marriage.
+
+# 84. Enticing or taking away or detaining with criminal intent a married woman.
+
+# 85. Husband or relative of husband of a woman subjecting her to cruelty.
+
+# 86. Cruelty defined.
+
+# 87. Kidnapping, abducting or inducing woman to compel her marriage, etc.
+
+# Of causing miscarriage, etc.
+
+# 88. Causing miscarriage.
+
+# 89. Causing miscarriage without woman's consent.
+
+# 90. Death caused by act done with intent to cause miscarriage.
+
+# 91. Act done with intent to prevent child being born alive or to cause to die after birth.
+
+# 92. Causing death of quick unborn child by act amounting to culpable homicide.
+
+# Of offences against child
+
+# 93. Exposure and abandonment of child under twelve years of age, by parent or person having care of it.
+
+# 94. Concealment of birth by secret disposal of dead body.
+
+# 95. Hiring, employing or engaging a child to commit an offence.
+
+# 96. Procuration of child.
+
+# 97. Kidnapping or abducting child under ten years of age with intent to steal from its person.
+
+# 98. Selling child for purposes of prostitution, etc.
+
+# 99. Buying child for purposes of prostitution, etc.
+
+# CHAPTER VI
+
+# OF OFFENCES AFFECTING THE HUMAN BODY
+
+# Of offences affecting life
+
+# 100. Culpable homicide.
+
+# 101. Murder.
+
+# 102. Culpable homicide by causing death of person other than person whose death was intended.
+
+# 103. Punishment for murder.
+
+# 104. Punishment for murder by life-convict.
+
+# 105. Punishment for culpable homicide not amounting to murder.
+
+# 106. Causing death by negligence.
+
+# 107. Abetment of suicide of child or person of unsound mind.
+
+# 108. Abetment of suicide.
+
+# 109. Attempt to murder.
+
+# 110. Attempt to commit culpable homicide.
+
+
+
+
+
+
+# SECTIONS
+
+# 111. Organised crime.
+
+# 112. Petty organised crime.
+
+# 113. Terrorist act.
+
+# Of hurt
+
+# 114. Hurt.
+
+# 115. Voluntarily causing hurt.
+
+# 116. Grievous hurt.
+
+# 117. Voluntarily causing grievous hurt.
+
+# 118. Voluntarily causing hurt or grievous hurt by dangerous weapons or means.
+
+# 119. Voluntarily causing hurt or grievous hurt to extort property, or to constrain to an illegal act.
+
+# 120. Voluntarily causing hurt or grievous hurt to extort confession, or to compel restoration of property.
+
+# 121. Voluntarily causing hurt or grievous hurt to deter public servant from his duty.
+
+# 122. Voluntarily causing hurt or grievous hurt on provocation.
+
+# 123. Causing hurt by means of poison, etc., with intent to commit an offence.
+
+# 124. Voluntarily causing grievous hurt by use of acid, etc.
+
+# 125. Act endangering life or personal safety of others.
+
+# Of wrongful restraint and wrongful confinement
+
+# 126. Wrongful restraint.
+
+# 127. Wrongful confinement.
+
+# Of criminal force and assault
+
+# 128. Force.
+
+# 129. Criminal force.
+
+# 130. Assault.
+
+# 131. Punishment for assault or criminal force otherwise than on grave provocation.
+
+# 132. Assault or criminal force to deter public servant from discharge of his duty.
+
+# 133. Assault or criminal force with intent to dishonour person, otherwise than on grave provocation.
+
+# 134. Assault or criminal force in attempt to commit theft of property carried by a person.
+
+# 135. Assault or criminal force in attempt to wrongfully confine a person.
+
+# 136. Assault or criminal force on grave provocation.
+
+# Of kidnapping, abduction, slavery and forced labour
+
+# 137. Kidnapping.
+
+# 138. Abduction.
+
+# 139. Kidnapping or maiming a child for purposes of begging.
+
+# 140. Kidnapping or abducting in order to murder or for ransom, etc.
+
+# 141. Importation of girl or boy from foreign country.
+
+
+
+
+
+
+# SECTIONS
+
+142. Wrongfully concealing or keeping in confinement, kidnapped or abducted person.
+
+143. Trafficking of person.
+
+144. Exploitation of a trafficked person.
+
+145. Habitual dealing in slaves.
+
+146. Unlawful compulsory labour.
+
+# CHAPTER VII
+
+# OF OFFENCES AGAINST THE STATE
+
+147. Waging, or attempting to wage war, or abetting waging of war, against Government of India.
+
+148. Conspiracy to commit offences punishable by section 147.
+
+149. Collecting arms, etc., with intention of waging war against Government of India.
+
+150. Concealing with intent to facilitate design to wage war.
+
+151. Assaulting President, Governor, etc., with intent to compel or restrain exercise of any lawful power.
+
+152. Act endangering sovereignty, unity and integrity of India.
+
+153. Waging war against Government of any foreign State at peace with Government of India.
+
+154. Committing depredation on territories of foreign State at peace with Government of India.
+
+155. Receiving property taken by war or depredation mentioned in sections 153 and 154.
+
+156. Public servant voluntarily allowing prisoner of State or war to escape.
+
+157. Public servant negligently suffering such prisoner to escape.
+
+158. Aiding escape of, rescuing or harbouring such prisoner.
+
+# CHAPTER VIII
+
+# OF OFFENCES RELATING TO THE ARMY, NAVY AND AIR FORCE
+
+159. Abetting mutiny, or attempting to seduce a soldier, sailor or airman from his duty.
+
+160. Abetment of mutiny, if mutiny is committed in consequence thereof.
+
+161. Abetment of assault by soldier, sailor or airman on his superior officer, when in execution of his office.
+
+162. Abetment of such assault, if assault committed.
+
+163. Abetment of desertion of soldier, sailor or airman.
+
+164. Harbouring deserter.
+
+165. Deserter concealed on board merchant vessel through negligence of master.
+
+166. Abetment of act of insubordination by soldier, sailor or airman.
+
+167. Persons subject to certain Acts.
+
+168. Wearing garb or carrying token used by soldier, sailor or airman.
+
+# CHAPTER IX
+
+# OF OFFENCES RELATING TO ELECTIONS
+
+169. Candidate, electoral right defined.
+
+
+
+
+
+
+# SECTIONS
+
+- 170. Bribery.
+- 171. Undue influence at elections.
+- 172. Personation at elections.
+- 173. Punishment for bribery.
+- 174. Punishment for undue influence or personation at an election.
+- 175. False statement in connection with an election.
+- 176. Illegal payments in connection with an election.
+- 177. Failure to keep election accounts.
+
+# CHAPTER X
+
+# OF OFFENCES RELATING TO COIN, CURRENCY-NOTES, BANK-NOTES, AND GOVERNMENT STAMPS
+
+- 178. Counterfeiting coin, Government stamps, currency-notes or bank-notes.
+- 179. Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes.
+- 180. Possession of forged or counterfeit coin, Government stamp, currency-notes or bank-notes.
+- 181. Making or possessing instruments or materials for forging or counterfeiting coin, Government stamp, currency-notes or bank-notes.
+- 182. Making or using documents resembling currency-notes or bank-notes.
+- 183. Effacing writing from substance bearing Government stamp, or removing from document a stamp used for it, with intent to cause loss to Government.
+- 184. Using Government stamp known to have been before used.
+- 185. Erasure of mark denoting that stamp has been used.
+- 186. Prohibition of fictitious stamps.
+- 187. Person employed in mint causing coin to be of different weight or composition from that fixed by law.
+- 188. Unlawfully taking coining instrument from mint.
+
+# CHAPTER XI
+
+# OF OFFENCES AGAINST THE PUBLIC TRANQUILLITY
+
+- 189. Unlawful assembly.
+- 190. Every member of unlawful assembly guilty of offence committed in prosecution of common object.
+- 191. Rioting.
+- 192. Wantonly giving provocation with intent to cause riot-if rioting be committed; if not committed.
+- 193. Liability of owner, occupier, etc., of land on which an unlawful assembly or riot takes place.
+- 194. Affray.
+- 195. Assaulting or obstructing public servant when suppressing riot, etc.
+- 196. Promoting enmity between different groups on grounds of religion, race, place of birth, residence, language, etc., and doing acts prejudicial to maintenance of harmony.
+
+
+
+
+
+
+# SECTIONS
+
+# 197. Imputations, assertions prejudicial to national integration.
+
+# CHAPTER XII
+
+# OF OFFENCES BY OR RELATING TO PUBLIC SERVANTS
+
+# 198. Public servant disobeying law, with intent to cause injury to any person.
+
+# 199. Public servant disobeying direction under law.
+
+# 200. Punishment for non-treatment of victim.
+
+# 201. Public servant framing an incorrect document with intent to cause injury.
+
+# 202. Public servant unlawfully engaging in trade.
+
+# 203. Public servant unlawfully buying or bidding for property.
+
+# 204. Personating a public servant.
+
+# 205. Wearing garb or carrying token used by public servant with fraudulent intent.
+
+# CHAPTER XIII
+
+# OF CONTEMPTS OF THE LAWFUL AUTHORITY OF PUBLIC SERVANTS
+
+# 206. Absconding to avoid service of summons or other proceeding.
+
+# 207. Preventing service of summons or other proceeding, or preventing publication thereof.
+
+# 208. Non-attendance in obedience to an order from public servant.
+
+# 209. Non-appearance in response to a proclamation under section 84 of Bharatiya Nagarik Suraksha Sanhita, 2023.
+
+# 210. Omission to produce document or electronic record to public servant by person legally bound to produce it.
+
+# 211. Omission to give notice or information to public servant by person legally bound to give it.
+
+# 212. Furnishing false information.
+
+# 213. Refusing oath or affirmation when duly required by public servant to make it.
+
+# 214. Refusing to answer public servant authorised to question.
+
+# 215. Refusing to sign statement.
+
+# 216. False statement on oath or affirmation to public servant or person authorised to administer an oath or affirmation.
+
+# 217. False information, with intent to cause public servant to use his lawful power to injury of another person.
+
+# 218. Resistance to taking of property by lawful authority of a public servant.
+
+# 219. Obstructing sale of property offered for sale by authority of public servant.
+
+# 220. Illegal purchase or bid for property offered for sale by authority of public servant.
+
+# 221. Obstructing public servant in discharge of public functions.
+
+# 222. Omission to assist public servant when bound by law to give assistance.
+
+# 223. Disobedience to order duly promulgated by public servant.
+
+# 224. Threat of injury to public servant.
+
+# 225. Threat of injury to induce person to refrain from applying for protection to public servant.
+
+
+
+
+
+
+# SECTIONS
+
+# 226.
+
+Attempt to commit suicide to compel or restrain exercise of lawful power.
+
+# CHAPTER XIV
+
+# OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+
+# 227.
+
+Giving false evidence.
+
+# 228.
+
+Fabricating false evidence.
+
+# 229.
+
+Punishment for false evidence.
+
+# 230.
+
+Giving or fabricating false evidence with intent to procure conviction of capital offence.
+
+# 231.
+
+Giving or fabricating false evidence with intent to procure conviction of offence punishable with imprisonment for life or imprisonment.
+
+# 232.
+
+Threatening any person to give false evidence.
+
+# 233.
+
+Using evidence known to be false.
+
+# 234.
+
+Issuing or signing false certificate.
+
+# 235.
+
+Using as true a certificate known to be false.
+
+# 236.
+
+False statement made in declaration which is by law receivable as evidence.
+
+# 237.
+
+Using as true such declaration knowing it to be false.
+
+# 238.
+
+Causing disappearance of evidence of offence, or giving false information to screen offender.
+
+# 239.
+
+Intentional omission to give information of offence by person bound to inform.
+
+# 240.
+
+Giving false information respecting an offence committed.
+
+# 241.
+
+Destruction of document or electronic record to prevent its production as evidence.
+
+# 242.
+
+False personation for purpose of act or proceeding in suit or prosecution.
+
+# 243.
+
+Fraudulent removal or concealment of property to prevent its seizure as forfeited or in execution.
+
+# 244.
+
+Fraudulent claim to property to prevent its seizure as forfeited or in execution.
+
+# 245.
+
+Fraudulently suffering decree for sum not due.
+
+# 246.
+
+Dishonestly making false claim in Court.
+
+# 247.
+
+Fraudulently obtaining decree for sum not due.
+
+# 248.
+
+False charge of offence made with intent to injure.
+
+# 249.
+
+Harbouring offender.
+
+# 250.
+
+Taking gift, etc., to screen an offender from punishment.
+
+# 251.
+
+Offering gift or restoration of property in consideration of screening offender.
+
+# 252.
+
+Taking gift to help to recover stolen property, etc.
+
+# 253.
+
+Harbouring offender who has escaped from custody or whose apprehension has been ordered.
+
+# 254.
+
+Penalty for harbouring robbers or dacoits.
+
+# 255.
+
+Public servant disobeying direction of law with intent to save person from punishment or property from forfeiture.
+
+
+
+
+
+
+# SECTIONS
+
+- 256. Public servant framing incorrect record or writing with intent to save person from punishment or property from forfeiture.
+- 257. Public servant in judicial proceeding corruptly making report, etc., contrary to law.
+- 258. Commitment for trial or confinement by person having authority who knows that he is acting contrary to law.
+- 259. Intentional omission to apprehend on part of public servant bound to apprehend.
+- 260. Intentional omission to apprehend on part of public servant bound to apprehend person under sentence or lawfully committed.
+- 261. Escape from confinement or custody negligently suffered by public servant.
+- 262. Resistance or obstruction by a person to his lawful apprehension.
+- 263. Resistance or obstruction to lawful apprehension of another person.
+- 264. Omission to apprehend, or sufferance of escape, on part of public servant, in cases not otherwise provided for.
+- 265. Resistance or obstruction to lawful apprehension or escape or rescue in cases not otherwise provided for.
+- 266. Violation of condition of remission of punishment.
+- 267. Intentional insult or interruption to public servant sitting in judicial proceeding.
+- 268. Personation of assessor.
+- 269. Failure by person released on bail bond or bond to appear in Court.
+
+# CHAPTER XV
+
+# OF OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY, CONVENIENCE, DECENCY AND MORALS
+
+- 270. Public nuisance.
+- 271. Negligent act likely to spread infection of disease dangerous to life.
+- 272. Malignant act likely to spread infection of disease dangerous to life.
+- 273. Disobedience to quarantine rule.
+- 274. Adulteration of food or drink intended for sale.
+- 275. Sale of noxious food or drink.
+- 276. Adulteration of drugs.
+- 277. Sale of adulterated drugs.
+- 278. Sale of drug as a different drug or preparation.
+- 279. Fouling water of public spring or reservoir.
+- 280. Making atmosphere noxious to health.
+- 281. Rash driving or riding on a public way.
+- 282. Rash navigation of vessel.
+- 283. Exhibition of false light, mark or buoy.
+- 284. Conveying person by water for hire in unsafe or overloaded vessel.
+- 285. Danger or obstruction in public way or line of navigation.
+
+
+
+
+
+
+# SECTIONS
+
+- 286. Negligent conduct with respect to poisonous substance.
+- 287. Negligent conduct with respect to fire or combustible matter.
+- 288. Negligent conduct with respect to explosive substance.
+- 289. Negligent conduct with respect to machinery.
+- 290. Negligent conduct with respect to pulling down, repairing or constructing buildings, etc.
+- 291. Negligent conduct with respect to animal.
+- 292. Punishment for public nuisance in cases not otherwise provided for.
+- 293. Continuance of nuisance after injunction to discontinue.
+- 294. Sale, etc., of obscene books, etc.
+- 295. Sale, etc., of obscene objects to child.
+- 296. Obscene acts and songs.
+- 297. Keeping lottery office.
+
+# CHAPTER XVI
+
+# OF OFFENCES RELATING TO RELIGION
+
+- 298. Injuring or defiling place of worship with intent to insult religion of any class.
+- 299. Deliberate and malicious acts, intended to outrage religious feelings of any class by insulting its religion or religious beliefs.
+- 300. Disturbing religious assembly.
+- 301. Trespassing on burial places, etc.
+- 302. Uttering words, etc., with deliberate intent to wound religious feelings of any person.
+
+# CHAPTER XVII
+
+# OF OFFENCES AGAINST PROPERTY
+
+# Of theft
+
+- 303. Theft.
+- 304. Snatching.
+- 305. Theft in a dwelling house, or means of transportation or place of worship, etc.
+- 306. Theft by clerk or servant of property in possession of master.
+- 307. Theft after preparation made for causing death, hurt or restraint in order to committing of theft.
+
+# Of extortion
+
+- 308. Extortion.
+
+# Of robbery and dacoity
+
+- 309. Robbery.
+- 310. Dacoity.
+- 311. Robbery, or dacoity, with attempt to cause death or grievous hurt.
+- 312. Attempt to commit robbery or dacoity when armed with deadly weapon.
+- 313. Punishment for belonging to gang of robbers, etc.
+
+
+
+
+
+
+# Of criminal misappropriation of property
+
+# SECTIONS
+
+# 314.
+Dishonest misappropriation of property.
+
+# 315.
+Dishonest misappropriation of property possessed by deceased person at the time of his death.
+
+# Of criminal breach of trust
+
+# 316.
+Criminal breach of trust.
+
+# Of receiving stolen property
+
+# 317.
+Stolen property.
+
+# Of cheating
+
+# 318.
+Cheating.
+
+# 319.
+Cheating by personation.
+
+# Of fraudulent deeds and dispositions of property
+
+# 320.
+Dishonest or fraudulent removal or concealment of property to prevent distribution among creditors.
+
+# 321.
+Dishonestly or fraudulently preventing debt being available for creditors.
+
+# 322.
+Dishonest or fraudulent execution of deed of transfer containing false statement of consideration.
+
+# 323.
+Dishonest or fraudulent removal or concealment of property.
+
+# Of mischief
+
+# 324.
+Mischief.
+
+# 325.
+Mischief by killing or maiming animal.
+
+# 326.
+Mischief by injury, inundation, fire or explosive substance, etc.
+
+# 327.
+Mischief with intent to destroy or make unsafe a rail, aircraft, decked vessel or one of twenty tons burden.
+
+# 328.
+Punishment for intentionally running vessel aground or ashore with intent to commit theft, etc.
+
+# Of criminal trespass
+
+# 329.
+Criminal trespass and house-trespass.
+
+# 330.
+House-trespass and house-breaking.
+
+# 331.
+Punishment for house-trespass or house-breaking.
+
+# 332.
+House-trespass in order to commit offence.
+
+# 333.
+House-trespass after preparation for hurt, assault or wrongful restraint.
+
+# 334.
+Dishonestly breaking open receptacle containing property.
+
+# CHAPTER XVIII
+
+# OF OFFENCES RELATING TO DOCUMENTS AND TO PROPERTY MARKS
+
+# 335.
+Making a false document.
+
+
+
+
+
+
+# SECTIONS
+
+# 336. Forgery.
+
+# 337. Forgery of record of Court or of public register, etc.
+
+# 338. Forgery of valuable security, will, etc.
+
+# 339. Having possession of document described in section 337 or section 338, knowing it to be forged and intending to use it as genuine.
+
+# 340. Forged document or electronic record and using it as genuine.
+
+# 341. Making or possessing counterfeit seal, etc., with intent to commit forgery punishable under section 338.
+
+# 342. Counterfeiting device or mark used for authenticating documents described in section 338, or possessing counterfeit marked material.
+
+# 343. Fraudulent cancellation, destruction, etc., of will, authority to adopt, or valuable security.
+
+# 344. Falsification of accounts.
+
+# Of property marks
+
+# 345. Property mark.
+
+# 346. Tampering with property mark with intent to cause injury.
+
+# 347. Counterfeiting a property mark.
+
+# 348. Making or possession of any instrument for counterfeiting a property mark.
+
+# 349. Selling goods marked with a counterfeit property mark.
+
+# 350. Making a false mark upon any receptacle containing goods.
+
+# CHAPTER XIX
+
+# OF CRIMINAL INTIMIDATION, INSULT, ANNOYANCE, DEFAMATION, ETC.
+
+# 351. Criminal intimidation.
+
+# 352. Intentional insult with intent to provoke breach of peace.
+
+# 353. Statements conducing to public mischief.
+
+# 354. Act caused by inducing person to believe that he will be rendered an object of Divine displeasure.
+
+# 355. Misconduct in public by a drunken person.
+
+# Of defamation
+
+# 356. Defamation.
+
+# Of breach of contract to attend on and supply wants of helpless person
+
+# 357. Breach of contract to attend on and supply wants of helpless person.
+
+# CHAPTER XX
+
+# REPEAL AND SAVINGS
+
+# 358. Repeal and savings.
+
+
+
+
+
+
+# THE BHARATIYA NYAYA SANHITA, 2023
+
+# ACT NO. 45 OF 2023
+
+[25th December, 2023.]
+
+An Act to consolidate and amend the provisions relating to offences and for matters connected therewith or incidental thereto.
+
+BE it enacted by Parliament in the Seventy-fourth Year of the Republic of India as follows:––
+
+# CHAPTER I
+
+# PRELIMINARY
+
+# 1. Short title, commencement and application.
+
+––(1) This Act may be called the Bharatiya Nyaya Sanhita, 2023.
+
+(2) It shall come into force on such date1 as the Central Government may, by notification in the Official Gazette, appoint, and different dates may be appointed for different provisions of this Sanhita.
+
+(3) Every person shall be liable to punishment under this Sanhita and not otherwise for every act or omission contrary to the provisions thereof, of which he shall be guilty within India.
+
+(4) Any person liable, by any law for the time being in force in India, to be tried for an offence committed beyond India shall be dealt with according to the provisions of this Sanhita for any act committed beyond India in the same manner as if such act had been committed within India.
+
+(5) The provisions of this Sanhita shall also apply to any offence committed by—
+
+- (a) any citizen of India in any place without and beyond India;
+- (b) any person on any ship or aircraft registered in India wherever it may be;
+- (c) any person in any place without and beyond India committing offence targeting a computer resource located in India.
+
+Explanation.—In this section, the word “offence” includes every act committed outside India which, if committed in India, would be punishable under this Sanhita.
+
+# Illustration.
+
+A, who is a citizen of India, commits a murder in any place without and beyond India. He can be tried and convicted of murder in any place in India in which he may be found.
+
+(6) Nothing in this Sanhita shall affect the provisions of any Act for punishing mutiny and desertion of officers, soldiers, sailors or airmen in the service of the Government of India or the provisions of any special or local law.
+
+# 2. Definitions.
+
+–– In this Sanhita, unless the context otherwise requires,––
+
+- (1) “act” denotes as well a series of acts as a single act;
+- (2) “animal” means any living creature, other than a human being;
+- (3) “child” means any person below the age of eighteen years;
+- (4) “counterfeit”.––A person is said to “counterfeit” who causes one thing to resemble another thing, intending by means of that resemblance to practise deception, or knowing it to be likely that deception will thereby be practised.
+
+Explanation 1.—It is not essential to counterfeiting that the imitation should be exact.
+
+1. 1st day of July, 2024, except the provision of sub-section (2) of section 106, vide notification No. S.O. 850(E), dated, 23rd February, 2024, see Gazette of India, Extraordinary, Part II, sec. 3(ii).
+
+
+
+
+
+
+# Explanation
+
+2.—When a person causes one thing to resemble another thing, and the resemblance is such that a person might be deceived thereby, it shall be presumed, until the contrary is proved, that the person so causing the one thing to resemble the other thing intended by means of that resemblance to practise deception or knew it to be likely that deception would thereby be practised;
+
+1. “Court” means a Judge who is empowered by law to act judicially alone, or a body of Judges which is empowered by law to act judicially as a body, when such Judge or body of Judges is acting judicially;
+2. “death” means the death of a human being unless the contrary appears from the context;
+3. “dishonestly” means doing anything with the intention of causing wrongful gain to one person or wrongful loss to another person;
+4. “document” means any matter expressed or described upon any substance by means of letters, figures or marks, or by more than one of those means, and includes electronic and digital record, intended to be used, or which may be used, as evidence of that matter.
+
+Explanation 1.—It is immaterial by what means or upon what substance the letters, figures or marks are formed, or whether the evidence is intended for, or may be used in a Court or not.
+
+- (a) A writing expressing the terms of a contract, which may be used as evidence of the contract, is a document.
+- (b) A cheque upon a banker is a document.
+- (c) A power-of-attorney is a document.
+- (d) A map or plan which is intended to be used or which may be used as evidence, is a document.
+- (e) A writing containing directions or instructions is a document.
+
+Explanation 2.—Whatever is expressed by means of letters, figures or marks as explained by mercantile or other usage, shall be deemed to be expressed by such letters, figures or marks within the meaning of this section, although the same may not be actually expressed.
+
+# Illustration.
+
+A writes his name on the back of a bill of exchange payable to his order. The meaning of the endorsement, as explained by mercantile usage, is that the bill is to be paid to the holder. The endorsement is a document, and shall be construed in the same manner as if the words “pay to the holder” or words to that effect had been written over the signature;
+
+“fraudulently” means doing anything with the intention to defraud but not otherwise;
+“gender”.—The pronoun “he” and its derivatives are used of any person, whether male, female or transgender.
+
+Explanation.–– “transgender” shall have the meaning assigned to it in clause (k) of section 2 of the Transgender Persons (Protection of Rights) Act, 2019 (40 of 2019);
+
+“good faith”.—Nothing is said to be done or believed in “good faith” which is done or believed without due care and attention;
+“Government” means the Central Government or a State Government;
+“harbour” includes supplying a person with shelter, food, drink, money, clothes, arms, ammunition or means of conveyance, or the assisting a person by any means, whether of the same kind as those enumerated in this clause or not, to evade apprehension;
+“injury” means any harm whatever illegally caused to any person, in body, mind, reputation or property;
+“illegal” and “legally bound to do”.—The word “illegal” is applicable to everything which is an offence or which is prohibited by law, or which furnishes ground for a civil action; and a person is said to be “legally bound to do” whatever it is illegal in him to omit;
+
+17
+
+
+
+
+
+
+# Definitions
+
+(16) “Judge” means a person who is officially designated as a Judge and includes a person,––
+
+- (i) who is empowered by law to give, in any legal proceeding, civil or criminal, a definitive judgment, or a judgment which, if not appealed against, would be definitive, or a judgment which, if confirmed by some other authority, would be definitive; or
+- (ii) who is one of a body or persons, which body of persons is empowered by law to give such a judgment.
+
+Illustration.
+
+A Magistrate exercising jurisdiction in respect of a charge on which he has power to sentence to fine or imprisonment, with or without appeal, is a Judge;
+
+(17) “life” means the life of a human being, unless the contrary appears from the context;
+
+(18) “local law” means a law applicable only to a particular part of India;
+
+(19) “man” means male human being of any age;
+
+(20) “month” and “year”.––Wherever the word “month” or the word “year” is used, it is to be understood that the month or the year is to be reckoned according to the Gregorian calendar;
+
+(21) “movable property” includes property of every description, except land and things attached to the earth or permanently fastened to anything which is attached to the earth;
+
+(22) “number”.—Unless the contrary appears from the context, words importing the singular number include the plural number, and words importing the plural number include the singular number;
+
+(23) “oath” includes a solemn affirmation substituted by law for an oath, and any declaration required or authorised by law to be made before a public servant or to be used for the purpose of proof, whether in a Court or not;
+
+(24) “offence”.—Except in the Chapters and sections mentioned in sub-clauses (a) and (b), the word “offence” means a thing made punishable by this Sanhita, but––
+
+- (a) in Chapter III and in the following sections, namely, sub-sections (2), (3), (4) and (5) of section 8, sections 9, 49, 50, 52, 54, 55, 56, 57, 58, 59, 60, 61, 119, 120, 123, sub-sections (7) and (8) of section 127, 222, 230, 231, 240, 248, 250, 251, 259, 260, 261, 262, 263, sub-sections (6) and (7) of section 308 and sub-section (2) of section 330, the word “offence” means a thing punishable under this Sanhita, or under any special law or local law; and
+- (b) in sub-section (1) of section 189, sections 211, 212, 238, 239, 249, 253 and sub-section (1) of section 329, the word “offence” shall have the same meaning when the act punishable under the special law or local law is punishable under such law with imprisonment for a term of six months or more, whether with or without fine;
+
+(25) “omission” denotes as well as a series of omissions as a single omission;
+
+(26) “person” includes any company or association or body of persons, whether incorporated or not;
+
+(27) “public” includes any class of the public or any community;
+
+(28) “public servant” means a person falling under any of the descriptions, namely:—
+
+- (a) every commissioned officer in the Army, Navy or Air Force;
+- (b) every Judge including any person empowered by law to discharge, whether by himself or as a member of any body of persons, any adjudicatory functions;
+- (c) every officer of a Court including a liquidator, receiver or commissioner whose duty it is, as such officer, to investigate or report on any matter of law or fact, or to make, authenticate, or keep any document, or to take charge or dispose of any property, or to
+
+
+
+
+
+
+# Public Servants
+
+execute any judicial process, or to administer any oath, or to interpret, or to preserve order in the Court, and every person specially authorised by a Court to perform any of such duties;
+
+1. every assessor or member of a panchayat assisting a Court or public servant;
+2. every arbitrator or other person to whom any cause or matter has been referred for decision or report by any Court, or by any other competent public authority;
+3. every person who holds any office by virtue of which he is empowered to place or keep any person in confinement;
+4. every officer of the Government whose duty it is, as such officer, to prevent offences, to give information of offences, to bring offenders to justice, or to protect the public health, safety or convenience;
+5. every officer whose duty it is, as such officer, to take, receive, keep or expend any property on behalf of the Government, or to make any survey, assessment or contract on behalf of the Government, or to execute any revenue-process, or to investigate, or to report, on any matter affecting the pecuniary interests of the Government, or to make, authenticate or keep any document relating to the pecuniary interests of the Government, or to prevent the infraction of any law for the protection of the pecuniary interests of the Government;
+6. every officer whose duty it is, as such officer, to take, receive, keep or expend any property, to make any survey or assessment or to levy any rate or tax for any secular common purpose of any village, town or district, or to make, authenticate or keep any document for the ascertaining of the rights of the people of any village, town or district;
+7. every person who holds any office by virtue of which he is empowered to prepare, publish, maintain or revise an electoral roll or to conduct an election or part of an election;
+8. every person—
+
+Explanation.—
+
+1. persons falling under any of the descriptions made in this clause are public servants, whether appointed by the Government or not;
+2. every person who is in actual possession of the situation of a public servant, whatever legal defect there may be in his right to hold that situation is a public servant;
+3. “election” means an election for the purpose of selecting members of any legislative, municipal or other public authority, of whatever character, the method of selection to which is by, or under any law for the time being in force.
+
+Illustration.
+
+A Municipal Commissioner is a public servant;
+
+(29) “reason to believe”.—A person is said to have “reason to believe” a thing, if he has sufficient cause to believe that thing but not otherwise;
+
+(30) “special law” means a law applicable to a particular subject;
+
+(31) “valuable security” means a document which is, or purports to be, a document whereby any legal right is created, extended, transferred, restricted, extinguished or released, or whereby any person acknowledges that he lies under legal liability, or has not a certain legal right.
+
+
+
+
+
+
+# Illustration.
+
+A writes his name on the back of a bill of exchange. As the effect of this endorsement is to transfer the right to the bill to any person who may become the lawful holder of it, the endorsement is a “valuable security”;
+
+(32) “vessel” means anything made for the conveyance by water of human beings or of property;
+
+(33) “voluntarily”.—A person is said to cause an effect “voluntarily” when he causes it by means whereby he intended to cause it, or by means which, at the time of employing those means, he knew or had reason to believe to be likely to cause it.
+
+# Illustration.
+
+A sets fire, by night, to an inhabited house in a large town, for the purpose of facilitating a robbery and thus causes the death of a person. Here, A may not have intended to cause death; and may even be sorry that death has been caused by his act; yet, if he knew that he was likely to cause death, he has caused death voluntarily;
+
+(34) “will” means any testamentary document;
+
+(35) “woman” means a female human being of any age;
+
+(36) “wrongful gain” means gain by unlawful means of property to which the person gaining is not legally entitled;
+
+(37) “wrongful loss” means the loss by unlawful means of property to which the person losing it is legally entitled;
+
+(38) “gaining wrongfully” and “losing wrongfully”.—A person is said to gain wrongfully when such person retains wrongfully, as well as when such person acquires wrongfully. A person is said to lose wrongfully when such person is wrongfully kept out of any property, as well as when such person is wrongfully deprived of property; and
+
+(39) words and expressions used but not defined in this Sanhita but defined in the Information Technology Act, 2000 (21 of 2000) and the Bharatiya Nagarik Suraksha Sanhita, 2023 shall have the meanings respectively assigned to them in that Act and Sanhita.
+
+# 3. General explanations.
+
+(1) Throughout this Sanhita every definition of an offence, every penal provision, and every Illustration of every such definition or penal provision, shall be understood subject to the exceptions contained in the Chapter entitled “General Exceptions”, though those exceptions are not repeated in such definition, penal provision, or Illustration.
+
+# Illustrations.
+
+(a) The sections in this Sanhita, which contain definitions of offences, do not express that a child under seven years of age cannot commit such offences; but the definitions are to be understood subject to the general exception which provides that nothing shall be an offence which is done by a child under seven years of age.
+
+(b) A, a police officer, without warrant, apprehends Z, who has committed murder. Here A is not guilty of the offence of wrongful confinement; for he was bound by law to apprehend Z, and therefore the case falls within the general exception which provides that “nothing is an offence which is done by a person who is bound by law to do it”.
+
+(2) Every expression which is explained in any Part of this Sanhita, is used in every Part of this Sanhita in conformity with the explanation.
+
+(3) When property is in the possession of a person’s spouse, clerk or servant, on account of that person, it is in that person’s possession within the meaning of this Sanhita.
+
+Explanation.—A person employed temporarily or on a particular occasion in the capacity of a clerk or servant, is a clerk or servant within the meaning of this sub-section.
+
+
+
+
+
+
+(4) In every Part of this Sanhita, except where a contrary intention appears from the context, words which refer to acts done extend also to illegal omissions.
+
+(5) When a criminal act is done by several persons in furtherance of the common intention of all, each of such persons is liable for that act in the same manner as if it were done by him alone.
+
+(6) Whenever an act, which is criminal only by reason of its being done with a criminal knowledge or intention, is done by several persons, each of such persons who joins in the act with such knowledge or intention is liable for the act in the same manner as if the act were done by him alone with that knowledge or intention.
+
+(7) Wherever the causing of a certain effect, or an attempt to cause that effect, by an act or by an omission, is an offence, it is to be understood that the causing of that effect partly by an act and partly by an omission is the same offence.
+
+Illustration.
+
+A intentionally causes Z’s death, partly by illegally omitting to give Z food, and partly by beating Z. A has committed murder.
+
+(8) When an offence is committed by means of several acts, whoever intentionally cooperates in the commission of that offence by doing any one of those acts, either singly or jointly with any other person, commits that offence.
+
+Illustrations.
+
+(a) A and B agree to murder Z by severally and at different times giving him small doses of poison. A and B administer the poison according to the agreement with intent to murder Z. Z dies from the effects the several doses of poison so administered to him. Here A and B intentionally cooperate in the commission of murder and as each of them does an act by which the death is caused, they are both guilty of the offence though their acts are separate.
+
+(b) A and B are joint jailors, and as such have the charge of Z, a prisoner, alternatively for six hours at a time. A and B, intending to cause Z’s death, knowingly cooperate in causing that effect by illegally omitting, each during the time of his attendance, to furnish Z with food supplied to them for that purpose. Z dies of hunger. Both A and B are guilty of the murder of Z.
+
+(c) A, a jailor, has the charge of Z, a prisoner. A, intending to cause Z’s death, illegally omits to supply Z with food; in consequence of which Z is much reduced in strength, but the starvation is not sufficient to cause his death. A is dismissed from his office, and B succeeds him. B, without collusion or cooperation with A, illegally omits to supply Z with food, knowing that he is likely thereby to cause Z’s death. Z dies of hunger. B is guilty of murder, but, as A did not cooperate with B, A is guilty only of an attempt to commit murder.
+
+(9) Where several persons are engaged or concerned in the commission of a criminal act, they may be guilty of different offences by means of that act.
+
+Illustration.
+
+A attacks Z under such circumstances of grave provocation that his killing of Z would be only culpable homicide not amounting to murder. B, having ill-will towards Z and intending to kill him, and not having been subject to the provocation, assists A in killing Z. Here, though A and B are both engaged in causing Z’s death, B is guilty of murder, and A is guilty only of culpable homicide.
+
+# CHAPTER II
+
+# OF PUNISHMENTS
+
+4. Punishments. —The punishments to which offenders are liable under the provisions of this Sanhita are—
+
+- (a) Death;
+- (b) Imprisonment for life;
+
+
+
+
+
+(c) Imprisonment, which is of two descriptions, namely:—
+
+- (1) Rigorous, that is, with hard labour;
+- (2) Simple;
+
+(d) Forfeiture of property;
+
+(e) Fine;
+
+(f) Community Service.
+
+# 5. Commutation of sentence.
+
+The appropriate Government may, without the consent of the offender, commute any punishment under this Sanhita to any other punishment in accordance with section 474 of the Bharatiya Nagarik Suraksha Sanhita, 2023.
+
+Explanation.—For the purposes of this section the expression “appropriate Government” means, —
+
+- (a) in cases where the sentence is a sentence of death or is for an offence against any law relating to a matter to which the executive power of the Union extends, the Central Government; and
+- (b) in cases where the sentence (whether of death or not) is for an offence against any law relating to a matter to which the executive power of the State extends, the Government of the State within which the offender is sentenced.
+
+# 6. Fractions of terms of punishment.
+
+In calculating fractions of terms of punishment, imprisonment for life shall be reckoned as equivalent to imprisonment for twenty years unless otherwise provided.
+
+# 7. Sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple.
+
+In every case in which an offender is punishable with imprisonment which may be of either description, it shall be competent to the Court which sentences such offender to direct in the sentence that such imprisonment shall be wholly rigorous, or that such imprisonment shall be wholly simple, or that any part of such imprisonment shall be rigorous and the rest simple.
+
+# 8. Amount of fine, liability in default of payment of fine, etc.
+
+1. Where no sum is expressed to which a fine may extend, the amount of fine to which the offender is liable is unlimited, but shall not be excessive.
+2. In every case of an offence—
+3. - (a) punishable with imprisonment as well as fine, in which the offender is sentenced to a fine, whether with or without imprisonment;
+- (b) punishable with imprisonment or fine, or with fine only, in which the offender is sentenced to a fine,
+
+it shall be competent to the Court which sentences such offender to direct by the sentence that, in default of payment of the fine, the offender shall suffer imprisonment for a certain term, in which imprisonment shall be in excess of any other imprisonment to which he may have been sentenced or to which he may be liable under a commutation of a sentence.
+
+The term for which the Court directs the offender to be imprisoned in default of payment of a fine shall not exceed one-fourth of the term of imprisonment which is the maximum fixed for the offence, if the offence be punishable with imprisonment as well as fine.
+4. The imprisonment which the Court imposes in default of payment of a fine or in default of community service may be of any description to which the offender might have been sentenced for the offence.
+5. If the offence is punishable with fine or community service, the imprisonment which the Court imposes in default of payment of the fine or in default of community service shall be simple, and the term for which the Court directs the offender to be imprisoned, in default of payment of fine or in default of community service, shall not exceed,—
+
+
+
+
+(b) four months when the amount of the fine does not exceed ten thousand rupees; and
+
+(c) one year in any other case.
+
+(6) (a) The imprisonment which is imposed in default of payment of a fine shall terminate whenever that fine is either paid or levied by process of law;
+
+(b) If, before the expiration of the term of imprisonment fixed in default of payment, such a proportion of the fine be paid or levied that the term of imprisonment suffered in default of payment is not less than proportional to the part of the fine still unpaid, the imprisonment shall terminate.
+
+# Illustration.
+
+A is sentenced to a fine of one thousand rupees and to four months’ imprisonment in default of payment. Here, if seven hundred and fifty rupees of the fine be paid or levied before the expiration of one month of the imprisonment, A will be discharged as soon as the first month has expired. If seven hundred and fifty rupees be paid or levied at the time of the expiration of the first month, or at any later time while A continues in imprisonment, A will be immediately discharged. If five hundred rupees of the fine be paid or levied before the expiration of two months of the imprisonment, A will be discharged as soon as the two months are completed. If five hundred rupees be paid or levied at the time of the expiration of those two months, or at any later time while A continues in imprisonment, A will be immediately discharged.
+
+(7) The fine, or any part thereof which remains unpaid, may be levied at any time within six years after the passing of the sentence, and if, under the sentence, the offender be liable to imprisonment for a longer period than six years, then at any time previous to the expiration of that period; and the death of the offender does not discharge from the liability any property which would, after his death, be legally liable for his debts.
+
+# 9. Limit of punishment of offence made up of several offences.
+
+(1) Where anything which is an offence is made up of parts, any of which parts is itself an offence, the offender shall not be punished with the punishment of more than one of such his offences, unless it be so expressly provided.
+
+(2) Where—
+
+(a) anything is an offence falling within two or more separate definitions of any law in force for the time being by which offences are defined or punished; or
+
+(b) several acts, of which one or more than one would by itself or themselves constitute an offence, constitute, when combined, a different offence,
+
+the offender shall not be punished with a more severe punishment than the Court which tries him could award for any one of such offences.
+
+# Illustrations.
+
+(a) A gives Z fifty strokes with a stick. Here A may have committed the offence of voluntarily causing hurt to Z by the whole beating, and also by each of the blows which make up the whole beating. If A were liable to punishment for every blow, he might be imprisoned for fifty years, one for each blow. But he is liable only to one punishment for the whole beating.
+
+(b) But, if, while A is beating Z, Y interferes, and A intentionally strikes Y, here, as the blow given to Y is no part of the act whereby A voluntarily causes hurt to Z, A is liable to one punishment for voluntarily causing hurt to Z, and to another for the blow given to Y.
+
+# 10. Punishment of person guilty of one of several offences, judgment stating that it is doubtful of which.
+
+In all cases in which judgment is given that a person is guilty of one of several offences specified in the judgment, but that it is doubtful of which of these offences he is guilty, the offender shall be punished for the offence for which the lowest punishment is provided if the same punishment is not provided for all.
+
+# 11. Solitary confinement.
+
+Whenever any person is convicted of an offence for which under this Sanhita the Court has power to sentence him to rigorous imprisonment, the Court may, by its sentence,
+
+
+
+
+
+
+order that the offender shall be kept in solitary confinement for any portion or portions of the imprisonment to which he is sentenced, not exceeding three months in the whole, according to the following scale, namely: —
+
+- (a) a time not exceeding one month if the term of imprisonment shall not exceed six months;
+- (b) a time not exceeding two months if the term of imprisonment shall exceed six months and shall not exceed one year;
+- (c) a time not exceeding three months if the term of imprisonment shall exceed one year.
+
+12. Limit of solitary confinement.—In executing a sentence of solitary confinement, such confinement shall in no case exceed fourteen days at a time, with intervals between the periods of solitary confinement of not less duration than such periods; and when the imprisonment awarded shall exceed three months, the solitary confinement shall not exceed seven days in any one month of the whole imprisonment awarded, with intervals between the periods of solitary confinement of not less duration than such periods.
+
+13. Enhanced punishment for certain offences after previous conviction.—Whoever, having been convicted by a Court in India, of an offence punishable under Chapter X or Chapter XVII of this Sanhita with imprisonment of either description for a term of three years or upwards, shall be guilty of any offence punishable under either of those Chapters with like imprisonment for the like term, shall be subject for every such subsequent offence to imprisonment for life, or to imprisonment of either description for a term which may extend to ten years.
+
+# CHAPTER III
+
+# GENERAL EXCEPTIONS
+
+14. Act done by a person bound, or by mistake of fact believing himself bound, by law.—Nothing is an offence which is done by a person who is, or who by reason of a mistake of fact and not by reason of a mistake of law in good faith believes himself to be, bound by law to do it.
+
+# Illustrations.
+
+- (a) A, a soldier, fires on a mob by the order of his superior officer, in conformity with the commands of the law. A has committed no offence.
+- (b) A, an officer of a Court, being ordered by that Court to arrest Y, and, after due enquiry, believing Z to be Y, arrests Z. A has committed no offence.
+
+15. Act of Judge when acting judicially.—Nothing is an offence which is done by a Judge when acting judicially in the exercise of any power which is, or which in good faith he believes to be, given to him by law.
+
+16. Act done pursuant to judgment or order of Court.—Nothing which is done in pursuance of, or which is warranted by the judgment or order of, a Court; if done whilst such judgment or order remains in force, is an offence, notwithstanding the Court may have had no jurisdiction to pass such judgment or order, provided the person doing the act in good faith believes that the Court had such jurisdiction.
+
+17. Act done by a person justified, or by mistake of fact believing himself justified, by law.—Nothing is an offence which is done by any person who is justified by law, or who by reason of a mistake of fact and not by reason of a mistake of law in good faith, believes himself to be justified by law, in doing it.
+
+# Illustration.
+
+
+
+
+# 18. Accident in doing a lawful act.
+
+Nothing is an offence which is done by accident or misfortune, and without any criminal intention or knowledge in the doing of a lawful act in a lawful manner by lawful means and with proper care and caution.
+
+# Illustration.
+
+A is at work with a hatchet; the head flies off and kills a man who is standing by. Here, if there was no want of proper caution on the part of A, his act is excusable and not an offence.
+
+# 19. Act likely to cause harm, but done without criminal intent, and to prevent other harm.
+
+Nothing is an offence merely by reason of its being done with the knowledge that it is likely to cause harm, if it be done without any criminal intention to cause harm, and in good faith for the purpose of preventing or avoiding other harm to person or property.
+
+Explanation.—It is a question of fact in such a case whether the harm to be prevented or avoided was of such a nature and so imminent as to justify or excuse the risk of doing the act with the knowledge that it was likely to cause harm.
+
+# Illustrations.
+
+(a) A, the captain of a vessel, suddenly and without any fault or negligence on his part, finds himself in such a position that, before he can stop his vessel, he must inevitably run down a boat B, with twenty or thirty passengers on board, unless he changes the course of his vessel, and that, by changing his course, he must incur risk of running down a boat C with only two passengers on board, which he may possibly clear. Here, if A alters his course without any intention to run down the boat C and in good faith for the purpose of avoiding the danger to the passengers in the boat B, he is not guilty of an offence, though he may run down the boat C by doing an act which he knew was likely to cause that effect, if it be found as a matter of fact that the danger which he intended to avoid was such as to excuse him in incurring the risk of running down the boat C.
+
+(b) A, in a great fire, pulls down houses in order to prevent the conflagration from spreading. He does this with the intention in good faith of saving human life or property. Here, if it be found that the harm to be prevented was of such a nature and so imminent as to excuse A’s act, A is not guilty of the offence.
+
+# 20. Act of a child under seven years of age.
+
+Nothing is an offence which is done by a child under seven years of age.
+
+# 21. Act of a child above seven and under twelve years of age of immature understanding.
+
+Nothing is an offence which is done by a child above seven years of age and under twelve years of age, who has not attained sufficient maturity of understanding to judge of the nature and consequences of his conduct on that occasion.
+
+# 22. Act of a person of unsound mind.
+
+Nothing is an offence which is done by a person who, at the time of doing it, by reason of unsoundness of mind, is incapable of knowing the nature of the act, or that he is doing what is either wrong or contrary to law.
+
+# 23. Act of a person incapable of judgment by reason of intoxication caused against his will.
+
+Nothing is an offence which is done by a person who, at the time of doing it, is, by reason of intoxication, incapable of knowing the nature of the act, or that he is doing what is either wrong, or contrary to law; provided that the thing which intoxicated him was administered to him without his knowledge or against his will.
+
+# 24. Offence requiring a particular intent or knowledge committed by one who is intoxicated.
+
+In cases where an act done is not an offence unless done with a particular knowledge or intent, a person who does the act in a state of intoxication shall be liable to be dealt with as if he had the same knowledge as he would have had if he had not been intoxicated, unless the thing which intoxicated him was administered to him without his knowledge or against his will.
+
+
+
+
+
+
+# 25. Act not intended and not known to be likely to cause death or grievous hurt, done by consent.
+
+—Nothing which is not intended to cause death, or grievous hurt, and which is not known by the doer to be likely to cause death or grievous hurt, is an offence by reason of any harm which it may cause, or be intended by the doer to cause, to any person, above eighteen years of age, who has given consent, whether express or implied, to suffer that harm; or by reason of any harm which it may be known by the doer to be likely to cause to any such person who has consented to take the risk of that harm.
+
+# Illustration.
+
+A and Z agree to fence with each other for amusement. This agreement implies the consent of each to suffer any harm which, in the course of such fencing, may be caused without foul play; and if A, while playing fairly, hurts Z, A commits no offence.
+
+# 26. Act not intended to cause death, done by consent in good faith for person’s benefit.
+
+—Nothing, which is not intended to cause death, is an offence by reason of any harm which it may cause, or be intended by the doer to cause, or be known by the doer to be likely to cause, to any person for whose benefit it is done in good faith, and who has given a consent, whether express or implied, to suffer that harm, or to take the risk of that harm.
+
+# Illustration.
+
+A, a surgeon, knowing that a particular operation is likely to cause the death of Z, who suffers under the painful complaint, but not intending to cause Z’s death, and intending, in good faith, Z’s benefit, performs that operation on Z, with Z’s consent. A has committed no offence.
+
+# 27. Act done in good faith for benefit of child or person of unsound mind, by, or by consent of guardian.
+
+—Nothing which is done in good faith for the benefit of a person under twelve years of age, or person of unsound mind, by, or by consent, either express or implied, of the guardian or other person having lawful charge of that person, is an offence by reason of any harm which it may cause, or be intended by the doer to cause or be known by the doer to be likely to cause to that person:
+
+Provided that this exception shall not extend to—
+
+- (a) the intentional causing of death, or to the attempting to cause death;
+- (b) the doing of anything which the person doing it knows to be likely to cause death, for any purpose other than the preventing of death or grievous hurt, or the curing of any grievous disease or infirmity;
+- (c) the voluntary causing of grievous hurt, or to the attempting to cause grievous hurt, unless it be for the purpose of preventing death or grievous hurt, or the curing of any grievous disease or infirmity;
+- (d) the abetment of any offence, to the committing of which offence it would not extend.
+
+# Illustration.
+
+A, in good faith, for his child’s benefit without his child’s consent, has his child cut for the stone by a surgeon knowing it to be likely that the operation will cause the child’s death, but not intending to cause the child’s death. A is within the exception, in as much as his object was the cure of the child.
+
+# 28. Consent known to be given under fear or misconception.
+
+—A consent is not such a consent as is intended by any section of this Sanhita,—
+
+- (a) if the consent is given by a person under fear of injury, or under a misconception of fact, and if the person doing the act knows, or has reason to believe, that the consent was given in consequence of such fear or misconception; or
+- (b) if the consent is given by a person who, from unsoundness of mind, or intoxication, is unable to understand the nature and consequence of that to which he gives his consent; or
+- (c) unless the contrary appears from the context, if the consent is given by a person who is under twelve years of age.
+
+
+
+
+
+
+
+# 29. Exclusion of acts which are offences independently of harm caused.
+
+The exceptions in sections 25, 26 and 27 do not extend to acts which are offences independently of any harm which they may cause, or be intended to cause, or be known to be likely to cause, to the person giving the consent, or on whose behalf the consent is given.
+
+# Illustration.
+
+Causing miscarriage (unless caused in good faith for the purpose of saving the life of the woman) is an offence independently of any harm which it may cause or be intended to cause to the woman. Therefore, it is not an offence “by reason of such harm”; and the consent of the woman or of her guardian to the causing of such miscarriage does not justify the act.
+
+# 30. Act done in good faith for benefit of a person without consent.
+
+Nothing is an offence by reason of any harm which it may cause to a person for whose benefit it is done in good faith, even without that person’s consent, if the circumstances are such that it is impossible for that person to signify consent, or if that person is incapable of giving consent, and has no guardian or other person in lawful charge of him from whom it is possible to obtain consent in time for the thing to be done with benefit:
+
+Provided that this exception shall not extend to—
+
+- (a) the intentional causing of death, or the attempting to cause death;
+- (b) the doing of anything which the person doing it knows to be likely to cause death, for any purpose other than the preventing of death or grievous hurt, or the curing of any grievous disease or infirmity;
+- (c) the voluntary causing of hurt, or to the attempting to cause hurt, for any purpose other than the preventing of death or hurt;
+- (d) the abetment of any offence, to the committing of which offence it would not extend.
+
+# Illustrations.
+
+1. Z is thrown from his horse, and is insensible. A, a surgeon, finds that Z requires to be trepanned. A, not intending Z’s death, but in good faith, for Z’s benefit, performs the trepan before Z recovers his power of judging for himself. A has committed no offence.
+2. Z is carried off by a tiger. A fires at the tiger knowing it to be likely that the shot may kill Z, but not intending to kill Z, and in good faith intending Z’s benefit. A’s bullet gives Z a mortal wound. A has committed no offence.
+3. A, a surgeon, sees a child suffer an accident which is likely to prove fatal unless an operation be immediately performed. There is no time to apply to the child’s guardian. A performs the operation in spite of the entreaties of the child, intending, in good faith, the child’s benefit. A has committed no offence.
+4. A is in a house which is on fire, with Z, a child. People below hold out a blanket. A drops the child from the house top, knowing it to be likely that the fall may kill the child, but not intending to kill the child, and intending, in good faith, the child’s benefit. Here, even if the child is killed by the fall, A has committed no offence.
+
+Explanation.—Mere pecuniary benefit is not benefit within the meaning of sections 26, 27 and this section.
+
+# 31. Communication made in good faith.
+
+No communication made in good faith is an offence by reason of any harm to the person to whom it is made, if it is made for the benefit of that person.
+
+# Illustration.
+
+27
+
+
+
+
+
+
+A, a surgeon, in good faith, communicates to a patient his opinion that he cannot live. The patient dies in consequence of the shock. A has committed no offence, though he knew it to be likely that the communication might cause the patient’s death.
+
+# 32. Act to which a person is compelled by threats.
+
+—Except murder, and offences against the State punishable with death, nothing is an offence which is done by a person who is compelled to do it by threats, which, at the time of doing it, reasonably cause the apprehension that instant death to that person will otherwise be the consequence:
+
+Provided that the person doing the act did not of his own accord, or from a reasonable apprehension of harm to himself short of instant death, place himself in the situation by which he became subject to such constraint.
+
+Explanation 1.—A person who, of his own accord, or by reason of a threat of being beaten, joins a gang of dacoits, knowing their character, is not entitled to the benefit of this exception, on the ground of his having been compelled by his associates to do anything that is an offence by law.
+
+Explanation 2.—A person seized by a gang of dacoits, and forced, by threat of instant death, to do a thing which is an offence by law; for example, a smith compelled to take his tools and to force the door of a house for the dacoits to enter and plunder it, is entitled to the benefit of this exception.
+
+# 33. Act causing slight harm.
+
+—Nothing is an offence by reason that it causes, or that it is intended to cause, or that it is known to be likely to cause, any harm, if that harm is so slight that no person of ordinary sense and temper would complain of such harm.
+
+# Of right of private defence
+
+# 34. Things done in private defence.
+
+—Nothing is an offence which is done in the exercise of the right of private defence.
+
+# 35. Right of private defence of body and of property.
+
+—Every person has a right, subject to the restrictions contained in section 37, to defend—
+
+- (a) his own body, and the body of any other person, against any offence affecting the human body;
+- (b) the property, whether movable or immovable, of himself or of any other person, against any act which is an offence falling under the definition of theft, robbery, mischief or criminal trespass, or which is an attempt to commit theft, robbery, mischief or criminal trespass.
+
+# 36. Right of private defence against act of a person of unsound mind, etc.
+
+—When an act, which would otherwise be a certain offence, is not that offence, by reason of the youth, the want of maturity of understanding, the unsoundness of mind or the intoxication of the person doing that act, or by reason of any misconception on the part of that person, every person has the same right of private defence against that act which he would have if the act were that offence.
+
+# Illustrations.
+
+- (a) Z, a person of unsound mind, attempts to kill A; Z is guilty of no offence. But A has the same right of private defence which he would have if Z were sane.
+- (b) A enters by night a house which he is legally entitled to enter. Z, in good faith, taking A for a house-breaker, attacks A. Here Z, by attacking A under this misconception, commits no offence. But A has the same right of private defence against Z, which he would have if Z were not acting under that misconception.
+
+# 37. Acts against which there is no right of private defence.
+
+(1) There is no right of private defence, —
+
+- (a) against an act which does not reasonably cause the apprehension of death or of grievous hurt, if done, or attempted to be done, by a public servant acting in good faith under colour of his office, though that act, may not be strictly justifiable by law;
+
+
+
+
+
+
+
+# 38. When right of private defence of body extends to causing death.
+
+The right of private defence of the body extends, under the restrictions specified in section 37, to the voluntary causing of death or of any other harm to the assailant, if the offence which occasions the exercise of the right be of any of the descriptions hereinafter enumerated, namely:
+
+- (a) such an assault as may reasonably cause the apprehension that death will otherwise be the consequence of such assault;
+- (b) such an assault as may reasonably cause the apprehension that grievous hurt will otherwise be the consequence of such assault;
+- (c) an assault with the intention of committing rape;
+- (d) an assault with the intention of gratifying unnatural lust;
+- (e) an assault with the intention of kidnapping or abducting;
+- (f) an assault with the intention of wrongfully confining a person, under circumstances which may reasonably cause him to apprehend that he will be unable to have recourse to the public authorities for his release;
+- (g) an act of throwing or administering acid or an attempt to throw or administer acid which may reasonably cause the apprehension that grievous hurt will otherwise be the consequence of such act.
+
+# 39. When such right extends to causing any harm other than death.
+
+If the offence be not of any of the descriptions specified in section 38, the right of private defence of the body does not extend to the voluntary causing of death to the assailant, but does extend, under the restrictions specified in section 37, to the voluntary causing to the assailant of any harm other than death.
+
+# 40. Commencement and continuance of right of private defence of body.
+
+The right of private defence of the body commences as soon as a reasonable apprehension of danger to the body arises from an attempt or threat to commit the offence though the offence may not have been committed; and it continues as long as such apprehension of danger to the body continues.
+
+# 41. When right of private defence of property extends to causing death.
+
+The right of private defence of property extends, under the restrictions specified in section 37, to the voluntary causing of death or of any other harm to the wrong-doer, if the offence, the committing of which, or the attempting to commit which, occasions the exercise of the right, be an offence of any of the descriptions hereinafter enumerated, namely:
+
+- (a) robbery;
+- (b) house-breaking after sunset and before sunrise;
+- (c) mischief by fire or any explosive substance committed on any building, tent or vessel, which building, tent or vessel is used as a human dwelling, or as a place for the custody of property;
+
+
+
+
+
+
+(d) theft, mischief, or house-trespass, under such circumstances as may reasonably cause apprehension that death or grievous hurt will be the consequence, if such right of private defence is not exercised.
+
+# 42. When such right extends to causing any harm other than death.
+
+If the offence, the committing of which, or the attempting to commit which occasions the exercise of the right of private defence, be theft, mischief, or criminal trespass, not of any of the descriptions specified in section 41, that right does not extend to the voluntary causing of death, but does extend, subject to the restrictions specified in section 37, to the voluntary causing to the wrong-doer of any harm other than death.
+
+# 43. Commencement and continuance of right of private defence of property.
+
+The right of private defence of property,—
+
+- (a) commences when a reasonable apprehension of danger to the property commences;
+- (b) against theft continues till the offender has effected his retreat with the property or either the assistance of the public authorities is obtained, or the property has been recovered;
+- (c) against robbery continues as long as the offender causes or attempts to cause to any person death or hurt or wrongful restraint or as long as the fear of instant death or of instant hurt or of instant personal restraint continues;
+- (d) against criminal trespass or mischief continues as long as the offender continues in the commission of criminal trespass or mischief;
+- (e) against house-breaking after sunset and before sunrise continues as long as the house-trespass which has been begun by such house-breaking continues.
+
+# 44. Right of private defence against deadly assault when there is risk of harm to innocent person.
+
+If in the exercise of the right of private defence against an assault which reasonably causes the apprehension of death, the defender be so situated that he cannot effectually exercise that right without risk of harm to an innocent person, his right of private defence extends to the running of that risk.
+
+Illustration.
+
+A is attacked by a mob who attempt to murder him. He cannot effectually exercise his right of private defence without firing on the mob, and he cannot fire without risk of harming young children who are mingled with the mob. A commits no offence if by so firing he harms any of the children.
+
+# CHAPTER IV
+
+# OF ABETMENT, CRIMINAL CONSPIRACY AND ATTEMPT
+
+# of abetment
+
+# 45. Abetment of a thing.
+
+A person abets the doing of a thing, who—
+
+- (a) instigates any person to do that thing; or
+- (b) engages with one or more other person or persons in any conspiracy for the doing of that thing, if an act or illegal omission takes place in pursuance of that conspiracy, and in order to the doing of that thing; or
+- (c) intentionally aids, by any act or illegal omission, the doing of that thing.
+
+Explanation 1.—A person who, by wilful misrepresentation, or by wilful concealment of a material fact which he is bound to disclose, voluntarily causes or procures, or attempts to cause or procure, a thing to be done, is said to instigate the doing of that thing.
+
+Illustration.
+
+A, a public officer, is authorised by a warrant from a Court to apprehend Z. B, knowing that fact and also that C is not Z, wilfully represents to A that C is Z, and thereby intentionally causes A to apprehend C. Here B abets by instigation the apprehension of C.
+
+
+
+
+
+
+# Explanation 2.
+
+—Whoever, either prior to or at the time of the commission of an act, does anything in order to facilitate the commission of that act, and thereby facilitates the commission thereof, is said to aid the doing of that act.
+
+# 46. Abettor.
+
+A person abets an offence, who abets either the commission of an offence, or the commission of an act which would be an offence, if committed by a person capable by law of committing an offence with the same intention or knowledge as that of the abettor.
+
+# Explanation 1.
+
+—The abetment of the illegal omission of an act may amount to an offence although the abettor may not himself be bound to do that act.
+
+# Explanation 2.
+
+—To constitute the offence of abetment it is not necessary that the act abetted should be committed, or that the effect requisite to constitute the offence should be caused.
+
+# Illustrations.
+
+- (a) A instigates B to murder C. B refuses to do so. A is guilty of abetting B to commit murder.
+- (b) A instigates B to murder D. B in pursuance of the instigation stabs D. D recovers from the wound. A is guilty of instigating B to commit murder.
+
+# Explanation 3.
+
+—It is not necessary that the person abetted should be capable by law of committing an offence, or that he should have the same guilty intention or knowledge as that of the abettor, or any guilty intention or knowledge.
+
+# Illustrations.
+
+- (a) A, with a guilty intention, abets a child or a person of unsound mind to commit an act which would be an offence, if committed by a person capable by law of committing an offence, and having the same intention as A. Here A, whether the act be committed or not, is guilty of abetting an offence.
+- (b) A, with the intention of murdering Z, instigates B, a child under seven years of age, to do an act which causes Z’s death. B, in consequence of the abetment, does the act in the absence of A and thereby causes Z’s death. Here, though B was not capable by law of committing an offence, A is liable to be punished in the same manner as if B had been capable by law of committing an offence, and had committed murder, and he is therefore subject to the punishment of death.
+- (c) A instigates B to set fire to a dwelling-house. B, in consequence of his unsoundness of mind, being incapable of knowing the nature of the act, or that he is doing what is wrong or contrary to law, sets fire to the house in consequence of A’s instigation. B has committed no offence, but A is guilty of abetting the offence of setting fire to a dwelling-house, and is liable to the punishment provided for that offence.
+- (d) A, intending to cause a theft to be committed, instigates B to take property belonging to Z out of Z’s possession. A induces B to believe that the property belongs to A. B takes the property out of Z’s possession, in good faith, believing it to be A’s property. B, acting under this misconception, does not take dishonestly, and therefore does not commit theft. But A is guilty of abetting theft, and is liable to the same punishment as if B had committed theft.
+
+# Explanation 4.
+
+—The abetment of an offence being an offence, the abetment of such an abetment is also an offence.
+
+# Illustration.
+
+A instigates B to instigate C to murder Z. B accordingly instigates C to murder Z, and C commits that offence in consequence of B’s instigation. B is liable to be punished for his offence with the punishment for murder; and, as A instigated B to commit the offence, A is also liable to the same punishment.
+
+# Explanation 5.
+
+—It is not necessary to the commission of the offence of abetment by conspiracy that the abettor should concert the offence with the person who commits it. It is sufficient if he engages in the conspiracy in pursuance of which the offence is committed.
+
+
+
+
+
+
+# Abetment
+
+A concerts with B a plan for poisoning Z. It is agreed that A shall administer the poison. B then explains the plan to C mentioning that a third person is to administer the poison, but without mentioning A’s name. C agrees to procure the poison, and procures and delivers it to B for the purpose of its being used in the manner explained. A administers the poison; Z dies in consequence. Here, though A and C have not conspired together, yet C has been engaged in the conspiracy in pursuance of which Z has been murdered. C has therefore committed the offence defined in this section and is liable to the punishment for murder.
+
+# 47. Abetment in India of offences outside India.
+
+A person abets an offence within the meaning of this Sanhita who, in India, abets the commission of any act without and beyond India which would constitute an offence if committed in India.
+
+Illustration. A, in India, instigates B, a foreigner in country X, to commit a murder in that country, A is guilty of abetting murder.
+
+# 48. Abetment outside India for offence in India.
+
+A person abets an offence within the meaning of this Sanhita who, without and beyond India, abets the commission of any act in India which would constitute an offence if committed in India.
+
+Illustration. A, in country X, instigates B, to commit a murder in India, A is guilty of abetting murder.
+
+# 49. Punishment of abetment if act abetted is committed in consequence and where no express provision is made for its punishment.
+
+Whoever abets any offence shall, if the act abetted is committed in consequence of the abetment, and no express provision is made by this Sanhita for the punishment of such abetment, be punished with the punishment provided for the offence.
+
+Explanation.—An act or offence is said to be committed in consequence of abetment, when it is committed in consequence of the instigation, or in pursuance of the conspiracy, or with the aid which constitutes the abetment.
+
+# Illustrations.
+
+(a) A instigates B to give false evidence. B, in consequence of the instigation, commits that offence. A is guilty of abetting that offence, and is liable to the same punishment as B.
+
+(b) A and B conspire to poison Z. A, in pursuance of the conspiracy, procures the poison and delivers it to B in order that he may administer it to Z. B, in pursuance of the conspiracy, administers the poison to Z in A’s absence and thereby causes Z’s death. Here B is guilty of murder. A is guilty of abetting that offence by conspiracy, and is liable to the punishment for murder.
+
+# 50. Punishment of abetment if person abetted does act with different intention from that of abettor.
+
+Whoever abets the commission of an offence shall, if the person abetted does the act with a different intention or knowledge from that of the abettor, be punished with the punishment provided for the offence which would have been committed if the act had been done with the intention or knowledge of the abettor and with no other.
+
+# 51. Liability of abettor when one act abetted and different act done.
+
+When an act is abetted and a different act is done, the abettor is liable for the act done, in the same manner and to the same extent as if he had directly abetted it:
+
+Provided that the act done was a probable consequence of the abetment, and was committed under the influence of the instigation, or with the aid or in pursuance of the conspiracy which constituted the abetment.
+
+
+
+
+
+
+# Illustrations.
+
+(a) A instigates a child to put poison into the food of Z, and gives him poison for that purpose. The child, in consequence of the instigation, by mistake puts the poison into the food of Y, which is by the side of that of Z. Here, if the child was acting under the influence of A’s instigation, and the act done was under the circumstances a probable consequence of the abetment, A is liable in the same manner and to the same extent as if he had instigated the child to put the poison into the food of Y.
+
+(b) A instigates B to burn Z’s house, B sets fire to the house and at the same time commits theft of property there. A, though guilty of abetting the burning of the house, is not guilty of abetting the theft; for the theft was a distinct act, and not a probable consequence of the burning.
+
+(c) A instigates B and C to break into an inhabited house at midnight for the purpose of robbery, and provides them with arms for that purpose. B and C break into the house, and being resisted by Z, one of the inmates, murder Z. Here, if that murder was the probable consequence of the abetment, A is liable to the punishment provided for murder.
+
+# 52. Abettor when liable to cumulative punishment for act abetted and for act done.
+
+If the act for which the abettor is liable under section 51 is committed in addition to the act abetted, and constitute a distinct offence, the abettor is liable to punishment for each of the offences.
+
+# Illustration.
+
+A instigates B to resist by force a distress made by a public servant. B, in consequence, resists that distress. In offering the resistance, B voluntarily causes grievous hurt to the officer executing the distress. As B has committed both the offence of resisting the distress, and the offence of voluntarily causing grievous hurt, B is liable to punishment for both these offences; and, if A knew that B was likely voluntarily to cause grievous hurt in resisting the distress, A will also be liable to punishment for each of the offences.
+
+# 53. Liability of abettor for an effect caused by act abetted different from that intended by abettor.
+
+When an act is abetted with the intention on the part of the abettor of causing a particular effect, and an act for which the abettor is liable in consequence of the abetment, causes a different effect from that intended by the abettor, the abettor is liable for the effect caused, in the same manner and to the same extent as if he had abetted the act with the intention of causing that effect, provided he knew that the act abetted was likely to cause that effect.
+
+# Illustration.
+
+A instigates B to cause grievous hurt to Z. B, in consequence of the instigation, causes grievous hurt to Z. Z dies in consequence. Here, if A knew that the grievous hurt abetted was likely to cause death, A is liable to be punished with the punishment provided for murder.
+
+# 54. Abettor present when offence is committed.
+
+Whenever any person, who is absent would be liable to be punished as an abettor, is present when the act or offence for which he would be punishable in consequence of the abetment is committed, he shall be deemed to have committed such act or offence.
+
+# 55. Abetment of offence punishable with death or imprisonment for life.
+
+Whoever abets the commission of an offence punishable with death or imprisonment for life, shall, if that offence be not committed in consequence of the abetment, and no express provision is made under this Sanhita for the punishment of such abetment, be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine; and if any act for which the abettor is liable in consequence of the abetment, and which causes hurt to any person, is done, the abettor shall be liable to imprisonment of either description for a term which may extend to fourteen years, and shall also be liable to fine.
+
+# Illustration.
+
+A instigates B to murder Z. The offence is not committed. If B had murdered Z, he would have been subject to the punishment of death or imprisonment for life. Therefore, A is liable to imprisonment for a term which may extend to seven years and also to a fine; and if any hurt be done to Z in consequence of
+
+
+
+
+
+
+# 56. Abetment of offence punishable with imprisonment.
+
+Whoever abets an offence punishable with imprisonment shall, if that offence be not committed in consequence of the abetment, and no express provision is made under this Sanhita for the punishment of such abetment, be punished with imprisonment of any description provided for that offence for a term which may extend to one-fourth part of the longest term provided for that offence; or with such fine as is provided for that offence, or with both; and if the abettor or the person abetted is a public servant, whose duty it is to prevent the commission of such offence, the abettor shall be punished with imprisonment of any description provided for that offence, for a term which may extend to one-half of the longest term provided for that offence, or with such fine as is provided for the offence, or with both.
+
+# Illustrations.
+
+- (a) A instigates B to give false evidence. Here, if B does not give false evidence, A has nevertheless committed the offence defined in this section, and is punishable accordingly.
+- (b) A, a police officer, whose duty it is to prevent robbery, abets the commission of robbery. Here, though the robbery be not committed, A is liable to one-half of the longest term of imprisonment provided for that offence, and also to fine.
+- (c) B abets the commission of a robbery by A, a police officer, whose duty it is to prevent that offence. Here, though the robbery be not committed, B is liable to one-half of the longest term of imprisonment provided for the offence of robbery, and also to fine.
+
+# 57. Abetting commission of offence by public or by more than ten persons.
+
+Whoever abets the commission of an offence by the public generally or by any number or class of persons exceeding ten, shall be punished with imprisonment of either description for a term which may extend to seven years and with fine.
+
+# Illustration.
+
+A affixes in a public place a placard instigating a sect consisting of more than ten members to meet at a certain time and place, for the purpose of attacking the members of an adverse sect, while engaged in a procession. A has committed the offence defined in this section.
+
+# 58. Concealing design to commit offence punishable with death or imprisonment for life.
+
+Whoever intending to facilitate or knowing it to be likely that he will thereby facilitate the commission of an offence punishable with death or imprisonment for life, voluntarily conceals by any act or omission, or by the use of encryption or any other information hiding tool, the existence of a design to commit such offence or makes any representation which he knows to be false respecting such design shall,—
+
+- (a) if that offence be committed, be punished with imprisonment of either description for a term which may extend to seven years; or
+- (b) if the offence be not committed, with imprisonment of either description, for a term which may extend to three years, and shall also be liable to fine.
+
+# Illustration.
+
+A, knowing that dacoity is about to be committed at B, falsely informs the Magistrate that a dacoity is about to be committed at C, a place in an opposite direction, and thereby misleads the Magistrate with intent to facilitate the commission of the offence. The dacoity is committed at B in pursuance of the design. A is punishable under this section.
+
+# 59. Public servant concealing design to commit offence which it is his duty to prevent.
+
+Whoever, being a public servant, intending to facilitate or knowing it to be likely that he will thereby
+
+
+
+
+
+
+facilitate the commission of an offence which it is his duty as such public servant to prevent, voluntarily conceals, by any act or omission or by the use of encryption or any other information hiding tool, the existence of a design to commit such offence, or makes any representation which he knows to be false respecting such design shall,
+
+- (a) if the offence be committed, be punished with imprisonment of any description provided for the offence, for a term which may extend to one-half of the longest term of such imprisonment, or with such fine as is provided for that offence, or with both; or
+- (b) if the offence be punishable with death or imprisonment for life, with imprisonment of either description for a term which may extend to ten years; or
+- (c) if the offence be not committed, shall be punished with imprisonment of any description provided for the offence for a term which may extend to one-fourth part of the longest term of such imprisonment or with such fine as is provided for the offence, or with both.
+
+Illustration.
+
+A, an officer of police, being legally bound to give information of all designs to commit robbery which may come to his knowledge, and knowing that B designs to commit robbery, omits to give such information, with intent to so facilitate the commission of that offence.
+
+Here A has by an illegal omission concealed the existence of B’s design, and is liable to punishment according to the provision of this section.
+
+# 60. Concealing design to commit offence punishable with imprisonment.
+
+Whoever, intending to facilitate or knowing it to be likely that he will thereby facilitate the commission of an offence punishable with imprisonment, voluntarily conceals, by any act or illegal omission, the existence of a design to commit such offence, or makes any representation which he knows to be false respecting such design shall,
+
+- (a) if the offence be committed, be punished with imprisonment of the description provided for the offence, for a term which may extend to one-fourth; and
+- (b) if the offence be not committed, to one-eighth, of the longest term of such imprisonment, or with such fine as is provided for the offence, or with both.
+
+# Of criminal conspiracy
+
+# 61. Criminal conspiracy.
+
+(1) When two or more persons agree with the common object to do, or cause to be done—
+
+- (a) an illegal act; or
+- (b) an act which is not illegal by illegal means, such an agreement is designated a criminal conspiracy:
+
+Provided that no agreement except an agreement to commit an offence shall amount to a criminal conspiracy unless some act besides the agreement is done by one or more parties to such agreement in pursuance thereof.
+
+Explanation.—It is immaterial whether the illegal act is the ultimate object of such agreement, or is merely incidental to that object.
+
+(2) Whoever is a party to a criminal conspiracy,
+
+- (a) to commit an offence punishable with death, imprisonment for life or rigorous imprisonment for a term of two years or upwards, shall, where no express provision is made in this Sanhita for the punishment of such a conspiracy, be punished in the same manner as if he had abetted such offence;
+- (b) other than a criminal conspiracy to commit an offence punishable as aforesaid shall be punished with imprisonment of either description for a term not exceeding six months, or with fine or with both.
+
+
+
+
+
+
+62. Punishment for attempting to commit offences punishable with imprisonment for life or other imprisonment.—Whoever attempts to commit an offence punishable by this Sanhita with imprisonment for life or imprisonment, or to cause such an offence to be committed, and in such attempt does any act towards the commission of the offence, shall, where no express provision is made by this Sanhita for the punishment of such attempt, be punished with imprisonment of any description provided for the offence, for a term which may extend to one-half of the imprisonment for life or, as the case may be, one-half of the longest term of imprisonment provided for that offence, or with such fine as is provided for the offence, or with both.
+
+# Illustrations.
+
+(a) A makes an attempt to steal some jewels by breaking open a box, and finds after so opening the box, that there is no jewel in it. He has done an act towards the commission of theft, and therefore is guilty under this section.
+
+(b) A makes an attempt to pick the pocket of Z by thrusting his hand into Z’s pocket. A fails in the attempt in consequence of Z’s having nothing in his pocket. A is guilty under this section.
+
+# CHAPTER V
+
+# OF OFFENCES AGAINST WOMAN AND CHILD
+
+# Of sexual offences
+
+63. Rape.—A man is said to commit “rape” if he—
+
+(a) penetrates his penis, to any extent, into the vagina, mouth, urethra or anus of a woman or makes her to do so with him or any other person; or
+
+(b) inserts, to any extent, any object or a part of the body, not being the penis, into the vagina, the urethra or anus of a woman or makes her to do so with him or any other person; or
+
+(c) manipulates any part of the body of a woman so as to cause penetration into the vagina, urethra, anus or any part of body of such woman or makes her to do so with him or any other person; or
+
+(d) applies his mouth to the vagina, anus, urethra of a woman or makes her to do so with him or any other person, under the circumstances falling under any of the following seven descriptions:—
+
+(i) against her will;
+
+(ii) without her consent;
+
+(iii) with her consent, when her consent has been obtained by putting her or any person in whom she is interested, in fear of death or of hurt;
+
+(iv) with her consent, when the man knows that he is not her husband and that her consent is given because she believes that he is another man to whom she is or believes herself to be lawfully married;
+
+(v) with her consent when, at the time of giving such consent, by reason of unsoundness of mind or intoxication or the administration by him personally or through another of any stupefying or unwholesome substance, she is unable to understand the nature and consequences of that to which she gives consent;
+
+(vi) with or without her consent, when she is under eighteen years of age;
+
+(vii) when she is unable to communicate consent.
+
+Explanation 1.—For the purposes of this section, “vagina” shall also include labia majora.
+
+
+
+
+
+
+Explanation 2.—Consent means an unequivocal voluntary agreement when the woman by words, gestures or any form of verbal or non-verbal communication, communicates willingness to participate in the specific sexual act:
+
+Provided that a woman who does not physically resist to the act of penetration shall not by the reason only of that fact, be regarded as consenting to the sexual activity.
+
+Exception 1.—A medical procedure or intervention shall not constitute rape.
+
+Exception 2.—Sexual intercourse or sexual acts by a man with his own wife, the wife not being under eighteen years of age, is not rape.
+
+# 64. Punishment for rape.
+
+(1) Whoever, except in the cases provided for in sub-section (2), commits rape, shall be punished with rigorous imprisonment of either description for a term which shall not be less than ten years, but which may extend to imprisonment for life, and shall also be liable to fine.
+
+(2) Whoever,—
+
+- (a) being a police officer, commits rape,—
+- - (i) within the limits of the police station to which such police officer is appointed; or
+- (ii) in the premises of any station house; or
+- (iii) on a woman in such police officer’s custody or in the custody of a police officer subordinate to such police officer; or
+
+(b) being a public servant, commits rape on a woman in such public servant’s custody or in the custody of a public servant subordinate to such public servant; or
+- (c) being a member of the armed forces deployed in an area by the Central Government or a State Government commits rape in such area; or
+- (d) being on the management or on the staff of a jail, remand home or other place of custody established by or under any law for the time being in force or of a women’s or children’s institution, commits rape on any inmate of such jail, remand home, place or institution; or
+- (e) being on the management or on the staff of a hospital, commits rape on a woman in that hospital; or
+- (f) being a relative, guardian or teacher of, or a person in a position of trust or authority towards the woman, commits rape on such woman; or
+- (g) commits rape during communal or sectarian violence; or
+- (h) commits rape on a woman knowing her to be pregnant; or
+- (i) commits rape, on a woman incapable of giving consent; or
+- (j) being in a position of control or dominance over a woman, commits rape on such woman; or
+- (k) commits rape on a woman suffering from mental or physical disability; or
+- (l) while committing rape causes grievous bodily harm or maims or disfigures or endangers the life of a woman; or
+- (m) commits rape repeatedly on the same woman,
+
+shall be punished with rigorous imprisonment for a term which shall not be less than ten years, but which may extend to imprisonment for life, which shall mean imprisonment for the remainder of that person’s natural life, and shall also be liable to fine.
+
+Explanation.—For the purposes of this sub-section,—
+
+- (a) “armed forces” means the naval, army and air forces and includes any member of the Armed Forces constituted under any law for the time being in force, including the paramilitary forces and any auxiliary forces that are under the control of the Central Government or the State Government;
+
+
+
+
+
+
+(b) “hospital” means the precincts of the hospital and includes the precincts of any institution for the reception and treatment of persons during convalescence or of persons requiring medical attention or rehabilitation;
+
+(c) “police officer” shall have the same meaning as assigned to the expression “police” under the Police Act, 1861 (5 of 1861);
+
+(d) “women’s or children’s institution” means an institution, whether called an orphanage or a home for neglected women or children or a widow’s home or an institution called by any other name, which is established and maintained for the reception and care of women or children.
+
+# 65. Punishment for rape in certain cases.
+
+(1) Whoever, commits rape on a woman under sixteen years of age shall be punished with rigorous imprisonment for a term which shall not be less than twenty years, but which may extend to imprisonment for life, which shall mean imprisonment for the remainder of that person’s natural life, and shall also be liable to fine:
+
+Provided that such fine shall be just and reasonable to meet the medical expenses and rehabilitation of the victim:
+
+Provided further that any fine imposed under this sub-section shall be paid to the victim.
+
+(2) Whoever, commits rape on a woman under twelve years of age shall be punished with rigorous imprisonment for a term which shall not be less than twenty years, but which may extend to imprisonment for life, which shall mean imprisonment for the remainder of that person’s natural life, and with fine or with death:
+
+Provided that such fine shall be just and reasonable to meet the medical expenses and rehabilitation of the victim:
+
+Provided further that any fine imposed under this sub-section shall be paid to the victim.
+
+# 66. Punishment for causing death or resulting in persistent vegetative state of victim.
+
+Whoever, commits an offence punishable under sub-section (1) or sub-section (2) of section 64 and in the course of such commission inflicts an injury which causes the death of the woman or causes the woman to be in a persistent vegetative state, shall be punished with rigorous imprisonment for a term which shall not be less than twenty years, but which may extend to imprisonment for life, which shall mean imprisonment for the remainder of that person’s natural life, or with death.
+
+# 67. Sexual intercourse by husband upon his wife during separation.
+
+Whoever has sexual intercourse with his own wife, who is living separately, whether under a decree of separation or otherwise, without her consent, shall be punished with imprisonment of either description for a term which shall not be less than two years but which may extend to seven years, and shall also be liable to fine.
+
+Explanation.—In this section, “sexual intercourse” shall mean any of the acts mentioned in clauses (a) to (d) of section 63.
+
+# 68. Sexual intercourse by a person in authority.
+
+Whoever, being—
+
+- (a) in a position of authority or in a fiduciary relationship; or
+- (b) a public servant; or
+- (c) superintendent or manager of a jail, remand home or other place of custody established by or under any law for the time being in force, or a women’s or children’s institution; or
+- (d) on the management of a hospital or being on the staff of a hospital,
+
+abuses such position or fiduciary relationship to induce or seduce any woman either in his custody or under his charge or present in the premises to have sexual intercourse with him, such sexual intercourse not amounting to the offence of rape, shall be punished with rigorous imprisonment of either description for a term which shall not be less than five years, but which may extend to ten years, and shall also be liable to fine.
+
+
+
+
+
+
+# Explanation
+
+1.— In this section, “sexual intercourse” shall mean any of the acts mentioned in clauses (a) to (d) of section 63.
+
+2.— For the purposes of this section, Explanation 1 to section 63 shall also be applicable.
+
+3.— “Superintendent”, in relation to a jail, remand home or other place of custody or a women’s or children’s institution, includes a person holding any other office in such jail, remand home, place or institution by virtue of which such person can exercise any authority or control over its inmates.
+
+4.— The expressions “hospital” and “women’s or children’s institution” shall respectively have the same meanings as in clauses (b) and (d) of the Explanation to sub-section (2) of section 64.
+
+# 69. Sexual intercourse by employing deceitful means, etc.
+
+Whoever, by deceitful means or by making promise to marry to a woman without any intention of fulfilling the same, has sexual intercourse with her, such sexual intercourse not amounting to the offence of rape, shall be punished with imprisonment of either description for a term which may extend to ten years and shall also be liable to fine.
+
+Explanation.— “deceitful means” shall include inducement for, or false promise of employment or promotion, or marrying by suppressing identity.
+
+# 70. Gang rape.
+
+(1) Where a woman is raped by one or more persons constituting a group or acting in furtherance of a common intention, each of those persons shall be deemed to have committed the offence of rape and shall be punished with rigorous imprisonment for a term which shall not be less than twenty years, but which may extend to imprisonment for life which shall mean imprisonment for the remainder of that person’s natural life, and with fine:
+
+Provided that such fine shall be just and reasonable to meet the medical expenses and rehabilitation of the victim:
+
+Provided further that any fine imposed under this sub-section shall be paid to the victim.
+
+(2) Where a woman under eighteen years of age is raped by one or more persons constituting a group or acting in furtherance of a common intention, each of those persons shall be deemed to have committed the offence of rape and shall be punished with imprisonment for life, which shall mean imprisonment for the remainder of that person’s natural life, and with fine, or with death:
+
+Provided that such fine shall be just and reasonable to meet the medical expenses and rehabilitation of the victim:
+
+Provided further that any fine imposed under this sub-section shall be paid to the victim.
+
+# 71. Punishment for repeat offenders.
+
+Whoever has been previously convicted of an offence punishable under section 64 or section 65 or section 66 or section 70 and is subsequently convicted of an offence punishable under any of the said sections shall be punished with imprisonment for life which shall mean imprisonment for the remainder of that person’s natural life, or with death.
+
+# 72. Disclosure of identity of victim of certain offences, etc.
+
+(1) Whoever prints or publishes the name or any matter which may make known the identity of any person against whom an offence under section 64 or section 65 or section 66 or section 67 or section 68 or section 69 or section 70 or section 71 is alleged or found to have been committed (hereafter in this section referred to as the victim) shall be punished with imprisonment of either description for a term which may extend to two years and shall also be liable to fine.
+
+(2) Nothing in sub-section (1) extends to any printing or publication of the name or any matter which may make known the identity of the victim if such printing or publication is—
+
+- (a) by or under the order in writing of the officer-in-charge of the police station or the police officer making the investigation into such offence acting in good faith for the purposes of such investigation; or
+
+
+
+
+
+
+(b) by, or with the authorisation in writing of, the victim; or
+
+(c) where the victim is dead or a child or of unsound mind, by, or with the authorisation in writing of, the next of kin of the victim:
+
+Provided that no such authorisation shall be given by the next of kin to anybody other than the chairman or the secretary, by whatever name called, of any recognised welfare institution or organisation.
+
+Explanation.—For the purposes of this sub-section, “recognised welfare institution or organisation” means a social welfare institution or organisation recognised in this behalf by the Central Government or the State Government.
+
+# 73. Printing or publishing any matter relating to Court proceedings without permission.
+
+Whoever prints or publishes any matter in relation to any proceeding before a Court with respect to an offence referred to in section 72 without the previous permission of such Court shall be punished with imprisonment of either description for a term which may extend to two years and shall also be liable to fine.
+
+Explanation.—The printing or publication of the judgment of any High Court or the Supreme Court does not amount to an offence within the meaning of this section.
+
+# O
+
+# f criminal force and assault against woman
+
+# 74. Assault or use of criminal force to woman with intent to outrage her modesty.
+
+Whoever assaults or uses criminal force to any woman, intending to outrage or knowing it to be likely that he will thereby outrage her modesty, shall be punished with imprisonment of either description for a term which shall not be less than one year but which may extend to five years, and shall also be liable to fine.
+
+# 75. Sexual harassment.
+
+(1) A man committing any of the following acts:—
+
+- (i) physical contact and advances involving unwelcome and explicit sexual overtures; or
+- (ii) a demand or request for sexual favours; or
+- (iii) showing pornography against the will of a woman; or
+- (iv) making sexually coloured remarks,
+
+shall be guilty of the offence of sexual harassment.
+
+(2) Any man who commits the offence specified in clause (i) or clause (ii) or clause (iii) of sub-section (1) shall be punished with rigorous imprisonment for a term which may extend to three years, or with fine, or with both.
+
+(3) Any man who commits the offence specified in clause (iv) of sub-section (1) shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.
+
+# 76. Assault or use of criminal force to woman with intent to disrobe.
+
+Whoever assaults or uses criminal force to any woman or abets such act with the intention of disrobing or compelling her to be naked, shall be punished with imprisonment of either description for a term which shall not be less than three years but which may extend to seven years, and shall also be liable to fine.
+
+# 77. Voyeurism.
+
+Whoever watches, or captures the image of a woman engaging in a private act in circumstances where she would usually have the expectation of not being observed either by the perpetrator or by any other person at the behest of the perpetrator or disseminates such image shall be punished on first conviction with imprisonment of either description for a term which shall not be less than one year, but which may extend to three years, and shall also be liable to fine, and be punished on a second or subsequent conviction, with imprisonment of either description for a term which shall not be less than three years, but which may extend to seven years, and shall also be liable to fine.
+
+Explanation 1.—For the purposes of this section, “private act” includes an act of watching carried out in a place which, in the circumstances, would reasonably be expected to provide privacy and where the
+
+
+
+
+
+
+victim’s genitals, posterior or breasts are exposed or covered only in underwear; or the victim is using a lavatory; or the victim is doing a sexual act that is not of a kind ordinarily done in public.
+
+Explanation 2.—Where the victim consents to the capture of the images or any act, but not to their dissemination to third persons and where such image or act is disseminated, such dissemination shall be considered an offence under this section.
+
+# 78. Stalking.
+
+(1) Any man who—
+
+- (i) follows a woman and contacts, or attempts to contact such woman to foster personal interaction repeatedly despite a clear indication of disinterest by such woman; or
+- (ii) monitors the use by a woman of the internet, e-mail or any other form of electronic communication,
+
+commits the offence of stalking:
+
+Provided that such conduct shall not amount to stalking if the man who pursued it proves that—
+
+- (i) it was pursued for the purpose of preventing or detecting crime and the man accused of stalking had been entrusted with the responsibility of prevention and detection of crime by the State;
+- (ii) it was pursued under any law or to comply with any condition or requirement imposed by any person under any law; or
+- (iii) in the particular circumstances such conduct was reasonable and justified.
+
+(2) Whoever commits the offence of stalking shall be punished on first conviction with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine; and be punished on a second or subsequent conviction, with imprisonment of either description for a term which may extend to five years, and shall also be liable to fine.
+
+# 79. Word, gesture or act intended to insult modesty of a woman.
+
+Whoever, intending to insult the modesty of any woman, utters any words, makes any sound or gesture, or exhibits any object in any form, intending that such word or sound shall be heard, or that such gesture or object shall be seen, by such woman, or intrudes upon the privacy of such woman, shall be punished with simple imprisonment for a term which may extend to three years, and also with fine.
+
+# Of offences relating to marriage
+
+# 80. Dowry death.
+
+(1) Where the death of a woman is caused by any burns or bodily injury or occurs otherwise than under normal circumstances within seven years of her marriage and it is shown that soon before her death she was subjected to cruelty or harassment by her husband or any relative of her husband for, or in connection with, any demand for dowry, such death shall be called “dowry death”, and such husband or relative shall be deemed to have caused her death.
+
+Explanation.—For the purposes of this sub-section, “dowry” shall have the same meaning as in section 2 of the Dowry Prohibition Act, 1961 (28 of 1961).
+
+(2) Whoever commits dowry death shall be punished with imprisonment for a term which shall not be less than seven years but which may extend to imprisonment for life.
+
+# 81. Cohabitation caused by man deceitfully inducing belief of lawful marriage.
+
+Every man who by deceit causes any woman who is not lawfully married to him to believe that she is lawfully married to him and to cohabit or have sexual intercourse with him in that belief, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+
+# 82. Marrying again during lifetime of husband or wife.
+
+(1) Whoever, having a husband or wife living, marries in any case in which such marriage is void by reason of its taking place during the life of such husband or wife, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+
+
+
+
+
+
+Exception.—This sub-section does not extend to any person whose marriage with such husband or wife has been declared void by a Court of competent jurisdiction, nor to any person who contracts a marriage during the life of a former husband or wife, if such husband or wife, at the time of the subsequent marriage, shall have been continually absent from such person for the space of seven years, and shall not have been heard of by such person as being alive within that time provided the person contracting such subsequent marriage shall, before such marriage takes place, inform the person with whom such marriage is contracted of the real state of facts so far as the same are within his or her knowledge.
+
+(2) Whoever commits the offence under sub-section (1) having concealed from the person with whom the subsequent marriage is contracted, the fact of the former marriage, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+
+# 83. Marriage ceremony fraudulently gone through without lawful marriage.
+
+Whoever, dishonestly or with a fraudulent intention, goes through the ceremony of being married, knowing that he is not thereby lawfully married, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+
+# 84. Enticing or taking away or detaining with criminal intent a married woman.
+
+Whoever takes or entices away any woman who is and whom he knows or has reason to believe to be the wife of any other man, with intent that she may have illicit intercourse with any person, or conceals or detains with that intent any such woman, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+
+# 85. Husband or relative of husband of a woman subjecting her to cruelty.
+
+Whoever, being the husband or the relative of the husband of a woman, subjects such woman to cruelty shall be punished with imprisonment for a term which may extend to three years and shall also be liable to fine.
+
+# 86. Cruelty defined.
+
+For the purposes of section 85, “cruelty” means—
+
+- (a) any wilful conduct which is of such a nature as is likely to drive the woman to commit suicide or to cause grave injury or danger to life, limb or health (whether mental or physical) of the woman; or
+- (b) harassment of the woman where such harassment is with a view to coercing her or any person related to her to meet any unlawful demand for any property or valuable security or is on account of failure by her or any person related to her to meet such demand.
+
+# 87. Kidnapping, abducting or inducing woman to compel her marriage, etc.
+
+Whoever kidnaps or abducts any woman with intent that she may be compelled, or knowing it to be likely that she will be compelled, to marry any person against her will, or in order that she may be forced or seduced to illicit intercourse, or knowing it to be likely that she will be forced or seduced to illicit intercourse, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine; and whoever, by means of criminal intimidation as defined in this Sanhita or of abuse of authority or any other method of compulsion, induces any woman to go from any place with intent that she may be, or knowing that it is likely that she will be, forced or seduced to illicit intercourse with another person shall also be punishable as aforesaid.
+
+# Of causing miscarriage, etc.
+
+# 88. Causing miscarriage.
+
+Whoever voluntarily causes a woman with child to miscarry, shall, if such miscarriage be not caused in good faith for the purpose of saving the life of the woman, be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both; and, if the woman be quick with child, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+
+Explanation.—A woman who causes herself to miscarry, is within the meaning of this section.
+
+# 89. Causing miscarriage without woman’s consent.
+
+Whoever commits the offence under section 88 without the consent of the woman, whether the woman is quick with child or not, shall be
+
+
+
+
+
+
+punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+
+# 90. Death caused by act done with intent to cause miscarriage.
+
+(1) Whoever, with intent to cause the miscarriage of a woman with child, does any act which causes the death of such woman, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+
+(2) Where the act referred to in sub-section (1) is done without the consent of the woman, shall be punishable either with imprisonment for life, or with the punishment specified in said sub-section.
+
+Explanation.—It is not essential to this offence that the offender should know that the act is likely to cause death.
+
+# 91. Act done with intent to prevent child being born alive or to cause to die after birth.
+
+Whoever before the birth of any child does any act with the intention of thereby preventing that child from being born alive or causing it to die after its birth, and does by such act prevent that child from being born alive, or causes it to die after its birth, shall, if such act be not caused in good faith for the purpose of saving the life of the mother, be punished with imprisonment of either description for a term which may extend to ten years, or with fine, or with both.
+
+# 92. Causing death of quick unborn child by act amounting to culpable homicide.
+
+Whoever does any act under such circumstances, that if he thereby caused death he would be guilty of culpable homicide, and does by such act cause the death of a quick unborn child, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+
+Illustration.
+
+A, knowing that he is likely to cause the death of a pregnant woman, does an act which, if it caused the death of the woman, would amount to culpable homicide. The woman is injured, but does not die; but the death of an unborn quick child with which she is pregnant is thereby caused. A is guilty of the offence defined in this section.
+
+# Of offences against child
+
+# 93. Exposure and abandonment of child under twelve years of age, by parent or person having care of it.
+
+Whoever being the father or mother of a child under the age of twelve years, or having the care of such child, shall expose or leave such child in any place with the intention of wholly abandoning such child, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.
+
+Explanation.—This section is not intended to prevent the trial of the offender for murder or culpable homicide, as the case may be, if the child die in consequence of the exposure.
+
+# 94. Concealment of birth by secret disposal of dead body.
+
+Whoever, by secretly burying or otherwise disposing of the dead body of a child whether such child die before or after or during its birth, intentionally conceals or endeavours to conceal the birth of such child, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+
+# 95. Hiring, employing or engaging a child to commit an offence.
+
+Whoever hires, employs or engages any child to commit an offence shall be punished with imprisonment of either description which shall not be less than three years but which may extend to ten years, and with fine; and if the offence be committed shall also be punished with the punishment provided for that offence as if the offence has been committed by such person himself.
+
+Explanation.—Hiring, employing, engaging or using a child for sexual exploitation or pornography is covered within the meaning of this section.
+
+# 96. Procuration of child.
+
+Whoever, by any means whatsoever, induces any child to go from any place or to do any act with intent that such child may be, or knowing that it is likely that such child will
+
+
+
+
+
+
+be, forced or seduced to illicit intercourse with another person shall be punishable with imprisonment which may extend to ten years, and shall also be liable to fine.
+
+# 97. Kidnapping or abducting child under ten years of age with intent to steal from its person.
+
+Whoever kidnaps or abducts any child under the age of ten years with the intention of taking dishonestly any movable property from the person of such child, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+
+# 98. Selling child for purposes of prostitution, etc.
+
+Whoever sells, lets to hire, or otherwise disposes of any child with intent that such child shall at any age be employed or used for the purpose of prostitution or illicit intercourse with any person or for any unlawful and immoral purpose, or knowing it to be likely that such child will at any age be employed or used for any such purpose, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+
+Explanation 1.—When a female under the age of eighteen years is sold, let for hire, or otherwise disposed of to a prostitute or to any person who keeps or manages a brothel, the person so disposing of such female shall, until the contrary is proved, be presumed to have disposed of her with the intent that she shall be used for the purpose of prostitution.
+
+Explanation 2.—For the purposes of this section “illicit intercourse” means sexual intercourse between persons not united by marriage or by any union or tie which, though not amounting to a marriage, is recognised by the personal law or custom of the community to which they belong or, where they belong to different communities, of both such communities, as constituting between them a quasi-marital relation.
+
+# 99. Buying child for purposes of prostitution, etc.
+
+Whoever buys, hires or otherwise obtains possession of any child with intent that such child shall at any age be employed or used for the purpose of prostitution or illicit intercourse with any person or for any unlawful and immoral purpose, or knowing it to be likely that such child will at any age be employed or used for any such purpose, shall be punished with imprisonment of either description for a term which shall not be less than seven years but which may extend to fourteen years, and shall also be liable to fine.
+
+Explanation 1.—Any prostitute or any person keeping or managing a brothel, who buys, hires or otherwise obtains possession of a female under the age of eighteen years shall, until the contrary is proved, be presumed to have obtained possession of such female with the intent that she shall be used for the purpose of prostitution.
+
+Explanation 2.— “Illicit intercourse” has the same meaning as in section 98.
+
+# CHAPTER VI
+
+# OF OFFENCES AFFECTING THE HUMAN BODY
+
+# Of offences affecting life
+
+# 100. Culpable homicide.
+
+Whoever causes death by doing an act with the intention of causing death, or with the intention of causing such bodily injury as is likely to cause death, or with the knowledge that he is likely by such act to cause death, commits the offence of culpable homicide.
+
+# Illustrations.
+
+(a) A lays sticks and turf over a pit, with the intention of thereby causing death, or with the knowledge that death is likely to be thereby caused. Z, believing the ground to be firm, treads on it, falls in and is killed. A has committed the offence of culpable homicide.
+
+(b) A knows Z to be behind a bush. B does not know it. A, intending to cause, or knowing it to be likely to cause Z’s death, induces B to fire at the bush. B fires and kills Z. Here B may be guilty of no offence; but A has committed the offence of culpable homicide.
+
+(c) A, by shooting at a fowl with intent to kill and steal it, kills B, who is behind a bush; A not knowing that he was there. Here, although A was doing an unlawful act, he was not guilty of culpable
+
+
+
+
+
+
+homicide, as he did not intend to kill B, or to cause death by doing an act that he knew was likely to cause death.
+
+Explanation 1.—A person who causes bodily injury to another who is labouring under a disorder, disease or bodily infirmity, and thereby accelerates the death of that other, shall be deemed to have caused his death.
+
+Explanation 2.—Where death is caused by bodily injury, the person who causes such bodily injury shall be deemed to have caused the death, although by resorting to proper remedies and skilful treatment the death might have been prevented.
+
+Explanation 3.—The causing of the death of a child in the mother’s womb is not homicide. But it may amount to culpable homicide to cause the death of a living child, if any part of that child has been brought forth, though the child may not have breathed or been completely born.
+
+# 101. Murder.
+
+—Except in the cases hereinafter excepted, culpable homicide is murder,—
+
+- (a) if the act by which the death is caused is done with the intention of causing death; or
+- (b) if the act by which the death is caused is done with the intention of causing such bodily injury as the offender knows to be likely to cause the death of the person to whom the harm is caused; or
+- (c) if the act by which the death is caused is done with the intention of causing bodily injury to any person and the bodily injury intended to be inflicted is sufficient in the ordinary course of nature to cause death; or
+- (d) if the person committing the act by which the death is caused, knows that it is so imminently dangerous that it must, in all probability, cause death, or such bodily injury as is likely to cause death, and commits such act without any excuse for incurring the risk of causing death or such injury as aforesaid.
+
+# Illustrations.
+
+- (a) A shoots Z with the intention of killing him. Z dies in consequence. A commits murder.
+- (b) A, knowing that Z is labouring under such a disease that a blow is likely to cause his death, strikes him with the intention of causing bodily injury. Z dies in consequence of the blow. A is guilty of murder, although the blow might not have been sufficient in the ordinary course of nature to cause the death of a person in a sound state of health. But if A, not knowing that Z is labouring under any disease, gives him such a blow as would not in the ordinary course of nature kill a person in a sound state of health, here A, although he may intend to cause bodily injury, is not guilty of murder, if he did not intend to cause death, or such bodily injury as in the ordinary course of nature would cause death.
+- (c) A intentionally gives Z a sword-cut or club-wound sufficient to cause the death of a man in the ordinary course of nature. Z dies in consequence. Here A is guilty of murder, although he may not have intended to cause Z’s death.
+- (d) A without any excuse fires a loaded cannon into a crowd of persons and kills one of them. A is guilty of murder, although he may not have had a premeditated design to kill any particular individual.
+
+# Exception 1.
+
+—Culpable homicide is not murder if the offender, whilst deprived of the power of self-control by grave and sudden provocation, causes the death of the person who gave the provocation or causes the death of any other person by mistake or accident:
+
+Provided that the provocation is not,—
+
+- (a) sought or voluntarily provoked by the offender as an excuse for killing or doing harm to any person;
+- (b) given by anything done in obedience to the law, or by a public servant in the lawful exercise of the powers of such public servant;
+- (c) given by anything done in the lawful exercise of the right of private defence.
+
+
+
+
+
+Explanation.—Whether the provocation was grave and sudden enough to prevent the offence from amounting to murder is a question of fact.
+
+# Illustrations.
+
+1. A, under the influence of passion excited by a provocation given by Z, intentionally kills Y, Z’s child. This is murder, in as much as the provocation was not given by the child, and the death of the child was not caused by accident or misfortune in doing an act caused by the provocation.
+2. Y gives grave and sudden provocation to A. A, on this provocation, fires a pistol at Y, neither intending nor knowing himself to be likely to kill Z, who is near him, but out of sight. A kills Z. Here A has not committed murder, but merely culpable homicide.
+3. A is lawfully arrested by Z, a bailiff. A is excited to sudden and violent passion by the arrest, and kills Z. This is murder, in as much as the provocation was given by a thing done by a public servant in the exercise of his powers.
+4. A appears as a witness before Z, a Magistrate. Z says that he does not believe a word of A’s deposition, and that A has perjured himself. A is moved to sudden passion by these words, and kills Z. This is murder.
+5. A attempts to pull Z’s nose. Z, in the exercise of the right of private defence, lays hold of A to prevent him from doing so. A is moved to sudden and violent passion in consequence, and kills Z. This is murder, in as much as the provocation was given by a thing done in the exercise of the right of private defence.
+6. Z strikes B. B is by this provocation excited to violent rage. A, a bystander, intending to take advantage of B’s rage, and to cause him to kill Z, puts a knife into B’s hand for that purpose. B kills Z with the knife. Here B may have committed only culpable homicide, but A is guilty of murder.
+
+Exception 2.—Culpable homicide is not murder if the offender in the exercise in good faith of the right of private defence of person or property, exceeds the power given to him by law and causes the death of the person against whom he is exercising such right of defence without premeditation, and without any intention of doing more harm than is necessary for the purpose of such defence.
+
+# Illustration.
+
+Z attempts to horsewhip A, not in such a manner as to cause grievous hurt to A. A draws out a pistol. Z persists in the assault. A believing in good faith that he can by no other means prevent himself from being horsewhipped, shoots Z dead. A has not committed murder, but only culpable homicide.
+
+Exception 3.—Culpable homicide is not murder if the offender, being a public servant or aiding a public servant acting for the advancement of public justice, exceeds the powers given to him by law, and causes death by doing an act which he, in good faith, believes to be lawful and necessary for the due discharge of his duty as such public servant and without ill-will towards the person whose death is caused.
+
+Exception 4.—Culpable homicide is not murder if it is committed without premeditation in a sudden fight in the heat of passion upon a sudden quarrel and without the offender’s having taken undue advantage or acted in a cruel or unusual manner.
+
+Explanation.—It is immaterial in such cases which party offers the provocation or commits the first assault.
+
+Exception 5.—Culpable homicide is not murder when the person whose death is caused, being above the age of eighteen years, suffers death or takes the risk of death with his own consent.
+
+# Illustration.
+
+A, by instigation, voluntarily causes Z, a child to commit suicide. Here, on account of Z’s youth, he was incapable of giving consent to his own death; A has therefore abetted murder.
+
+102. Culpable homicide by causing death of person other than person whose death was intended.—If a person, by doing anything which he intends or knows to be likely to cause death,
+
+
+
+
+commits culpable homicide by causing the death of any person, whose death he neither intends nor knows himself to be likely to cause, the culpable homicide committed by the offender is of the description of which it would have been if he had caused the death of the person whose death he intended or knew himself to be likely to cause.
+
+# 103. Punishment for murder.
+
+1. Whoever commits murder shall be punished with death or imprisonment for life, and shall also be liable to fine.
+2. When a group of five or more persons acting in concert commits murder on the ground of race, caste or community, sex, place of birth, language, personal belief or any other similar ground each member of such group shall be punished with death or with imprisonment for life, and shall also be liable to fine.
+
+# 104. Punishment for murder by life-convict.
+
+Whoever, being under sentence of imprisonment for life, commits murder, shall be punished with death or with imprisonment for life, which shall mean the remainder of that person’s natural life.
+
+# 105. Punishment for culpable homicide not amounting to murder.
+
+Whoever commits culpable homicide not amounting to murder, shall be punished with imprisonment for life, or imprisonment of either description for a term which shall not be less than five years but which may extend to ten years, and shall also be liable to fine, if the act by which the death is caused is done with the intention of causing death, or of causing such bodily injury as is likely to cause death; or with imprisonment of either description for a term which may extend to ten years and with fine, if the act is done with the knowledge that it is likely to cause death, but without any intention to cause death, or to cause such bodily injury as is likely to cause death.
+
+# 106. Causing death by negligence.
+
+1. Whoever causes death of any person by doing any rash or negligent act not amounting to culpable homicide, shall be punished with imprisonment of either description for a term which may extend to five years, and shall also be liable to fine; and if such act is done by a registered medical practitioner while performing medical procedure, he shall be punished with imprisonment of either description for a term which may extend to two years, and shall also be liable to fine.
+2. Explanation.—For the purposes of this sub-section, “registered medical practitioner” means a medical practitioner who possesses any medical qualification recognised under the National Medical Commission Act, 2019 (30 of 2019) and whose name has been entered in the National Medical Register or a State Medical Register under that Act.
+
+Whoever causes death of any person by rash and negligent driving of vehicle not amounting to culpable homicide, and escapes without reporting it to a police officer or a Magistrate soon after the incident, shall be punished with imprisonment of either description of a term which may extend to ten years, and shall also be liable to fine.
+
+# 107. Abetment of suicide of child or person of unsound mind.
+
+If any child, any person of unsound mind, any delirious person or any person in a state of intoxication, commits suicide, whoever abets the commission of such suicide, shall be punished with death or imprisonment for life, or imprisonment for a term not exceeding ten years, and shall also be liable to fine.
+
+# 108. Abetment of suicide.
+
+If any person commits suicide, whoever abets the commission of such suicide, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+
+# 109. Attempt to murder.
+
+1. Whoever does any act with such intention or knowledge, and under such circumstances that, if he by that act caused death, he would be guilty of murder, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine; and if hurt is caused to any person by such act, the offender shall be liable either to imprisonment for life, or to such punishment as is hereinbefore mentioned.
+
+
+
+
+
+(2) When any person offending under sub-section (1) is under sentence of imprisonment for life, he may, if hurt is caused, be punished with death or with imprisonment for life, which shall mean the remainder of that person’s natural life.
+
+# Illustrations.
+
+- (a) A shoots at Z with intention to kill him, under such circumstances that, if death ensued, A would be guilty of murder. A is liable to punishment under this section.
+- (b) A, with the intention of causing the death of a child of tender years, exposes it in a desert place. A has committed the offence defined by this section, though the death of the child does not ensue.
+- (c) A, intending to murder Z, buys a gun and loads it. A has not yet committed the offence. A fires the gun at Z. He has committed the offence defined in this section, and, if by such firing he wounds Z, he is liable to the punishment provided by the latter part of sub-section (1).
+- (d) A, intending to murder Z by poison, purchases poison and mixes the same with food which remains in A’s keeping; A has not yet committed the offence defined in this section. A places the food on Z’s table or delivers it to Z’s servants to place it on Z’s table. A has committed the offence defined in this section.
+
+# 110. Attempt to commit culpable homicide.
+
+Whoever does any act with such intention or knowledge and under such circumstances that, if he by that act caused death, he would be guilty of culpable homicide not amounting to murder, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both; and, if hurt is caused to any person by such act, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.
+
+# Illustration
+
+A, on grave and sudden provocation, fires a pistol at Z, under such circumstances that if he thereby caused death, he would be guilty of culpable homicide not amounting to murder. A has committed the offence defined in this section.
+
+# 111. Organised crime.
+
+(1) Any continuing unlawful activity including kidnapping, robbery, vehicle theft, extortion, land grabbing, contract killing, economic offence, cyber-crimes, trafficking of persons, drugs, weapons or illicit goods or services, human trafficking for prostitution or ransom, by any person or a group of persons acting in concert, singly or jointly, either as a member of an organised crime syndicate or on behalf of such syndicate, by use of violence, threat of violence, intimidation, coercion, or by any other unlawful means to obtain direct or indirect material benefit including a financial benefit, shall constitute organised crime.
+
+Explanation.—For the purposes of this sub-section,—
+
+- (i) “organised crime syndicate” means a group of two or more persons who, acting either singly or jointly, as a syndicate or gang indulge in any continuing unlawful activity;
+- (ii) “continuing unlawful activity” means an activity prohibited by law which is a cognizable offence punishable with imprisonment of three years or more, undertaken by any person, either singly or jointly, as a member of an organised crime syndicate or on behalf of such syndicate in respect of which more than one charge-sheets have been filed before a competent Court within the preceding period of ten years and that Court has taken cognizance of such offence, and includes economic offence;
+- (iii) “economic offence” includes criminal breach of trust, forgery, counterfeiting of currency - notes, bank-notes and Government stamps, hawala transaction, mass-marketing fraud or running any scheme to defraud several persons or doing any act in any manner with a view to defraud any bank or financial institution or any other institution or organisation for obtaining monetary benefits in any form.
+
+(2) Whoever commits organised crime shall,—
+
+
+
+(a) if such offence has resulted in the death of any person, be punished with death or imprisonment for life, and shall also be liable to fine which shall not be less than ten lakh rupees;
+
+(b) in any other case, be punished with imprisonment for a term which shall not be less than five years but which may extend to imprisonment for life, and shall also be liable to fine which shall not be less than five lakh rupees.
+
+(3) Whoever abets, attempts, conspires or knowingly facilitates the commission of an organised crime, or otherwise engages in any act preparatory to an organised crime, shall be punished with imprisonment for a term which shall not be less than five years but which may extend to imprisonment for life, and shall also be liable to fine which shall not be less than five lakh rupees.
+
+(4) Any person who is a member of an organised crime syndicate shall be punished with imprisonment for a term which shall not be less than five years but which may extend to imprisonment for life, and shall also be liable to fine which shall not be less than five lakh rupees.
+
+(5) Whoever, intentionally, harbours or conceals any person who has committed the offence of an organised crime shall be punished with imprisonment for a term which shall not be less than three years but which may extend to imprisonment for life, and shall also be liable to fine which shall not be less than five lakh rupees: Provided that this sub-section shall not apply to any case in which the harbour or concealment is by the spouse of the offender.
+
+(6) Whoever possesses any property derived or obtained from the commission of an organised crime or proceeds of any organised crime or which has been acquired through the organised crime, shall be punishable with imprisonment for a term which shall not be less than three years but which may extend to imprisonment for life and shall also be liable to fine which shall not be less than two lakh rupees.
+
+(7) If any person on behalf of a member of an organised crime syndicate is, or at any time has been in possession of movable or immovable property which he cannot satisfactorily account for, shall be punishable with imprisonment for a term which shall not be less than three years but which may extend to imprisonment for ten years and shall also be liable to fine which shall not be less than one lakh rupees.
+
+# 112. Petty organised crime.
+
+(1) Whoever, being a member of a group or gang, either singly or jointly, commits any act of theft, snatching, cheating, unauthorised selling of tickets, unauthorised betting or gambling, selling of public examination question papers or any other similar criminal act, is said to commit petty organised crime.
+
+Explanation.—For the purposes of this sub-section “theft” includes trick theft, theft from vehicle, dwelling house or business premises, cargo theft, pick pocketing, theft through card skimming, shoplifting and theft of Automated Teller Machine.
+
+(2) Whoever commits any petty organised crime shall be punished with imprisonment for a term which shall not be less than one year but which may extend to seven years, and shall also be liable to fine.
+
+# 113. Terrorist act.
+
+(1) Whoever does any act with the intent to threaten or likely to threaten the unity, integrity, sovereignty, security, or economic security of India or with the intent to strike terror or likely to strike terror in the people or any section of the people in India or in any foreign country,—
+
+(a) by using bombs, dynamite or other explosive substance or inflammable substance or firearms or other lethal weapons or poisonous or noxious gases or other chemicals or by any other substance (whether biological, radioactive, nuclear or otherwise) of a hazardous nature or by any other means of whatever nature to cause or likely to cause,—
+
+(i) death of, or injury to, any person or persons; or
+
+(ii) loss of, or damage to, or destruction of, property; or
+
+(iii) disruption of any supplies or services essential to the life of the community in India or in any foreign country; or
+
+
+
+(iv) damage to, the monetary stability of India by way of production or smuggling or circulation of counterfeit Indian paper currency, coin or of any other material; or
+
+(v) damage or destruction of any property in India or in a foreign country used or intended to be used for the defence of India or in connection with any other purposes of the Government of India, any State Government or any of their agencies; or
+
+(b) overawes by means of criminal force or the show of criminal force or attempts to do so or causes death of any public functionary or attempts to cause death of any public functionary; or
+
+(c) detains, kidnaps or abducts any person and threatening to kill or injure such person or does any other act in order to compel the Government of India, any State Government or the Government of a foreign country or an international or inter-governmental organisation or any other person to do or abstain from doing any act, commit a terrorist act.
+
+Explanation.—For the purpose of this sub-section,—
+
+(a) “public functionary” means the constitutional authorities or any other functionary notified in the Official Gazette by the Central Government as public functionary;
+
+(b) “counterfeit Indian currency” means the counterfeit currency as may be declared after examination by an authorised or notified forensic authority that such currency imitates or compromises with the key security features of Indian currency.
+
+(2) Whoever commits a terrorist act shall,—
+
+(a) if such offence has resulted in the death of any person, be punished with death or imprisonment for life, and shall also be liable to fine;
+
+(b) in any other case, be punished with imprisonment for a term which shall not be less than five years but which may extend to imprisonment for life, and shall also be liable to fine.
+
+(3) Whoever conspires or attempts to commit, or advocates, abets, advises or incites, directly or knowingly facilitates the commission of a terrorist act or any act preparatory to the commission of a terrorist act, shall be punished with imprisonment for a term which shall not be less than five years but which may extend to imprisonment for life, and shall also be liable to fine.
+
+(4) Whoever organises or causes to be organised any camp or camps for imparting training in terrorist act, or recruits or causes to be recruited any person or persons for commission of a terrorist act, shall be punished with imprisonment for a term which shall not be less than five years but which may extend to imprisonment for life, and shall also be liable to fine.
+
+(5) Any person who is a member of an organisation which is involved in terrorist act, shall be punished with imprisonment for a term which may extend to imprisonment for life, and shall also be liable to fine.
+
+(6) Whoever voluntarily harbours or conceals, or attempts to harbour or conceal any person knowing that such person has committed a terrorist act shall be punished with imprisonment for a term which shall not be less than three years but which may extend to imprisonment for life, and shall also be liable to fine:
+
+Provided that this sub-section shall not apply to any case in which the harbour or concealment is by the spouse of the offender.
+
+(7) Whoever knowingly possesses any property derived or obtained from commission of any terrorist act or acquired through the commission of any terrorist act shall be punished with imprisonment for a term which may extend to imprisonment for life, and shall also be liable to fine.
+
+Explanation.—For the removal of doubts, it is hereby declared that the officer not below the rank of Superintendent of Police shall decide whether to register the case under this section or under the Unlawful Activities (Prevention) Act, 1967 (37 of 1967).
+
+
+
+
+# 114. Hurt.
+
+Whoever causes bodily pain, disease or infirmity to any person is said to cause hurt.
+
+# 115. Voluntarily causing hurt.
+
+1. Whoever does any act with the intention of thereby causing hurt to any person, or with the knowledge that he is likely thereby to cause hurt to any person, and does thereby cause hurt to any person, is said “voluntarily to cause hurt”.
+2. Whoever, except in the case provided for by sub-section (1) of section 122 voluntarily causes hurt, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to ten thousand rupees, or with both.
+
+# 116. Grievous hurt.
+
+The following kinds of hurt only are designated as “grievous”, namely:
+
+- (a) Emasculation;
+- (b) Permanent privation of the sight of either eye;
+- (c) Permanent privation of the hearing of either ear;
+- (d) Privation of any member or joint;
+- (e) Destruction or permanent impairing of the powers of any member or joint;
+- (f) Permanent disfiguration of the head or face;
+- (g) Fracture or dislocation of a bone or tooth;
+- (h) Any hurt which endangers life or which causes the sufferer to be during the space of fifteen days in severe bodily pain, or unable to follow his ordinary pursuits.
+
+# 117. Voluntarily causing grievous hurt.
+
+1. Whoever voluntarily causes hurt, if the hurt which he intends to cause or knows himself to be likely to cause is grievous hurt, and if the hurt which he causes is grievous hurt, is said “voluntarily to cause grievous hurt”.
+
+Explanation.—A person is not said voluntarily to cause grievous hurt except when he both causes grievous hurt and intends or knows himself to be likely to cause grievous hurt. But he is said voluntarily to cause grievous hurt, if intending or knowing himself to be likely to cause grievous hurt of one kind, he actually causes grievous hurt of another kind.
+
+# Illustration.
+
+A, intending of knowing himself to be likely permanently to disfigure Z’s face, gives Z a blow which does not permanently disfigure Z’s face, but which causes Z to suffer severe bodily pain for the space of fifteen days. A has voluntarily caused grievous hurt.
+
+Whoever, except in the case provided for by sub-section (2) of section 122, voluntarily causes grievous hurt, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+Whoever commits an offence under sub-section (1) and in the course of such commission causes any hurt to a person which causes that person to be in permanent disability or in persistent vegetative state, shall be punished with rigorous imprisonment for a term which shall not be less than ten years but which may extend to imprisonment for life, which shall mean imprisonment for the remainder of that person’s natural life.
+When a group of five or more persons acting in concert, causes grievous hurt to a person on the ground of his race, caste or community, sex, place of birth, language, personal belief or any other similar ground, each member of such group shall be guilty of the offence of causing grievous hurt, and shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+
+# 118. Voluntarily causing hurt or grievous hurt by dangerous weapons or means.
+
+1. Whoever, except in the case provided for by sub-section (1) of section 122, voluntarily causes hurt by means of any instrument for shooting, stabbing or cutting, or any instrument which, used as a weapon of offence, is
+
+
+
+
+
+
+likely to cause death, or by means of fire or any heated substance, or by means of any poison or any corrosive substance, or by means of any explosive substance, or by means of any substance which it is deleterious to the human body to inhale, to swallow, or to receive into the blood, or by means of any animal, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine which may extend to twenty thousand rupees, or with both.
+
+(2) Whoever, except in the case provided for by sub-section (2) of section 122, voluntarily causes grievous hurt by any means referred to in sub-section (1), shall be punished with imprisonment for life, or with imprisonment of either description for a term which shall not be less than one year but which may extend to ten years, and shall also be liable to fine.
+
+# 119. Voluntarily causing hurt or grievous hurt to extort property, or to constrain to an illegal act.
+
+(1) Whoever voluntarily causes hurt for the purpose of extorting from the sufferer, or from any person interested in the sufferer, any property or valuable security, or of constraining the sufferer or any person interested in such sufferer to do anything which is illegal or which may facilitate the commission of an offence, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+
+(2) Whoever voluntarily causes grievous hurt for any purpose referred to in sub-section (1), shall be punished with imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+
+# 120. Voluntarily causing hurt or grievous hurt to extort confession, or to compel restoration of property.
+
+(1) Whoever voluntarily causes hurt for the purpose of extorting from the sufferer or from any person interested in the sufferer, any confession or any information which may lead to the detection of an offence or misconduct, or for the purpose of constraining the sufferer or any person interested in the sufferer to restore or to cause the restoration of any property or valuable security or to satisfy any claim or demand, or to give information which may lead to the restoration of any property or valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+
+Illustrations.
+
+- (a) A, a police officer, tortures Z in order to induce Z to confess that he committed a crime. A is guilty of an offence under this section.
+- (b) A, a police officer, tortures B to induce him to point out where certain stolen property is deposited. A is guilty of an offence under this section.
+- (c) A, a revenue officer, tortures Z in order to compel him to pay certain arrears of revenue due from Z. A is guilty of an offence under this section.
+
+(2) Whoever voluntarily causes grievous hurt for any purpose referred to in sub-section (1), shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+
+# 121. Voluntarily causing hurt or grievous hurt to deter public servant from his duty.
+
+(1) Whoever voluntarily causes hurt to any person being a public servant in the discharge of his duty as such public servant, or with intent to prevent or deter that person or any other public servant from discharging his duty as such public servant or in consequence of anything done or attempted to be done by that person in the lawful discharge of his duty as such public servant, shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both.
+
+(2) Whoever voluntarily causes grievous hurt to any person being a public servant in the discharge of his duty as such public servant, or with intent to prevent or deter that person or any other public servant from discharging his duty as such public servant or in consequence of anything done or attempted to be done by that person in the lawful discharge of his duty as such public servant, shall be punished with imprisonment of either description for a term which shall not be less than one year but which may extend to ten years, and shall also be liable to fine.
+
+
+
+
+
+
+# 122. Voluntarily causing hurt or grievous hurt on provocation.
+
+(1) Whoever voluntarily causes hurt on grave and sudden provocation, if he neither intends nor knows himself to be likely to cause hurt to any person other than the person who gave the provocation, shall be punished with imprisonment of either description for a term which may extend to one month, or with fine which may extend to five thousand rupees, or with both.
+
+(2) Whoever voluntarily causes grievous hurt on grave and sudden provocation, if he neither intends nor knows himself to be likely to cause grievous hurt to any person other than the person who gave the provocation, shall be punished with imprisonment of either description for a term which may extend to five years, or with fine which may extend to ten thousand rupees, or with both.
+
+Explanation.—This section is subject to the same proviso as Exception 1 of section 101.
+
+# 123. Causing hurt by means of poison, etc., with intent to commit an offence.
+
+Whoever administers to or causes to be taken by any person any poison or any stupefying, intoxicating or unwholesome drug, or other thing with intent to cause hurt to such person, or with intent to commit or to facilitate the commission of an offence or knowing it to be likely that he will thereby cause hurt, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+
+# 124. Voluntarily causing grievous hurt by use of acid, etc.
+
+(1) Whoever causes permanent or partial damage or deformity to, or burns or maims or disfigures or disables, any part or parts of the body of a person or causes grievous hurt by throwing acid on or by administering acid to that person, or by using any other means with the intention of causing or with the knowledge that he is likely to cause such injury or hurt or causes a person to be in a permanent vegetative state shall be punished with imprisonment of either description for a term which shall not be less than ten years but which may extend to imprisonment for life, and with fine:
+
+Provided that such fine shall be just and reasonable to meet the medical expenses of the treatment of the victim:
+
+Provided further that any fine imposed under this sub-section shall be paid to the victim.
+
+(2) Whoever throws or attempts to throw acid on any person or attempts to administer acid to any person, or attempts to use any other means, with the intention of causing permanent or partial damage or deformity or burns or maiming or disfigurement or disability or grievous hurt to that person, shall be punished with imprisonment of either description for a term which shall not be less than five years but which may extend to seven years, and shall also be liable to fine.
+
+Explanation 1.—For the purposes of this section, “acid” includes any substance which has acidic or corrosive character or burning nature, that is capable of causing bodily injury leading to scars or disfigurement or temporary or permanent disability.
+
+Explanation 2.—For the purposes of this section, permanent or partial damage or deformity or permanent vegetative state shall not be required to be irreversible.
+
+# 125. Act endangering life or personal safety of others.
+
+Whoever does any act so rashly or negligently as to endanger human life or the personal safety of others, shall be punished with imprisonment of either description for a term which may extend to three months or with fine which may extend to two thousand five hundred rupees, or with both, but—
+
+(a) where hurt is caused, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both;
+
+(b) where grievous hurt is caused, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine which may extend to ten thousand rupees, or with both.
+
+
+
+
+
+
+# Of wrongful restraint and wrongful confinement
+
+# 126. Wrongful restraint.
+
+(1) Whoever voluntarily obstructs any person so as to prevent that person from proceeding in any direction in which that person has a right to proceed, is said wrongfully to restrain that person.
+
+Exception.—The obstruction of a private way over land or water which a person in good faith believes himself to have a lawful right to obstruct, is not an offence within the meaning of this section.
+
+# Illustration.
+
+A obstructs a path along which Z has a right to pass, A not believing in good faith that he has a right to stop the path. Z is thereby prevented from passing. A wrongfully restrains Z.
+
+(2) Whoever wrongfully restrains any person shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to five thousand rupees, or with both.
+
+# 127. Wrongful confinement.
+
+(1) Whoever wrongfully restrains any person in such a manner as to prevent that person from proceeding beyond certain circumscribing limits, is said “wrongfully to confine” that person.
+
+# Illustrations.
+
+(a) A causes Z to go within a walled space, and locks Z in. Z is thus prevented from proceeding in any direction beyond the circumscribing line of wall. A wrongfully confines Z.
+
+(b) A places men with firearms at the outlets of a building, and tells Z that they will fire at Z if Z attempts to leave the building. A wrongfully confines Z.
+
+(2) Whoever wrongfully confines any person shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to five thousand rupees, or with both.
+
+(3) Whoever wrongfully confines any person for three days, or more, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine which may extend to ten thousand rupees, or with both.
+
+(4) Whoever wrongfully confines any person for ten days or more, shall be punished with imprisonment of either description for a term which may extend to five years, and shall also be liable to fine which shall not be less than ten thousand rupees.
+
+(5) Whoever keeps any person in wrongful confinement, knowing that a writ for the liberation of that person has been duly issued, shall be punished with imprisonment of either description for a term which may extend to two years in addition to any term of imprisonment to which he may be liable under any other section of this Chapter and shall also be liable to fine.
+
+(6) Whoever wrongfully confines any person in such manner as to indicate an intention that the confinement of such person may not be known to any person interested in the person so confined, or to any public servant, or that the place of such confinement may not be known to or discovered by any such person or public servant as hereinbefore mentioned, shall be punished with imprisonment of either description for a term which may extend to three years in addition to any other punishment to which he may be liable for such wrongful confinement and shall also be liable to fine.
+
+(7) Whoever wrongfully confines any person for the purpose of extorting from the person confined, or from any person interested in the person confined, any property or valuable security or of constraining the person confined or any person interested in such person to do anything illegal or to give any information which may facilitate the commission of an offence, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.
+
+(8) Whoever wrongfully confines any person for the purpose of extorting from the person confined or any person interested in the person confined any confession or any information which may lead to the detection of an offence or misconduct, or for the purpose of constraining the person confined or any person interested in the person confined to restore or to cause the restoration of any property or valuable.
+
+
+
+
+
+
+security or to satisfy any claim or demand, or to give information which may lead to the restoration of any property or valuable security, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.
+
+# Of criminal force and assault
+
+# 128. Force.
+
+A person is said to use force to another if he causes motion, change of motion, or cessation of motion to that other, or if he causes to any substance such motion, or change of motion, or cessation of motion as brings that substance into contact with any part of that other’s body, or with anything which that other is wearing or carrying, or with anything so situated that such contact affects that other’s sense of feeling:
+
+Provided that the person causing the motion, or change of motion, or cessation of motion, causes that motion, change of motion, or cessation of motion in one of the following three ways, namely:—
+
+- (a) by his own bodily power;
+- (b) by disposing any substance in such a manner that the motion or change or cessation of motion takes place without any further act on his part, or on the part of any other person;
+- (c) by inducing any animal to move, to change its motion, or to cease to move.
+
+# 129. Criminal force.
+
+Whoever intentionally uses force to any person, without that person’s consent, in order to the committing of any offence, or intending by the use of such force to cause, or knowing it to be likely that by the use of such force he will cause injury, fear or annoyance to the person to whom the force is used, is said to use criminal force to that other.
+
+# Illustrations.
+
+- (a) Z is sitting in a moored boat on a river. A unfastens the moorings, and thus intentionally causes the boat to drift down the stream. Here A intentionally causes motion to Z, and he does this by disposing substances in such a manner that the motion is produced without any other action on any person’s part. A has therefore intentionally used force to Z; and if he has done so without Z’s consent, in order to the committing of any offence, or intending or knowing it to be likely that this use of force will cause injury, fear or annoyance to Z, A has used criminal force to Z.
+- (b) Z is riding in a chariot. A lashes Z’s horses, and thereby causes them to quicken their pace. Here A has caused change of motion to Z by inducing the animals to change their motion. A has therefore used force to Z; and if A has done this without Z’s consent, intending or knowing it to be likely that he may thereby injure, frighten or annoy Z, A has used criminal force to Z.
+- (c) Z is riding in a palanquin. A, intending to rob Z, seizes the pole and stops the palanquin. Here A has caused cessation of motion to Z, and he has done this by his own bodily power. A has therefore used force to Z; and as A has acted thus intentionally, without Z’s consent, in order to the commission of an offence. A has used criminal force to Z.
+- (d) A intentionally pushes against Z in the street. Here A has by his own bodily power moved his own person so as to bring it into contact with Z. He has therefore intentionally used force to Z; and if he has done so without Z’s consent, intending or knowing it to be likely that he may thereby injure, frighten or annoy Z, he has used criminal force to Z.
+- (e) A throws a stone, intending or knowing it to be likely that the stone will be thus brought into contact with Z, or with Z’s clothes, or with something carried by Z, or that it will strike water and dash up the water against Z’s clothes or something carried by Z. Here, if the throwing of the stone produce the effect of causing any substance to come into contact with Z, or Z’s clothes, A has used force to Z, and if he did so without Z’s consent, intending thereby to injure, frighten or annoy Z, he has used criminal force to Z.
+- (f) A intentionally pulls up a woman’s veil. Here A intentionally uses force to her, and if he does so without her consent intending or knowing it to be likely that he may thereby injure, frighten or annoy her, he has used criminal force to her.
+
+
+
+
+
+
+(g) Z is bathing. A pours into the bath water which he knows to be boiling. Here A intentionally by his own bodily power causes such motion in the boiling water as brings that water into contact with Z, or with other water so situated that such contact must affect Z’s sense of feeling; A has therefore intentionally used force to Z; and if he has done this without Z’s consent intending or knowing it to be likely that he may thereby cause injury, fear or annoyance to Z, A has used criminal force.
+
+(h) A incites a dog to spring upon Z, without Z’s consent. Here, if A intends to cause injury, fear or annoyance to Z, he uses criminal force to Z.
+
+# 130. Assault.
+
+Whoever makes any gesture, or any preparation intending or knowing it to be likely that such gesture or preparation will cause any person present to apprehend that he who makes that gesture or preparation is about to use criminal force to that person, is said to commit an assault.
+
+Explanation.—Mere words do not amount to an assault. But the words which a person uses may give to his gestures or preparation such a meaning as may make those gestures or preparations amount to an assault.
+
+# Illustrations.
+
+(a) A shakes his fist at Z, intending or knowing it to be likely that he may thereby cause Z to believe that A is about to strike Z. A has committed an assault.
+
+(b) A begins to unloose the muzzle of a ferocious dog, intending or knowing it to be likely that he may thereby cause Z to believe that he is about to cause the dog to attack Z. A has committed an assault upon Z.
+
+(c) A takes up a stick, saying to Z, “I will give you a beating”. Here, though the words used by A could in no case amount to an assault, and though the mere gesture, unaccompanied by any other circumstances, might not amount to an assault, the gesture explained by the words may amount to an assault.
+
+# 131. Punishment for assault or criminal force otherwise than on grave provocation.
+
+Whoever assaults or uses criminal force to any person otherwise than on grave and sudden provocation given by that person, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to one thousand rupees, or with both.
+
+Explanation 1.—Grave and sudden provocation will not mitigate the punishment for an offence under this section,—
+
+- (a) if the provocation is sought or voluntarily provoked by the offender as an excuse for the offence; or
+- (b) if the provocation is given by anything done in obedience to the law, or by a public servant, in the lawful exercise of the powers of such public servant; or
+- (c) if the provocation is given by anything done in the lawful exercise of the right of private defence.
+
+Explanation 2.—Whether the provocation was grave and sudden enough to mitigate the offence, is a question of fact.
+
+# 132. Assault or criminal force to deter public servant from discharge of his duty.
+
+Whoever assaults or uses criminal force to any person being a public servant in the execution of his duty as such public servant, or with intent to prevent or deter that person from discharging his duty as such public servant, or in consequence of anything done or attempted to be done by such person in the lawful discharge of his duty as such public servant, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+
+# 133. Assault or criminal force with intent to dishonour person, otherwise than on grave provocation.
+
+Whoever assaults or uses criminal force to any person, intending thereby to dishonour that person, otherwise than on grave and sudden provocation given by that person, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+
+
+
+
+
+
+# 134. Assault or criminal force in attempt to commit theft of property carried by a person.
+
+Whoever assaults or uses criminal force to any person, in attempting to commit theft on any property which that person is then wearing or carrying, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+
+# 135. Assault or criminal force in attempt to wrongfully confine a person.
+
+Whoever assaults or uses criminal force to any person, in attempting wrongfully to confine that person, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to five thousand rupees, or with both.
+
+# 136. Assault or criminal force on grave provocation.
+
+Whoever assaults or uses criminal force to any person on grave and sudden provocation given by that person, shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to one thousand rupees, or with both.
+
+Explanation.—This section is subject to the same Explanation as section 131.
+
+# O
+
+# f kidnapping, abduction, slavery and forced labour
+
+# 137. Kidnapping.
+
+(1) Kidnapping is of two kinds: kidnapping from India, and kidnapping from lawful guardianship—
+
+- (a) whoever conveys any person beyond the limits of India without the consent of that person, or of some person legally authorised to consent on behalf of that person, is said to kidnap that person from India;
+- (b) whoever takes or entices any child or any person of unsound mind, out of the keeping of the lawful guardian of such child or person of unsound mind, without the consent of such guardian, is said to kidnap such child or person from lawful guardianship.
+
+Explanation.—The words “lawful guardian” in this clause include any person lawfully entrusted with the care or custody of such child or other person.
+
+Exception.—This clause does not extend to the act of any person who in good faith believes himself to be the father of an illegitimate child, or who in good faith believes himself to be entitled to the lawful custody of such child, unless such act is committed for an immoral or unlawful purpose.
+
+(2) Whoever kidnaps any person from India or from lawful guardianship shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+
+# 138. Abduction.
+
+Whoever by force compels, or by any deceitful means induces, any person to go from any place, is said to abduct that person.
+
+# 139. Kidnapping or maiming a child for purposes of begging.
+
+(1) Whoever kidnaps any child or, not being the lawful guardian of such child, obtains the custody of the child, in order that such child may be employed or used for the purposes of begging shall be punishable with rigorous imprisonment for a term which shall not be less than ten years but which may extend to imprisonment for life, and shall also be liable to fine.
+
+(2) Whoever maims any child in order that such child may be employed or used for the purposes of begging shall be punishable with imprisonment which shall not be less than twenty years, but which may extend to life which shall mean imprisonment for the remainder of that person’s natural life, and with fine.
+
+(3) Where any person, not being the lawful guardian of a child employs or uses such child for the purposes of begging, it shall be presumed, unless the contrary is proved, that he kidnapped or otherwise obtained the custody of such child in order that such child might be employed or used for the purposes of begging.
+
+(4) In this section “begging” means—
+
+
+
+
+
+
+(i) soliciting or receiving alms in a public place, whether under the pretence of singing, dancing, fortune telling, performing tricks or selling articles or otherwise;
+
+(ii) entering on any private premises for the purpose of soliciting or receiving alms;
+
+(iii) exposing or exhibiting, with the object of obtaining or extorting alms, any sore, wound, injury, deformity or disease, whether of himself or of any other person or of an animal;
+
+(iv) using such child as an exhibit for the purpose of soliciting or receiving alms.
+
+# 140. Kidnapping or abducting in order to murder or for ransom, etc.
+
+(1) Whoever kidnaps or abducts any person in order that such person may be murdered or may be so disposed of as to be put in danger of being murdered, shall be punished with imprisonment for life or rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.
+
+# Illustrations.
+
+(a) A kidnaps Z from India, intending or knowing it to be likely that Z may be sacrificed to an idol. A has committed the offence defined in this section.
+
+(b) A forcibly carries or entices B away from his home in order that B may be murdered. A has committed the offence defined in this section.
+
+(2) Whoever kidnaps or abducts any person or keeps a person in detention after such kidnapping or abduction, and threatens to cause death or hurt to such person, or by his conduct gives rise to a reasonable apprehension that such person may be put to death or hurt, or causes hurt or death to such person in order to compel the Government or any foreign State or international inter-governmental organisation or any other person to do or abstain from doing any act or to pay a ransom, shall be punishable with death, or imprisonment for life, and shall also be liable to fine.
+
+(3) Whoever kidnaps or abducts any person with intent to cause that person to be secretly and wrongfully confined, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+
+(4) Whoever kidnaps or abducts any person in order that such person may be subjected, or may be so disposed of as to be put in danger of being subjected to grievous hurt, or slavery, or to the unnatural lust of any person, or knowing it to be likely that such person will be so subjected or disposed of, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+
+# 141. Importation of girl or boy from foreign country.
+
+Whoever imports into India from any country outside India any girl under the age of twenty-one years or any boy under the age of eighteen years with intent that girl or boy may be, or knowing it to be likely that girl or boy will be, forced or seduced to illicit intercourse with another person, shall be punishable with imprisonment which may extend to ten years and shall also be liable to fine.
+
+# 142. Wrongfully concealing or keeping in confinement, kidnapped or abducted person.
+
+Whoever, knowing that any person has been kidnapped or has been abducted, wrongfully conceals or confines such person, shall be punished in the same manner as if he had kidnapped or abducted such person with the same intention or knowledge, or for the same purpose as that with or for which he conceals or detains such person in confinement.
+
+# 143. Trafficking of person.
+
+(1) Whoever, for the purpose of exploitation recruits, transports, harbours, transfers, or receives a person or persons, by—
+
+- (a) using threats; or
+- (b) using force, or any other form of coercion; or
+- (c) by abduction; or
+- (d) by practising fraud, or deception; or
+- (e) by abuse of power; or
+
+
+
+
+
+
+# 144. Exploitation of a trafficked person.
+
+1. Whoever, knowingly or having reason to believe that a child has been trafficked, engages such child for sexual exploitation in any manner, shall be punished with rigorous imprisonment for a term which shall not be less than five years, but which may extend to ten years, and shall also be liable to fine.
+2. Whoever, knowingly or having reason to believe that a person has been trafficked, engages such person for sexual exploitation in any manner, shall be punished with rigorous imprisonment for a term which shall not be less than three years, but which may extend to seven years, and shall also be liable to fine.
+
+# 145. Habitual dealing in slaves.
+
+Whoever habitually imports, exports, removes, buys, sells, traffics or deals in slaves, shall be punished with imprisonment for life, or with imprisonment of either description for a term not exceeding ten years, and shall also be liable to fine.
+
+# 146. Unlawful compulsory labour.
+
+Whoever unlawfully compels any person to labour against the will of that person, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.
+
+# CHAPTER VII
+
+# OF OFFENCES AGAINST THE STATE
+
+# 147. Waging, or attempting to wage war, or abetting waging of war, against Government of India.
+
+Whoever wages war against the Government of India, or attempts to wage such war, or abets the waging of such war, shall be punished with death, or imprisonment for life and shall also be liable to fine.
+
+
+
+
+
+
+# Illustration.
+
+A joins an insurrection against the Government of India. A has committed the offence defined in this section.
+
+# 148. Conspiracy to commit offences punishable by section 147.
+
+Whoever within or without and beyond India conspires to commit any of the offences punishable by section 147, or conspires to overawe, by means of criminal force or the show of criminal force, the Central Government or any State Government, shall be punished with imprisonment for life, or with imprisonment of either description which may extend to ten years, and shall also be liable to fine.
+
+Explanation.—To constitute a conspiracy under this section, it is not necessary that any act or illegal omission shall take place in pursuance thereof.
+
+# 149. Collecting arms, etc., with intention of waging war against Government of India.
+
+Whoever collects men, arms or ammunition or otherwise prepares to wage war with the intention of either waging or being prepared to wage war against the Government of India, shall be punished with imprisonment for life or imprisonment of either description for a term not exceeding ten years, and shall also be liable to fine.
+
+# 150. Concealing with intent to facilitate design to wage war.
+
+Whoever by any act, or by any illegal omission, conceals the existence of a design to wage war against the Government of India, intending by such concealment to facilitate, or knowing it to be likely that such concealment will facilitate, the waging of such war, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+
+# 151. Assaulting President, Governor, etc., with intent to compel or restrain exercise of any lawful power.
+
+Whoever, with the intention of inducing or compelling the President of India, or Governor of any State, to exercise or refrain from exercising in any manner any of the lawful powers of such President or Governor, assaults or wrongfully restrains, or attempts wrongfully to restrain, or overawes, by means of criminal force or the show of criminal force, or attempts so to overawe, such President or Governor, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+
+# 152. Act endangering sovereignty, unity and integrity of India.
+
+Whoever, purposely or knowingly, by words, either spoken or written, or by signs, or by visible representation, or by electronic communication or by use of financial mean, or otherwise, excites or attempts to excite, secession or armed rebellion or subversive activities, or encourages feelings of separatist activities or endangers sovereignty or unity and integrity of India; or indulges in or commits any such act shall be punished with imprisonment for life or with imprisonment which may extend to seven years, and shall also be liable to fine.
+
+Explanation.—Comments expressing disapprobation of the measures, or administrative or other action of the Government with a view to obtain their alteration by lawful means without exciting or attempting to excite the activities referred to in this section do not constitute an offence under this section.
+
+# 153. Waging war against Government of any foreign State at peace with Government of India.
+
+Whoever wages war against the Government of any foreign State at peace with the Government of India or attempts to wage such war, or abets the waging of such war, shall be punished with imprisonment for life, to which fine may be added, or with imprisonment of either description for a term which may extend to seven years, to which fine may be added, or with fine.
+
+# 154. Committing depredation on territories of foreign State at peace with Government of India.
+
+Whoever commits depredation, or makes preparations to commit depredation, on the territories of any foreign State at peace with the Government of India, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine and to forfeiture of any property used or intended to be used in committing such depredation, or acquired by such depredation.
+
+
+
+
+
+
+155. Receiving property taken by war or depredation mentioned in sections 153 and 154.— Whoever receives any property knowing the same to have been taken in the commission of any of the offences mentioned in sections 153 and 154, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine and to forfeiture of the property so received.
+
+156. Public servant voluntarily allowing prisoner of State or war to escape.— Whoever, being a public servant and having the custody of any State prisoner or prisoner of war, voluntarily allows such prisoner to escape from any place in which such prisoner is confined, shall be punished with imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+
+157. Public servant negligently suffering such prisoner to escape.— Whoever, being a public servant and having the custody of any State prisoner or prisoner of war, negligently suffers such prisoner to escape from any place of confinement in which such prisoner is confined, shall be punished with simple imprisonment for a term which may extend to three years, and shall also be liable to fine.
+
+158. Aiding escape of, rescuing or harbouring such prisoner.— Whoever knowingly aids or assists any State prisoner or prisoner of war in escaping from lawful custody, or rescues or attempts to rescue any such prisoner, or harbours or conceals any such prisoner who has escaped from lawful custody, or offers or attempts to offer any resistance to the recapture of such prisoner, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+
+Explanation.—A State prisoner or prisoner of war, who is permitted to be at large on his parole within certain limits in India, is said to escape from lawful custody if he goes beyond the limits within which he is allowed to be at large.
+
+# CHAPTER VIII
+
+# OF OFFENCES RELATING TO THE ARMY, NAVY AND AIR FORCE
+
+159. Abetting mutiny, or attempting to seduce a soldier, sailor or airman from his duty.— Whoever abets the committing of mutiny by an officer, soldier, sailor or airman, in the Army, Navy or Air Force of the Government of India or attempts to seduce any such officer, soldier, sailor or airman from his allegiance or his duty, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+
+160. Abetment of mutiny, if mutiny is committed in consequence thereof.— Whoever abets the committing of mutiny by an officer, soldier, sailor or airman, in the Army, Navy or Air Force of the Government of India, shall, if mutiny be committed in consequence of that abetment, be punished with death or with imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+
+161. Abetment of assault by soldier, sailor or airman on his superior officer, when in execution of his office.— Whoever abets an assault by an officer, soldier, sailor or airman, in the Army, Navy or Air Force of the Government of India, on any superior officer being in the execution of his office, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.
+
+162. Abetment of such assault, if assault committed.— Whoever abets an assault by an officer, soldier, sailor or airman, in the Army, Navy or Air Force of the Government of India, on any superior officer being in the execution of his office, shall, if such assault be committed in consequence of that abetment be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+
+163. Abetment of desertion of soldier, sailor or airman.— Whoever abets the desertion of any officer, soldier, sailor or airman, in the Army, Navy or Air Force of the Government of India, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+
+
+
+
+
+
+164. Harbouring deserter.—Whoever, except as hereinafter excepted, knowing or having reason to believe that an officer, soldier, sailor or airman, in the Army, Navy or Air Force of the Government of India, has deserted, harbours such officer, soldier, sailor or airman, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine or with both.
+
+Exception.—This provision does not extend to the case in which the harbour is given by the spouse of the deserter.
+
+165. Deserter concealed on board merchant vessel through negligence of master.—The master or person in charge of a merchant vessel, on board of which any deserter from the Army, Navy or Air Force of the Government of India is concealed, shall, though ignorant of such concealment, be liable to a penalty not exceeding three thousand rupees, if he might have known of such concealment but for some neglect of his duty as such master or person in charge, or but for some want of discipline on board of the vessel.
+
+166. Abetment of act of insubordination by soldier, sailor or airman.—Whoever abets what he knows to be an act of insubordination by an officer, soldier, sailor or airman, in the Army, Navy or Air Force, of the Government of India, shall, if such act of insubordination be committed in consequence of that abetment, be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+
+167. Persons subject to certain Acts.—No person subject to the Air Force Act, 1950 (45 of 1950), the Army Act, 1950 (46 of 1950) and the Navy Act, 1957 (62 of 1957), or shall be subject to punishment under this Sanhita for any of the offences defined in this Chapter.
+
+168. Wearing garb or carrying token used by soldier, sailor or airman.—Whoever, not being a soldier, sailor or airman in the Army, Naval or Air service of the Government of India, wears any garb or carries any token resembling any garb or token used by such a soldier, sailor or airman with the intention that it may be believed that he is such a soldier, sailor or airman, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to two thousand rupees, or with both.
+
+# CHAPTER IX
+
+# OF OFFENCES RELATING TO ELECTIONS
+
+169. Candidate, electoral right defined.—For the purposes of this Chapter—
+
+- (a) “candidate” means a person who has been nominated as a candidate at any election;
+- (b) “electoral right” means the right of a person to stand, or not to stand as, or to withdraw from being, a candidate or to vote or refrain from voting at an election.
+
+170. Bribery.—(1) Whoever—
+
+- (i) gives a gratification to any person with the object of inducing him or any other person to exercise any electoral right or of rewarding any person for having exercised any such right; or
+- (ii) accepts either for himself or for any other person any gratification as a reward for exercising any such right or for inducing or attempting to induce any other person to exercise any such right, commits the offence of bribery:
+
+Provided that a declaration of public policy or a promise of public action shall not be an offence under this section.
+
+(2) A person who offers, or agrees to give, or offers or attempts to procure, a gratification shall be deemed to give a gratification.
+
+(3) A person who obtains or agrees to accept or attempts to obtain a gratification shall be deemed to accept a gratification, and a person who accepts a gratification as a motive for doing what he does not intend to do, or as a reward for doing what he has not done, shall be deemed to have accepted the gratification as a reward.
+
+62
+
+
+
+
+
+
+# 171. Undue influence at elections.
+
+(1) Whoever voluntarily interferes or attempts to interfere with the free exercise of any electoral right commits the offence of undue influence at an election.
+
+(2) Without prejudice to the generality of the provisions of sub-section (1), whoever—
+
+- (a) threatens any candidate or voter, or any person in whom a candidate or voter is interested, with injury of any kind; or
+- (b) induces or attempts to induce a candidate or voter to believe that he or any person in whom he is interested will become or will be rendered an object of Divine displeasure or of spiritual censure,
+
+shall be deemed to interfere with the free exercise of the electoral right of such candidate or voter, within the meaning of sub-section (1).
+
+(3) A declaration of public policy or a promise of public action or the mere exercise or a legal right without intent to interfere with an electoral right, shall not be deemed to be interference within the meaning of this section.
+
+# 172. Personation at elections.
+
+Whoever at an election applies for a voting paper on votes in the name of any other person, whether living or dead, or in a fictitious name, or who having voted once at such election applies at the same election for a voting paper in his own name, and whoever abets, procures or attempts to procure the voting by any person in any such way, commits the offence of personation at an election:
+
+Provided that nothing in this section shall apply to a person who has been authorised to vote as proxy for an elector under any law for the time being in force in so far as he votes as a proxy for such elector.
+
+# 173. Punishment for bribery.
+
+Whoever commits the offence of bribery shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both:
+
+Provided that bribery by treating shall be punished with fine only.
+
+Explanation.—“Treating” means that form of bribery where the gratification consists in food, drink, entertainment, or provision.
+
+# 174. Punishment for undue influence or personation at an election.
+
+Whoever commits the offence of undue influence or personation at an election shall be punished with imprisonment of either description for a term which may extend to one year or with fine, or with both.
+
+# 175. False statement in connection with an election.
+
+Whoever with intent to affect the result of an election makes or publishes any statement purporting to be a statement of fact which is false and which he either knows or believes to be false or does not believe to be true, in relation to the personal character or conduct of any candidate shall be punished with fine.
+
+# 176. Illegal payments in connection with an election.
+
+Whoever without the general or special authority in writing of a candidate incurs or authorises expenses on account of the holding of any public meeting, or upon any advertisement, circular or publication, or in any other way whatsoever for the purpose of promoting or procuring the election of such candidate, shall be punished with fine which may extend to ten thousand rupees:
+
+Provided that if any person having incurred any such expenses not exceeding the amount of ten rupees without authority obtains within ten days from the date on which such expenses were incurred the approval in writing of the candidate, he shall be deemed to have incurred such expenses with the authority of the candidate.
+
+# 177. Failure to keep election accounts.
+
+Whoever being required by any law for the time being in force or any rule having the force of law to keep accounts of expenses incurred at or in connection with an election fails to keep such accounts shall be punished with fine which may extend to five thousand rupees.
+
+
+
+
+
+# CHAPTER X
+
+# OF OFFENCES RELATING TO COIN, CURRENCY-NOTES, BANK-NOTES, AND GOVERNMENT STAMPS
+
+# 178. Counterfeiting coin, Government stamps, currency-notes or bank-notes.
+
+Whoever counterfeits, or knowingly performs any part of the process of counterfeiting, any coin, stamp issued by Government for the purpose of revenue, currency-note or bank-note, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+
+Explanation.—For the purposes of this Chapter,—
+
+1. the expression “bank-note” means a promissory note or engagement for the payment of money to bearer on demand issued by any person carrying on the business of banking in any part of the world, or issued by or under the authority of any State or Sovereign Power, and intended to be used as equivalent to, or as a substitute for money;
+2. “coin” shall have the same meaning as assigned to it in section 2 of the Coinage Act, 2011 (11 of 2011) and includes metal used for the time being as money and is stamped and issued by or under the authority of any State or Sovereign Power intended to be so used;
+3. a person commits the offence of “counterfeiting Government stamp” who counterfeits by causing a genuine stamp of one denomination to appear like a genuine stamp of a different denomination;
+4. a person commits the offence of counterfeiting coin who intending to practise deception, or knowing it to be likely that deception will thereby be practised, causes a genuine coin to appear like a different coin; and
+5. the offence of “counterfeiting coin” includes diminishing the weight or alteration of the composition, or alteration of the appearance of the coin.
+
+# 179. Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes.
+
+Whoever imports or exports, or sells or delivers to, or buys or receives from, any other person, or otherwise traffics or uses as genuine, any forged or counterfeit coin, stamp, currency-note or bank-note, knowing or having reason to believe the same to be forged or counterfeit, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+
+# 180. Possession of forged or counterfeit coin, Government stamp, currency-notes or bank-notes.
+
+Whoever has in his possession any forged or counterfeit coin, stamp, currency-note or bank-note, knowing or having reason to believe the same to be forged or counterfeit and intending to use the same as genuine or that it may be used as genuine, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.
+
+Explanation.—If a person establishes the possession of the forged or counterfeit coin, stamp, currency-note or bank-note to be from a lawful source, it shall not constitute an offence under this section.
+
+# 181. Making or possessing instruments or materials for forging or counterfeiting coin, Government stamp, currency-notes or bank-notes.
+
+Whoever makes or mends, or performs any part of the process of making or mending, or buys or sells or disposes of, or has in his possession, any machinery, die, or instrument or material for the purpose of being used, or knowing or having reason to believe that it is intended to be used, for forging or counterfeiting any coin, stamp issued by Government for the purpose of revenue, currency-note or bank-note, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+
+# 182. Making or using documents resembling currency-notes or bank-notes.
+
+(1) Whoever makes, or causes to be made, or uses for any purpose whatsoever, or delivers to any person, any document purporting to be, or in any way resembling, or so nearly resembling as to be calculated to
+
+
+
+
+# 183. Effacing writing from substance bearing Government stamp, or removing from document a stamp used for it, with intent to cause loss to Government.
+
+Whoever, fraudulently or with intent to cause loss to the Government, removes or effaces from any substance, bearing any stamp issued by Government for the purpose of revenue, any writing or document for which such stamp has been used, or removes from any writing or document a stamp which has been used for such writing or document, in order that such stamp may be used for a different writing or document, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.
+
+# 184. Using Government stamp known to have been before used.
+
+Whoever, fraudulently or with intent to cause loss to the Government, uses for any purpose a stamp issued by Government for the purpose of revenue, which he knows to have been before used, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+
+# 185. Erasure of mark denoting that stamp has been used.
+
+Whoever, fraudulently or with intent to cause loss to Government, erases or removes from a stamp issued by Government for the purpose of revenue, any mark, put or impressed upon such stamp for the purpose of denoting that the same has been used, or knowingly has in his possession or sells or disposes of any such stamp from which such mark has been erased or removed, or sells or disposes of any such stamp which he knows to have been used, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.
+
+# 186. Prohibition of fictitious stamps.
+
+(1) Whoever—
+
+- (a) makes, knowingly utters, deals in or sells any fictitious stamp, or knowingly uses for any postal purpose any fictitious stamp; or
+- (b) has in his possession, without lawful excuse, any fictitious stamp; or
+- (c) makes or, without lawful excuse, has in his possession any die, plate, instrument or materials for making any fictitious stamp,
+
+shall be punished with fine which may extend to two hundred rupees.
+
+(2) Any such stamp, die, plate, instrument or materials in the possession of any person for making any fictitious stamp may be seized and, if seized shall be forfeited.
+
+(3) In this section “fictitious stamp” means any stamp falsely purporting to be issued by Government for the purpose of denoting a rate of postage, or any facsimile or imitation or representation, whether on paper or otherwise, of any stamp issued by Government for that purpose.
+
+(4) In this section and also in sections 178 to 181 (both inclusive), and sections 183 to 185 (both inclusive) the word “Government”, when used in connection with, or in reference to any stamp issued for the purpose of denoting a rate of postage, shall, notwithstanding anything in clause (12) of section 2, be deemed to include the person or persons authorised by law to administer executive Government in any part of India or in any foreign country.
+
+# 187. Person employed in mint causing coin to be of different weight or composition from that fixed by law.
+
+Whoever, being employed in any mint lawfully established in India, does any act, or omits what he is legally bound to do, with the intention of causing any coin issued from that mint to be of
+
+
+
+
+
+
+a different weight or composition from the weight or composition fixed by law, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+
+188. Unlawfully taking coining instrument from mint.—Whoever, without lawful authority, takes out of any mint, lawfully established in India, any coining tool or instrument, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+
+# CHAPTER XI
+
+# OF OFFENCES AGAINST THE PUBLIC TRANQUILLITY
+
+189. Unlawful assembly.—(1) An assembly of five or more persons is designated an “unlawful assembly”, if the common object of the persons composing that assembly is—
+
+- (a) to overawe by criminal force, or show of criminal force, the Central Government or any State Government or Parliament or the Legislature of any State, or any public servant in the exercise of the lawful power of such public servant; or
+- (b) to resist the execution of any law, or of any legal process; or
+- (c) to commit any mischief or criminal trespass, or other offence; or
+- (d) by means of criminal force, or show of criminal force, to any person, to take or obtain possession of any property, or to deprive any person of the enjoyment of a right of way, or of the use of water or other incorporeal right of which he is in possession or enjoyment, or to enforce any right or supposed right; or
+- (e) by means of criminal force, or show of criminal force, to compel any person to do what he is not legally bound to do, or to omit to do what he is legally entitled to do.
+
+Explanation.—An assembly which was not unlawful when it assembled, may subsequently become an unlawful assembly.
+
+(2) Whoever, being aware of facts which render any assembly an unlawful assembly, intentionally joins that assembly, or continues in it, is said to be a member of an unlawful assembly and such member shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both.
+
+(3) Whoever joins or continues in an unlawful assembly, knowing that such unlawful assembly has been commanded in the manner prescribed by law to disperse, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+
+(4) Whoever, being armed with any deadly weapon, or with anything which, used as a weapon of offence, is likely to cause death, is a member of an unlawful assembly, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+
+(5) Whoever knowingly joins or continues in any assembly of five or more persons likely to cause a disturbance of the public peace, after such assembly has been lawfully commanded to disperse, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both.
+
+Explanation.—If the assembly is an unlawful assembly within the meaning of sub-section (1), the offender shall be punishable under sub-section (3).
+
+(6) Whoever hires or engages, or employs, or promotes, or connives at the hiring, engagement or employment of any person to join or become a member of any unlawful assembly, shall be punishable as a member of such unlawful assembly, and for any offence which may be committed by any such person as a member of such unlawful assembly in pursuance of such hiring, engagement or employment, in the same manner as if he had been a member of such unlawful assembly, or himself had committed such offence.
+
+
+
+
+
+
+# 7
+
+Whoever harbours, receives or assembles, in any house or premises in his occupation or charge, or under his control any persons knowing that such persons have been hired, engaged or employed, or are about to be hired, engaged or employed, to join or become members of an unlawful assembly, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both.
+
+# 8
+
+Whoever is engaged, or hired, or offers or attempts to be hired or engaged, to do or assist in doing any of the acts specified in sub-section (1), shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both.
+
+# 9
+
+Whoever, being so engaged or hired as referred to in sub-section (8), goes armed, or engages or offers to go armed, with any deadly weapon or with anything which used as a weapon of offence is likely to cause death, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+
+# 190
+
+Every member of unlawful assembly guilty of offence committed in prosecution of common object.—If an offence is committed by any member of an unlawful assembly in prosecution of the common object of that assembly, or such as the members of that assembly knew to be likely to be committed in prosecution of that object, every person who, at the time of the committing of that offence, is a member of the same assembly, is guilty of that offence.
+
+# 191
+
+Rioting.—(1) Whenever force or violence is used by an unlawful assembly, or by any member thereof, in prosecution of the common object of such assembly, every member of such assembly is guilty of the offence of rioting.
+
+(2) Whoever is guilty of rioting, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+
+(3) Whoever is guilty of rioting, being armed with a deadly weapon or with anything which, used as a weapon of offence, is likely to cause death, shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both.
+
+# 192
+
+Wantonly giving provocation with intent to cause riot-if rioting be committed; if not committed.—Whoever malignantly, or wantonly by doing anything which is illegal, gives provocation to any person intending or knowing it to be likely that such provocation will cause the offence of rioting to be committed, shall, if the offence of rioting be committed in consequence of such provocation, be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both; and if the offence of rioting be not committed, with imprisonment of either description for a term which may extend to six months, or with fine, or with both.
+
+# 193
+
+Liability of owner, occupier, etc., of land on which an unlawful assembly or riot takes place.—(1) Whenever any unlawful assembly or riot takes place, the owner or occupier of the land upon which such unlawful assembly is held, or such riot is committed, and any person having or claiming an interest in such land, shall be punishable with fine not exceeding one thousand rupees, if he or his agent or manager, knowing that such offence is being or has been committed, or having reason to believe it is likely to be committed, do not give the earliest notice thereof in his or their power to the officer in charge at the nearest police station, and do not, in the case of his or their having reason to believe that it was about to be committed, use all lawful means in his or their power to prevent it and, in the event of its taking place, do not use all lawful means in his or their power to disperse or suppress the riot or unlawful assembly.
+
+(2) Whenever a riot is committed for the benefit or on behalf of any person who is the owner or occupier of any land respecting which such riot takes place or who claims any interest in such land, or in the subject of any dispute which gave rise to the riot, or who has accepted or derived any benefit therefrom, such person shall be punishable with fine, if he or his agent or manager, having reason to believe that such riot was likely to be committed or that the unlawful assembly by which such riot was committed was likely to be held, shall not respectively use all lawful means in his or their power to prevent such assembly or riot from taking place, and for suppressing and dispersing the same.
+
+
+
+
+
+(3) Whenever a riot is committed for the benefit or on behalf of any person who is the owner or occupier of any land respecting which such riot takes place, or who claims any interest in such land, or in the subject of any dispute which gave rise to the riot, or who has accepted or derived any benefit therefrom, the agent or manager of such person shall be punishable with fine, if such agent or manager, having reason to believe that such riot was likely to be committed, or that the unlawful assembly by which such riot was committed was likely to be held, shall not use all lawful means in his power to prevent such riot or assembly from taking place and for suppressing and dispersing the same.
+
+# 194. Affray.
+
+(1) When two or more persons, by fighting in a public place, disturb the public peace, they are said to commit an affray.
+
+(2) Whoever commits an affray, shall be punished with imprisonment of either description for a term which may extend to one month, or with fine which may extend to one thousand rupees, or with both.
+
+# 195. Assaulting or obstructing public servant when suppressing riot, etc.
+
+(1) Whoever assaults or obstructs any public servant or uses criminal force on any public servant in the discharge of his duty as such public servant in endeavouring to disperse an unlawful assembly, or to suppress a riot or affray, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine which shall not be less than twenty-five thousand rupees, or with both.
+
+(2) Whoever threatens to assault or attempts to obstruct any public servant or threatens or attempts to use criminal force to any public servant in the discharge of his duty as such public servant in endeavouring to disperse an unlawful assembly, or to suppress a riot or affray, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.
+
+# 196. Promoting enmity between different groups on grounds of religion, race, place of birth, residence, language, etc., and doing acts prejudicial to maintenance of harmony.
+
+(1) Whoever—
+
+(a) by words, either spoken or written, or by signs or by visible representations or through electronic communication or otherwise, promotes or attempts to promote, on grounds of religion, race, place of birth, residence, language, caste or community or any other ground whatsoever, disharmony or feelings of enmity, hatred or ill-will between different religious, racial, language or regional groups or castes or communities; or
+
+(b) commits any act which is prejudicial to the maintenance of harmony between different religious, racial, language or regional groups or castes or communities, and which disturbs or is likely to disturb the public tranquillity; or
+
+(c) organises any exercise, movement, drill or other similar activity intending that the participants in such activity shall use or be trained to use criminal force or violence or knowing it to be likely that the participants in such activity will use or be trained to use criminal force or violence, or participates in such activity intending to use or be trained to use criminal force or violence or knowing it to be likely that the participants in such activity will use or be trained to use criminal force or violence, against any religious, racial, language or regional group or caste or community and such activity for any reason whatsoever causes or is likely to cause fear or alarm or a feeling of insecurity amongst members of such religious, racial, language or regional group or caste or community, shall be punished with imprisonment which may extend to three years, or with fine, or with both.
+
+(2) Whoever commits an offence specified in sub-section (1) in any place of worship or in any assembly engaged in the performance of religious worship or religious ceremonies, shall be punished with imprisonment which may extend to five years and shall also be liable to fine.
+
+# 197. Imputations, assertions prejudicial to national integration.
+
+(1) Whoever, by words either spoken or written or by signs or by visible representations or through electronic communication or otherwise,—
+
+(a) makes or publishes any imputation that any class of persons cannot, by reason of their being members of any religious, racial, language or regional group or caste or community, bear true faith and allegiance to the Constitution of India as by law established or uphold the sovereignty and integrity of India; or
+
+
+
+(b) asserts, counsels, advises, propagates or publishes that any class of persons shall, by reason of their being members of any religious, racial, language or regional group or caste or community, be denied, or deprived of their rights as citizens of India; or
+
+(c) makes or publishes any assertion, counsel, plea or appeal concerning the obligation of any class of persons, by reason of their being members of any religious, racial, language or regional group or caste or community, and such assertion, counsel, plea or appeal causes or is likely to cause disharmony or feelings of enmity or hatred or ill-will between such members and other persons; or
+
+(d) makes or publishes false or misleading information, jeopardising the sovereignty, unity and integrity or security of India, shall be punished with imprisonment which may extend to three years, or with fine, or with both.
+
+(2) Whoever commits an offence specified in sub-section (1) in any place of worship or in any assembly engaged in the performance of religious worship or religious ceremonies, shall be punished with imprisonment which may extend to five years and shall also be liable to fine.
+
+# CHAPTER XII
+
+# OF OFFENCES BY OR RELATING TO PUBLIC SERVANTS
+
+# 198. Public servant disobeying law, with intent to cause injury to any person.
+
+Whoever, being a public servant, knowingly disobeys any direction of the law as to the way in which he is to conduct himself as such public servant, intending to cause, or knowing it to be likely that he will by such disobedience, cause injury to any person, shall be punished with simple imprisonment for a term which may extend to one year, or with fine, or with both.
+
+Illustration. A, being an officer directed by law to take property in execution, in order to satisfy a decree pronounced in Z’s favour by a Court, knowingly disobeys that direction of law, with the knowledge that he is likely thereby to cause injury to Z. A has committed the offence defined in this section.
+
+# 199. Public servant disobeying direction under law.
+
+Whoever, being a public servant,—
+
+(a) knowingly disobeys any direction of the law which prohibits him from requiring the attendance at any place of any person for the purpose of investigation into an offence or any other matter; or
+
+(b) knowingly disobeys, to the prejudice of any person, any other direction of the law regulating the manner in which he shall conduct such investigation; or
+
+(c) fails to record any information given to him under sub-section (1) of section 173 of the Bharatiya Nagarik Suraksha Sanhita, 2023 in relation to cognizable offence punishable under section 64, section 65, section 66, section 67, section 68, section 70, section 71, section 74, section 76, section 77, section 79, section 124, section 143 or section 144, shall be punished with rigorous imprisonment for a term which shall not be less than six months but which may extend to two years, and shall also be liable to fine.
+
+# 200. Punishment for non-treatment of victim.
+
+Whoever, being in charge of a hospital, public or private, whether run by the Central Government, the State Government, local bodies or any other person, contravenes the provisions of section 397 of the Bharatiya Nagarik Suraksha Sanhita, 2023, shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
+
+# 201. Public servant framing an incorrect document with intent to cause injury.
+
+Whoever, being a public servant, and being, as such public servant, charged with the preparation or translation of any document or electronic record, frames, prepares or translates that document or electronic record in a manner which he knows or believes to be incorrect, intending thereby to cause or knowing it to be likely that he may thereby cause injury to any person, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.
+
+
+
+
+# 202. Public servant unlawfully engaging in trade.
+
+Whoever, being a public servant, and being legally bound as such public servant not to engage in trade, engages in trade, shall be punished with simple imprisonment for a term which may extend to one year, or with fine, or with both or with community service.
+
+# 203. Public servant unlawfully buying or bidding for property.
+
+Whoever, being a public servant, and being legally bound as such public servant, not to purchase or bid for certain property, purchases or bids for that property, either in his own name or in the name of another, or jointly, or in shares with others, shall be punished with simple imprisonment for a term which may extend to two years, or with fine, or with both; and the property, if purchased, shall be confiscated.
+
+# 204. Personating a public servant.
+
+Whoever pretends to hold any particular office as a public servant, knowing that he does not hold such office or falsely personates any other person holding such office, and in such assumed character does or attempts to do any act under colour of such office, shall be punished with imprisonment of either description for a term which shall not be less than six months but which may extend to three years and with fine.
+
+# 205. Wearing garb or carrying token used by public servant with fraudulent intent.
+
+Whoever, not belonging to a certain class of public servants, wears any garb or carries any token resembling any garb or token used by that class of public servants, with the intention that it may be believed, or with the knowledge that it is likely to be believed, that he belongs to that class of public servants, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to five thousand rupees, or with both.
+
+# CHAPTER XIII
+
+# OF CONTEMPTS OF THE LAWFUL AUTHORITY OF PUBLIC SERVANTS
+
+# 206. Absconding to avoid service of summons or other proceeding.
+
+Whoever absconds in order to avoid being served with a summons, notice or order proceeding from any public servant legally competent, as such public servant, to issue such summons, notice or order,—
+
+- (a) shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to five thousand rupees, or with both;
+- (b) where such summons or notice or order is to attend in person or by agent, or to produce a document or an electronic record in a Court shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both.
+
+# 207. Preventing service of summons or other proceeding, or preventing publication thereof.
+
+Whoever in any manner intentionally prevents the serving on himself, or on any other person, of any summons, notice or order proceeding from any public servant legally competent, as such public servant, to issue such summons, notice or order, or intentionally prevents the lawful affixing to any place of any such summons, notice or order or intentionally removes any such summons, notice or order from any place to which it is lawfully affixed or intentionally prevents the lawful making of any proclamation, under the authority of any public servant legally competent, as such public servant, to direct such proclamation to be made,—
+
+- (a) shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to five thousand rupees, or with both;
+- (b) where the summons, notice, order or proclamation is to attend in person or by agent, or to produce a document or electronic record in a Court, with simple imprisonment for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both.
+
+# 208. Non-attendance in obedience to an order from public servant.
+
+Whoever, being legally bound to attend in person or by an agent at a certain place and time in obedience to a summons, notice, order, or proclamation proceeding from any public servant legally competent, as such public servant, to issue the same, intentionally omits to attend at that place or time or departs from the place where he is bound to attend before the time at which it is lawful for him to depart,—
+
+
+
+
+
+(a) shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to five thousand rupees, or with both;
+
+(b) where the summons, notice, order or proclamation is to attend in person or by agent in a Court with simple imprisonment for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both.
+
+# Illustrations.
+
+(a) A, being legally bound to appear before a High Court, in obedience to a subpoena issuing from that Court, intentionally omits to appear. A has committed the offence defined in this section.
+
+(b) A, being legally bound to appear before a District Judge, as a witness, in obedience to a summons issued by that District Judge intentionally omits to appear. A has committed the offence defined in this section.
+
+# 209. Non-appearance in response to a proclamation under section 84 of Bharatiya Nagarik Suraksha Sanhita, 2023.
+
+Whoever fails to appear at the specified place and the specified time as required by a proclamation published under sub-section (1) of section 84 of the Bharatiya Nagarik Suraksha Sanhita, 2023, shall be punished with imprisonment for a term which may extend to three years, or with fine, or with both, or with community service, and where a declaration has been made under sub-section (4) of that section pronouncing him as a proclaimed offender, he shall be punished with imprisonment for a term which may extend to seven years and shall also be liable to fine.
+
+# 210. Omission to produce document or electronic record to public servant by person legally bound to produce it.
+
+Whoever, being legally bound to produce or deliver up any document or electronic record to any public servant, as such, intentionally omits so to produce or deliver up the same,—
+
+(a) shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to five thousand rupees, or with both;
+
+(b) and where the document or electronic record is to be produced or delivered up to a Court with simple imprisonment for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both.
+
+# Illustration.
+
+A, being legally bound to produce a document before a District Court, intentionally omits to produce the same. A has committed the offence defined in this section.
+
+# 211. Omission to give notice or information to public servant by person legally bound to give it.
+
+Whoever, being legally bound to give any notice or to furnish information on any subject to any public servant, as such, intentionally omits to give such notice or to furnish such information in the manner and at the time required by law,—
+
+(a) shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to five thousand rupees, or with both;
+
+(b) where the notice or information required to be given respects the commission of an offence, or is required for the purpose of preventing the commission of an offence, or in order to the apprehension of an offender, with simple imprisonment for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both;
+
+(c) where the notice or information required to be given is required by an order passed under section 394 of the Bharatiya Nagarik Suraksha Sanhita, 2023 with imprisonment of either description for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both.
+
+# 212. Furnishing false information.
+
+Whoever, being legally bound to furnish information on any subject to any public servant, as such, furnishes, as true, information on the subject which he knows or has reason to believe to be false,—
+
+
+
+(a) shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both;
+
+(b) where the information which he is legally bound to give respects the commission of an offence, or is required for the purpose of preventing the commission of an offence, or in order to the apprehension of an offender, with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+
+# Illustrations.
+
+(a) A, a landholder, knowing of the commission of a murder within the limits of his estate, wilfully misinforms the Magistrate of the district that the death has occurred by accident in consequence of the bite of a snake. A is guilty of the offence defined in this section.
+
+(b) A, a village watchman, knowing that a considerable body of strangers has passed through his village in order to commit a dacoity in the house of Z, a wealthy merchant residing in a neighbouring place, and being legally bound to give early and punctual information of the above fact to the officer of the nearest police station, wilfully misinforms the police officer that a body of suspicious characters passed through the village with a view to commit dacoity in a certain distant place in a different direction. Here A is guilty of the offence defined in this section.
+
+Explanation.—In section 211 and in this section the word “offence” includes any act committed at any place out of India, which, if committed in India, would be punishable under any of the following sections, namely, 103, 105, 307, sub-sections (2), (3) and (4) of section 309, sub-sections (2), (3), (4) and (5) of section 310, 311, 312, clauses (f) and (g) of section 326, sub-sections (4), (6), (7) and (8) of section 331, clauses (a) and (b) of section 332 and the word “offender” includes any person who is alleged to have been guilty of any such act.
+
+# 213. Refusing oath or affirmation when duly required by public servant to make it.
+
+Whoever refuses to bind himself by an oath or affirmation to state the truth, when required so to bind himself by a public servant legally competent to require that he shall so bind himself, shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.
+
+# 214. Refusing to answer public servant authorised to question.
+
+Whoever, being legally bound to state the truth on any subject to any public servant, refuses to answer any question demanded of him touching that subject by such public servant in the exercise of the legal powers of such public servant, shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.
+
+# 215. Refusing to sign statement.
+
+Whoever refuses to sign any statement made by him, when required to sign that statement by a public servant legally competent to require that he shall sign that statement, shall be punished with simple imprisonment for a term which may extend to three months, or with fine which may extend to three thousand rupees, or with both.
+
+# 216. False statement on oath or affirmation to public servant or person authorised to administer an oath or affirmation.
+
+Whoever, being legally bound by an oath or affirmation to state the truth on any subject to any public servant or other person authorised by law to administer such oath or affirmation, makes, to such public servant or other person as aforesaid, touching that subject, any statement which is false, and which he either knows or believes to be false or does not believe to be true, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.
+
+# 217. False information, with intent to cause public servant to use his lawful power to injury of another person.
+
+Whoever gives to any public servant any information which he knows or believes to be false, intending thereby to cause, or knowing it to be likely that he will thereby cause, such public servant—
+
+(a) to do or omit anything which such public servant ought not to do or omit if the true state of facts respecting which such information is given were known by him; or
+
+
+
+
+(b) to use the lawful power of such public servant to the injury or annoyance of any person, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to ten thousand rupees, or with both.
+
+# Illustrations.
+
+- (a) A informs a Magistrate that Z, a police officer, subordinate to such Magistrate, has been guilty of neglect of duty or misconduct, knowing such information to be false, and knowing it to be likely that the information will cause the Magistrate to dismiss Z. A has committed the offence defined in this section.
+- (b) A falsely informs a public servant that Z has contraband salt in a secret place, knowing such information to be false, and knowing that it is likely that the consequence of the information will be a search of Z’s premises, attended with annoyance to Z. A has committed the offence defined in this section.
+- (c) A falsely informs a policeman that he has been assaulted and robbed in the neighbourhood of a particular village. He does not mention the name of any person as one of his assailants, but knows it to be likely that in consequence of this information the police will make enquiries and institute searches in the village to the annoyance of the villagers or some of them. A has committed an offence under this section.
+
+# 218. Resistance to taking of property by lawful authority of a public servant.
+
+Whoever offers any resistance to the taking of any property by the lawful authority of any public servant, knowing or having reason to believe that he is such public servant, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both.
+
+# 219. Obstructing sale of property offered for sale by authority of public servant.
+
+Whoever intentionally obstructs any sale of property offered for sale by the lawful authority of any public servant, as such, shall be punished with imprisonment of either description for a term which may extend to one month, or with fine which may extend to five thousand rupees, or with both.
+
+# 220. Illegal purchase or bid for property offered for sale by authority of public servant.
+
+Whoever, at any sale of property held by the lawful authority of a public servant, as such, purchases or bids for any property on account of any person, whether himself or any other, whom he knows to be under a legal incapacity to purchase that property at that sale, or bids for such property not intending to perform the obligations under which he lays himself by such bidding, shall be punished with imprisonment of either description for a term which may extend to one month, or with fine which may extend to two hundred rupees, or with both.
+
+# 221. Obstructing public servant in discharge of public functions.
+
+Whoever voluntarily obstructs any public servant in the discharge of his public functions, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to two thousand and five hundred rupees, or with both.
+
+# 222. Omission to assist public servant when bound by law to give assistance.
+
+Whoever, being bound by law to render or furnish assistance to any public servant in the execution of his public duty, intentionally omits to give such assistance,
+
+- (a) shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to two thousand and five hundred rupees, or with both;
+- (b) and where such assistance be demanded of him by a public servant legally competent to make such demand for the purposes of executing any process lawfully issued by a Court or of preventing the commission of an offence, or suppressing a riot, or affray, or of apprehending a person charged with or guilty of an offence, or of having escaped from lawful custody, shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.
+
+
+
+
+
+
+223. Disobedience to order duly promulgated by public servant.—Whoever, knowing that, by an order promulgated by a public servant lawfully empowered to promulgate such order, he is directed to abstain from a certain act, or to take certain order with certain property in his possession or under his management, disobeys such direction,—
+
+- (a) shall, if such disobedience causes or tends to cause obstruction, annoyance or injury, or risk of obstruction, annoyance or injury, to any person lawfully employed, be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to two thousand and five hundred rupees, or with both;
+- (b) and where such disobedience causes or tends to cause danger to human life, health or safety, or causes or tends to cause a riot or affray, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to five thousand rupees, or with both.
+
+Explanation.—It is not necessary that the offender should intend to produce harm, or contemplate his disobedience as likely to produce harm. It is sufficient that he knows of the order which he disobeys, and that his disobedience produces, or is likely to produce, harm.
+
+Illustration. An order is promulgated by a public servant lawfully empowered to promulgate such order, directing that a religious procession shall not pass down a certain street. A knowingly disobeys the order, and thereby causes danger of riot. A has committed the offence defined in this section.
+
+224. Threat of injury to public servant.—Whoever holds out any threat of injury to any public servant, or to any person in whom he believes that public servant to be interested, for the purpose of inducing that public servant to do any act, or to forbear or delay to do any act, connected with the exercise of the public functions of such public servant, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+
+225. Threat of injury to induce person to refrain from applying for protection to public servant.—Whoever holds out any threat of injury to any person for the purpose of inducing that person to refrain or desist from making a legal application for protection against any injury to any public servant legally empowered as such to give such protection, or to cause such protection to be given, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.
+
+226. Attempt to commit suicide to compel or restrain exercise of lawful power.—Whoever attempts to commit suicide with the intent to compel or restrain any public servant from discharging his official duty shall be punished with simple imprisonment for a term which may extend to one year, or with fine, or with both, or with community service.
+
+# CHAPTER XIV
+
+# OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+
+227. Giving false evidence.—Whoever, being legally bound by an oath or by an express provision of law to state the truth, or being bound by law to make a declaration upon any subject, makes any statement which is false, and which he either knows or believes to be false or does not believe to be true, is said to give false evidence.
+
+Explanation 1.—A statement is within the meaning of this section, whether it is made verbally or otherwise.
+
+Explanation 2.—A false statement as to the belief of the person attesting is within the meaning of this section, and a person may be guilty of giving false evidence by stating that he believes a thing which he does not believe, as well as by stating that he knows a thing which he does not know.
+
+Illustrations.
+
+
+
+
+
+
+# 228. Fabricating false evidence.
+
+Whoever causes any circumstance to exist or makes any false entry in any book or record, or electronic record or makes any document or electronic record containing a false statement, intending that such circumstance, false entry or false statement may appear in evidence in a judicial proceeding, or in a proceeding taken by law before a public servant as such, or before an arbitrator, and that such circumstance, false entry or false statement, so appearing in evidence, may cause any person who in such proceeding is to form an opinion upon the evidence, to entertain an erroneous opinion touching any point material to the result of such proceeding is said “to fabricate false evidence”.
+
+# Illustrations.
+
+- (a) A puts jewels into a box belonging to Z, with the intention that they may be found in that box, and that this circumstance may cause Z to be convicted of theft. A has fabricated false evidence.
+- (b) A makes a false entry in his shop-book for the purpose of using it as corroborative evidence in a Court. A has fabricated false evidence.
+- (c) A, with the intention of causing Z to be convicted of a criminal conspiracy, writes a letter in imitation of Z’s handwriting, purporting to be addressed to an accomplice in such criminal conspiracy, and puts the letter in a place which he knows that the officers of the police are likely to search. A has fabricated false evidence.
+
+# 229. Punishment for false evidence.
+
+1. Whoever intentionally gives false evidence in any stage of a judicial proceeding, or fabricates false evidence for the purpose of being used in any stage of a judicial proceeding, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine which may extend to ten thousand rupees.
+2. Whoever intentionally gives or fabricates false evidence in any case other than that referred to in sub-section (1), shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine which may extend to five thousand rupees.
+
+Explanation 1.—A trial before a Court-martial is a judicial proceeding.
+
+Explanation 2.—An investigation directed by law preliminary to a proceeding before a Court, is a stage of a judicial proceeding, though that investigation may not take place before a Court.
+
+# Illustration.
+
+A, in an enquiry before a Magistrate for the purpose of ascertaining whether Z ought to be committed for trial, makes on oath a statement which he knows to be false. As this enquiry is a stage of a judicial proceeding, A has given false evidence.
+
+
+
+
+
+
+Explanation 3.—An investigation directed by a Court according to law, and conducted under the authority of a Court, is a stage of a judicial proceeding, though that investigation may not take place before a Court.
+
+# Illustration.
+
+A, in an enquiry before an officer deputed by a Court to ascertain on the spot the boundaries of land, makes on oath a statement which he knows to be false. As this enquiry is a stage of a judicial proceeding, A has given false evidence.
+
+# 230. Giving or fabricating false evidence with intent to procure conviction of capital offence.
+
+(1) Whoever gives or fabricates false evidence, intending thereby to cause, or knowing it to be likely that he will thereby cause, any person to be convicted of an offence which is capital by the law for the time being in force in India shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine which may extend to fifty thousand rupees.
+
+(2) If an innocent person be convicted and executed in consequence of false evidence referred to in sub-section (1), the person who gives such false evidence shall be punished either with death or the punishment specified in sub-section (1).
+
+# 231. Giving or fabricating false evidence with intent to procure conviction of offence punishable with imprisonment for life or imprisonment.
+
+Whoever gives or fabricates false evidence intending thereby to cause, or knowing it to be likely that he will thereby cause, any person to be convicted of an offence which by the law for the time being in force in India is not capital, but punishable with imprisonment for life, or imprisonment for a term of seven years or upwards, shall be punished as a person convicted of that offence would be liable to be punished.
+
+# Illustration.
+
+A gives false evidence before a Court, intending thereby to cause Z to be convicted of a dacoity. The punishment of dacoity is imprisonment for life, or rigorous imprisonment for a term which may extend to ten years, with or without fine. A, therefore, is liable to imprisonment for life or imprisonment, with or without fine.
+
+# 232. Threatening any person to give false evidence.
+
+(1) Whoever threatens another with any injury to his person, reputation or property or to the person or reputation of any one in whom that person is interested, with intent to cause that person to give false evidence shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.
+
+(2) If innocent person is convicted and sentenced in consequence of false evidence referred to in sub-section (1), with death or imprisonment for more than seven years, the person who threatens shall be punished with the same punishment and sentence in the same manner and to the same extent such innocent person is punished and sentenced.
+
+# 233. Using evidence known to be false.
+
+Whoever corruptly uses or attempts to use as true or genuine evidence any evidence which he knows to be false or fabricated, shall be punished in the same manner as if he gave or fabricated false evidence.
+
+# 234. Issuing or signing false certificate.
+
+Whoever issues or signs any certificate required by law to be given or signed, or relating to any fact of which such certificate is by law admissible in evidence, knowing or believing that such certificate is false in any material point, shall be punished in the same manner as if he gave false evidence.
+
+# 235. Using as true a certificate known to be false.
+
+Whoever corruptly uses or attempts to use any such certificate as a true certificate, knowing the same to be false in any material point, shall be punished in the same manner as if he gave false evidence.
+
+# 236. False statement made in declaration which is by law receivable as evidence.
+
+Whoever, in any declaration made or subscribed by him, which declaration any Court or any public servant or other
+
+
+
+
+
+
+# 237. Using as true such declaration knowing it to be false.
+
+Whoever corruptly uses or attempts to use as true any such declaration, knowing the same to be false in any material point, shall be punished in the same manner as if he gave false evidence.
+
+Explanation.—A declaration which is inadmissible merely upon the ground of some informality, is a declaration within the meaning of section 236 and this section.
+
+# 238. Causing disappearance of evidence of offence, or giving false information to screen offender.
+
+Whoever, knowing or having reason to believe that an offence has been committed, causes any evidence of the commission of that offence to disappear, with the intention of screening the offender from legal punishment, or with that intention gives any information respecting the offence which he knows or believes to be false shall,—
+
+- (a) if the offence which he knows or believes to have been committed is punishable with death, be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine;
+- (b) if the offence is punishable with imprisonment for life, or with imprisonment which may extend to ten years, be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine;
+- (c) if the offence is punishable with imprisonment for any term not extending to ten years, be punished with imprisonment of the description provided for the offence, for a term which may extend to one-fourth part of the longest term of the imprisonment provided for the offence, or with fine, or with both.
+
+Illustration. A, knowing that B has murdered Z, assists B to hide the body with the intention of screening B from punishment. A is liable to imprisonment of either description for seven years, and also to fine.
+
+# 239. Intentional omission to give information of offence by person bound to inform.
+
+Whoever, knowing or having reason to believe that an offence has been committed, intentionally omits to give any information respecting that offence which he is legally bound to give, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.
+
+# 240. Giving false information respecting an offence committed.
+
+Whoever, knowing or having reason to believe that an offence has been committed, gives any information respecting that offence which he knows or believes to be false, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+
+Explanation.—In sections 238 and 239 and in this section the word “offence” includes any act committed at any place out of India, which, if committed in India, would be punishable under any of the following sections, namely, 103, 105, 307, sub-sections (2), (3) and (4) of section 309, sub-sections (2), (3), (4) and (5) of section 310, 311, 312, clauses (f) and (g) of section 326, sub-sections (4), (6), (7) and (8) of section 331, clauses (a) and (b) of section 332.
+
+# 241. Destruction of document or electronic record to prevent its production as evidence.
+
+Whoever secretes or destroys any document or electronic record which he may be lawfully compelled to produce as evidence in a Court or in any proceeding lawfully held before a public servant, as such, or obliterates or renders illegible the whole or any part of such document or electronic record with the intention of preventing the same from being produced or used as evidence before such Court or public servant as aforesaid, or after he shall have been lawfully summoned or required to produce the same for that purpose, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine which may extend to five thousand rupees, or with both.
+
+
+
+
+
+242. False personation for purpose of act or proceeding in suit or prosecution.—Whoever falsely personates another, and in such assumed character makes any admission or statement, or confesses judgment, or causes any process to be issued or becomes bail or security, or does any other act in any suit or criminal prosecution, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.
+
+243. Fraudulent removal or concealment of property to prevent its seizure as forfeited or in execution.—Whoever fraudulently removes, conceals, transfers or delivers to any person any property or any interest therein, intending thereby to prevent that property or interest therein from being taken as a forfeiture or in satisfaction of a fine, under a sentence which has been pronounced, or which he knows to be likely to be pronounced, by a Court or other competent authority, or from being taken in execution of a decree or order which has been made, or which he knows to be likely to be made by a Court in a civil suit, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine which may extend to five thousand rupees, or with both.
+
+244. Fraudulent claim to property to prevent its seizure as forfeited or in execution.—Whoever fraudulently accepts, receives or claims any property or any interest therein, knowing that he has no right or rightful claim to such property or interest, or practises any deception touching any right to any property or any interest therein, intending thereby to prevent that property or interest therein from being taken as a forfeiture or in satisfaction of a fine, under a sentence which has been pronounced, or which he knows to be likely to be pronounced by a Court or other competent authority, or from being taken in execution of a decree or order which has been made, or which he knows to be likely to be made by a Court in a civil suit, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+
+245. Fraudulently suffering decree for sum not due.—Whoever fraudulently causes or suffers a decree or order to be passed against him at the suit of any person for a sum not due or for a larger sum than is due to such person or for any property or interest in property to which such person is not entitled, or fraudulently causes or suffers a decree or order to be executed against him after it has been satisfied, or for anything in respect of which it has been satisfied, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+
+Illustration.
+
+A institutes a suit against Z. Z, knowing that A is likely to obtain a decree against him, fraudulently suffers a judgment to pass against him for a larger amount at the suit of B, who has no just claim against him, in order that B, either on his own account or for the benefit of Z, may share in the proceeds of any sale of Z’s property which may be made under A’s decree. Z has committed an offence under this section.
+
+246. Dishonestly making false claim in Court.—Whoever fraudulently or dishonestly, or with intent to injure or annoy any person, makes in a Court any claim which he knows to be false, shall be punished with imprisonment of either description for a term which may extend to two years, and shall also be liable to fine.
+
+247. Fraudulently obtaining decree for sum not due.—Whoever fraudulently obtains a decree or order against any person for a sum not due, or for a larger sum than is due or for any property or interest in property to which he is not entitled, or fraudulently causes a decree or order to be executed against any person after it has been satisfied or for anything in respect of which it has been satisfied, or fraudulently suffers or permits any such act to be done in his name, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+
+248. False charge of offence made with intent to injure.—Whoever, with intent to cause injury to any person, institutes or causes to be instituted any criminal proceeding against that person, or falsely charges any person with having committed an offence, knowing that there is no just or lawful ground for such proceeding or charge against that person,—
+
+(a) shall be punished with imprisonment of either description for a term which may extend to five years, or with fine which may extend to two lakh rupees, or with both;
+
+
+
+
+# 249. Harbouring offender.
+
+Whenever an offence has been committed, whoever harbours or conceals a person whom he knows or has reason to believe to be the offender, with the intention of screening him from legal punishment shall,—
+
+- (a) if the offence is punishable with death, be punished with imprisonment of either description for a term which may extend to five years, and shall also be liable to fine;
+- (b) if the offence is punishable with imprisonment for life, or with imprisonment which may extend to ten years, be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine;
+- (c) if the offence is punishable with imprisonment which may extend to one year, and not to ten years, be punished with imprisonment of the description provided for the offence for a term which may extend to one-fourth part of the longest term of imprisonment provided for the offence, or with fine, or with both.
+
+Explanation.— “Offence” in this section includes any act committed at any place out of India, which, if committed in India, would be punishable under any of the following sections, namely, 103, 105, 307, sub-sections (2), (3) and (4) of section 309, sub-sections (2), (3), (4) and (5) of section 310, 311, 312, clauses (f) and (g) of section 326, sub-sections (4), (6), (7) and (8) of section 331, clauses (a) and (b) of section 332 and every such act shall, for the purposes of this section, be deemed to be punishable as if the accused person had been guilty of it in India.
+
+Exception.—This section shall not extend to any case in which the harbour or concealment is by the spouse of the offender.
+
+# Illustration.
+
+A, knowing that B has committed dacoity, knowingly conceals B in order to screen him from legal punishment. Here, as B is liable to imprisonment for life, A is liable to imprisonment of either description for a term not exceeding three years, and is also liable to fine.
+
+# 250. Taking gift, etc., to screen an offender from punishment.
+
+Whoever accepts or attempts to obtain, or agrees to accept, any gratification for himself or any other person, or any restitution of property to himself or any other person, in consideration of his concealing an offence or of his screening any person from legal punishment for any offence, or of his not proceeding against any person for the purpose of bringing him to legal punishment shall,—
+
+- (a) if the offence is punishable with death, be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine;
+- (b) if the offence is punishable with imprisonment for life, or with imprisonment which may extend to ten years, be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine;
+- (c) if the offence is punishable with imprisonment not extending to ten years, be punished with imprisonment of the description provided for the offence for a term which may extend to one-fourth part of the longest term of imprisonment provided for the offence, or with fine, or with both.
+
+# 251. Offering gift or restoration of property in consideration of screening offender.
+
+Whoever gives or causes, or offers or agrees to give or cause, any gratification to any person, or restores or causes the restoration of any property to any person, in consideration of that person’s concealing an offence, or of his screening any person from legal punishment for any offence, or of his not proceeding against any person for the purpose of bringing him to legal punishment shall,—
+
+- (a) if the offence is punishable with death, be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine;
+
+
+
+
+
+
+(b) if the offence is punishable with imprisonment for life or with imprisonment which may extend to ten years, be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine;
+
+(c) if the offence is punishable with imprisonment not extending to ten years, be punished with imprisonment of the description provided for the offence for a term which may extend to one-fourth part of the longest term of imprisonment provided for the offence, or with fine, or with both.
+
+Exception.—The provisions of this section and section 250 do not extend to any case in which the offence may lawfully be compounded.
+
+# 252. Taking gift to help to recover stolen property, etc.
+
+Whoever takes or agrees or consents to take any gratification under pretence or on account of helping any person to recover any movable property of which he shall have been deprived by any offence punishable under this Sanhita, shall, unless he uses all means in his power to cause the offender to be apprehended and convicted of the offence, be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+
+# 253. Harbouring offender who has escaped from custody or whose apprehension has been ordered.
+
+Whenever any person convicted of or charged with an offence, being in lawful custody for that offence, escapes from such custody, or whenever a public servant, in the exercise of the lawful powers of such public servant, orders a certain person to be apprehended for an offence, whoever, knowing of such escape or order for apprehension, harbours or conceals that person with the intention of preventing him from being apprehended, shall be punished in the manner following, namely:—
+
+(a) if the offence for which the person was in custody or is ordered to be apprehended is punishable with death, he shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine;
+
+(b) if the offence is punishable with imprisonment for life or imprisonment for ten years, he shall be punished with imprisonment of either description for a term which may extend to three years, with or without fine;
+
+(c) if the offence is punishable with imprisonment which may extend to one year and not to ten years, he shall be punished with imprisonment of the description provided for the offence for a term which may extend to one-fourth part of the longest term of the imprisonment provided for such offence, or with fine, or with both.
+
+Explanation.—“Offence” in this section includes also any act or omission of which a person is alleged to have been guilty out of India, which, if he had been guilty of it in India, would have been punishable as an offence, and for which he is, under any law relating to extradition, or otherwise, liable to be apprehended or detained in custody in India, and every such act or omission shall, for the purposes of this section, be deemed to be punishable as if the accused person had been guilty of it in India.
+
+Exception.—The provisions of this section do not extend to the case in which the harbour or concealment is by the spouse of the person to be apprehended.
+
+# 254. Penalty for harbouring robbers or dacoits.
+
+Whoever, knowing or having reason to believe that any persons are about to commit or have recently committed robbery or dacoity, harbours them or any of them, with the intention of facilitating the commission of such robbery or dacoity, or of screening them or any of them from punishment, shall be punished with rigorous imprisonment for a term which may extend to seven years, and shall also be liable to fine.
+
+Explanation.—For the purposes of this section it is immaterial whether the robbery or dacoity is intended to be committed, or has been committed, within or without India.
+
+Exception.—The provisions of this section do not extend to the case in which the harbour is by the spouse of the offender.
+
+# 255. Public servant disobeying direction of law with intent to save person from punishment or property from forfeiture.
+
+Whoever, being a public servant, knowingly disobeys any direction of the law as to the way in which he is to conduct himself as such public servant, intending thereby to save, or
+
+
+
+
+
+
+knowing it to be likely that he will thereby save, any person from legal punishment, or subject him to a less punishment than that to which he is liable, or with intent to save, or knowing that he is likely thereby to save, any property from forfeiture or any charge to which it is liable by law, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+
+# 256. Public servant framing incorrect record or writing with intent to save person from punishment or property from forfeiture.
+
+Whoever, being a public servant, and being as such public servant, charged with the preparation of any record or other writing, frames that record or writing in a manner which he knows to be incorrect, with intent to cause, or knowing it to be likely that he will thereby cause, loss or injury to the public or to any person, or with intent thereby to save, or knowing it to be likely that he will thereby save, any person from legal punishment, or with intent to save, or knowing that he is likely thereby to save, any property from forfeiture or other charge to which it is liable by law, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.
+
+# 257. Public servant in judicial proceeding corruptly making report, etc., contrary to law.
+
+Whoever, being a public servant, corruptly or maliciously makes or pronounces in any stage of a judicial proceeding, any report, order, verdict, or decision which he knows to be contrary to law, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.
+
+# 258. Commitment for trial or confinement by person having authority who knows that he is acting contrary to law.
+
+Whoever, being in any office which gives him legal authority to commit persons for trial or to confinement, or to keep persons in confinement, corruptly or maliciously commits any person for trial or to confinement, or keeps any person in confinement, in the exercise of that authority knowing that in so doing he is acting contrary to law, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.
+
+# 259. Intentional omission to apprehend on part of public servant bound to apprehend.
+
+Whoever, being a public servant, legally bound as such public servant to apprehend or to keep in confinement any person charged with or liable to be apprehended for an offence, intentionally omits to apprehend such person, or intentionally suffers such person to escape, or intentionally aids such person in escaping or attempting to escape from such confinement, shall be punished,
+
+- (a) with imprisonment of either description for a term which may extend to seven years, with or without fine, if the person in confinement, or who ought to have been apprehended, was charged with, or liable to be apprehended for, an offence punishable with death; or
+- (b) with imprisonment of either description for a term which may extend to three years, with or without fine, if the person in confinement, or who ought to have been apprehended, was charged with, or liable to be apprehended for, an offence punishable with imprisonment for life or imprisonment for a term which may extend to ten years; or
+- (c) with imprisonment of either description for a term which may extend to two years, with or without fine, if the person in confinement, or who ought to have been apprehended, was charged with, or liable to be apprehended for, an offence punishable with imprisonment for a term less than ten years.
+
+# 260. Intentional omission to apprehend on part of public servant bound to apprehend person under sentence or lawfully committed.
+
+Whoever, being a public servant, legally bound as such public servant to apprehend or to keep in confinement any person under sentence of a Court for any offence or lawfully committed to custody, intentionally omits to apprehend such person, or intentionally suffers such person to escape or intentionally aids such person in escaping or attempting to escape from such confinement, shall be punished,
+
+- (a) with imprisonment for life or with imprisonment of either description for a term which may extend to fourteen years, with or without fine, if the person in confinement, or who ought to have been apprehended, is under sentence of death; or
+
+
+
+
+
+(b) with imprisonment of either description for a term which may extend to seven years, with or without fine, if the person in confinement or who ought to have been apprehended, is subject, by a sentence of a Court, or by virtue of a commutation of such sentence, to imprisonment for life or imprisonment for a term of ten years, or upwards; or
+
+(c) with imprisonment of either description for a term which may extend to three years, or with fine, or with both, if the person in confinement or who ought to have been apprehended, is subject by a sentence of a Court to imprisonment for a term not extending to ten years or if the person was lawfully committed to custody.
+
+# 261. Escape from confinement or custody negligently suffered by public servant.
+
+Whoever, being a public servant legally bound as such public servant to keep in confinement any person charged with or convicted of any offence or lawfully committed to custody, negligently suffers such person to escape from confinement, shall be punished with simple imprisonment for a term which may extend to two years, or with fine, or with both.
+
+# 262. Resistance or obstruction by a person to his lawful apprehension.
+
+Whoever intentionally offers any resistance or illegal obstruction to the lawful apprehension of himself for any offence with which he is charged or of which he has been convicted, or escapes or attempts to escape from any custody in which he is lawfully detained for any such offence, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+
+Explanation.—The punishment in this section is in addition to the punishment for which the person to be apprehended or detained in custody was liable for the offence with which he was charged, or of which he was convicted.
+
+# 263. Resistance or obstruction to lawful apprehension of another person.
+
+Whoever intentionally offers any resistance or illegal obstruction to the lawful apprehension of any other person for an offence, or rescues or attempts to rescue any other person from any custody in which that person is lawfully detained for an offence,—
+
+(a) shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both; or
+
+(b) if the person to be apprehended, or the person rescued or attempted to be rescued, is charged with or liable to be apprehended for an offence punishable with imprisonment for life or imprisonment for a term which may extend to ten years, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine; or
+
+(c) if the person to be apprehended or rescued, or attempted to be rescued, is charged with or liable to be apprehended for an offence punishable with death, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine; or
+
+(d) if the person to be apprehended or rescued, or attempted to be rescued, is liable under the sentence of a Court or by virtue of a commutation of such a sentence, to imprisonment for life, or imprisonment for a term of ten years or upwards, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine; or
+
+(e) if the person to be apprehended or rescued, or attempted to be rescued, is under sentence of death, shall be punished with imprisonment for life or imprisonment of either description for a term not exceeding ten years, and shall also be liable to fine.
+
+# 264. Omission to apprehend, or sufferance of escape, on part of public servant, in cases not otherwise provided for.
+
+Whoever, being a public servant legally bound as such public servant to apprehend, or to keep in confinement, any person in any case not provided for in section 259, section 260 or section 261, or in any other law for the time being in force, omits to apprehend that person or suffers him to escape from confinement, shall be punished—
+
+(a) if he does so intentionally, with imprisonment of either description for a term which may extend to three years, or with fine, or with both;
+
+
+
+
+(b) if he does so negligently, with simple imprisonment for a term which may extend to two years, or with fine, or with both.
+
+265. Resistance or obstruction to lawful apprehension or escape or rescue in cases not otherwise provided for.—Whoever, in any case not provided for in section 262 or section 263 or in any other law for the time being in force, intentionally offers any resistance or illegal obstruction to the lawful apprehension of himself or of any other person, or escapes or attempts to escape from any custody in which he is lawfully detained, or rescues or attempts to rescue any other person from any custody in which that person is lawfully detained, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both.
+
+266. Violation of condition of remission of punishment.—Whoever, having accepted any conditional remission of punishment, knowingly violates any condition on which such remission was granted, shall be punished with the punishment to which he was originally sentenced, if he has already suffered no part of that punishment, and if he has suffered any part of that punishment, then with so much of that punishment as he has not already suffered.
+
+267. Intentional insult or interruption to public servant sitting in judicial proceeding.—Whoever, intentionally offers any insult, or causes any interruption to any public servant, while such public servant is sitting in any stage of a judicial proceeding, shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.
+
+268. Personation of assessor.—Whoever, by personation or otherwise, shall intentionally cause, or knowingly suffer himself to be returned, empanelled or sworn as an assessor in any case in which he knows that he is not entitled by law to be so returned, empanelled or sworn, or knowing himself to have been so returned, empanelled or sworn contrary to law, shall voluntarily serve as such assessor, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+
+269. Failure by person released on bail bond or bond to appear in Court.—Whoever, having been charged with an offence and released on bail bond or on bond, fails without sufficient cause (the burden of proving which shall lie upon him), to appear in Court in accordance with the terms of the bail or bond, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.
+
+Explanation.—The punishment under this section is—
+
+- (a) in addition to the punishment to which the offender would be liable on a conviction for the offence with which he has been charged; and
+- (b) without prejudice to the power of the Court to order forfeiture of the bond.
+
+# CHAPTER XV
+
+# OF OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY, CONVENIENCE, DECENCY AND MORALS
+
+270. Public nuisance.—A person is guilty of a public nuisance who does any act or is guilty of an illegal omission which causes any common injury, danger or annoyance to the public or to the people in general who dwell or occupy property in the vicinity, or which must necessarily cause injury, obstruction, danger or annoyance to persons who may have occasion to use any public right but a common nuisance is not excused on the ground that it causes some convenience or advantage.
+
+271. Negligent act likely to spread infection of disease dangerous to life.—Whoever unlawfully or negligently does any act which is, and which he knows or has reason to believe to be, likely to spread the infection of any disease dangerous to life, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both.
+
+272. Malignant act likely to spread infection of disease dangerous to life.—Whoever malignantly does any act which is, and which he knows or has reason to believe to be, likely to spread the infection of
+
+
+
+
+
+
+# 273. Disobedience to quarantine rule.
+
+Whoever knowingly disobeys any rule made by the Government for putting any mode of transport into a state of quarantine, or for regulating the intercourse of any such transport in a state of quarantine or for regulating the intercourse between places where an infectious disease prevails and other places, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both.
+
+# 274. Adulteration of food or drink intended for sale.
+
+Whoever adulterates any article of food or drink, so as to make such article noxious as food or drink, intending to sell such article as food or drink, or knowing it to be likely that the same will be sold as food or drink, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.
+
+# 275. Sale of noxious food or drink.
+
+Whoever sells, or offers or exposes for sale, as food or drink, any article which has been rendered or has become noxious, or is in a state unfit for food or drink, knowing or having reason to believe that the same is noxious as food or drink, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.
+
+# 276. Adulteration of drugs.
+
+Whoever adulterates any drug or medical preparation in such a manner as to lessen the efficacy or change the operation of such drug or medical preparation, or to make it noxious, intending that it shall be sold or used for, or knowing it to be likely that it will be sold or used for, any medicinal purpose, as if it had not undergone such adulteration, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to five thousand rupees, or with both.
+
+# 277. Sale of adulterated drugs.
+
+Whoever, knowing any drug or medical preparation to have been adulterated in such a manner as to lessen its efficacy, to change its operation, or to render it noxious, sells the same, or offers or exposes it for sale, or issues it from any dispensary for medicinal purposes as unadulterated, or causes it to be used for medicinal purposes by any person not knowing of the adulteration, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.
+
+# 278. Sale of drug as a different drug or preparation.
+
+Whoever knowingly sells, or offers or exposes for sale, or issues from a dispensary for medicinal purposes, any drug or medical preparation, as a different drug or medical preparation, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.
+
+# 279. Fouling water of public spring or reservoir.
+
+Whoever voluntarily corrupts or fouls the water of any public spring or reservoir, so as to render it less fit for the purpose for which it is ordinarily used, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.
+
+# 280. Making atmosphere noxious to health.
+
+Whoever voluntarily vitiates the atmosphere in any place so as to make it noxious to the health of persons in general dwelling or carrying on business in the neighbourhood or passing along a public way, shall be punished with fine which may extend to one thousand rupees.
+
+# 281. Rash driving or riding on a public way.
+
+Whoever drives any vehicle, or rides, on any public way in a manner so rash or negligent as to endanger human life, or to be likely to cause hurt or injury to any other person, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both.
+
+# 282. Rash navigation of vessel.
+
+Whoever navigates any vessel in a manner so rash or negligent as to endanger human life, or to be likely to cause hurt or injury to any other person, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both.
+
+
+
+
+
+
+# 283. Exhibition of false light, mark or buoy.
+
+Whoever exhibits any false light, mark or buoy, intending or knowing it to be likely that such exhibition will mislead any navigator, shall be punished with imprisonment of either description for a term which may extend to seven years, and with fine which shall not be less than ten thousand rupees.
+
+# 284. Conveying person by water for hire in unsafe or overloaded vessel.
+
+Whoever knowingly or negligently conveys, or causes to be conveyed for hire, any person by water in any vessel, when that vessel is in such a state or so loaded as to endanger the life of that person, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.
+
+# 285. Danger or obstruction in public way or line of navigation.
+
+Whoever, by doing any act, or by omitting to take order with any property in his possession or under his charge, causes danger, obstruction or injury to any person in any public way or public line of navigation, shall be punished with fine which may extend to five thousand rupees.
+
+# 286. Negligent conduct with respect to poisonous substance.
+
+Whoever does, with any poisonous substance, any act in a manner so rash or negligent as to endanger human life, or to be likely to cause hurt or injury to any person or knowingly or negligently omits to take such order with any poisonous substance in his possession as is sufficient to guard against any probable danger to human life from such poisonous substance, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.
+
+# 287. Negligent conduct with respect to fire or combustible matter.
+
+Whoever does, with fire or any combustible matter, any act so rashly or negligently as to endanger human life, or to be likely to cause hurt or injury to any other person or knowingly or negligently omits to take such order with any fire or any combustible matter in his possession as is sufficient to guard against any probable danger to human life from such fire or combustible matter, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to two thousand rupees, or with both.
+
+# 288. Negligent conduct with respect to explosive substance.
+
+Whoever does, with any explosive substance, any act so rashly or negligently as to endanger human life, or to be likely to cause hurt or injury to any other person, or knowingly or negligently omits to take such order with any explosive substance in his possession as is sufficient to guard against any probable danger to human life from that substance, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.
+
+# 289. Negligent conduct with respect to machinery.
+
+Whoever does, with any machinery, any act so rashly or negligently as to endanger human life or to be likely to cause hurt or injury to any other person or knowingly or negligently omits to take such order with any machinery in his possession or under his care as is sufficient to guard against any probable danger to human life from such machinery, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.
+
+# 290. Negligent conduct with respect to pulling down, repairing or constructing buildings, etc.
+
+Whoever, in pulling down, repairing or constructing any building, knowingly or negligently omits to take such measures with that building as is sufficient to guard against any probable danger to human life from the fall of that building, or of any part thereof, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.
+
+# 291. Negligent conduct with respect to animal.
+
+Whoever knowingly or negligently omits to take such measures with any animal in his possession as is sufficient to guard against any probable danger to human life, or any probable danger of grievous hurt from such animal, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.
+
+
+
+
+
+
+# 292. Punishment for public nuisance in cases not otherwise provided for.
+
+Whoever commits a public nuisance in any case not otherwise punishable by this Sanhita shall be punished with fine which may extend to one thousand rupees.
+
+# 293. Continuance of nuisance after injunction to discontinue.
+
+Whoever repeats or continues a public nuisance, having been enjoined by any public servant who has lawful authority to issue such injunction not to repeat or continue such nuisance, shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to five thousand rupees or with both.
+
+# 294. Sale, etc., of obscene books, etc.
+
+1. For the purposes of sub-section (2), a book, pamphlet, paper, writing, drawing, painting, representation, figure or any other object, including display of any content in electronic form shall be deemed to be obscene if it is lascivious or appeals to the prurient interest or if its effect, or (where it comprises two or more distinct items) the effect of any one of its items, is, if taken as a whole, such as to tend to deprave and corrupt persons who are likely, having regard to all relevant circumstances, to read, see or hear the matter contained or embodied in it.
+
+Whoever—
+1. sells, lets to hire, distributes, publicly exhibits or in any manner puts into circulation, or for purposes of sale, hire, distribution, public exhibition or circulation, makes, produces or has in his possession any obscene book, pamphlet, paper, drawing, painting, representation or figure or any other obscene object whatsoever in whatever manner; or
+2. imports, exports or conveys any obscene object for any of the purposes aforesaid, or knowing or having reason to believe that such object will be sold, let to hire, distributed or publicly exhibited or in any manner put into circulation; or
+3. takes part in or receives profits from any business in the course of which he knows or has reason to believe that any such obscene objects are, for any of the purposes aforesaid, made, produced, purchased, kept, imported, exported, conveyed, publicly exhibited or in any manner put into circulation; or
+4. advertises or makes known by any means whatsoever that any person is engaged or is ready to engage in any act which is an offence under this section, or that any such obscene object can be procured from or through any person; or
+5. offers or attempts to do any act which is an offence under this section,
+
+shall be punished on first conviction with imprisonment of either description for a term which may extend to two years, and with fine which may extend to five thousand rupees, and, in the event of a second or subsequent conviction, with imprisonment of either description for a term which may extend to five years, and also with fine which may extend to ten thousand rupees.
+
+Exception.—This section does not extend to—
+
+1. any book, pamphlet, paper, writing, drawing, painting, representation or figure—
+1. the publication of which is proved to be justified as being for the public good on the ground that such book, pamphlet, paper, writing, drawing, painting, representation or figure is in the interest of science, literature, art or learning or other objects of general concern; or
+2. which is kept or used bona fide for religious purposes;
+2. any representation sculptured, engraved, painted or otherwise represented on or in—
+1. any ancient monument within the meaning of the Ancient Monuments and Archaeological Sites and Remains Act, 1958 (24 of 1958); or
+2. any temple, or on any car used for the conveyance of idols, or kept or used for any religious purpose.
+
+# 295. Sale, etc., of obscene objects to child.
+
+Whoever sells, lets to hire, distributes, exhibits or circulates to any child any such obscene object as is referred to in section 294, or offers or attempts so to
+
+
+
+
+
+
+do, shall be punished on first conviction with imprisonment of either description for a term which may extend to three years, and with fine which may extend to two thousand rupees, and, in the event of a second or subsequent conviction, with imprisonment of either description for a term which may extend to seven years, and also with fine which may extend to five thousand rupees.
+
+# 296. Obscene acts and songs.
+
+Whoever, to the annoyance of others,—
+
+- (a) does any obscene act in any public place; or
+- (b) sings, recites or utters any obscene song, ballad or words, in or near any public place,
+
+shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to one thousand rupees, or with both.
+
+# 297. Keeping lottery office.
+
+(1) Whoever keeps any office or place for the purpose of drawing any lottery not being a State lottery or a lottery authorised by the State Government, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both.
+
+(2) Whoever publishes any proposal to pay any sum, or to deliver any goods, or to do or forbear from doing anything for the benefit of any person, on any event or contingency relative or applicable to the drawing of any ticket, lot, number or figure in any such lottery, shall be punished with fine which may extend to five thousand rupees.
+
+# CHAPTER XVI
+
+# OF OFFENCES RELATING TO RELIGION
+
+# 298. Injuring or defiling place of worship with intent to insult religion of any class.
+
+Whoever destroys, damages or defiles any place of worship, or any object held sacred by any class of persons with the intention of thereby insulting the religion of any class of persons or with the knowledge that any class of persons is likely to consider such destruction, damage or defilement as an insult to their religion, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+
+# 299. Deliberate and malicious acts, intended to outrage religious feelings of any class by insulting its religion or religious beliefs.
+
+Whoever, with deliberate and malicious intention of outraging the religious feelings of any class of citizens of India, by words, either spoken or written, or by signs or by visible representations or through electronic means or otherwise, insults or attempts to insult the religion or the religious beliefs of that class, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.
+
+# 300. Disturbing religious assembly.
+
+Whoever voluntarily causes disturbance to any assembly lawfully engaged in the performance of religious worship, or religious ceremonies, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.
+
+# 301. Trespassing on burial places, etc.
+
+Whoever, with the intention of wounding the feelings of any person, or of insulting the religion of any person, or with the knowledge that the feelings of any person are likely to be wounded, or that the religion of any person is likely to be insulted thereby, commits any trespass in any place of worship or on any place of sepulchre, or any place set apart for the performance of funeral rites or as a depository for the remains of the dead, or offers any indignity to any human corpse, or causes disturbance to any persons assembled for the performance of funeral ceremonies, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.
+
+# 302. Uttering words, etc., with deliberate intent to wound religious feelings of any person.
+
+Whoever, with the deliberate intention of wounding the religious feelings of any person, utters any word or makes any sound in the hearing of that person or makes any gesture in the sight of that person or places any object in the sight of that person, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.
+
+
+
+
+
+
+# CHAPTER XVII
+
+# OF OFFENCES AGAINST PROPERTY
+
+# Of theft
+
+303. Theft.—(1) Whoever, intending to take dishonestly any movable property out of the possession of any person without that person’s consent, moves that property in order to such taking, is said to commit theft.
+
+Explanation 1.—A thing so long as it is attached to the earth, not being movable property, is not the subject of theft; but it becomes capable of being the subject of theft as soon as it is severed from the earth.
+
+Explanation 2.—A moving effected by the same act which affects the severance may be a theft.
+
+Explanation 3.—A person is said to cause a thing to move by removing an obstacle which prevented it from moving or by separating it from any other thing, as well as by actually moving it.
+
+Explanation 4.—A person, who by any means causes an animal to move, is said to move that animal, and to move everything which, in consequence of the motion so caused, is moved by that animal.
+
+Explanation 5.—The consent mentioned in this section may be express or implied, and may be given either by the person in possession, or by any person having for that purpose authority either express or implied.
+
+# Illustrations.
+
+(a) A cuts down a tree on Z’s ground, with the intention of dishonestly taking the tree out of Z’s possession without Z’s consent. Here, as soon as A has severed the tree in order to such taking, he has committed theft.
+
+(b) A puts a bait for dogs in his pocket, and thus induces Z’s dog to follow it. Here, if A’s intention be dishonestly to take the dog out of Z’s possession without Z’s consent. A has committed theft as soon as Z’s dog has begun to follow A.
+
+(c) A meets a bullock carrying a box of treasure. He drives the bullock in a certain direction, in order that he may dishonestly take the treasure. As soon as the bullock begins to move, A has committed theft of the treasure.
+
+(d) A being Z’s servant, and entrusted by Z with the care of Z’s plate, dishonestly runs away with the plate, without Z’s consent. A has committed theft.
+
+(e) Z, going on a journey, entrusts his plate to A, the keeper of a warehouse, till Z shall return. A carries the plate to a goldsmith and sells it. Here the plate was not in Z’s possession. It could not therefore be taken out of Z’s possession, and A has not committed theft, though he may have committed criminal breach of trust.
+
+(f) A finds a ring belonging to Z on a table in the house which Z occupies. Here the ring is in Z’s possession, and if A dishonestly removes it, A commits theft.
+
+(g) A finds a ring lying on the highroad, not in the possession of any person. A, by taking it, commits no theft, though he may commit criminal misappropriation of property.
+
+(h) A sees a ring belonging to Z lying on a table in Z’s house. Not venturing to misappropriate the ring immediately for fear of search and detection, A hides the ring in a place where it is highly improbable that it will ever be found by Z, with the intention of taking the ring from the hiding place and selling it when the loss is forgotten. Here A, at the time of first moving the ring, commits theft.
+
+(i) A delivers his watch to Z, a jeweler, to be regulated. Z carries it to his shop. A, not owing to the jeweler any debt for which the jeweler might lawfully detain the watch as a security, enters the shop openly, takes his watch by force out of Z’s hand, and carries it away. Here A, though he may have committed criminal trespass and assault, has not committed theft, in as much as what he did was not done dishonestly.
+
+
+
+
+
+
+(j) If A owes money to Z for repairing the watch, and if Z retains the watch lawfully as a security for the debt, and A takes the watch out of Z’s possession, with the intention of depriving Z of the property as a security for his debt, he commits theft, in as much as he takes it dishonestly.
+
+(k) Again, if A, having pawned his watch to Z, takes it out of Z’s possession without Z’s consent, not having paid what he borrowed on the watch, he commits theft, though the watch is his own property in as much as he takes it dishonestly.
+
+(l) A takes an article belonging to Z out of Z’s possession without Z’s consent, with the intention of keeping it until he obtains money from Z as a reward for its restoration. Here A takes dishonestly; A has therefore committed theft.
+
+(m) A, being on friendly terms with Z, goes into Z’s library in Z’s absence, and takes away a book without Z’s express consent for the purpose merely of reading it, and with the intention of returning it. Here, it is probable that A may have conceived that he had Z’s implied consent to use Z’s book. If this was A’s impression, A has not committed theft.
+
+(n) A asks charity from Z’s wife. She gives A money, food and clothes, which A knows to belong to Z her husband. Here it is probable that A may conceive that Z’s wife is authorised to give away alms. If this was A’s impression, A has not committed theft.
+
+(o) A is the paramour of Z’s wife. She gives a valuable property, which A knows to belong to her husband Z, and to be such property as she has no authority from Z to give. If A takes the property dishonestly, he commits theft.
+
+(p) A, in good faith, believing property belonging to Z to be A’s own property, takes that property out of Z’s possession. Here, as A does not take dishonestly, he does not commit theft.
+
+(2) Whoever commits theft shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both and in case of second or subsequent conviction of any person under this section, he shall be punished with rigorous imprisonment for a term which shall not be less than one year but which may extend to five years and with fine: Provided that in cases of theft where the value of the stolen property is less than five thousand rupees, and a person is convicted for the first time, shall upon return of the value of property or restoration of the stolen property, shall be punished with community service.
+
+304. Snatching.—(1) Theft is snatching if, in order to commit theft, the offender suddenly or quickly or forcibly seizes or secures or grabs or takes away from any person or from his possession any movable property.
+
+(2) Whoever commits snatching, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.
+
+305. Theft in a dwelling house, or means of transportation or place of worship, etc.—Whoever commits theft—
+
+- (a) in any building, tent or vessel used as a human dwelling or used for the custody of property;
+- (b) of any means of transport used for the transport of goods or passengers;
+- (c) of any article or goods from any means of transport used for the transport of goods or passengers;
+- (d) of idol or icon in any place of worship;
+- (e) of any property of the Government or of a local authority,
+
+shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+
+306. Theft by clerk or servant of property in possession of master.—Whoever, being a clerk or servant, or being employed in the capacity of a clerk or servant, commits theft in respect of any property
+
+
+
+
+
+
+# 307. Theft after preparation made for causing death, hurt or restraint in order to committing of theft.
+
+Whoever commits theft, having made preparation for causing death, or hurt, or restraint, or fear of death, or of hurt, or of restraint, to any person, in order to the committing of such theft, or in order to the effecting of his escape after the committing of such theft, or in order to the retaining of property taken by such theft, shall be punished with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.
+
+# Illustrations.
+
+(a) A commits theft on property in Z’s possession; and while committing this theft, he has a loaded pistol under his garment, having provided this pistol for the purpose of hurting Z in case Z should resist. A has committed the offence defined in this section.
+
+(b) A picks Z’s pocket, having posted several of his companions near him, in order that they may restrain Z, if Z should perceive what is passing and should resist, or should attempt to apprehend A. A has committed the offence defined in this section.
+
+# 308. Extortion.
+
+(1) Whoever intentionally puts any person in fear of any injury to that person, or to any other, and thereby dishonestly induces the person so put in fear to deliver to any person any property, or valuable security or anything signed or sealed which may be converted into a valuable security, commits extortion.
+
+# Illustrations.
+
+(a) A threatens to publish a defamatory libel concerning Z unless Z gives him money. He thus induces Z to give him money. A has committed extortion.
+
+(b) A threatens Z that he will keep Z’s child in wrongful confinement, unless Z will sign and deliver to A a promissory note binding Z to pay certain monies to A. Z signs and delivers the note. A has committed extortion.
+
+(c) A threatens to send club-men to plough up Z’s field unless Z will sign and deliver to B a bond binding Z under a penalty to deliver certain produce to B, and thereby induces Z to sign and deliver the bond. A has committed extortion.
+
+(d) A, by putting Z in fear of grievous hurt, dishonestly induces Z to sign or affix his seal to a blank paper and deliver it to A. Z signs and delivers the paper to A. Here, as the paper so signed may be converted into a valuable security. A has committed extortion.
+
+(e) A threatens Z by sending a message through an electronic device that “Your child is in my possession, and will be put to death unless you send me one lakh rupees.” A thus induces Z to give him money. A has committed extortion.
+
+(2) Whoever commits extortion shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.
+
+(3) Whoever, in order to the committing of extortion, puts any person in fear, or attempts to put any person in fear, of any injury, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+
+(4) Whoever, in order to the committing of extortion, puts or attempts to put any person in fear of death or of grievous hurt to that person or to any other, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+
+(5) Whoever commits extortion by putting any person in fear of death or of grievous hurt to that person or to any other, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+
+
+
+
+
+
+(6) Whoever, in order to the committing of extortion, puts or attempts to put any person in fear of an accusation, against that person or any other, of having committed, or attempted to commit, an offence punishable with death or with imprisonment for life, or with imprisonment for a term which may extend to ten years, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+
+(7) Whoever commits extortion by putting any person in fear of an accusation against that person or any other, of having committed or attempted to commit any offence punishable with death, or with imprisonment for life, or with imprisonment for a term which may extend to ten years, or of having attempted to induce any other person to commit such offence, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+
+# O
+
+# f robbery and dacoity
+
+# 309. Robbery.
+
+1. In all robbery there is either theft or extortion.
+2. Theft is robbery if, in order to the committing of the theft, or in committing the theft, or in carrying away or attempting to carry away property obtained by the theft, the offender, for that end voluntarily causes or attempts to cause to any person death or hurt or wrongful restraint, or fear of instant death or of instant hurt, or of instant wrongful restraint.
+3. Extortion is robbery if the offender, at the time of committing the extortion, is in the presence of the person put in fear, and commits the extortion by putting that person in fear of instant death, of instant hurt, or of instant wrongful restraint to that person or to some other person, and, by so putting in fear, induces the person so put in fear then and there to deliver up the thing extorted.
+
+Explanation.—The offender is said to be present if he is sufficiently near to put the other person in fear of instant death, of instant hurt, or of instant wrongful restraint.
+
+# Illustrations.
+
+1. A holds Z down, and fraudulently takes Z’s money and jewels from Z’s clothes, without Z’s consent. Here A has committed theft, and, in order to the committing of that theft, has voluntarily caused wrongful restraint to Z. A has therefore committed robbery.
+2. A meets Z on the high road, shows a pistol, and demands Z’s purse. Z, in consequence, surrenders his purse. Here A has extorted the purse from Z by putting him in fear of instant hurt, and being at the time of committing the extortion in his presence. A has therefore committed robbery.
+3. A meets Z and Z’s child on the high road. A takes the child, and threatens to fling it down a precipice, unless Z delivers his purse. Z, in consequence, delivers his purse. Here A has extorted the purse from Z, by causing Z to be in fear of instant hurt to the child who is there present. A has therefore committed robbery on Z.
+4. A obtains property from Z by saying—“Your child is in the hands of my gang, and will be put to death unless you send us ten thousand rupees”. This is extortion, and punishable as such; but it is not robbery, unless Z is put in fear of the instant death of his child.
+
+Whoever commits robbery shall be punished with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine; and, if the robbery be committed on the highway between sunset and sunrise, the imprisonment may be extended to fourteen years.
+Whoever attempts to commit robbery shall be punished with rigorous imprisonment for a term which may extend to seven years, and shall also be liable to fine.
+If any person, in committing or in attempting to commit robbery, voluntarily causes hurt, such person, and any other person jointly concerned in committing or attempting to commit such robbery, shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.
+
+# 310. Dacoity.
+
+1. When five or more persons conjointly commit or attempt to commit a robbery, or where the whole number of persons conjointly committing or attempting to commit a robbery, and
+
+
+
+
+
+
+persons present and aiding such commission or attempt, amount to five or more, every person so committing, attempting or aiding, is said to commit dacoity.
+
+(2) Whoever commits dacoity shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.
+
+(3) If any one of five or more persons, who are conjointly committing dacoity, commits murder in so committing dacoity, every one of those persons shall be punished with death, or imprisonment for life, or rigorous imprisonment for a term which shall not be less than ten years, and shall also be liable to fine.
+
+(4) Whoever makes any preparation for committing dacoity, shall be punished with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.
+
+(5) Whoever is one of five or more persons assembled for the purpose of committing dacoity, shall be punished with rigorous imprisonment for a term which may extend to seven years, and shall also be liable to fine.
+
+(6) Whoever belongs to a gang of persons associated for the purpose of habitually committing dacoity, shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.
+
+# 311. Robbery, or dacoity, with attempt to cause death or grievous hurt.
+
+If, at the time of committing robbery or dacoity, the offender uses any deadly weapon, or causes grievous hurt to any person, or attempts to cause death or grievous hurt to any person, the imprisonment with which such offender shall be punished shall not be less than seven years.
+
+# 312. Attempt to commit robbery or dacoity when armed with deadly weapon.
+
+If, at the time of attempting to commit robbery or dacoity, the offender is armed with any deadly weapon, the imprisonment with which such offender shall be punished shall not be less than seven years.
+
+# 313. Punishment for belonging to gang of robbers, etc.
+
+Whoever belongs to any gang of persons associated in habitually committing theft or robbery, and not being a gang of dacoits, shall be punished with rigorous imprisonment for a term which may extend to seven years, and shall also be liable to fine.
+
+# O
+
+# f criminal misappropriation of property
+
+# 314. Dishonest misappropriation of property.
+
+Whoever dishonestly misappropriates or converts to his own use any movable property, shall be punished with imprisonment of either description for a term which shall not be less than six months but which may extend to two years and with fine.
+
+# Illustrations.
+
+(a) A takes property belonging to Z out of Z’s possession, in good faith believing at the time when he takes it, that the property belongs to himself. A is not guilty of theft; but if A, after discovering his mistake, dishonestly appropriates the property to his own use, he is guilty of an offence under this section.
+
+(b) A, being on friendly terms with Z, goes into Z’s library in Z’s absence, and takes away a book without Z’s express consent. Here, if A was under the impression that he had Z’s implied consent to take the book for the purpose of reading it, A has not committed theft. But, if A afterwards sells the book for his own benefit, he is guilty of an offence under this section.
+
+(c) A and B, being, joint owners of a horse. A takes the horse out of B’s possession, intending to use it. Here, as A has a right to use the horse, he does not dishonestly misappropriate it. But, if A sells the horse and appropriates the whole proceeds to his own use, he is guilty of an offence under this section.
+
+Explanation 1.—A dishonest misappropriation for a time only is a misappropriation within the meaning of this section.
+
+
+
+
+
+
+# Illustration.
+
+A finds a Government promissory note belonging to Z, bearing a blank endorsement. A, knowing that the note belongs to Z, pledges it with a banker as a security for a loan, intending at a future time to restore it to Z. A has committed an offence under this section.
+
+Explanation 2.—A person who finds property not in the possession of any other person, and takes such property for the purpose of protecting it for, or of restoring it to, the owner, does not take or misappropriate it dishonestly, and is not guilty of an offence; but he is guilty of the offence above defined, if he appropriates it to his own use, when he knows or has the means of discovering the owner, or before he has used reasonable means to discover and give notice to the owner and has kept the property a reasonable time to enable the owner to claim it.
+
+What are reasonable means or what is a reasonable time in such a case, is a question of fact. It is not necessary that the finder should know who is the owner of the property, or that any particular person is the owner of it; it is sufficient if, at the time of appropriating it, he does not believe it to be his own property, or in good faith believe that the real owner cannot be found.
+
+# Illustrations.
+
+- (a) A finds a rupee on the high road, not knowing to whom the rupee belongs, A picks up the rupee. Here A has not committed the offence defined in this section.
+- (b) A finds a letter on the road, containing a bank-note. From the direction and contents of the letter he learns to whom the note belongs. He appropriates the note. He is guilty of an offence under this section.
+- (c) A finds a cheque payable to bearer. He can form no conjecture as to the person who has lost the cheque. But the name of the person, who has drawn the cheque, appears. A knows that this person can direct him to the person in whose favour the cheque was drawn. A appropriates the cheque without attempting to discover the owner. He is guilty of an offence under this section.
+- (d) A sees Z drop his purse with money in it. A picks up the purse with the intention of restoring it to Z, but afterwards appropriates it to his own use. A has committed an offence under this section.
+- (e) A finds a purse with money, not knowing to whom it belongs; he afterwards discovers that it belongs to Z, and appropriates it to his own use. A is guilty of an offence under this section.
+- (f) A finds a valuable ring, not knowing to whom it belongs. A sells it immediately without attempting to discover the owner. A is guilty of an offence under this section.
+
+# 315. Dishonest misappropriation of property possessed by deceased person at the time of his death.
+
+Whoever dishonestly misappropriates or converts to his own use any property, knowing that such property was in the possession of a deceased person at the time of that person’s decease, and has not since been in the possession of any person legally entitled to such possession, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine, and if the offender at the time of such person’s decease was employed by him as a clerk or servant, the imprisonment may extend to seven years.
+
+# Illustration.
+
+Z dies in possession of furniture and money. His servant A, before the money comes into the possession of any person entitled to such possession, dishonestly misappropriates it. A has committed the offence defined in this section.
+
+# 316. Criminal breach of trust.
+
+(1) Whoever, being in any manner entrusted with property, or with any dominion over property, dishonestly misappropriates or converts to his own use that property, or dishonestly uses or disposes of that property in violation of any direction of law prescribing the mode in which such trust is to be discharged, or of any legal contract, express or implied, which he has made touching the discharge of such trust, or wilfully suffers any other person so to do, commits criminal breach of trust.
+
+
+
+
+
+
+# Explanation
+
+1.—A person, being an employer of an establishment whether exempted under section 17 of the Employees’ Provident Funds and Miscellaneous Provisions Act, 1952 (19 of 1952) or not who deducts the employee’s contribution from the wages payable to the employee for credit to a Provident Fund or Family Pension Fund established by any law for the time being in force, shall be deemed to have been entrusted with the amount of the contribution so deducted by him and if he makes default in the payment of such contribution to the said Fund in violation of the said law, shall be deemed to have dishonestly used the amount of the said contribution in violation of a direction of law as aforesaid.
+
+Explanation 2.—A person, being an employer, who deducts the employees’ contribution from the wages payable to the employee for credit to the Employees’ State Insurance Fund held and administered by the Employees’ State Insurance Corporation established under the Employees’ State Insurance Act, 1948 (34 of 1948) shall be deemed to have been entrusted with the amount of the contribution so deducted by him and if he makes default in the payment of such contribution to the said Fund in violation of the said Act, shall be deemed to have dishonestly used the amount of the said contribution in violation of a direction of law as aforesaid.
+
+# Illustrations.
+
+- (a) A, being executor to the will of a deceased person, dishonestly disobeys the law which directs him to divide the effects according to the will, and appropriates them to his own use. A has committed criminal breach of trust.
+- (b) A is a warehouse-keeper Z going on a journey, entrusts his furniture to A, under a contract that it shall be returned on payment of a stipulated sum for warehouse room. A dishonestly sells the goods. A has committed criminal breach of trust.
+- (c) A, residing in Kolkata, is agent for Z, residing at Delhi. There is an express or implied contract between A and Z, that all sums remitted by Z to A shall be invested by A, according to Z’s direction. Z remits one lakh of rupees to A, with directions to A to invest the same in Company’s paper. A dishonestly disobeys the directions and employs the money in his own business. A has committed criminal breach of trust.
+- (d) But if A, in illustration (c), not dishonestly but in good faith, believing that it will be more for Z’s advantage to hold shares in the Bank of Bengal, disobeys Z’s directions, and buys shares in the Bank of Bengal, for Z, instead of buying Company’s paper, here, though Z should suffer loss, and should be entitled to bring a civil action against A, on account of that loss, yet A, not having acted dishonestly, has not committed criminal breach of trust.
+- (e) A, a revenue-officer, is entrusted with public money and is either directed by law, or bound by a contract, express or implied, with the Government, to pay into a certain treasury all the public money which he holds. A dishonestly appropriates the money. A has committed criminal breach of trust.
+- (f) A, a carrier, is entrusted by Z with property to be carried by land or by water. A dishonestly misappropriates the property. A has committed criminal breach of trust.
+
+(2) Whoever commits criminal breach of trust shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both.
+
+(3) Whoever, being entrusted with property as a carrier, wharfinger or warehouse-keeper, commits criminal breach of trust in respect of such property, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+
+(4) Whoever, being a clerk or servant or employed as a clerk or servant, and being in any manner entrusted in such capacity with property, or with any dominion over property, commits criminal breach of trust in respect of that property, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+
+(5) Whoever, being in any manner entrusted with property, or with any dominion over property in his capacity of a public servant or in the way of his business as a banker, merchant, factor, broker, attorney or agent commits criminal breach of trust in respect of that property, shall be punished with imprisonment.
+
+
+
+
+
+
+# 317. Stolen property.
+
+(1) Property, the possession whereof has been transferred by theft or extortion or robbery or cheating, and property which has been criminally misappropriated or in respect of which criminal breach of trust has been committed, is designated as stolen property, whether the transfer has been made, or the misappropriation or breach of trust has been committed, within or without India, but, if such property subsequently comes into the possession of a person legally entitled to the possession thereof, it then ceases to be stolen property.
+
+(2) Whoever dishonestly receives or retains any stolen property, knowing or having reason to believe the same to be stolen property, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.
+
+(3) Whoever dishonestly receives or retains any stolen property, the possession whereof he knows or has reason to believe to have been transferred by the commission of dacoity, or dishonestly receives from a person, whom he knows or has reason to believe to belong or to have belonged to a gang of dacoits, property which he knows or has reason to believe to have been stolen, shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.
+
+(4) Whoever habitually receives or deals in property which he knows or has reason to believe to be stolen property, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+
+(5) Whoever voluntarily assists in concealing or disposing of or making away with property which he knows or has reason to believe to be stolen property, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.
+
+# 318. Cheating.
+
+(1) Whoever, by deceiving any person, fraudulently or dishonestly induces the person so deceived to deliver any property to any person, or to consent that any person shall retain any property, or intentionally induces the person so deceived to do or omit to do anything which he would not do or omit if he were not so deceived, and which act or omission causes or is likely to cause damage or harm to that person in body, mind, reputation or property, is said to cheat.
+
+Explanation.—A dishonest concealment of facts is a deception within the meaning of this section.
+
+# Illustrations.
+
+(a) A, by falsely pretending to be in the Civil Service, intentionally deceives Z, and thus dishonestly induces Z to let him have on credit goods for which he does not mean to pay. A cheats.
+
+(b) A, by putting a counterfeit mark on an article, intentionally deceives Z into a belief that this article was made by a certain celebrated manufacturer, and thus dishonestly induces Z to buy and pay for the article. A cheats.
+
+(c) A, by exhibiting to Z a false sample of an article intentionally deceives Z into believing that the article corresponds with the sample, and thereby dishonestly induces Z to buy and pay for the article. A cheats.
+
+(d) A, by tendering in payment for an article a bill on a house with which A keeps no money, and by which A expects that the bill will be dishonoured, intentionally deceives Z, and thereby dishonestly induces Z to deliver the article, intending not to pay for it. A cheats.
+
+(e) A, by pledging as diamonds articles which he knows are not diamonds, intentionally deceives Z, and thereby dishonestly induces Z to lend money. A cheats.
+
+(f) A intentionally deceives Z into a belief that A means to repay any money that Z may lend to him and thereby dishonestly induces Z to lend him money, A not intending to repay it. A cheats.
+
+
+
+
+
+
+(g) A intentionally deceives Z into a belief that A means to deliver to Z a certain quantity of indigo plant which he does not intend to deliver, and thereby dishonestly induces Z to advance money upon the faith of such delivery. A cheats; but if A, at the time of obtaining the money, intends to deliver the indigo plant, and afterwards breaks his contract and does not deliver it, he does not cheat, but is liable only to a civil action for breach of contract.
+
+(h) A intentionally deceives Z into a belief that A has performed A’s part of a contract made with Z, which he has not performed, and thereby dishonestly induces Z to pay money. A cheats.
+
+(i) A sells and conveys an estate to B. A, knowing that in consequence of such sale he has no right to the property, sells or mortgages the same to Z, without disclosing the fact of the previous sale and conveyance to B, and receives the purchase or mortgage money from Z. A cheats.
+
+(2) Whoever cheats shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.
+
+(3) Whoever cheats with the knowledge that he is likely thereby to cause wrongful loss to a person whose interest in the transaction to which the cheating relates, he was bound, either by law, or by a legal contract, to protect, shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both.
+
+(4) Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, or anything which is signed or sealed, and which is capable of being converted into a valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+
+# 319. Cheating by personation.
+
+(1) A person is said to cheat by personation if he cheats by pretending to be some other person, or by knowingly substituting one person for or another, or representing that he or any other person is a person other than he or such other person really is.
+
+Explanation.—The offence is committed whether the individual personated is a real or imaginary person.
+
+# Illustrations.
+
+(a) A cheats by pretending to be a certain rich banker of the same name. A cheats by personation.
+
+(b) A cheats by pretending to be B, a person who is deceased. A cheats by personation.
+
+(2) Whoever cheats by personation shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both.
+
+O
+
+f
+
+fraudulent deeds and dispositions of property
+
+# 320. Dishonest or fraudulent removal or concealment of property to prevent distribution among creditors.
+
+Whoever dishonestly or fraudulently removes, conceals or delivers to any person, or transfers or causes to be transferred to any person, without adequate consideration, any property, intending thereby to prevent, or knowing it to be likely that he will thereby prevent, the distribution of that property according to law among his creditors or the creditors of any other person, shall be punished with imprisonment of either description for a term which shall not be less than six months but which may extend to two years, or with fine, or with both.
+
+# 321. Dishonestly or fraudulently preventing debt being available for creditors.
+
+Whoever dishonestly or fraudulently prevents any debt or demand due to himself or to any other person from being made available according to law for payment of his debts or the debts of such other person, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+
+# 322. Dishonest or fraudulent execution of deed of transfer containing false statement of consideration.
+
+Whoever dishonestly or fraudulently signs, executes or becomes a party to any deed or instrument which purports to transfer or subject to any charge any property, or any interest therein, and which contains any false statement relating to the consideration for such transfer or charge, or relating to
+
+
+
+
+
+
+# 323. Dishonest or fraudulent removal or concealment of property
+
+Whoever dishonestly or fraudulently conceals or removes any property of himself or any other person, or dishonestly or fraudulently assists in the concealment or removal thereof, or dishonestly releases any demand or claim to which he is entitled, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.
+
+# 324. Mischief
+
+(1) Whoever with intent to cause, or knowing that he is likely to cause, wrongful loss or damage to the public or to any person, causes the destruction of any property, or any such change in any property or in the situation thereof as destroys or diminishes its value or utility, or affects it injuriously, commits mischief.
+
+Explanation 1.—It is not essential to the offence of mischief that the offender should intend to cause loss or damage to the owner of the property injured or destroyed. It is sufficient if he intends to cause, or knows that he is likely to cause, wrongful loss or damage to any person by injuring any property, whether it belongs to that person or not.
+
+Explanation 2.—Mischief may be committed by an act affecting property belonging to the person who commits the act, or to that person and others jointly.
+
+# Illustrations
+
+(a) A voluntarily burns a valuable security belonging to Z intending to cause wrongful loss to Z. A has committed mischief.
+
+(b) A introduces water into an ice-house belonging to Z and thus causes the ice to melt, intending wrongful loss to Z. A has committed mischief.
+
+(c) A voluntarily throws into a river a ring belonging to Z, with the intention of thereby causing wrongful loss to Z. A has committed mischief.
+
+(d) A, knowing that his effects are about to be taken in execution in order to satisfy a debt due from him to Z, destroys those effects, with the intention of thereby preventing Z from obtaining satisfaction of the debt, and of thus causing damage to Z. A has committed mischief.
+
+(e) A having insured a ship, voluntarily causes the same to be cast away, with the intention of causing damage to the underwriters. A has committed mischief.
+
+(f) A causes a ship to be cast away, intending thereby to cause damage to Z who has lent money on bottomry on the ship. A has committed mischief.
+
+(g) A, having joint property with Z in a horse, shoots the horse, intending thereby to cause wrongful loss to Z. A has committed mischief.
+
+(h) A causes cattle to enter upon a field belonging to Z, intending to cause and knowing that he is likely to cause damage to Z’s crop. A has committed mischief.
+
+(2) Whoever commits mischief shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both.
+
+(3) Whoever commits mischief and thereby causes loss or damage to any property including the property of Government or Local Authority shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.
+
+(4) Whoever commits mischief and thereby causes loss or damage to the amount of twenty thousand rupees and more but less than one lakh rupees shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+
+
+
+
+
+
+# (5)
+
+Whoever commits mischief and thereby causes loss or damage to the amount of one lakh rupees or upwards, shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both.
+
+# (6)
+
+Whoever commits mischief, having made preparation for causing to any person death, or hurt, or wrongful restraint, or fear of death, or of hurt, or of wrongful restraint, shall be punished with imprisonment of either description for a term which may extend to five years, and shall also be liable to fine.
+
+# 325. Mischief by killing or maiming animal.
+
+Whoever commits mischief by killing, poisoning, maiming or rendering useless any animal shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both.
+
+# 326. Mischief by injury, inundation, fire or explosive substance, etc.
+
+Whoever commits mischief by,
+
+- (a) doing any act which causes, or which he knows to be likely to cause, a diminution of the supply of water for agricultural purposes, or for food or drink for human beings or for animals which are property, or for cleanliness or for carrying on any manufacture, shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both;
+- (b) doing any act which renders or which he knows to be likely to render any public road, bridge, navigable river or navigable channel, natural or artificial, impassable or less safe for travelling or conveying property, shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both;
+- (c) doing any act which causes or which he knows to be likely to cause an inundation or an obstruction to any public drainage attended with injury or damage, shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both;
+- (d) destroying or moving any sign or signal used for navigation of rail, aircraft or ship or other thing placed as a guide for navigators, or by any act which renders any such sign or signal less useful as a guide for navigators, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both;
+- (e) destroying or moving any land-mark fixed by the authority of a public servant, or by any act which renders such land-mark less useful as such, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both;
+- (f) fire or any explosive substance intending to cause, or knowing it to be likely that he will thereby cause, damage to any property including agricultural produce, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine;
+- (g) fire or any explosive substance, intending to cause, or knowing it to be likely that he will thereby cause, the destruction of any building which is ordinarily used as a place of worship or as a human dwelling or as a place for the custody of property, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+
+# 327. Mischief with intent to destroy or make unsafe a rail, aircraft, decked vessel or one of twenty tons burden.
+
+(1) Whoever commits mischief to any rail, aircraft, or a decked vessel or any vessel of a burden of twenty tons or upwards, intending to destroy or render unsafe, or knowing it to be likely that he will thereby destroy or render unsafe, that rail, aircraft or vessel, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+
+
+
+
+
+
+# 328. Punishment for intentionally running vessel aground or ashore with intent to commit theft, etc.
+
+Whoever intentionally runs any vessel aground or ashore, intending to commit theft of any property contained therein or to dishonestly misappropriate any such property, or with intent that such theft or misappropriation of property may be committed, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+
+# 329. Criminal trespass and house-trespass.
+
+(1) Whoever enters into or upon property in the possession of another with intent to commit an offence or to intimidate, insult or annoy any person in possession of such property or having lawfully entered into or upon such property, unlawfully remains there with intent thereby to intimidate, insult or annoy any such person or with intent to commit an offence is said to commit criminal trespass.
+
+(2) Whoever commits criminal trespass by entering into or remaining in any building, tent or vessel used as a human dwelling or any building used as a place for worship, or as a place for the custody of property, is said to commit house-trespass.
+
+Explanation.—The introduction of any part of the criminal trespasser’s body is entering sufficient to constitute house-trespass.
+
+(3) Whoever commits criminal trespass shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to five thousand rupees, or with both.
+
+(4) Whoever commits house-trespass shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to five thousand rupees, or with both.
+
+# 330. House-trespass and house-breaking.
+
+(1) Whoever commits house-trespass having taken precautions to conceal such house-trespass from some person who has a right to exclude or eject the trespasser from the building, tent or vessel which is the subject of the trespass, is said to commit lurking house-trespass.
+
+(2) A person is said to commit house-breaking who commits house-trespass if he effects his entrance into the house or any part of it in any of the six ways hereinafter described; or if, being in the house or any part of it for the purpose of committing an offence, or having committed an offence therein, he quits the house or any part of it in any of the following ways, namely:—
+
+- (a) if he enters or quits through a passage made by himself, or by any abettor of the house-trespass, in order to the committing of the house-trespass;
+- (b) if he enters or quits through any passage not intended by any person, other than himself or an abettor of the offence, for human entrance; or through any passage to which he has obtained access by scaling or climbing over any wall or building;
+- (c) if he enters or quits through any passage which he or any abettor of the house-trespass has opened, in order to the committing of the house-trespass by any means by which that passage was not intended by the occupier of the house to be opened;
+- (d) if he enters or quits by opening any lock in order to the committing of the house-trespass, or in order to the quitting of the house after a house-trespass;
+- (e) if he effects his entrance or departure by using criminal force or committing an assault, or by threatening any person with assault;
+- (f) if he enters or quits by any passage which he knows to have been fastened against such entrance or departure, and to have been unfastened by himself or by an abettor of the house-trespass.
+
+
+
+
+
+
+# Explanation
+
+Any out-house or building occupied with a house, and between which and such house there is an immediate internal communication, is part of the house within the meaning of this section.
+
+# Illustrations
+
+1. A commits house-trespass by making a hole through the wall of Z’s house, and putting his hand through the aperture. This is house-breaking.
+2. A commits house-trespass by creeping into a ship at a port-hole between decks. This is house-breaking.
+3. A commits house-trespass by entering Z’s house through a window. This is house-breaking.
+4. A commits house-trespass by entering Z’s house through the door, having opened a door which was fastened. This is house-breaking.
+5. A commits house-trespass by entering Z’s house through the door, having lifted a latch by putting a wire through a hole in the door. This is house-breaking.
+6. A finds the key of Z’s house door, which Z had lost, and commits house-trespass by entering Z’s house, having opened the door with that key. This is house-breaking.
+7. Z is standing in his doorway. A forces a passage by knocking Z down, and commits house-trespass by entering the house. This is house-breaking.
+8. Z, the door-keeper of Y, is standing in Y’s doorway. A commits house-trespass by entering the house, having deterred Z from opposing him by threatening to beat him. This is house-breaking.
+
+# 331. Punishment for house-trespass or house-breaking
+
+1. Whoever commits lurking house-trespass or house-breaking, shall be punished with imprisonment of either description for a term which may extend to two years, and shall also be liable to fine.
+2. Whoever commits lurking house-trespass or house-breaking after sunset and before sunrise, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.
+3. Whoever commits lurking house-trespass or house-breaking, in order to the committing of any offence punishable with imprisonment, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine; and if the offence intended to be committed is theft, the term of the imprisonment may be extended to ten years.
+4. Whoever commits lurking house-trespass or house-breaking after sunset and before sunrise, in order to the committing of any offence punishable with imprisonment, shall be punished with imprisonment of either description for a term which may extend to five years, and shall also be liable to fine; and, if the offence intended to be committed is theft, the term of the imprisonment may be extended to fourteen years.
+5. Whoever commits lurking house-trespass, or house-breaking, having made preparation for causing hurt to any person, or for assaulting any person, or for wrongfully restraining any person, or for putting any person in fear of hurt or of assault or of wrongful restraint, shall be punished with imprisonment of either description or a term which may extend to ten years, and shall also be liable to fine.
+6. Whoever commits lurking house-trespass or house-breaking after sunset and before sunrise, having made preparation for causing hurt to any person or for assaulting any person, or for wrongfully restraining any person, or for putting any person in fear of hurt, or of assault, or of wrongful restraint, shall be punished with imprisonment of either description for a term which may extend to fourteen years, and shall also be liable to fine.
+7. Whoever, whilst committing lurking house-trespass or house-breaking, causes grievous hurt to any person or attempts to cause death or grievous hurt to any person, shall be punished with imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+
+
+
+
+
+
+(8) If, at the time of the committing of lurking house-trespass or house-breaking after sunset and before sunrise, any person guilty of such offence shall voluntarily cause or attempt to cause death or grievous hurt to any person, every person jointly concerned in committing such lurking house-trespass or house-breaking after sunset and before sunrise, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+
+332. House-trespass in order to commit offence.—Whoever commits house-trespass in order to the committing of any offence—
+
+- (a) punishable with death, shall be punished with imprisonment for life, or with rigorous imprisonment for a term not exceeding ten years, and shall also be liable to fine;
+- (b) punishable with imprisonment for life, shall be punished with imprisonment of either description for a term not exceeding ten years, and shall also be liable to fine;
+- (c) punishable with imprisonment, shall be punished with imprisonment of either description for a term which may extend to two years, and shall also be liable to fine: Provided that if the offence intended to be committed is theft, the term of the imprisonment may be extended to seven years.
+
+333. House-trespass after preparation for hurt, assault or wrongful restraint.—Whoever commits house-trespass, having made preparation for causing hurt to any person or for assaulting any person, or for wrongfully restraining any person, or for putting any person in fear of hurt, or of assault, or of wrongful restraint, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+
+334. Dishonestly breaking open receptacle containing property.—(1) Whoever dishonestly or with intent to commit mischief, breaks open or unfastens any closed receptacle which contains or which he believes to contain property, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+
+(2) Whoever, being entrusted with any closed receptacle which contains or which he believes to contain property, without having authority to open the same, dishonestly, or with intent to commit mischief, breaks open or unfastens that receptacle, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.
+
+# CHAPTER XVIII
+
+# OF OFFENCES RELATING TO DOCUMENTS AND TO PROPERTY MARKS
+
+335. Making a false document.—A person is said to make a false document or false electronic record—
+
+(A) Who dishonestly or fraudulently—
+
+- (i) makes, signs, seals or executes a document or part of a document;
+- (ii) makes or transmits any electronic record or part of any electronic record;
+- (iii) affixes any electronic signature on any electronic record;
+- (iv) makes any mark denoting the execution of a document or the authenticity of the electronic signature, with the intention of causing it to be believed that such document or part of document, electronic record or electronic signature was made, signed, sealed, executed, transmitted or affixed by or by the authority of a person by whom or by whose authority he knows that it was not made, signed, sealed, executed or affixed; or
+
+(B) Who without lawful authority, dishonestly or fraudulently, by cancellation or otherwise, alters a document or an electronic record in any material part thereof, after it has been made, executed.
+
+
+
+
+
+
+or affixed with electronic signature either by himself or by any other person, whether such person be living or dead at the time of such alteration; or
+
+(C) Who dishonestly or fraudulently causes any person to sign, seal, execute or alter a document or an electronic record or to affix his electronic signature on any electronic record knowing that such person by reason of unsoundness of mind or intoxication cannot, or that by reason of deception practised upon him, he does not know the contents of the document or electronic record or the nature of the alteration.
+
+# Illustrations.
+
+1. A has a letter of credit upon B for rupees 10,000, written by Z. A, in order to defraud B, adds cipher to the 10,000, and makes the sum 1,00,000 intending that it may be believed by B that Z so wrote the letter. A has committed forgery.
+2. A, without Z’s authority, affixes Z’s seal to a document purporting to be a conveyance of an estate from Z to A, with the intention of selling the estate to B and thereby of obtaining from B the purchase-money. A has committed forgery.
+3. A picks up a cheque on a banker signed by B, payable to bearer, but without any sum having been inserted in the cheque. A fraudulently fills up the cheque by inserting the sum of ten thousand rupees. A commits forgery.
+4. A leaves with B, his agent, a cheque on a banker, signed by A, without inserting the sum payable and authorises B to fill up the cheque by inserting a sum not exceeding ten thousand rupees for the purpose of making certain payments. B fraudulently fills up the cheque by inserting the sum of twenty thousand rupees. B commits forgery.
+5. A draws a bill of exchange on himself in the name of B without B’s authority, intending to discount it as a genuine bill with a banker and intending to take up the bill on its maturity. Here, as A draws the bill with intent to deceive the banker by leading him to suppose that he had the security of B, and thereby to discount the bill, A is guilty of forgery.
+6. Z’s will contains these words—“I direct that all my remaining property be equally divided between A, B and C.” A dishonestly scratches out B’s name, intending that it may be believed that the whole was left to himself and C. A has committed forgery.
+7. A endorses a Government promissory note and makes it payable to Z or his order by writing on the bill the words “Pay to Z or his order” and signing the endorsement. B dishonestly erases the words “Pay to Z or his order”, and thereby converts the special endorsement into a blank endorsement. B commits forgery.
+8. A sells and conveys an estate to Z. A afterwards, in order to defraud Z of his estate, executes a conveyance of the same estate to B, dated six months earlier than the date of the conveyance to Z, intending it to be believed that he had conveyed the estate to B before he conveyed it to Z. A has committed forgery.
+9. Z dictates his will to A. A intentionally writes down a different legatee from the legatee named by Z, and by representing to Z that he has prepared the will according to his instructions, induces Z to sign the will. A has committed forgery.
+10. A writes a letter and signs it with B’s name without B’s authority, certifying that A is a man of good character and in distressed circumstances from unforeseen misfortune, intending by means of such letter to obtain alms from Z and other persons. Here, as A made a false document in order to induce Z to part with property, A has committed forgery.
+11. A without B’s authority writes a letter and signs it in B’s name certifying to A’s character, intending thereby to obtain employment under Z. A has committed forgery in as much as he intended to deceive Z by the forged certificate, and thereby to induce Z to enter into an express or implied contract for service.
+
+Explanation 1.—A man’s signature of his own name may amount to forgery.
+
+
+
+
+
+
+# Illustrations.
+
+(a) A signs his own name to a bill of exchange, intending that it may be believed that the bill was drawn by another person of the same name. A has committed forgery.
+
+(b) A writes the word “accepted” on a piece of paper and signs it with Z’s name, in order that B may afterwards write on the paper a bill of exchange drawn by B upon Z, and negotiate the bill as though it had been accepted by Z. A is guilty of forgery; and if B, knowing the fact, draws the bill upon the paper pursuant to A’s intention, B is also guilty of forgery.
+
+(c) A picks up a bill of exchange payable to the order of a different person of the same name. A endorses the bill in his own name, intending to cause it to be believed that it was endorsed by the person to whose order it was payable; here A has committed forgery.
+
+(d) A purchases an estate sold under execution of a decree against B. B, after the seizure of the estate, in collusion with Z, executes a lease of the estate, to Z at a nominal rent and for a long period and dates the lease six months prior to the seizure, with intent to defraud A, and to cause it to be believed that the lease was granted before the seizure. B, though he executes the lease in his own name, commits forgery by antedating it.
+
+(e) A, a trader, in anticipation of insolvency, lodges effects with B for A’s benefit, and with intent to defraud his creditors; and in order to give a colour to the transaction, writes a promissory note binding himself to pay to B a sum for value received, and antedates the note, intending that it may be believed to have been made before A was on the point of insolvency. A has committed forgery under the first head of the definition.
+
+Explanation 2.—The making of a false document in the name of a fictitious person, intending it to be believed that the document was made by a real person, or in the name of a deceased person, intending it to be believed that the document was made by the person in his lifetime, may amount to forgery.
+
+# Illustration.
+
+A draws a bill of exchange upon a fictitious person, and fraudulently accepts the bill in the name of such fictitious person with intent to negotiate it. A commits forgery.
+
+Explanation 3.—For the purposes of this section, the expression “affixing electronic signature” shall have the meaning assigned to it in clause (d) of sub-section (1) of section 2 of the Information Technology Act, 2000 (21 of 2000).
+
+# 336. Forgery.
+
+(1) Whoever makes any false document or false electronic record or part of a document or electronic record, with intent to cause damage or injury, to the public or to any person, or to support any claim or title, or to cause any person to part with property, or to enter into any express or implied contract, or with intent to commit fraud or that fraud may be committed, commits forgery.
+
+(2) Whoever commits forgery shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+
+(3) Whoever commits forgery, intending that the document or electronic record forged shall be used for the purpose of cheating, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+
+(4) Whoever commits forgery, intending that the document or electronic record forged shall harm the reputation of any party, or knowing that it is likely to be used for that purpose, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.
+
+# 337. Forgery of record of Court or of public register, etc.
+
+Whoever forges a document or an electronic record, purporting to be a record or proceeding of or in a Court or an identity document issued by Government including voter identity card or Aadhaar Card, or a register of birth, marriage or burial, or a register kept by a public servant as such, or a certificate or document purporting to be made by a public servant in his official capacity, or an authority to institute or defend a suit, or to take any proceedings
+
+
+
+
+
+
+# 338. Forgery of valuable security, will, etc.
+
+Whoever forges a document which purports to be a valuable security or a will, or an authority to adopt a son, or which purports to give authority to any person to make or transfer any valuable security, or to receive the principal, interest or dividends thereon, or to receive or deliver any money, movable property, or valuable security, or any document purporting to be an acquittance or receipt acknowledging the payment of money, or an acquittance or receipt for the delivery of any movable property or valuable security, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+
+# 339. Having possession of document described in section 337 or section 338, knowing it to be forged and intending to use it as genuine.
+
+Whoever has in his possession any document or electronic record, knowing the same to be forged and intending that the same shall fraudulently or dishonestly be used as genuine, shall, if the document or electronic record is one of the description mentioned in section 337 of this Sanhita, be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine; and if the document is one of the description mentioned in section 338, shall be punished with imprisonment for life, or with imprisonment of either description, for a term which may extend to seven years, and shall also be liable to fine.
+
+# 340. Forged document or electronic record and using it as genuine.
+
+1. A false document or electronic record made wholly or in part by forgery is designated a forged document or electronic record.
+2. Whoever fraudulently or dishonestly uses as genuine any document or electronic record which he knows or has reason to believe to be a forged document or electronic record, shall be punished in the same manner as if he had forged such document or electronic record.
+
+# 341. Making or possessing counterfeit seal, etc., with intent to commit forgery punishable under section 338.
+
+1. Whoever makes or counterfeits any seal, plate or other instrument for making an impression, intending that the same shall be used for the purpose of committing any forgery which would be punishable under section 338 of this Sanhita, or, with such intent, has in his possession any such seal, plate or other instrument, knowing the same to be counterfeit, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+2. Whoever makes or counterfeits any seal, plate or other instrument for making an impression, intending that the same shall be used for the purpose of committing any forgery which would be punishable under any section of this Chapter other than section 338, or, with such intent, has in his possession any such seal, plate or other instrument, knowing the same to be counterfeit, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+3. Whoever possesses any seal, plate or other instrument knowing the same to be counterfeit, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.
+4. Whoever fraudulently or dishonestly uses as genuine any seal, plate or other instrument knowing or having reason to believe the same to be counterfeit, shall be punished in the same manner as if he had made or counterfeited such seal, plate or other instrument.
+
+# 342. Counterfeiting device or mark used for authenticating documents described in section 338, or possessing counterfeit marked material.
+
+Whoever counterfeits upon, or in the substance of, any material, any device or mark used for the purpose of authenticating any document described in section 338, intending that such device or mark shall be used for the purpose of giving the appearance of authenticity to any document then forged or thereafter to be forged on such material, or who, with such
+
+
+
+
+
+
+intent, has in his possession any material upon or in the substance of which any such device or mark has been counterfeited, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+
+(2) Whoever counterfeits upon, or in the substance of, any material, any device or mark used for the purpose of authenticating any document or electronic record other than the documents described in section 338, intending that such device or mark shall be used for the purpose of giving the appearance of authenticity to any document then forged or thereafter to be forged on such material, or who with such intent, has in his possession any material upon or in the substance of which any such device or mark has been counterfeited, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+
+# 343. Fraudulent cancellation, destruction, etc., of will, authority to adopt, or valuable security.
+
+Whoever fraudulently or dishonestly, or with intent to cause damage or injury to the public or to any person, cancels, destroys or defaces, or attempts to cancel, destroy or deface, or secretes or attempts to secrete any document which is or purports to be a will, or an authority to adopt a son, or any valuable security, or commits mischief in respect of such document, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+
+# 344. Falsification of accounts.
+
+Whoever, being a clerk, officer or servant, or employed or acting in the capacity of a clerk, officer or servant, wilfully, and with intent to defraud, destroys, alters, mutilates or falsifies any book, electronic record, paper, writing, valuable security or account which belongs to or is in the possession of his employer, or has been received by him for or on behalf of his employer, or wilfully, and with intent to defraud, makes or abets the making of any false entry in, or omits or alters or abets the omission or alteration of any material particular from or in, any such book, electronic record, paper, writing, valuable security or account, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.
+
+Explanation.—It shall be sufficient in any charge under this section to allege a general intent to defraud without naming any particular person intended to be defrauded or specifying any particular sum of money intended to be the subject of the fraud, or any particular day on which the offence was committed.
+
+# Of property marks
+
+# 345. Property mark.
+
+(1) A mark used for denoting that movable property belongs to a particular person is called a property mark.
+
+(2) Whoever marks any movable property or goods or any case, package or other receptacle containing movable property or goods, or uses any case, package or other receptacle having any mark thereon, in a manner reasonably calculated to cause it to be believed that the property or goods so marked, or any property or goods contained in any such receptacle so marked, belong to a person to whom they do not belong, is said to use a false property mark.
+
+(3) Whoever uses any false property mark shall, unless he proves that he acted without intent to defraud, be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.
+
+# 346. Tampering with property mark with intent to cause injury.
+
+Whoever removes, destroys, defaces or adds to any property mark, intending or knowing it to be likely that he may thereby cause injury to any person, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.
+
+# 347. Counterfeiting a property mark.
+
+(1) Whoever counterfeits any property mark used by any other person shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+
+(2) Whoever counterfeits any property mark used by a public servant, or any mark used by a public servant to denote that any property has been manufactured by a particular person or at a particular time or
+
+
+
+
+
+
+place, or that the property is of a particular quality or has passed through a particular office, or that it is entitled to any exemption, or uses as genuine any such mark knowing the same to be counterfeit, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.
+
+# 348. Making or possession of any instrument for counterfeiting a property mark.
+
+Whoever makes or has in his possession any die, plate or other instrument for the purpose of counterfeiting a property mark, or has in his possession a property mark for the purpose of denoting that any goods belong to a person to whom they do not belong, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.
+
+# 349. Selling goods marked with a counterfeit property mark.
+
+Whoever sells, or exposes, or has in possession for sale, any goods or things with a counterfeit property mark affixed to or impressed upon the same or to or upon any case, package or other receptacle in which such goods are contained, shall, unless he proves—
+
+- (a) that, having taken all reasonable precautions against committing an offence against this section, he had at the time of the commission of the alleged offence no reason to suspect the genuineness of the mark; and
+- (b) that, on demand made by or on behalf of the prosecutor, he gave all the information in his power with respect to the persons from whom he obtained such goods or things; or
+- (c) that otherwise he had acted innocently,
+
+be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.
+
+# 350. Making a false mark upon any receptacle containing goods.
+
+1. Whoever makes any false mark upon any case, package or other receptacle containing goods, in a manner reasonably calculated to cause any public servant or any other person to believe that such receptacle contains goods which it does not contain or that it does not contain goods which it does contain, or that the goods contained in such receptacle are of a nature or quality different from the real nature or quality thereof, shall, unless he proves that he acted without intent to defraud, be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.
+2. Whoever makes use of any false mark in any manner prohibited under sub-section (1) shall, unless he proves that he acted without intent to defraud, be punished as if he had committed the offence under sub-section (1).
+
+# CHAPTER XIX
+
+# OF CRIMINAL INTIMIDATION, INSULT, ANNOYANCE, DEFAMATION, ETC.
+
+# 351. Criminal intimidation.
+
+1. Whoever threatens another by any means, with any injury to his person, reputation or property, or to the person or reputation of any one in whom that person is interested, with intent to cause alarm to that person, or to cause that person to do any act which he is not legally bound to do, or to omit to do any act which that person is legally entitled to do, as the means of avoiding the execution of such threat, commits criminal intimidation.
+
+Explanation.—A threat to injure the reputation of any deceased person in whom the person threatened is interested, is within this section.
+
+Illustration.
+
+A, for the purpose of inducing B to resist from prosecuting a civil suit, threatens to burn B’s house. A is guilty of criminal intimidation.
+
+Whoever commits the offence of criminal intimidation shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+Whoever commits the offence of criminal intimidation by threatening to cause death or grievous hurt, or to cause the destruction of any property by fire, or to cause an offence punishable with death or
+
+
+
+
+
+
+imprisonment for life, or with imprisonment for a term which may extend to seven years, or to impute unchastity to a woman, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.
+
+(4) Whoever commits the offence of criminal intimidation by an anonymous communication, or having taken precaution to conceal the name or abode of the person from whom the threat comes, shall be punished with imprisonment of either description for a term which may extend to two years, in addition to the punishment provided for the offence under sub-section (1).
+
+# 352. Intentional insult with intent to provoke breach of peace.
+
+Whoever intentionally insults in any manner, and thereby gives provocation to any person, intending or knowing it to be likely that such provocation will cause him to break the public peace, or to commit any other offence, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+
+# 353. Statements conducing to public mischief.
+
+(1) Whoever makes, publishes or circulates any statement, false information, rumour, or report, including through electronic means—
+
+- (a) with intent to cause, or which is likely to cause, any officer, soldier, sailor or airman in the Army, Navy or Air Force of India to mutiny or otherwise disregard or fail in his duty as such; or
+- (b) with intent to cause, or which is likely to cause, fear or alarm to the public, or to any section of the public whereby any person may be induced to commit an offence against the State or against the public tranquillity; or
+- (c) with intent to incite, or which is likely to incite, any class or community of persons to commit any offence against any other class or community,
+
+shall be punished with imprisonment which may extend to three years, or with fine, or with both.
+
+(2) Whoever makes, publishes or circulates any statement or report containing false information, rumour or alarming news, including through electronic means, with intent to create or promote, or which is likely to create or promote, on grounds of religion, race, place of birth, residence, language, caste or community or any other ground whatsoever, feelings of enmity, hatred or ill will between different religious, racial, language or regional groups or castes or communities, shall be punished with imprisonment which may extend to three years, or with fine, or with both.
+
+(3) Whoever commits an offence specified in sub-section (2) in any place of worship or in any assembly engaged in the performance of religious worship or religious ceremonies, shall be punished with imprisonment which may extend to five years and shall also be liable to fine.
+
+Exception.—It does not amount to an offence, within the meaning of this section, when the person making, publishing or circulating any such statement, false information, rumour or report, has reasonable grounds for believing that such statement, false information, rumour or report is true and makes, publishes or circulates it in good faith and without any such intent as aforesaid.
+
+# 354. Act caused by inducing person to believe that he will be rendered an object of Divine displeasure.
+
+Whoever voluntarily causes or attempts to cause any person to do anything which that person is not legally bound to do, or to omit to do anything which he is legally entitled to do, by inducing or attempting to induce that person to believe that he or any person in whom he is interested will become or will be rendered by some act of the offender an object of Divine displeasure if he does not do the thing which it is the object of the offender to cause him to do, or if he does the thing which it is the object of the offender to cause him to omit, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.
+
+Illustrations.
+
+- (a) A sits dharna at Z’s door with the intention of causing it to be believed that, by so sitting, he renders Z an object of Divine displeasure. A has committed the offence defined in this section.
+
+
+
+
+
+(b) A threatens Z that, unless Z performs a certain act, A will kill one of A’s own children, under such circumstances that the killing would be believed to render Z an object of Divine displeasure. A has committed the offence defined in this section.
+
+# 355. Misconduct in public by a drunken person.
+
+Whoever, in a state of intoxication, appears in any public place, or in any place which it is a trespass in him to enter, and there conducts himself in such a manner as to cause annoyance to any person, shall be punished with simple imprisonment for a term which may extend to twenty-four hours, or with fine which may extend to one thousand rupees, or with both or with community service.
+
+# Of defamation
+
+# 356. Defamation.
+
+(1) Whoever, by words either spoken or intended to be read, or by signs or by visible representations, makes or publishes in any manner, any imputation concerning any person intending to harm, or knowing or having reason to believe that such imputation will harm, the reputation of such person, is said, except in the cases hereinafter excepted, to defame that person.
+
+Explanation 1.—It may amount to defamation to impute anything to a deceased person, if the imputation would harm the reputation of that person if living, and is intended to be hurtful to the feelings of his family or other near relatives.
+
+Explanation 2.—It may amount to defamation to make an imputation concerning a company or an association or collection of persons as such.
+
+Explanation 3.—An imputation in the form of an alternative or expressed ironically, may amount to defamation.
+
+Explanation 4.—No imputation is said to harm a person’s reputation, unless that imputation directly or indirectly, in the estimation of others, lowers the moral or intellectual character of that person, or lowers the character of that person in respect of his caste or of his calling, or lowers the credit of that person, or causes it to be believed that the body of that person is in a loathsome state, or in a state generally considered as disgraceful.
+
+# Illustrations.
+
+(a) A says—“Z is an honest man; he never stole B’s watch”; intending to cause it to be believed that Z did steal B’s watch. This is defamation, unless it falls within one of the exceptions.
+
+(b) A is asked who stole B’s watch. A points to Z, intending to cause it to be believed that Z stole B’s watch. This is defamation, unless it falls within one of the exceptions.
+
+(c) A draws a picture of Z running away with B’s watch, intending it to be believed that Z stole B’s watch. This is defamation, unless it falls within one of the exceptions.
+
+Exception 1.—It is not defamation to impute anything which is true concerning any person, if it be for the public good that the imputation should be made or published. Whether or not it is for the public good is a question of fact.
+
+Exception 2.—It is not defamation to express in good faith any opinion whatever respecting the conduct of a public servant in the discharge of his public functions, or respecting his character, so far as his character appears in that conduct, and no further.
+
+Exception 3.—It is not defamation to express in good faith any opinion whatever respecting the conduct of any person touching any public question, and respecting his character, so far as his character appears in that conduct, and no further.
+
+# Illustration.
+
+It is not defamation in A to express in good faith any opinion whatever respecting Z’s conduct in petitioning Government on a public question, in signing a requisition for a meeting on a public question, in presiding or attending at such meeting, in forming or joining any society which invites the public support, in voting or canvassing for a particular candidate for any situation in the efficient discharge of the duties of which the public is interested.
+
+108
+
+
+
+
+# Exception 4.
+
+—It is not defamation to publish substantially true report of the proceedings of a Court, or of the result of any such proceedings.
+
+Explanation.—A Magistrate or other officer holding an inquiry in open Court preliminary to a trial in a Court, is a Court within the meaning of the above section.
+
+# Exception 5.
+
+—It is not defamation to express in good faith any opinion whatever respecting the merits of any case, civil or criminal, which has been decided by a Court, or respecting the conduct of any person as a party, witness or agent, in any such case, or respecting the character of such person, as far as his character appears in that conduct, and no further.
+
+# Illustrations.
+
+- (a) A says—“I think Z’s evidence on that trial is so contradictory that he must be stupid or dishonest”. A is within this exception if he says this in good faith, in as much as the opinion which he expresses respects Z’s character as it appears in Z’s conduct as a witness, and no further.
+- (b) But if A says—“I do not believe what Z asserted at that trial because I know him to be a man without veracity”; A is not within this exception, in as much as the opinion which expresses of Z’s character, is an opinion not founded on Z’s conduct as a witness.
+
+# Exception 6.
+
+—It is not defamation to express in good faith any opinion respecting the merits of any performance which its author has submitted to the judgment of the public, or respecting the character of the author so far as his character appears in such performance, and no further.
+
+Explanation.—A performance may be submitted to the judgment of the public expressly or by acts on the part of the author which imply such submission to the judgment of the public.
+
+# Illustrations.
+
+- (a) A person who publishes a book, submits that book to the judgment of the public.
+- (b) A person who makes a speech in public, submits that speech to the judgment of the public.
+- (c) An actor or singer who appears on a public stage, submits his acting or singing to the judgment of the public.
+- (d) A says of a book published by Z—“Z’s book is foolish; Z must be a weak man. Z’s book is indecent; Z must be a man of impure mind”. A is within the exception, if he says this in good faith, in as much as the opinion which he expresses of Z respects Z’s character only so far as it appears in Z’s book, and no further.
+- (e) But if A says “I am not surprised that Z’s book is foolish and indecent, for he is a weak man and a libertine”. A is not within this exception, in as much as the opinion which he expresses of Z’s character is an opinion not founded on Z’s book.
+
+# Exception 7.
+
+—It is not defamation in a person having over another any authority, either conferred by law or arising out of a lawful contract made with that other, to pass in good faith any censure on the conduct of that other in matters to which such lawful authority relates.
+
+# Illustration.
+
+A Judge censuring in good faith the conduct of a witness, or of an officer of the Court; a head of a department censuring in good faith those who are under his orders, a parent censuring in good faith a child in the presence of other children; a school master, whose authority is derived from a parent, censuring in good faith a pupil in the presence of other pupils; a master censuring a servant in good faith for remissness in service; a banker censuring in good faith the cashier of his bank for the conduct of such cashier are within this exception.
+
+# Exception 8.
+
+—It is not defamation to prefer in good faith an accusation against any person to any of those who have lawful authority over that person with respect to the subject-matter of accusation.
+
+
+
+
+
+
+Illustration.
+
+If A in good faith accuses Z before a Magistrate; if A in good faith complains of the conduct of Z, a servant, to Z’s master; if A in good faith complains of the conduct of Z, a child, to Z’s father, A is within this exception.
+
+# Exception 9.
+
+—It is not defamation to make an imputation on the character of another provided that the imputation be made in good faith for the protection of the interests of the person making it, or of any other person, or for the public good.
+
+# Illustrations.
+
+(a) A, a shopkeeper, says to B, who manages his business—“Sell nothing to Z unless he pays you ready money, for I have no opinion of his honesty”. A is within the exception, if he has made this imputation on Z in good faith for the protection of his own interests.
+
+(b) A, a Magistrate, in making a report to his own superior officer, casts an imputation on the character of Z. Here, if the imputation is made in good faith, and for the public good, A is within the exception.
+
+# Exception 10.
+
+—It is not defamation to convey a caution, in good faith, to one person against another, provided that such caution be intended for the good of the person to whom it is conveyed, or of some person in whom that person is interested, or for the public good.
+
+(2) Whoever defames another shall be punished with simple imprisonment for a term which may extend to two years, or with fine, or with both, or with community service.
+
+(3) Whoever prints or engraves any matter, knowing or having good reason to believe that such matter is defamatory of any person, shall be punished with simple imprisonment for a term which may extend to two years, or with fine, or with both.
+
+(4) Whoever sells or offers for sale any printed or engraved substance containing defamatory matter, knowing that it contains such matter, shall be punished with simple imprisonment for a term which may extend to two years, or with fine, or with both.
+
+# Of breach of contract to attend on and supply wants of helpless person
+
+# 357. Breach of contract to attend on and supply wants of helpless person.
+
+—Whoever, being bound by a lawful contract to attend on or to supply the wants of any person who, by reason of youth, or of unsoundness of mind, or of a disease or bodily weakness, is helpless or incapable of providing for his own safety or of supplying his own wants, voluntarily omits so to do, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to five thousand rupees, or with both.
+
+# CHAPTER XX
+
+# REPEAL AND SAVINGS
+
+# 358. Repeal and savings.
+
+(1) The Indian Penal Code (45 of 1860) is hereby repealed.
+
+(2) Notwithstanding the repeal of the Code referred to in sub-section (1), it shall not affect,—
+
+- (a) the previous operation of the Code so repealed or anything duly done or suffered thereunder;
+- (b) any right, privilege, obligation or liability acquired, accrued or incurred under the Code so repealed;
+- (c) any penalty, or punishment incurred in respect of any offences committed against the Code so repealed;
+- (d) any investigation or remedy in respect of any such penalty, or punishment;
+- (e) any proceeding, investigation or remedy in respect of any such penalty or punishment as aforesaid, and any such proceeding or remedy may be instituted, continued or enforced, and any such penalty may be imposed as if that Code had not been repealed.
+
+(3) Notwithstanding such repeal, anything done or any action taken under the said Code shall be deemed to have been done or taken under the corresponding provisions of this Sanhita.
+
+
+
+
+
+
+(4) The mention of particular matters in sub-section (2) shall not be held to prejudice or affect the general application of section 6 of the General Clauses Act, 1897 (10 of 1897) with regard to the effect of the repeal.
+
+
+
+
+
+
+STATEMENT OF OBJECTS AND REASONS
+
+In the year 1834, the first Indian Law Commission was constituted under the Chairmanship of Lord Thomas Babington Macaulay to examine the jurisdiction, power and rules of the existing Courts as well as the police establishments and the laws in force in India.
+
+2. The Commission suggested various enactments to the Government. One of the important recommendations made by the Commission was on the Indian Penal Code which was enacted in 1860 and the said Code is still continuing in the country with some amendments made thereto from time to time.
+
+3. The Government of India considered it expedient and necessary to review the existing criminal laws with an aim to strengthen law and order and also focus on simplifying legal procedure so that ease of living is ensured to the common man. The Government also considered to make existing laws relevant to the contemporary situation and provide speedy justice to the common man. Accordingly, various stakeholders were consulted keeping in mind contemporary needs and aspirations of the people and with a view to create a legal structure which is citizen centric and to secure life and liberty of the citizens.
+
+4. Now, it is proposed to enact a new law, namely, the Bharatiya Nyaya Sanhita Bill, 2023 by repealing the Indian Penal Code to streamline provisions relating to offences and penalties. It is proposed to provide first time community service as one of the punishments for petty offences. The offences against women and children, murder and offences against the State have been given precedence. The various offences have been made gender neutral. In order to deal effectively with the problem of organised crimes and terrorist activities, new offences of terrorist acts and organised crime have been added in the Bill with deterrent punishments. A new offence on acts of secession, armed rebellion, subversive activities, separatist activities or endangering sovereignty or unity and integrity of India has also been added. The fines and punishment for various offences have also been suitably enhanced.
+
+5. Accordingly, a Bill, namely, the Bharatiya Nyaya Sanhita, 2023 was introduced in the Lok Sabha on 11th August, 2023. The Bill was referred to the Department-related Parliamentary Standing Committee on Home Affairs for its consideration and report. The Committee after deliberations made its recommendations in its report submitted on 10th November, 2023. The recommendations made by the Committee have been considered by the Government and it has been decided to withdraw the Bill pending in Lok Sabha and introduce a new Bill incorporating therein those recommendations made by the Committee that have been accepted by the Government.
+
+6. The Notes on Clauses explains the various provisions of the Bill.
+
+7. The Bill seeks to achieve the above objectives.
+
+AMIT SHAH.
+
+NEW DELHI; The 9th August, 2023.
+
+112
+
+
+
+
+# Document Reference: THE SPECIFIC RELIEF ACT, 1963
+--- Ingestion Timestamp: Sun Jun 28 19:55:39 2026 ---
+
+
+
+
+
+# Document Reference: the-indian-contract-act-1872
+--- Ingestion Timestamp: Sun Jun 28 19:56:07 2026 ---
+
+The Indian Contract Act, 1872
+# CONTENTS
+
+Preamble
+
+# Preliminary
+
+1. Short title
+2. Interpretation clause
+
+# Chapter I
+
+Of the communication, acceptance and revocation of proposals
+
+1. Communication, acceptance and revocation of proposals
+2. Communication when complete
+3. Revocation of proposals and acceptances
+4. Revocation how made
+5. Acceptance must be absolute
+6. Acceptance by performing conditions, or receiving consideration
+7. Promises, express or implied
+
+# Chapter II
+
+Of contracts, violable contracts and void agreements
+
+1. What agreements are contracts
+2. Who are competent to contract
+3. What is a sound mind for the purposes of contracting
+4. "Consent" defined
+5. "Free consent" defined
+6. "Coercion" defined
+7. "Undue influence" defined
+8. "Fraud" defined
+9. "Misrepresentation" defined
+10. Voidability of agreements without free consent
+11. Power to set aside contract induced by undue influence
+12. Agreement void where both parties are under mistake as to matter of fact
+
+
+
+
+
+
+
+# 21
+
+Effect of mistakes as to law
+
+# 22
+
+Contract caused by mistake of one party as to matter of fact
+
+# 23
+
+What considerations and objects are lawful, and what not
+
+# 24
+
+Agreements void, if consideration and objects unlawful in part
+
+Agreement without consideration void, unless it is in writing and
+
+# 25
+
+registered, or is a promise to compensation for something done, or is a
+
+promise to pay a debt barred by limitation law
+
+# 26
+
+Agreement in restraint of marriage void
+
+# 27
+
+Agreement in restraint of trade void
+
+# 28
+
+Agreements in restraint of legal proceedings void
+
+# 29
+
+Agreement void for uncertainty
+
+# 30
+
+Agreements by way of wager, void
+
+# Chapter III
+
+# Of contingent contracts
+
+# 31
+
+"Contingent contract" defined
+
+# 32
+
+Enforcement of contracts contingent on an event happening
+
+# 33
+
+Enforcement of contracts contingent on an event not happening
+
+# 34
+
+When event on which contract is contingent to be deemed impossible, if
+
+it is the future conduct of a living person
+
+# 35
+
+When contracts become void, which are contingent on happening of
+
+specified event within fixed time
+
+# 36
+
+Agreements contingent on impossible events, void
+
+# Chapter IV
+
+# Of the performance of contracts Contracts which must be performed
+
+# 37
+
+Obligation of parties to contracts
+
+# 38
+
+Effect of refusal to accept offer of performance
+
+# 39
+
+Effect of refusal of party to perform promise wholly
+
+# 40
+
+Person by whom promise is to be performed
+
+# 41
+
+Effect of accepting performance from third person
+
+# 42
+
+Devolution of joint liabilities
+
+# 43
+
+Any one of joint promisors may be compelled to perform
+
+# 44
+
+Effect of release of one joint promisor
+
+# 45
+
+Devolution of joint rights
+
+# 46
+
+Time for performance of promise, where no application is to be made
+
+and no time is specified
+
+
+
+
+
+
+# Time and place for performance of promise, where time is specified and no application to be made
+
+# Application for performance on certain day to be at proper time and place
+
+# Place for performance of promise, where no application to be made and no place fixed for performance
+
+# Performance in manner or at time prescribed or sanctioned by promisee
+
+# Promisor not bound to perform, unless reciprocal promisee ready and willing to perform
+
+# Order of performance of reciprocal promises
+
+# Liability of party preventing event on which contract is to take effect
+
+# Effect of default as to that promise which should be first performed, in contract consisting of reciprocal promises
+
+# Effect of failure to perform at fixed time, in contract in which time is essential
+
+# Agreement to do impossible act
+
+# Reciprocal promise to do things legal and also other things illegal
+
+# Alternative promise, one branch being illegal
+
+# Application of payment where debt to be discharged is indicated
+
+# Application of payment where debt to be discharged is not indicated
+
+# Application of payment neither party appropriates
+
+# Effect of novation, rescission and alteration of contract
+
+# Promisee may dispense with or remit performance of promise
+
+# Consequences of rescission of voidable contract
+
+# Obligation of person who has received advantage under void agreement, or contract that becomes void
+
+# Mode of communicating or revoking rescission of voidable contract
+
+# Effect of neglect of promisee to afford promisor reasonable facilities for performance
+
+# Chapter V Of certain relations resembling those created by contract
+
+# Claim for necessaries supplied to person incapable of contracting, or on his account
+
+# Reimbursement of person paying money due by another, in payment of which he is interested
+
+# Obligation of person enjoying benefit of non-gratuitous act
+
+# Responsibility of finder of goods
+
+
+
+
+
+
+# Chapter VI
+
+# Liability of person to whom money is paid, or thing delivered, by mistake or under coercion
+
+# 73
+
+Compensation for loss or damage caused by breach of contract
+
+# 74
+
+Compensation for breach of contract where penalty stipulated for
+
+# 75
+
+Party rightfully rescinding contract entitled to compensation
+
+# Chapter VII
+
+# Sale of goods
+
+76 to 123 Repealed
+
+# Chapter VIII
+
+# Of indemnity and guarantee
+
+# 124
+
+"Contract of indemnity" defined
+
+# 125
+
+Rights of indemnity-holder when sued
+
+# 126
+
+"Contract of guarantee", "surety", "principal debtor" and "Creditor"
+
+# 127
+
+Consideration for guarantee
+
+# 128
+
+Surety's liability
+
+# 129
+
+"Continuing guarantee"
+
+# 130
+
+Revocation of continuing guarantee
+
+# 131
+
+Revocation of continuing guarantee by surety's death
+
+# 132
+
+Liability of two persons, primarily liable, not affected by arrangement between them that one shall be surety in other's default
+
+# 133
+
+Discharge of surety by variance in terms of contract
+
+# 134
+
+Discharge of surety by release of discharge of principal debtor
+
+# 135
+
+Discharge of surety when creditor compounds with, gives time to, or agrees not to sue principal debtor
+
+# 136
+
+Surety not discharged when agreement made with third person to give time to principal debtor
+
+# 137
+
+Creditor's forbearance to sue does not discharge surety
+
+# 138
+
+Release of one co-surety does not discharge others
+
+# 139
+
+Discharge of surety by creditor's act or omission impairing surety's eventual remedy
+
+# 140
+
+Rights of surety on payment or performance
+
+# 141
+
+Surety's right to benefit of creditor's securities
+
+
+
+
+
+
+
+# Chapter IX
+
+Guarantee obtained by misrepresentation, invalid
+
+Guarantee obtained by concealment, invalid
+
+Guarantee on contract that creditor shall not act on it until co-sureties joins
+
+Implied promise to indemnify surety
+
+Co-sureties liable to contribute equally
+
+Liability of co-sureties bound in different sums
+
+# Bailment
+
+"Bailment", "bailor" and "bailee" defined
+
+Delivery to bailee how made
+
+Bailor's duty to disclose faults in goods bailed
+
+Care to be taken by bailee
+
+Bailee when not liable for loss, etc. of thing bailed
+
+Termination of bailment by bailee's act inconsistent with conditions
+
+Liability of bailee making unauthorized use of goods bailed
+
+Effect of mixture, with bailor's consent, of his goods with bailee's
+
+Effect of mixture, without bailor's consent when the goods can be separated
+
+Effect of mixture, without bailor's consent, when the goods cannot be separated
+
+Repayment, by bailor, of necessary expenses
+
+Restoration of goods bailed, on expiration of time or accomplishment of purpose
+
+Return of goods bailed, on expiration of time or accomplishment of purpose
+
+Bailee's responsibility when goods are not duly returned
+
+Termination of gratuitous bailment by death
+
+Bailor entitled to increase or profit from goods bailed
+
+Bailor's responsibility to bailee
+
+Bailment by several joint owners
+
+Bailee not responsible on re-delivery to bailor without title
+
+Right of third person claiming goods bailed
+
+Right of finder of goods may sue for specific reward offered
+
+When Finder of thing commonly on sale may sell it
+
+
+
+
+
+
+# 170
+
+Bailee's particular lien
+
+# 171
+
+General lien of bankers, factors, wharfingers, attorneys, and policy brokers
+
+# 172
+
+"Pledge", "pawnor" and "pawnee" defined
+
+# 173
+
+Pawnee's right of retainer
+
+# 174
+
+Pawnee not to retain for debt or promise other than that for which goods pledged: Presumption in case of subsequent advances
+
+# 175
+
+Pawnee's right to extraordinary expenses incurred
+
+# 176
+
+Pawnee's right where pawnor makes default
+
+# 177
+
+Defaulting pawnor's right to redeem
+
+# 178
+
+Pledge by mercantile agent
+
+# 178A
+
+Pledge by person in possession under voidable contract
+
+# 179
+
+Pledge where pawnor has only a limited interest suits by bailors against wrong-doers
+
+# 180
+
+Suit by bailor or bailee against wrong-doer
+
+# 181
+
+Apportionment of relief or compensation obtained by such suits
+
+# Chapter X
+
+# 182
+
+"Agent" and "Principal" defined
+
+# 183
+
+Who may employ agent
+
+# 184
+
+Who may be an agent
+
+# 185
+
+Consideration not necessary
+
+# 186
+
+Agent's authority may be expressed or implied
+
+# 187
+
+Definitions of express and implied authority
+
+# 188
+
+Extent of agent's authority
+
+# 189
+
+Agent's authority in an emergency
+
+# 190
+
+When agent cannot delegate
+
+# 191
+
+"Sub-agent" defined
+
+# 192
+
+Representation of principal by sub-agent properly appointed
+
+# 193
+
+Agent's responsibility for sub-agent appointed without authority
+
+# 194
+
+Relation between principal and person duly appointed by agent to act in business of agency
+
+# 195
+
+Agent's duty in naming such person
+
+# 196
+
+Right of person as to acts done for him without his authority: effect of ratification
+
+
+
+
+
+
+
+# 197
+
+Ratification may be expressed or implied
+
+# 198
+
+Knowledge requisite for valid ratification
+
+# 199
+
+Effect of ratifying unauthorized act forming part of transaction
+
+# 200
+
+Ratification of unauthorized act cannot injure third person
+
+# 201
+
+Termination of agency
+
+# 202
+
+Termination of agency, where agent has an interest in subject-matter
+
+# 203
+
+When principal may revoke agent's authority
+
+# 204
+
+Revocation where authority has been partly exercised
+
+# 205
+
+Compensation for revocation by principal, or renunciation by agent
+
+# 206
+
+Notice of revocation or renunciation
+
+# 207
+
+Revocation and renunciation may be expressed or implied
+
+# 208
+
+When termination of agent's authority takes effect as to agent, and as to third persons
+
+# 209
+
+Agent's duty on termination of agency by principal's death or insanity
+
+# 210
+
+Termination of sub-agent's authority
+
+# 211
+
+Agent's duty in conducting principal's business
+
+# 212
+
+Skill and diligence required from agent
+
+# 213
+
+Agent's accounts
+
+# 214
+
+Agent's duty to communicate with principal
+
+# 215
+
+Right of principal when agent deals, on his own account, in business of agency without principal's consent
+
+# 216
+
+Principal's right to benefit gained by agent dealing on his own account in business of agency
+
+# 217
+
+Agent's right of retainer out of sums received on principal's account
+
+# 218
+
+Agent's duty to pay sums received for principal
+
+# 219
+
+When agent's remuneration becomes due
+
+# 220
+
+Agent not entitled to remuneration for business misconducted
+
+# 221
+
+Agent's lien on principal's property
+
+# 222
+
+Agent to be indemnified against consequences of lawful acts
+
+# 223
+
+Agent to be indemnified against consequences of acts done in good faith
+
+# 224
+
+Non-liability of employer of agent to do a criminal act
+
+# 225
+
+Compensation to agent for injury caused by principal's neglect
+
+# 226
+
+Enforcement and consequences of agent's contracts
+
+
+
+
+
+
+# Principal how far bound, when agent exceeds authority
+
+Principal not bound when excess of agent's authority is not separable
+
+Consequences of notice given to agent
+
+# Agent cannot personally enforce, nor be bound by, contracts on behalf of principal
+
+Rights of parties to a contract made by agent not disclosed
+
+Performance of contract with agent supposed to be principal
+
+Right of person dealing with agent personally liable
+
+# Consequence of inducing agent or principal to act on belief that principal or agent will be held exclusively liable
+
+Liability of pretended agent
+
+Person falsely contracting as agent, not entitled to performance
+
+# Liability of principal inducing belief that agent's unauthorised acts were authorised
+
+Effect, on agreement, of misrepresentation or fraud by agent
+
+# Chapter XI
+
+239 to 266 Repealed
+
+Schedule Repealed
+
+
+
+
+
+
+# PREAMBLE
+
+[9 OF 1872]
+
+Whereas it is expedient to define and amend certain parts of the law relating to contract; it is hereby enacted as follows :-
+
+# 1. Short title
+
+This Act may be called be the Indian Contract Act, 1872.
+
+Extent, commencement - It extends to the whole of except the State of Jammu and Kashmir; and it shall come into force on the first day of September, 1872.
+
+Enactment repealed - Nothing herein contained shall affect the provisions of any Statute, Act or Regulation not hereby expressly repealed, nor any usage or customs of trade, nor any incident of any contract, not inconsistent with the provisions of this Act.
+
+# 2. Interpretation -clause
+
+In this Act the following words and expressions are used in the following senses, unless contrary intention appears from the context:
+
+- (a) When one person signifies to another his willingness to do or to abstain from doing anything, with a view to obtaining the assent of that other to such act or abstinence, he is said to make a proposal;
+- (b) When a person to whom the proposal is made, signifies his assent thereto, the proposal is said to be accepted. A proposal, when accepted, becomes a promise;
+- (c) The person making the proposal is called the "promisor", and the person accepting the proposal is called "promisee";
+- (d) When, at the desire of the promisor, the promisee or any other person has done or abstained from doing, or does or abstains from doing, or promises to do or to abstain from doing, something, such act or abstinence or promise is called a consideration for the promise;
+- (e) Every promise and every set of promises, forming the consideration for each other, is an agreement;
+- (f) Promises which form the consideration or part of the consideration for each other, are called reciprocal promises;
+- (g) An agreement not enforceable by law is said to be void;
+- (h) An agreement enforceable by law is a contract;
+- (i) An agreement which is enforceable by law at the option of one or more of the parties thereto, but not at the option of the other or others, is a voidable contract;
+
+
+
+
+
+(j) A contract which ceases to be enforceable by law becomes void when it ceases to be enforceable.
+
+
+
+# Chapter I
+
+# Of the communication, acceptance and revocation of proposals
+
+# 3. Communication, acceptance and revocation of proposals
+
+The communication of proposals, the acceptance of proposals, and the revocation of proposals and acceptance, respectively, are deemed to be made by any act or omission of the party proposing, accepting or revoking, by which he intends to communicate such proposal, acceptance or revocation, or which has the effect of communicating it.
+
+# 4. Communication when complete
+
+The communication of a proposal is complete when it becomes to the knowledge of the person to whom it is made.
+
+The communication of an acceptance is complete - as against the proposer, when it is put in a course of transmission to him so as to be out of the power of the acceptor; as against the acceptor, when it comes to the knowledge of the proposer.
+
+The communication of a revocation is complete - as against the person who makes it, when it is put into a course of transmission to the person to whom it is made, so as to be out of the power of the person who makes it; as against the person to whom it is made, when it comes to his knowledge.
+
+# 5. Revocation of Proposals and acceptance
+
+A proposal may be revoked at any time before the communication of its acceptance is complete as against the proposer, but not afterwards.
+
+An acceptance may be revoked at any time before the communication of the acceptance is complete as against the acceptor, but not afterwards.
+
+# 6. Revocation how made
+
+A proposal is revoked -
+
+1. by the communication of notice of revocation by the proposer to the other party;
+2. by the lapse of the time prescribed in such proposal for its acceptance, or, if no time is so prescribed, by the lapse of a reasonable time, without communication of the acceptance;
+3. by the failure of the acceptor to fulfil a condition precedent to acceptance; or
+4. by the death or insanity of the proposer, if the fact of the death or insanity comes to the knowledge of the acceptor before acceptance.
+
+# 7. Acceptance must be absolute
+
+In order to convert a proposal into a promise the acceptance must -
+
+
+
+
+
+(1) be absolute and unqualified.
+
+(2) be expressed in some usual and reasonable manner, unless the proposal prescribes the manner in which it is to be accepted. If the proposal prescribes a manner in which it is to be accepted; and the acceptance is not made in such manner, the proposer may, within a reasonable time after the acceptance is communicated to him, insist that his proposal shall be accepted in the prescribed manner, and not otherwise; but; if he fails to do so, he accepts the acceptance.
+
+# 8. Acceptance by performing conditions, or receiving consideration
+
+Performance of the conditions of proposal, for the acceptance of any consideration for a reciprocal promise which may be offered with a proposal, is an acceptance of the proposal.
+
+# 9. Promise, express and implied
+
+In so far as the proposal or acceptance of any promise is made in words, the promise is said to be express. In so far as such proposal or acceptance is made otherwise than in words, the promise is said to be implied.
+
+
+
+
+
+# Chapter II   Of contracts, violable contracts and void agreements
+
+# 10. What agreements are contracts
+
+All agreements are contracts if they are made by the free consent of parties competent to contract, for a lawful consideration and with a lawful object, and are not hereby expressly declared to be void. Nothing herein contained shall affect any law in force in India, and not hereby expressly repealed, by which any contract is required to be made in writing or in the presence of witnesses, or any law relating to the registration of documents.
+
+# 11. Who are competent to contract
+
+Every person is competent to contract who is of the age of majority according to the law to which he is subject, and who is sound mind and is not disqualified from contracting by any law to which he is subject.
+
+# 12. What is a sound mind for the purposes of contracting
+
+A person is said to be of sound mind for the propose of making a contract, if, at the time when he makes it, he is capable of understanding it and of forming a rational judgement as to its effect upon his interest. A person who is usually of unsound mind, but occasionally of sound mind, may make a contract when he is of sound mind. A person who is usually of sound mind, but occasionally of unsound mind, may not make a contract when he is of unsound mind.
+
+# 13. "Consent" defined -
+
+Two or more person are said to consent when they agree upon the same thing in the same sense.
+
+# 14. "Free consent" defined -
+
+Consent is said to be free when it is not caused by -
+
+1. coercion, as defined in section 15, or
+2. undue influence, as defined in section 16, or
+3. fraud, as defined in section 17, or
+4. misrepresentation, as defined in section 18, or
+5. mistake, subject to the provisions of section 20,21, and 22.
+
+Consent is said to be so caused when it would not have been given but for the existence of such coercion, undue influence, fraud, misrepresentation, or mistake.
+
+# 15. "Coercion" defined
+
+
+
+
+"Coercion" is the committing, or threatening to commit, any act forbidden by the Indian Penal Code (45 of 1860) or the unlawful detaining, or threatening to detain, any property, to the prejudice of any person whatever, with the intention of causing any person to enter into an agreement.
+
+# 16. "Undue influence" defined
+
+(1) A contract is said to be induced by "undue influence" where the relations subsisting between the parties are such that one of the parties is in a position to dominate the will of the other and uses that position to obtain an unfair advantage over the other.
+
+(2) In particular and without prejudice to the generality of the foregoing principle, a person is deemed to be in a position to dominate the will of another -
+
+- (a) where he holds a real or apparent authority over the other, or where he stands in a fiduciary relation to the other; or
+- (b) where he makes a contract with a person whose mental capacity is temporarily or permanently affected by reason of age, illness, or mental or bodily distress.
+
+(3) Where a person who is in a position to dominate the will of another, enters into a contract with him, and the transaction appears, on the face of it or on the evidence adduced, to be unconscionable, the burden of proving that such contract was not induced by undue influence shall be upon the person in a position to dominate the will of the other.
+
+Nothing in the sub-section shall affect the provisions of section 111 of the Indian Evidence Act, 1872 (1 of 1872).
+
+# 17. "Fraud" defined
+
+"Fraud" means and includes any of the following acts committed by a party to a contract, or with his connivance, or by his agents, with intent to deceive another party thereto, his agent, or to induce him to enter into the contract;
+
+- (1) the suggestion as a fact, of that which is not true, by one who does not believe it to be true;
+- (2) the active concealment of a fact by one having knowledge or belief of the fact;
+- (3) a promise made without any intention of performing it;
+- (4) any other act fitted to deceive;
+- (5) any such act or omission as the law specially declares to be fraudulent.
+
+# 18. "Misrepresentation" defined
+
+"Misrepresentation" means and includes -
+
+(1) the positive assertion, in a manner not warranted by the information of the
+
+
+
+
+
+
+person making it, of that which is not true, though he believes it to be true;
+
+1. any breach of duty which, without an intent to deceive, gains an advantage to the person committing it, or anyone claiming under him; by misleading another to his prejudice, or to the prejudice of any one claiming under him;
+2. causing, however innocently, a party to an agreement, to make a mistake as to the substance of the thing which is subject of the agreement.
+
+# 19. Voidability of agreements without free consent
+
+When consent to an agreement is caused by coercion, fraud or misrepresentation, the agreement is a contract voidable at the option of the party whose consent was so caused. A party to contract, whose consent was caused by fraud or misrepresentation, may, if he thinks fit, insist that the contract shall be performed, and that he shall be put on the position in which he would have been if the representations made had been true.
+
+Exception: If such consent was caused by misrepresentation or by silence, fraudulent within the meaning of section 17, the contract, nevertheless, is not voidable, if the party whose consent was so caused had the means of discovering the truth with ordinary diligence.
+
+Explanation: A fraud or misrepresentation which did not cause the consent to a contract of the party on whom such fraud was practised, or to whom such misrepresentation was made, does not render a contract voidable.
+
+# 19-A. Power to set aside contract induced by undue influence
+
+When consent to an agreement is caused by undue influence, the agreement is a contract voidable at the option of the party whose consent was so caused.
+
+Any such contract may be set aside either absolutely or, if the party who was entitled to avoid it has received any benefit thereunder, upon such terms and conditions as to the Court may seem just.
+
+# 20. Agreement void where both parties are under mistake as to matter of fact
+
+Explanation: An erroneous opinion as to the value of the things which forms the subject-matter of the agreement, is not to be deemed a mistake as to a matter of fact.
+
+# 21. Effect of mistake as to law
+
+A contract is not voidable because it was caused by a mistake as to any law in force in India; but mistake as to a law not in force in India has the same effect as a mistake of fact.
+
+# 22. Contract caused by mistake of one party as to matter of fact
+
+A contract is not voidable merely because it was caused by one of the parties to it being under a mistake as to a matter of fact.
+
+
+
+
+
+# 23. What consideration and objects are lawful, and what not
+
+The consideration or object of an agreement is lawful, unless - It is forbidden by law; or is of such nature that, if permitted it would defeat the provisions of any law or is fraudulent; or involves or implies, injury to the person or property of another; or the Court regards it as immoral, or opposed to public policy.
+
+In each of these cases, the consideration or object of an agreement is said to be unlawful. Every agreement of which the object or consideration is unlawful is void.
+
+# 24. Agreements void, if consideration are objects unlawful in part
+
+If any part of a single consideration for one or more objects, or any one or any part of any one of several consideration of a single object, is unlawful, the agreement is void.
+
+# 25. Agreement without consideration, void, unless it is in writing and registered or is a promise to compensate for something done or is a promise to pay a debt barred by limitation law
+
+An agreement made without consideration is void, unless -
+
+1. it is expressed in writing and registered under the law for the time being in force for the registration of documents, and is made on account of natural love and affection between parties standing in a near relation to each other; or unless.
+2. it is a promise to compensate, wholly or in part, a person who has already voluntarily done something for the promisor, or something which the promisor was legally compellable to do; or unless.
+3. it is a promise, made in writing and signed by the person to be charged therewith or by his agent generally or specially authorised in that behalf, to pay wholly or in part debt of which the creditor might have enforced payment but for the law for the limitation of suits. In any of these cases, such an agreement is a contract.
+
+Explanation 1: Nothing in this section shall affect the validity, as between the donor and donee, of any gift actually made.
+
+Explanation 2: An agreement to which the consent of the promisor is freely given is not void merely because the consideration is inadequate; but the inadequacy of the consideration may be taken into account by the Court in determining the question whether the consent of the promisor was freely given.
+
+# 26. Agreement in restraint of marriage, void
+
+Every agreement in restraint of the marriage of any person, other than a minor, is void.
+
+# 27. Agreement in restraint of trade, void
+
+Every agreement by which anyone is restrained from exercising a lawful profession, trade or business of any kind, is to that extent void.
+
+
+
+
+Exception 1 : Saving of agreement not to carry on business of which good will is sold
+
+One who sells the goodwill of a business may agree with the buyer to refrain from carrying on a similar business, within specified local limits, so long as the buyer, or any person deriving title to the goodwill from him, carries on a like business therein, provided that such limits appear to the court reasonable, regard being had to the nature of the business.
+
+# 28. Agreements in restrain of legal proceedings, void
+
+Every agreement, by which any party thereto is restricted absolutely from enforcing his rights under or in respect of any contract, by the usual legal proceedings in the ordinary tribunals, or which limits the time within which he may thus enforce his rights, is void to the extent.
+
+Exception 1 : Saving of contract to refer to arbitration dispute that may arise. This section shall not render illegal contract, by which two or more persons agree that any dispute which may arise between them in respect of any subject or class of subject shall be referred to arbitration, and that only and amount awarded in such arbitration shall be recoverable in respect of the dispute so referred.
+
+Exception 2: Saving of contract to refer question that have already arisen - Nor shall this section render illegal any contract in writing, by which two or more persons agree to refer to arbitration any question between them which has already arisen, or affect any provision of any law in force for the time being as to reference to arbitration.
+
+# Related Judgements
+
+THYSSEN STAHLUNION GMBH v. STEEL AUTHORITY OF INDIA LTD.
+
+# 29. Agreements void for uncertainty
+
+Agreements, the meaning of which is not certain, or capable of being made certain, are void.
+
+# 30. Agreements by way of wager, void
+
+Agreements by way of wager are void; and no suit shall be brought for recovering anything alleged to be won on any wager, or entrusted to any person to abide the result of any game or other uncertain event on which may wager is made. Exception on favour of certain prizes for horse-racing: This section shall not be deemed to render unlawful a subscription or contribution, or agreement to subscribe or contribute, made or entered into for or toward any plate, prize or sum of money, of the value or amount of five hundred rupees or upwards, to be rewarded to the winner or winners of any horse-race.
+
+Section 294A of the Indian Penal Code not affected : Nothing in this section shall be deemed to legalize any transaction connected with horse-racing, to which the provisions of section 294A of the Indian Penal Code (45 of 1860) apply.
+
+
+
+
+
+# Chapter III
+
+# Of contingent contracts
+
+# 31. "Contingent contract" defined
+
+A "contingent contract" is a contract to do or not to do something, if some event, collateral to such contract, does or does not happen.
+
+# 32. Enforcement of Contracts contingent on an event happening
+
+Contingent contracts to do or not to do anything in an uncertain future event happens, cannot be enforced by law unless and until that event has happened. If the event becomes impossible, such contracts become void.
+
+# 33. Enforcement of contract contingent on an event not happening
+
+Contingent contracts to do or not to do anything if an uncertain future event does not happen, can be enforced when the happening of that event becomes impossible, and not before.
+
+# 34. When event on which contract is contingent to be deemed impossible, if it is the future conduct of a living person
+
+If the future event on which a contract is contingent is the way in which a person will act at an unspecified time, the event shall be considered to become impossible when such person does anything which renders it impossible that they should so act within any definite time, or otherwise than under further contingencies.
+
+# 35. When contracts become void, which are contingent on happening of specified event within fixed time
+
+Contingent contracts to do or not to do anything, if a specified uncertain event happens within a fixed time, become void, if, at the expiration of the time fixed, such event has not happened, or if, before the time fixed, such event becomes impossible.
+
+When contracts may be enforced, which are contingent on specified event not happening within fixed time: Contingent contracts to do or not to do anything, if a specified uncertain event does not happen within a fixed time, may be enforced by law when the time fixed has expired and such event has not happened, or before the time fixed has expired, if it becomes certain that such event will not happen.
+
+# 36. Agreements contingent on impossible event void
+
+Contingent agreements to do or not to do anything, if an impossible event happens, are void, whether the impossibility of the event is known or not to the parties to the agreement at the time when it is made.
+
+
+
+
+# Chapter IV
+
+# Of the performance of contracts
+
+# Contracts which must be performed
+
+37. Obligations of parties to contract
+
+The parties to a contract must either perform, or offer to perform, their respective promises, unless such performance is dispensed with or excused under the provision of this Act, or of any other law.
+
+Promises bind the representative of the promisor in case of the death of such promisors before performance, unless a contrary intention appears from the contract.
+
+38. Effect of refusal to accept offer of performance
+
+Where a promisor has made an offer of performance to the promisee, and the offer has not been accepted, the promisor is not responsible for non-performance, nor does he thereby lose his rights under the contract.
+
+Every such offer must fulfil the following conditions -
+
+1. it must be unconditional;
+2. it must be made at a proper time and place, and under such circumstances that the person to whom it is made may have a reasonable opportunity of ascertaining that the person by whom it is been made is able and willing there and then to do the whole of what he is bound by his promise to do;
+3. if the offer is an offer to deliver anything to the promisee, the promisee must have a reasonable opportunity of seeing that the thing offered is the thing which the promisor is bound by his promise to deliver. An offer to one of several joint promisees has the same legal consequences as an offer to all of them.
+
+39. Effect of refusal of party to perform promise wholly
+
+When a party to a contract has refused to perform, or disabled himself from performing, his promise in its entirety, the promisee may put an end to the contract, unless he has signified, by words or conduct, his acquiescence in its continuance.
+
+40. Person by whom promise is to be performed
+
+If it appears from the nature of the case that it was the intention of the parties to any contract that any promise contained in it should be performed by the promisor himself, such promise must be performed by the promisor.
+
+In other cases, the promisor or his representative may employ a competent person to perform it.
+
+41. Effect of accepting performance from this person
+
+
+
+
+
+
+
+When a promisee accepts performance of the promise from a third person, he cannot afterwards enforce it against the promisor.
+
+# 42. Devolution of joint liabilities
+
+When two or more persons have made a joint promise, then, unless a contrary intention appears by the contract, all such persons, during their joint lives, and, after the death of any of them, his representative jointly with the survivor or survivors, and, after the death of the last survivor the representatives of all jointly, must fulfil the promise.
+
+# 43. Any one of joint promisors may be compelled to perform
+
+When two or more persons make a joint promise, the promise may, in the absence of express agreements to the contrary, compel any one or more of such joint promisors to perform the whole promise.
+
+Each promisor may compel contribution: Each of two or more joint promisors may compel every other joint promisor to contribute equally with himself to the performance of the promise, unless a contrary intention appears from the contract.
+
+Sharing of loss by default in contribution: If any one of two or more joint promisors make default in such contribution, the remaining joint promisors must bear the loss arising from such default in equal shares.
+
+Explanation: Nothing in this section shall prevent a surety from recovering, from his principal, payments made by the surety on behalf of the principal, or entitle the principal to recover anything from the surety on account of payments made by the principal.
+
+# 44. Effect of release of one joint promisor
+
+Where two or more persons have made a joint promise, a release of one of such joint promisors by the promisee does not discharge the other joint promisor, neither does it free the joint promisor so released from responsibility to the other joint promisor or joint promisors.
+
+# 45. Devolution of joint rights
+
+When a person has made a promise to two or more persons jointly, then unless contrary intention appears from the contract, the right to claim performance rests, as between him and them, with them during their joint lives, and, after the death of any one of them, with the representative of such deceased person jointly with the survivor or survivors, and, after the death of the last survivor, with the representatives of all jointly.
+
+# 46. Time for performance of promise, where no application is to be made and no time is specified
+
+Where, by the contract, a promisor is to perform his promise without application by the promisee, and no time for performance is specified, the engagement must be performed within a reasonable time.
+
+
+
+
+
+
+# 47. Time and place for performance of promise, where time is specified and no application to be made
+
+When a promise is to be performed on a certain day, and the promisor has undertaken to perform it without the application by the promisee, the promisor may perform it at any time during the usual hours of business on such day and at the place at which the promise ought to be performed.
+
+# 48. Application for performance on certain day to be at proper time and place
+
+When a promise is to be performed on a certain day, and the promisor has not undertaken to perform it without application by the promisee, it is the duty of the promisee to apply for the performance at a proper place within the usual hours of business.
+
+Explanation: The question "what is proper time and place" is, in each particular case, a question of fact.
+
+# 49. Place for the performance of promise, where no application to be made and no place fixed for performance
+
+When a promise is to be performed without application by the promisee, and no place is fixed for the performance of it, it is the duty of the promisor to apply to the promisee to appoint a reasonable place for the performance of the promise, and to perform it at such a place.
+
+# 50. Performance in manner or at time prescribed or sanctioned by promise
+
+The performance of any promise may be made in any manner, or at any time which the promisee prescribes or sanctions.
+
+# 51. Promisor not bound to perform, unless reciprocal promisee ready and willing to perform
+
+When a contract consists of reciprocal promises to be simultaneously performed, no promisor need perform his promise unless the promisee is ready and willing to perform his reciprocal promise.
+
+# 52. Order of performance of reciprocal promises
+
+Where the order in which reciprocal promises are to be performed is expressly fixed by the contract, they shall be performed in that order, and where the order is not expressly fixed by the contract, they shall be performed in that order which the nature of transaction requires.
+
+
+
+
+
+
+
+# 53. Liability of party preventing event on which contract is to take effect
+
+When a contract contains reciprocal promises and one party to the contract prevents the other from performing his promise, the contract becomes voidable at the option of the party so prevented; and he is entitled to compensation from the other party for any loss which he may sustain in consequence of the non-performance of the contract.
+
+# 54. Effect of default as to the promise which should be performed, in contract consisting of reciprocal promises
+
+When a contract consists of reciprocal promises, such that one of them cannot be performed, or that its performance cannot be claimed till the other has been performed, and the promisor of the promise last mentioned fails to perform it, such promisor cannot claim the performance of the reciprocal promise, and must make compensation to the other party to the contract for any loss which such other party may sustain by the non-performance of the contract.
+
+# 55. Effect of failure to perform a fixed time, in contract in which time is essential
+
+When a party to a contract promises to do a certain thing at or before a specified time, or certain things at or before a specified time and fails to do such thing at or before a specified time, the contract or so much of it as has not been performed, becomes voidable at the option of the promisee, if the intention of the parties was that time should be of essence of the contract.
+
+Effect of such failure when time is not essential: If it was not the intention of the parties that time should be of the essence of the contract, the contract does not become voidable by the failure to do such thing at or before the specified time; but the promisee is entitled to compensation from the promisor for any loss occasioned to him by such failure.
+
+Effect of acceptance of performance at time other than agreed upon: If, in case of a contract voidable on account of the promisor's failure to perform his promise at the time agreed, the promisee accepts performance of such promise at any time other than agreed, the promisee cannot claim compensation of any loss occasioned by the non-performance of the promise at the time agreed, unless, at the time of acceptance, he give notice to the promisor of his intention to do so.
+
+# 56. Agreement to do impossible act
+
+An agreement to do an act impossible in itself is void. Contract to do act afterwards becoming impossible or unlawful: A contract to do an act which, after the contract is made, becomes impossible or, by reason of some event which the promisor could not prevent, unlawful, becomes void when the act becomes impossible or unlawful.
+
+Compensation for loss through non-performance of act known to be impossible or unlawful: Where one person has promised to do something which he knew or, with reasonable diligence, might have known, and which the promisee did not know to be impossible or unlawful, such promisor must make compensation to such promisee for any loss which such promisee sustains through the non-performance of the promise.
+
+
+
+
+
+
+
+# 57. Reciprocal promise to do things legal, and also other things illegal
+
+Where persons reciprocally promise, firstly to do certain things which are legal, and, secondly under specified circumstances, to do certain other things which are illegal, the first set of promise is a contract, but the second is a void agreement.
+
+# 58. Alternative promise, one branch being illegal
+
+In the case of an alternative promise, one branch of which is legal and other other illegal, the legal branch alone can be enforced.
+
+# 59. Application of payment where debt to be discharged is indicated
+
+Where a debtor, owing several distinct debts to one person, makes a payment to him, either with express intimation, or under circumstances implying, that the payment is to be applied to the discharge of some particular debt, the payment if accepted, must be applied accordingly.
+
+# 60. Application of payment where debt to be discharged is not indicated
+
+Where the debtor has omitted to intimate, and there are no other circumstances indicating to which debt the payment is to be applied, the creditor may apply it at his discretion to any lawful debt actually due and payable to him from the debtor, whether its recovery is or is not barred by the law in force for the time being as to the limitations of suits.
+
+# 61. Application of payment where neither party appropriates
+
+Where neither party makes any appropriation, the payment shall be applied in discharge of the debts in order of time, whether they are or are not barred by the law in force for the time being as to the limitation of suits. If the debts are of equal standing, the payment shall be applied in discharge of each proportionably.
+
+# 62. Effect of novation, rescission, and alteration of contract
+
+If the parties to a contract agree to substitute a new contract for it, or to rescind or alter it, the original contract need not be performed.
+
+# 63. Promise may dispense with or remit performance of promise
+
+Every promise may dispense with or remit, wholly or in part, the performance of the promise made to him, or may extend the time for such performance, or may accept instead of it any satisfaction which he thinks fit.
+
+# 64. Consequence of rescission of voidable contract
+
+When a person at whose option a contract is voidable rescinds it, the other party thereto need to perform any promise therein contained in which he is the promisor. The party rescinding a voidable contract shall, if he have received any benefit thereunder from another party to such contract restore such benefit, so far as may be, to the person from whom it was received.
+
+
+
+
+
+# 65. Obligation of person who has received advantage under void agreement, or contract that becomes void
+
+When an agreement is discovered to be void, or when a contract becomes void, any person who has received any advantage under such agreement or contract is bound to restore it, or to make compensation for it, to the person from whom he received it.
+
+# 66. Mode of communicating or revoking rescission of voidable contract
+
+The rescission of a voidable contract may be communicated or revoked in the same manner, and subject to some rules, as apply to the communication or revocation of the proposal.
+
+# 67. Effect of neglect or promise to afford promisor reasonable facilities for performance
+
+If any promisee neglects or refuses to afford the promisee reasonable facilities for the performance of his promise, the promisor is excused by such neglect or refusal as to non-performance caused thereby.
+
+
+
+
+# Chapter V
+
+# Of certain relations resembling those created by contract
+
+68. Claim for necessaries supplied to person incapable of contracting, or on his account
+
+If a person, incapable of entering into a contract, or anyone whom he is legally bound to support, is supplied by another person with necessaries suited to his condition in life, the person who has furnished such supplies is entitled to be reimbursed from the property of such incapable person.
+
+69. Reimbursement of person paying money due by another, in payment of which he is interested
+
+A person who is interested in the payment of money which another is bound by law to pay, and who therefore pays it, is entitled to be reimbursed by the other.
+
+70. Obligation of person enjoying benefit of non-gratuitous act
+
+Where a person lawfully does anything for another person, or delivers anything to him, not intending to do so gratuitously, and such another person enjoys the benefit thereof, the latter is bound to make compensation to the former in respect of, or to restore, the thing so done or delivered.
+
+71. Responsibility of finder of goods
+
+A person who finds goods belonging to another, and takes them into his custody, is subject to the same responsibility as a bailee.
+
+72. Liability of person to whom money is paid, or thing delivered, by mistake or under coercion
+
+A person to whom money has been paid, or anything delivered, by mistake or under coercion, must repay or return it.
+
+
+
+
+
+# Chapter VI
+
+# Of the consequences of breach of contract
+
+# 73. Compensation of loss or damage caused by breach of contract
+
+When a contract has been broken, the party who suffers by such breach is entitled to receive, from the party who has broken the contract, compensation for any loss or damage caused to him thereby, which naturally arose in the usual course of things from such breach, or which the parties knew, when they made the contract, to be likely to result from the breach of it.
+
+Such compensation is not to be given for any remote and indirect loss of damage sustained by reason of the breach.
+
+Compensation for failure to discharge obligation resembling those created by contract: When an obligation resembling those created by contract has been incurred and has not been discharged, any person injured by the failure to discharge it is entitled to receive the same compensation from the party in default, as if such person had contracted to discharge it and had broken his contract.
+
+Explanation: In estimating the loss or damage arising from a breach of contract, the means which existed of remedying the inconvenience caused by non-performance of the contract must be taken into account.
+
+# 74. Compensation of breach of contract where penalty stipulated for
+
+When a contract has been broken, if a sum is named in the contract as the amount to be paid in case of such breach, or if the contract contains any other stipulation by way of penalty, the party complaining of the breach is entitled, whether or not actual damage or loss is proved to have been caused thereby, to receive from the party who has broken the contract reasonable compensation not exceeding the amount so named or, as the case may be, the penalty stipulated for.
+
+Explanation: A stipulation for increased interest from the date of default may be a stipulation by way of penalty.
+
+Explanation: When any person enters into any bail bond, recognisance or other instrument of the same nature or, under the provisions of any law, or under the orders of the Central Government or of any State Government, gives any bond for the performance of any public duty or act in which the public are interested, he shall be liable, upon breach of the condition of any such instrument, to pay the whole sum mentioned therein.
+
+# 75. Party rightfully rescinding contract, entitled to compensation
+
+A person who rightfully rescinds a contract is entitled to consideration for any damage which he has sustained through the no fulfillment of the contract.
+
+
+
+# Chapter VII
+
+# Sale of goods
+
+Section 76 to 123 – Repealed
+
+
+
+
+# Chapter VIII  Of indemnity and guarantee
+
+# 124. "Contract of indemnity" defined
+
+A contract by which one party promises to save the other from loss caused to him by the contract of the promisor himself, or by the conduct of any other person, is called a "contract of indemnity".
+
+# 125. Right of indemnity-holder when sued -
+
+The promisee in a contract of indemnity, acting within the scope of his authority, is entitled to recover from the promisor-
+
+1. all damages which he may be compelled to pay in any suit in respect of any matter to which the promise to indemnify applies;
+2. all costs which he may be compelled to pay in any such suit, if in bringing of defending it, he did not contravene the orders of the promisor, and acted as it would have been prudent for him to act in the absence of any contract of indemnity, or if the promisor authorised him to bring or defend the suit;
+3. all sums which he may have paid under the terms of any compromise of any such suit, if the compromise was not contract to the orders of the promisor, and was one which it would have been prudent for the promise to make in the absence of any contract of indemnity, or if the promisor authorised him to compromise the suit.
+
+# 126. "Contract of guarantee", "surety", "principal debtor" and "creditor" -
+
+A "contract of guarantee" is a contract to perform the promise, or discharge the liability, of a third person in case of his default. The person who gives the guarantee is called the "surety", the person in respect of whose default the guarantee is given is called the "principal debtor", and the person to whom the guarantee is given is called the "creditor". A guarantee may be either oral or written.
+
+# 127. Consideration for guarantee
+
+Anything done, or any promise made, for the benefit of the principal debtor, may be a sufficient consideration to the surety for giving the guarantee.
+
+# 128. Surety's liability
+
+The liability of the surety is co-extensive with that of the principal debtor, unless it is otherwise provided by the contract.
+
+# 129. Continuing guarantee
+
+A guarantee which extends to a series of transaction, is called, a "continuing guarantee".
+
+
+
+
+
+
+# 130. Revocation of continuing guarantee
+
+A continuing guarantee may at any time be revoked by the surety, as to future transactions, by notice to the creditor.
+
+# 131. Revocation of continuing guarantee by surety' death
+
+The death of the surety operates, in the absence of any contract to the contrary, as a revocation of a continuing guarantee, so far as regards future transactions.
+
+# 132. Liability of two persons, primarily liable, not affected by arrangement between them that one shall be surety on other's default
+
+Where two persons contract with a third person to undertake a certain liability, and also contract with each other that one of them shall be liable only on the default of the other, the third person not being a party to such contract, the liability of each of such two persons to the third person under the first contract is not affected by the existence of the second contract, although such third person may have been aware of its existence.
+
+# 133. Discharge of surety by variance in terms of contract
+
+Any variance made without the surety's consent, in the terms of the contract between the principal [debtor] and the creditor, discharges the surety as to transactions subsequent to the variance.
+
+# 134. Discharge of surety by release or discharge of principal debtor
+
+The surety is discharged by any contract between the creditor and the principal debtor, by which the principal debtor is released, or by any act or omission of the creditor, the legal consequence of which is the discharge of the principal debtor.
+
+# 135. Discharge of surety when creditor compounds with, gives time to, or agrees not to sue, principal debtor
+
+A contract between the creditor and the principal debtor, by which the creditor makes a composition with, or promises to give time, or not to sue, the principal debtor, discharges the surety, unless the surety assents to such contract.
+
+# 136. Surety not discharged when agreement made with third person to give time to principal debtor
+
+Where a contract to give time to the principal debtor is made by the creditor with a third person, and not with the principal debtor, the surety is not discharged.
+
+# 137. Creditor's forbearance to sue does not discharge surety
+
+Mere forbearance on the part of the creditor to sue the principal debtor or to enforce any other remedy against him, does not, in the absence of any provision in the guarantee to the contrary, discharge the surety.
+
+
+
+
+
+
+# 138. Release of one co-surety does not discharge other
+
+Where there are co-sureties, a release by the creditor of one of them does not discharge the others neither does set free the surety so released from his responsibility to the other sureties.
+
+# 139. Discharge of surety by creditor's act or omission impairing surety's eventual remedy
+
+If the creditor does any act which is inconsistent with the right of the surety, or omits to do any act which his duty to the surety requires him to do, and the eventual remedy of the surety himself against the principal debtor is thereby impaired, the surety is discharged.
+
+# 140. Rights of surety on payment or performance
+
+Where a guaranteed debt has become due, or default of the principal debtor to perform a guaranteed duty has taken place, the surety upon payment or performance of all that he is liable for, is invested with all the rights which the creditor had against the principal debtor.
+
+# 141. Surety's right to benefit of creditor's securities
+
+A surety is entitled to the benefit of every security which the creditor has against the principal debtor at the time when the contract of suretyship entered into, whether the surety knows of the existence of such security or not; and if the creditor loses, or without the consent of the surety, parts with such security, the surety is discharged to the extent of the value of the security.
+
+# 142. Guarantee obtained by misrepresentation, invalid
+
+Any guarantee which has been obtained by means of misrepresentation made by the creditor, or with his knowledge and assent, concerning a material part of the transaction, is invalid.
+
+# 143. Guarantee obtained by concealment, invalid
+
+Any guarantee which the creditor has obtained by means of keeping silence as to material circumstances, is invalid.
+
+# 144. Guarantee on contract that creditor shall not act on it until co-surety joins
+
+Where a person gives a guarantee upon a contract that the creditor shall not act upon it until another person has joined in it as co-surety, the guarantee is not valid that other person does not join.
+
+# 145. Implied promise to indemnify surety
+
+In every contract of guarantee there is an implied promise by the principal debtor to indemnify the surety, and the surety is entitled to recover from the principal debtor.
+
+
+
+
+
+whatever sum he has rightfully paid under the guarantee, but no sums which he has paid wrongfully.
+
+# 146. Co-sureties liable to contribute equally -
+
+Where two or more persons are co-sureties for the same debt or duty, either jointly or severally, and whether under the same or different contract, and whether with or without the knowledge of each other the co-sureties, in the absence of any contract to the contrary, are liable, as between themselves, to pay each an equal share of the whole debt, or of that part of it which remains unpaid by the principal debtor.
+
+# 147. Liability of co-sureties bound in different sums -
+
+Co-sureties who are bound in different sums are liable to pay equally as far as the limits of their respective obligations permit.
+
+
+
+Chapter IX  Of bailment
+
+# 148. "Bailment", "bailor" and "bailee" defined -
+
+A "bailment" is the delivery of goods by one person to another for some purpose, upon a contract that they shall, when the purpose is accomplished, be returned or otherwise disposed of according to the direction of the person delivering them. The person delivering the goods is called the "bailor". The person to whom they are delivered is called the "bailee". Explanation: If a person already in possession of the goods of other contracts hold them as a bailee, he thereby becomes the bailee, and the owner becomes the bailor of such goods, although they may not have been delivered by way of bailment.
+
+# 149. Delivery to bailee how made -
+
+The delivery to be bailee may be made by doing anything which has the effect of putting the goods in the possession of the intended bailee or of any person authorised to hold them on his behalf.
+
+# 150. Bailor's duty to disclose faults in goods bailed -
+
+The bailor is bound to disclose to the bailee faults in the goods bailed, of which the bailor is aware, and which materially interfere with the use of them, or expose the bailee to extraordinary risk; and if he does not make such disclosure, he is responsible for damage arising to the bailee directly from such faults.
+
+# 151. Care to be taken by bailee -
+
+In all cases of bailment the bailee is bound to take as much care of the goods bailed to him as a man of ordinary prudence would, under similar circumstances, take of his own goods of the same bulk, quantity and value as the goods bailed.
+
+# 152. Bailee when not liable for loss, etc, of thing bailed -
+
+The bailee, in the absence of any special contract, is not responsible for the loss, destruction or deterioration of the thing bailed, if he has taken the amount of care of it described in section 151.
+
+# 153. Termination of bailment by bailee's act inconsistent with conditions -
+
+A contract of bailment is voidable at the option of the bailor, if the bailee does any act with regard to the goods bailed, inconsistent with the conditions of the bailment.
+
+# 154. Liability of bailee making unauthorised use of goods bailed -
+
+If the bailee makes any use of the goods bailed which is not according to the conditions of the bailment, he is liable to make compensation to the bailor for any damage arising to the goods from or during such use of them.
+
+
+
+
+
+# 155. Effect of mixture with bailor's consent, of his goods with bailee's
+
+If the bailee, with the consent of the bailor, mixes the goods of the bailor with his own goods, the bailor and the bailee shall have an interest, in proportion to their respective shares, in the mixture thus produced.
+
+# 156. Effect of mixture, without bailor's consent, when the goods can be separated
+
+If the bailee, without the consent of the bailor, mixes the goods of the bailor with his own goods and the goods can be separated or divided, the property in the goods remains in the parties respectively; but the bailee is bound to bear the expense of separation or division, and any damage arising from the mixture.
+
+# 157. Effect of mixture, without bailor's consent, when the goods cannot be separated
+
+If the bailee, without the consent of the bailor, mixes the goods of the bailor with his own goods in such a manner that it is impossible to separate the goods bailed from the other goods, and deliver them back, the bailor is entitled to be compensated by the bailee for the loss of the goods.
+
+# 158. Repayment, by bailor, of necessary expenses
+
+Where, by the conditions of the bailment, the goods are to be kept or to be carried, or to have work done upon them by the bailee for the bailor, and the bailee is to receive no remuneration, the bailor shall repay to the bailee the necessary expenses incurred by him for the purpose of the bailment.
+
+# 159. Restoration of goods lent gratuitously
+
+The lender of a thing for use may at any time require its return, if the loan was gratuitous, even though he lent it for a specified time or purpose. But if, on the faith of such loan made for a specified time or purpose, the borrower has acted in such a manner that the return of the thing lent before the time agreed upon would cause him losses exceeding the benefit actually derived by him from the loan, the lender must, if he compels the return, indemnify the borrower for the amount in which the loss so occasioned exceeds the benefits so derived.
+
+# 160. Return of goods bailed, on expiration of time or accomplishment of purpose
+
+It is the duty of the bailee to return, or deliver according to the bailor's directions, the goods bailed, without demand, as soon as the time for which they were bailed has expired, or the purpose for which they were bailed has been accomplished.
+
+# 161. Bailee's responsibility when goods are not duly returned
+
+If by the fault of the bailee, the goods are not returned, delivered or tendered at the proper time, he is responsible to the bailor for any loss, destruction or deterioration of the goods from that time.
+
+
+
+
+
+
+# 162. Termination of gratuitous bailment by death
+
+A gratuitous bailment is terminated by the death either of the bailor or of the bailee.
+
+# 163. Bailer entitled to increase or profit from goods bailed
+
+In the absence of any contract to the contrary, the bailee is bound to deliver to the bailer, or according to his directions, any increase or profit which may have accrued from the goods bailed.
+
+# 164. Bailor's responsibility to bailee
+
+The bailor is responsible to the bailee for any loss which the bailee may sustain the reason that the bailor was not entitled to make the bailment, or to receive back the goods, or to give directions, respecting them.
+
+# 165. Bailment by several joint owners
+
+If several joint owners of goods bail them, the bailee may deliver them back to, or according to the directions of, one joint owner without the consent of all in the absence of any agreement to the contrary.
+
+# 166. Bailee not responsible on redelivery to bailor without title
+
+If the bailor has no title to the goods, and the bailee, in good faith, delivers them back to, or according to the directions of the bailor, the bailee is not responsible to the owner in respect of such deliver.
+
+# 167. Right of third person claiming goods bailed
+
+If a person, other than the bailor, claims goods bailed he may apply to the court to stop delivery of the goods to the bailor, and to decide the title to the goods.
+
+# 168. Right to finder of goods may sue for specified reward offered
+
+The finder of goods has no right to use the owner for compensation for trouble and expense, voluntary incurred by him to preserve the goods and to find out the owner; but he may retain the goods again the owner until he receive such compensation; and where the owner has offered a specific required for the return of goods lost, the finder may sue for such reward, and may retain the goods until he received it.
+
+# 169. When finder of thing commonly on sale may sell it
+
+When thing which is commonly the subject of sale is lost, if the owner cannot with reasonable diligence be found, or if he refuses upon demand, to pay the lawful charges of the finder, the finder may sell it -
+
+1. when the thing is in danger of perishing or of losing the greater part of its value, or
+2. when the lawful charges of the finder, in respect of the thing found, amount to two-thirds of its value.
+
+
+
+
+
+
+# 170. Bailee's particular lien
+
+Where the bailee has, in accordance with the purpose of the bailment, rendered any service involving the exercise of labour or skill in respect of the goods bailed he has in the absence of a contract to the contrary, a right to retain such goods until he receives due remuneration for the services he has rendered in respect of them.
+
+# 171. General lien of bankers, factors, wharfinger, attorneys and policy brokers
+
+Bankers, factor, wharfingers, attorneys of a High Court and policy brokers may, in the absence of a contract to the contrary, retain as a security for a general balance of account, any goods bailed to them; but no other person have a right retain, as a security for which balance, goods, bailed to them, unless is an express contract to that effect.
+
+# 172. "Pledge", "Pawnor", and "Pawnee" defined
+
+The bailment of goods as security for payment of a debt or performance of a promise is called "pledge". The bailor is in this case called "pawnor". The bailee is called "pawnee".
+
+# 173. Pawnee's right of retainer
+
+The pawnee may retain the goods pledged, not only for payment of the debt or the performance of the promise, but for the interests of the debt, and all necessary expenses incurred by him in respect to the possession or for the preservation of the goods pledged.
+
+# 174. Pawnee not to retain for debt or promise other than for which goods pledged - presumption in case of subsequent advances
+
+The pawnee shall not, in the absence of a contract to that effect, retain the goods pledged for any debt or promise of other than the debtor promise for which they are pledged; but such contract, in the absence of anything to the contrary, shall be presumed in regard to subsequent advances made by the pawnee.
+
+# 175. Pawnee's right as to extraordinary expenses incurred
+
+The pawnee is entitled to receive from the pawnor extraordinary expenses incurred by him for the preservation of the goods pledged.
+
+# 176. Pawnee's right where pawnor makes default
+
+If the pawnor makes default in payment of the debt, or performance, at the stipulated time, or the promise, in respect of which the goods were pledged, the pawnee may bring as suit against the pawnor upon the debt or promise, and retain the goods pledged as a collateral security; or he may sell the thing pledged, on giving the pawnor reasonable notice of the sale.
+
+If the proceeds of such sale are less than the amount due in respect of the debt or promise, the pawnor is still liable to pay the balance.
+
+
+
+
+
+
+# 177. Defaulting pawnor's right to redeem -
+
+If a time is stipulated for the payment of the debt, or performance of the promise, for which the pledged is made, and the pawnor makes default in payment of the debt or performance of the promise at the stipulated time, he may redeem the goods pledged at any subsequent time before the actual sale of them; but he must, on that case, pay, in addition, any expenses which have arisen from his default.
+
+# 178. Pledge by mercantile agent -
+
+Where a mercantile agent is, with the consent of the owner, in possession of goods or the documents of title to goods, any pledge made by him, when acting in the ordinary course of business of a mercantile agent, shall be as valid as if he were expressly authorised by the owner of the goods to make the same; provided that the pawnee acts in good faith and has not at the time of the pledge notice that the pawnor has not authority to pledge.
+
+Explanation : In this section, the expression "mercantile agent" and "documents of title" shall have the meanings assigned to them in the Indian Sale of Goods Act, 1930 (3 of 1930).
+
+# 178A. Pledge by person in possession under voidable contract -
+
+When the pawnor has obtained possession of the other goods pledged by him under a contract voidable under section 19 of section 19A, but the contract has not been rescinded at the time of the pledge, the pawnee acquired a goods title to the goods, provided he acts in good faith and without notice of the pawnor's defect of title.
+
+# 179. Pledge where pawnor has only a limited interest -
+
+Where person pledges goods in which he has only a limited interest, the pledge is valid to the extent of that interest.
+
+# 180. Suit by bailor or bailee against wrong-doer -
+
+If a third person wrongfully deprives the bailee of the use of possession of goods bailed, or does them any injury, the bailee is entitled to use such remedies as the owner might have used in the like case if no bailment has been made; and either the bailor or the bailee may bring a suit against a third person for such deprivation or injury.
+
+# 181. Appointment of relief or compensation obtained by such suit -
+
+Whatever is obtained by way of relief of compensation in any such suit shall, as between the bailor and the bailee, be dealt with according to their respective interests.
+
+
+
+
+
+
+# Chapter X  Agency, Appointment and authority of agents
+
+182. "Agent" and "principal" defined -
+
+An "agent" is a person employed to do any act for another, or to represent another in dealing with third persons. The person for whom such act is done, or who is so represented, is called the "principal".
+
+183. Who may employ agent -
+
+Any person who is of the age of majority according to the law to which he is subject, and who is of sound mind, may employ an agent.
+
+184. Who may be an agent -
+
+As between the principal and third persons, any person may become an agent, but no person who is not of the age of majority and sound mind can become an agent, so as to be responsible to the principal according to the provisions in that behalf herein contained.
+
+185. Consideration not necessary -
+
+No consideration is necessary to create an agency;
+
+186. Agent's authority may be expressed or implied -
+
+The authority of an agent may be expressed or implied.
+
+187. Definitions of express and implied -
+
+An authority is said to be express when it is given by words spoken or written. An authority is said to be implied when it is to be inferred from the circumstances of the case; and things spoken or written, or the ordinary course of dealing, may be accounted circumstances of the case.
+
+188. Extent of agent's authority -
+
+An agent, having an authority to do an act, has authority do every lawful thing which is necessary in order to do so such act. An agent having an authority to carry on a business, has authority to do every lawful thing necessary for the purpose, or usually done in the course, of conducting such business.
+
+189. Agent's authority in an emergency -
+
+An agent has authority, in an emergency, to do all such acts for the purpose of protecting his principal from loss and would be done by a person of ordinary prudence, in his own case, under similar circumstances.
+
+190. When agent cannot delegate -
+
+An agent cannot lawful employ another to perform acts which he has expressly or
+
+
+
+
+
+
+# 191. "Sub-agent" defined -
+
+A "sub-agent" is a person employed by, and acting under the control of, the original agent in the business of the agency.
+
+# 192. Representation of principal by sub-agent properly appointed -
+
+Where a sub-agent is properly appointed, the principal is, so far as regards third persons, represented by the sub-agent, and is bound by and responsible for his acts, as if he were an agent originally appointed by the principal.
+
+Agent's responsibility for sub-agent: The agent is responsible to the principal for the acts of the sub-agent.
+
+Sub-agent's responsibility: The sub-agent is responsible for his acts to the agent, but not to the principal, except in cases of fraud, or wilful wrong.
+
+# 193. Agent's responsibility for sub-agent appointed without authority
+
+Where an agent, without having authority to do so, has appointed a person to act as a sub-agent stands towards such person in the relation of a principal to an agent, and is responsible for his act both to the principal and to third person; the principal is not represented, by or responsible for the acts of the person so employed, nor is that person responsible to the principal.
+
+# 194. Relation between principal and person duly appointed by agent to act in business of agency -
+
+When an agent, holding an express or implied authority to name another person to act for the principal in the business of the agency, has named another person accordingly, such person is not a sub-agent, but an agent of the principal for such part of the business of the agency as is entrusted to him.
+
+# 195. Agent's duty in naming such person -
+
+In selecting such agent for his principal, an agent is bound to exercise the same amount of discretion as a man of ordinary prudence would exercise in his own case; and, if he does this, he is not responsible to the principal for the acts of negligence of the agent so selected.
+
+# 196. Right of person as to acts done for him without his authority, effect of ratification -
+
+Where acts are done by one person on behalf of another, but without his knowledge or authority, he may elect to ratify or to disown such acts. If he ratifies them, the same effects will follow as if they had been performed by his authority.
+
+# 197. Ratification may be expressed or implied -
+
+Ratification may be expressed or may be implied in the conduct of the person on whose behalf the acts are done.
+
+
+
+
+
+
+# 198. Knowledge requisite for valid ratification
+
+No valid ratification can be made by a person whose knowledge of the facts of the case is materially defective.
+
+# 199. Effect of ratifying unauthorized act forming part of a transaction
+
+A person ratifying any unauthorized act done on his behalf ratifies the whole of the transaction of which such act formed a part.
+
+# 200. Ratification of unauthorized act cannot injure third person
+
+An act done by one person on behalf of another, without such other person's authority, which, if done with authority, would have the effect of subjecting a third person to damages, or of terminating any right or interest of a third person, cannot, by ratification, be made to have such effect.
+
+# 201. Termination of Agency
+
+An agency is terminated by the principal revoking his authority, or by the agent renouncing the business of the agency; or by the business of the agency being completed; or by either the principal or agent dying or becoming of unsound mind; or by the principal being adjudicated an insolvent under the provisions of any Act for the time being in force for the relief of insolvent debtors.
+
+# 202. Termination of Agency, where agent has an interest in subject-matter
+
+Where the agent has himself an interest in the property which forms the subject-matter of the agency, the agency cannot, in the absence of an express contract, be terminated to the prejudice of such interest.
+
+# 203. When principal may revoke agent's authority
+
+The principal may, save as is otherwise provided by the last preceding section, revoke the authority given to his agent at any time before the authority has been exercised so as to bind the principal.
+
+# 204. Revocation where authority has been partly exercised
+
+The principal cannot revoke the authority given to his agent after the authority has been partly exercised, so far as regards such acts and obligations as arise from acts already done in the agency.
+
+# 205. Compensation for revocation by principal, or renunciation by agent
+
+Where there is an express or implied contract that the agency should be continued for any period of time, the principal must make compensation to the agent, or the agent to the principal, as the case may be, for any previous revocation or renunciation of the agency without sufficient cause.
+
+
+
+
+
+
+# 206. Notice of revocation or renunciation -
+
+Reasonable notice must be given of such revocation or renunciation; otherwise the damage thereby resulting to the principal or the agent, as the case may be, must be made good to the one by the other.
+
+# 207. Revocation and Renunciation may be expressed or implied -
+
+Revocation and renunciation may be expressed or may be implied in the conduct of the principal or agent respectively.
+
+# 208. When termination of agent's authority takes effect as to agent, and as to third persons -
+
+The termination of the authority of an agent does not, so far as regards the agent, take effect before it becomes known to him, or, so far as regards third persons, before it becomes known to them.
+
+# 209. Agent's duty on termination of agency by principal's death or insanity -
+
+When an agency is terminated by the principal dying or becoming of unsound mind, the agent is bound to take, on behalf of the representatives of his late principal, all reasonable steps for the protection and preservation of the interests entrusted to him.
+
+# 210. Termination of Sub-agent's authority -
+
+The termination of the authority of an agent causes the termination (subject to the rules herein contained regarding the termination of an agent's authority) of the authority of all sub-agents appointed by him.
+
+# 211. Agent's duty in conducting principal's business -
+
+An agent is bound to conduct the business of his principal according to the directions given by the principal, or, in the absence of any such directions, according to the custom which prevails in doing business of the same kind at the place where the agent conducts such business. When the agent acts otherwise, if any loss be sustained, he must make it good to his principal, and, if any profit accrues, he must account for it.
+
+# 212. Skill and Diligence required from agent -
+
+An agent is bound to conduct the business of the agency with as much skill as is generally possessed by persons engaged in similar business, unless the principal has notice of his want of skill. The agent is always bound to act with reasonable diligence, and to use such skill as he possesses; and to make compensation to his principal in respect of the direct consequences of his own neglect, want of skill or misconduct, but not in respect of loss or damage which are indirectly or remotely caused by such neglect, want of skill or misconduct.
+
+
+
+
+
+
+# 213. Agent's accounts -
+
+An agent is bound to render proper accounts to his principal on demand.
+
+# 214. Agent's duty of communicate with principal -
+
+It is the duty of an agent, in cases of difficulty, to use all reasonable diligence in communicating with his principal, and in seeking to obtain his instructions.
+
+# 215. Right to principal when agent deals, on his own account, in business of agency without principal's consent -
+
+If an agent deals on his own account in the business of the agency, without first obtaining the consent of his principal and acquainting him with all material circumstances which have come to his own knowledge on the subject, the principal may repudiate the transaction, if the case shows either that any material fact has been dishonestly concealed from him by the agent, or that the dealings of the agent have been disadvantageous to him.
+
+# 216. Principal's right to benefit gained by agent dealing on his own account in business of agency -
+
+If an agent, without the knowledge of his principal, deals in the business of the agency on his own account instead of on account of his principal, the principal is entitled to claim from the agent any benefit which may have resulted to him from the transaction.
+
+# 217. Agent's right of retainer out of sums received on principal's account -
+
+An agent may retain, out of any sums received on account of the principal in the business of the agency, all moneys due to himself in respect of advances made or expenses properly incurred by him in conducting such business, and also such remuneration as may be payable to him for acting as agent.
+
+# 218. Agent's duty to pay sums received for principal -
+
+Subject to such deductions, the agent is bound to pay to his principal all sums received on his account.
+
+# 219. When agent's remuneration becomes due -
+
+In the absence of any special contract, payment for the performance of any act is not due to the agent until the completion of such act; but an agent may detain moneys received by him on account of goods sold, although the whole of the goods consigned to him for sale may not have been sold, or although the sale may not be actually complete.
+
+# 220. Agent not entitled to remuneration for business misconducted -
+
+An agent who is guilty of misconduct in the business of the agency is not entitled to any remuneration in respect of that part of the business which he has misconducted.
+
+
+
+
+
+
+# 221. Agent's lien on principal property -
+
+In the absence of any contract to the contrary, an agent is entitled to retain goods, papers, and other property, whether movable or immovable, of the principal received by him, until the amount due to himself for commission, disbursements and services in respect of the same has been paid or accounted for to him.
+
+# 222. Agent to be indemnified against consequences of lawful acts -
+
+The employer of an agent is bound to indemnify him against the consequences of all lawful acts done by such agent in exercise of the authority conferred upon him.
+
+# 223. Agent to be indemnified against consequences of acts done in good faith -
+
+Where one person employs another to do an act, and the agent does the act in good faith, the employer is liable to indemnify the agent against the consequences of that act, though it causes an injury to the rights of third persons.
+
+# 224. Non-Liability of employer of agent to do a Criminal Act -
+
+Where one person employs another to do an act which is criminal, the employer is not liable to the agent, either upon an express or an implied promise, to indemnify him against the consequences of that act.
+
+# 225. Compensation to agent for injury caused by principal's neglect -
+
+The principal must make compensation to his agent in respect of injury caused to such agent by the principal's neglect or want of skill.
+
+# 226. Enforcement and Consequences of agent's contracts -
+
+Contracts entered into through an agent, and obligations arising from acts done by an agent, may be enforced in the same manner, and will have the same legal consequences, as if the contracts had been entered into and the acts done by the principal in person.
+
+# 227. Principal how far bound, when agent exceeds authority -
+
+When an agent does more than he is authorised to do, and when the part of what he does, which is within his authority, can be separated from the part which is beyond his authority, so much only of what he does as is within his authority is binding as between him and his principal.
+
+# 228. Principal not bound when excess of agent's authority is not separable -
+
+Where an agent does more than he is authorised to do, and what he does beyond the scope of his authority cannot be separated from what is within it, the principal is not bound to recognise the transaction.
+
+
+
+
+
+
+# 229. Consequences of notice given to agent -
+
+Any notice given to or information obtained by the agent, provided it be given or obtained in the course of the business transacted by him for the principal, shall, as between the principal and third parties, have the same legal consequence as if it had been given to or obtained by the principal.
+
+# 230. Agent cannot personally enforce, nor be bound by, contracts on behalf of principal -
+
+In the absence of any contract to that effect, an agent cannot personally enforce contracts entered into by him on behalf of his principal, nor is he personally bound by them.
+
+# PRESUMPTION OF CONTRACT TO THE CONTRARY. -
+
+Such a contract shall be presumed to exist in the following cases :-
+
+1. where the contract is made by an agent for the sale or purchase of goods for a merchant resident abroad;
+2. where the agent does not disclose the name of his principal; and
+3. where the principal, though disclosed, cannot be sued.
+
+# 231. Rights of Parties to a contract made by agent not disclosed -
+
+If an agent makes a contract with a person who neither knows, nor has reason to suspect, that he is an agent, his principal may require the performance of the contract; but the other contracting party has, as against the principal, the same rights as he would have had as against the agent if the agent had been the principal. If the principal discloses himself before the contract is completed, the other contracting party may refuse to fulfil the contract, if he can show that, if he had known who was the principal in the contract, or if he had known that the agent was not a principal, he would not have entered into the contract.
+
+# 232. Performance of contract with agent supposed to be principal -
+
+Where one man makes a contract with another, neither knowing nor having reasonable ground to suspect that the other is an agent, the principal, if he requires the performance of the contract, can only obtain such performance subject to the rights and obligations subsisting between the agent and the other party to the contract.
+
+# 233. Right of person dealing with agent personally liable -
+
+In cases where the agent is personally liable, a person dealing with him may hold either him or his principal, or both of them, liable.
+
+# 234. Consequence of Inducing agent or principal to act on belief that principal or agent will be held exclusively liable -
+
+
+
+
+# 235. Liability of pretended agent -
+
+A person untruly representing himself to be the authorised agent of another, and thereby inducing a third person to deal with him as such agent, is liable, if his alleged employer does not ratify his acts, to make compensation to the other in respect of any loss or damage which he has incurred by so dealing.
+
+# 236. Person falsely contracting as agent not entitled to performance -
+
+A person with whom a contract has been entered into in the character of agent, is not entitled to require the performance of it if he was in reality acting, not as agent, but on his own account.
+
+# 237. Liability of principal inducing belief that agent's unauthorized acts were authorized -
+
+When an agent has, without authority, done acts or incurred obligations to third persons on behalf of his principal, the principal is bound by such acts or obligations, if he has by his words or conduct induced such third persons to believe that such act and obligations were within the scope of the agent's authority.
+
+# 238. Effect, on agreement, of misrepresentation or fraud by agent -
+
+Misrepresentations made, or frauds committed, by agents acting in the course of their business for their principals, have the same effect on agreements made by such agents as if such misrepresentations or frauds had been made or committed, by the principals; but misrepresentations made, or frauds, committed, by agents, in matters which do not fall within their authority, do not affect their principals.
+
+
+
+
+
+
+Chapter XI    Of partnership
+
+# 239-266
+
+[Rep. By the Indian Partnership Act, 1932 (9 OF 1932), SEC. 73 And Sch. II].
+
+# Schedule
+
+Sch. THE THE SCHEDULE Enactments repealed -
+
+[Repealed by the Repealing and Amending Act, 1914 (10 of 1914) sec. 3 and Sch. II.
+
+
+
+# Document Reference: the_employees_provident_funds_and_miscellaneous_provisions_act,_1952_no_19_of_1952_date_04.03.1952_
+--- Ingestion Timestamp: Sun Jun 28 19:56:07 2026 ---
+
+
+
+
+
+# Document Reference: tn-shops-and-establishments-act_1947
+--- Ingestion Timestamp: Sun Jun 28 19:56:34 2026 ---
+
+
+# THE TAMILNADU SHOPS AND ESTABLISHMENTS ACT, 1947
+
+# (ACT XXXVI OF 1947)
+
+[Received the assent of the Governor General on 2ⁿᵈ February, 1948, first published in the Fort St. George Gazette on the 10ᵗʰ February, 1948]
+
+An Act to provide for the regulation of conditions of work in shops, commercial establishments, restaurants, theatres and other establishments, and for certain other purposes.
+
+WHEREAS it is expedient to provide for the regulation of conditions of work in shops, commercial establishments and for certain other purposes; it is hereby enacted as follows:
+
+# 1. Short title, extent and commencement
+
+(1) This Act may be called the Tamil Nadu Shops and Establishments Act, 1947.
+
+(2) It extends to the whole of the ¹[State] of Tamil Nadu.
+
+2[(3) (a) It shall come into force in the following areas on such date as the State Government may, by notification, appoint:
+
+- (i) the City of Madras,
+- (ii) all the municipalities constituted under the Madras District Municipalities Act, 1920 (Madras Act V of 1920), and
+- (iii) all areas within the jurisdiction of panchayats which, under rule 2 of Schedule III to the Madras Village Panchayats Act, 1950 (Madras Act X of 1950), should be deemed to be constituted under that Act, and which immediately before the commencement of that Act, were classified by the State Government as major panchayats and all areas within the jurisdiction of panchayats constituted or reconstituted under that Act which, for the time being, are classified by the State Government as Class I Panchayats under section 5 (1) (a) of that Act.
+
+(b) The 1[State] Government may, by notification, direct that all or any of the provisions of this Act shall come into force in any other area on such date as may be specified in such notification.
+
+# 3[Extending the applicability of the Act to the whole State of Tamil Nadu-
+
+[G.O. Ms. No. 162, Labour and Employment (K2), dated 14ᵗʰ November 2018]
+
+No.II(2)/LE/980(a-1)/2018- In exercise of the powers conferred by clause (b) of sub-section (3) of Section 1 of the Tamil Nadu Shops and Establishments Act, 1947 (Tamil Nadu XXXVI of 1947), the Governor of Tamil Nadu hereby directs that the said Act shall come into force on 14ᵗʰ November 2018 in all the areas in the State of Tamil Nadu, where the provisions of the said Act have not been brought into force so far by invoking clauses (a) and (b) of sub-section (3) of Section 1 of the said Act.]
+
+1 Subs. for “Province” by the Adaptation Order of 1950
+
+2 Amended by Sch. To Act XI of 1952 (deemed to have come into force on the 1st April, 1951)
+
+3 Notified in Tamil Nadu Government Gazette Extraordinary No. 381, Pt. II, S.2, P.1, 14ᵗʰ November, 2018
+
+
+
+
+
+
+# CHAPTER-1
+
+# PRELIMINARY
+
+# 2. Definitions
+
+In this Act, unless there is anything repugnant in the subject or context-
+
+1. ‘child´ means a person who has not completed fourteen years.
+2. ’closed´ means not open for the service of any customer or open to any business connected with the establishment.
+3. ‘commercial establishment´ means an establishment which is not a shop but which carries on the business of advertising, commission, forwarding or commercial agency, or which is a clerical department of a factory or industrial undertaking or which is an insurance company, joint stock company, bank, broker’s office or exchange and includes such other establishments as the State Government may by notification declare to be a commercial establishment for the purposes of this Act.
+4. ‘day´ means the period of twenty-four hours beginning at midnight: Provided that in the case of a person employed, whose hours of work extend beyond midnight, day means the period of twenty-four hours beginning from the time when such employment commences.
+5. ‘employer´ means a person owning or having charge of, the business of an establishment and includes the manager, agent or other persons acting in the general management or control of an establishment;
+6. ‘establishment´ means a shop, commercial establishment, restaurant, eating-house, residential hotel, theatre or any place of public amusement or entertainment and includes such establishment as the 1[State] Government may by notification declare to be an establishment for the purposes of this Act;
+7. 2[‘factory´ means any premises which is a factory within the meaning of the Factories Act, 1948.]
+8. ‘inspector´ means an Inspector appointed under section 42;
+9. ‘notification’ means a notification in the Fort St. George Gazette;
+10. ‘opened´ means opened for the service of any customer.
+11. ‘periods of work´ means the time during which a person employed is at the disposal of the employer;
+
+1 Subs. for “Province” by the Adaptation Order of 1950
+
+2 Subs. by Act XIV of 1951, Sec 3(1) and Sch. II
+
+
+
+
+
+
+
+# 3
+
+(12) ‘person employed’ means—
+
+- (i) In the case of a shop, a person wholly or principally employed therein in connection with the business of the shop;
+- (ii) In the case of a factory or an industrial undertaking, a member of the clerical staff employed in such a factory or undertaking;
+- (iii) In the case of a commercial establishment other than a clerical department of a factory or an industrial undertaking, a person wholly or principally employed in connection with the business of the establishment, and includes a peon;
+- (iv) In the case of a restaurant or eating house, a person wholly or principally employed in the preparation or the serving food or drink or in attendance on customers or in cleaning utensils used in the premises or as a clerk or cashier;
+- (v) In the case of a theatre, a person employed as an operator, clerk, door-keeper, usher or in such capacity as may be specified by the 1[State] Government by general or special order;
+- (vi) In the case of an establishment not falling under paragraphs (i) to (v) above, a person wholly or principally employed in connection with the business of the establishment and includes a peon;
+- (vii) In the case of all establishments, a person wholly or principally employed in cleaning any part of the premises;
+
+but does not include the husband, wife, son, daughter, father, mother, brother or sister of an employer who lives with and is dependent on such employer;
+
+(13) ‘prescribed´ means prescribed by rules made under this Act;
+
+(14) ‘residential hotel´ means any premises in which business is carried on bona fide for the supply of dwelling accommodation and meals on payment of a sum of money to a traveller or any member of the public or class of the public;
+
+(15) ‘restaurant´ or ‘eating house´ means any premises in which is carried on wholly or principally the business of the supply of refreshments or meals to the public or a class of the public for consumption on the premises but does not include a restaurant attached to a theatre.
+
+(16) ‘shop´ means any premises where any trade or business is carried on or where services are rendered to customers and includes offices, store rooms, godowns and warehouses, whether in the same premises or otherwise, used in connection with such business but does not include a restaurant, eating-house or commercial establishment;
+
+1 Subs. for “Provincial” by the Adaptation Order of 1950
+
+
+
+
+
+
+
+# 4
+
+(17) ‘theatre´ includes any place intended principally or wholly for the representation of moving pictures or for dramatic performances;
+
+(18) ‘wages´ means any remuneration, capable of being expressed in terms of money, which would if the terms of the contract of employment, express or implied, were fulfilled, be payable, whether conditionally upon the regular attendance, good work or conduct or other behaviour of the person employed, or otherwise, to a person employed in respect of his employment or of work done in such employment, and includes any bonus or other additional remuneration of the nature aforesaid which would be so payable and any sum payable to such person by reason of the termination of his employment, but does not include—
+
+- (a) the value of any house-accommodation, supply of light, water, medical attendance or other amenity or of any service excluded by general or special order of the ¹[State] Government;
+- (b) any contribution paid by the employer to any pension fund or provident fund;
+- (c) any travelling allowance or the value of any travelling concession;
+- (d) any sum paid to the person employed to defray special expenses entailed on him by the nature of his employment; or
+- (e) any gratuity payable on discharge;
+
+(19) ‘week´ means a period of seven days beginning at midnight on Saturday;
+
+(20) ‘young person´ means a person who is not a child and has not completed seventeen years.
+
+3. References to time of day-- References to time of day in this Act are references to Indian Standard Time which is five and a half hours ahead of Greenwich Mean Time.
+
+4. Exemption: (1) Nothing contained in this Act shall apply to—
+
+- (a) persons employed in any establishment in a position of management;
+- (b) persons whose work involves travelling: and persons employed as canvassers and caretakers;
+- (c) establishments under the Central and 1[State] Governments, local authorities, the Reserve Bank of India, 2[a railway administration operating any railway as defined in clause (20) of article 366 of the Constitution] and cantonment authorities;
+
+1 Subs. for “Provincial” by the Adaptation Order of 1950
+
+2 These words, brackets and figures were substituted by the Adaptation (Amendment) Order, 1950, for the words “a railway administration operating a Federal Railway”
+
+
+
+
+
+
+
+(d) establishments in mines and oil fields;
+
+(e) establishments in bazaars in places where fairs or festivals are held temporarily for a period not exceeding fifteen days at a time;
+
+(f) establishments which, not being factories within the meaning of the Factories Act, 1948, are in respect of matters dealt with in this Act, governed by a separate law for the time being in force in the ¹[State].
+
+(2) Nothing contained in section 7 or section 13, as the case may be, shall apply to—
+
+(a) hospitals and other institutions for the treatment or care of the sick, the infirm, the destitute or the mentally unfit;
+
+(b) such chemists’ or druggists’ shops as the ¹[State] Government may, by general or special order, specify;
+
+(c) clubs and residential hotels, hostels attached to schools or colleges, and establishments maintained in boarding schools in connection with the boarding and lodging of pupils and residents masters;
+
+(d) stalls and refreshment rooms at railway stations, docks, wharves or ports.
+
+# 5. Power of Government to apply Act to exempted persons or establishments
+
+Notwithstanding anything contained in section 4, the ¹[State] Government may, by notification apply all or any of the provisions of this Act to any class of persons or establishments mentioned in that section, other than those mentioned in clauses (c) and (f) of sub-section (1), and modify or cancel any such notification.
+
+# 6. Exemptions
+
+The ¹[State] Government may, by notification, exempt either permanently or for any specified period, any establishment or class of establishments, or person or class of persons, from all or any of the provisions of this Act, subject to such conditions as the ¹[State] Government deem fit.
+
+# CHAPTER II
+
+# SHOPS
+
+# 7. Opening and closing hours of shops
+
+(1) Save as provided by or under any other enactment for the time being in force, no shop shall on any day be opened earlier or closed later than such hours as may be fixed by the ¹[State] Government, by a general or special order in that behalf:
+
+Provided that any customer who was being served or was waiting to be served in any shop at the hour fixed for its closing may be served during the quarter of an hour immediately following such hour.
+
+1 Subs. for “Provincial” by the Adaptation Order of 1950
+
+
+
+
+
+
+(2) Before passing an order under sub-section (1), the 1[State] Government shall hold an inquiry in the prescribed manner.
+
+(3) The 1[State] Government may, for the purposes of this section, fix different hours for different shops or different classes of shops or for different areas or for different times of the year.
+
+# 8. Selling outside shops prohibited after closing hour</h8>
+Save as provided by or under any other enactment for the time being in force, no person shall carry on, in or adjacent to a street or public place, the sale of any goods after the hour fixed under section 7 for the closing of shops dealing in the same class of goods in the locality in which such street or public place is situated:
+
+Provided that nothing in this section shall apply to the sale of newspapers.
+
+# 9. Daily and weekly hours of work in shops</h8>
+(1) Subject to the provisions of this Act, no person employed in any shop shall be required or allowed to work therein for more than eight hours in any day and forty eight hours in any week:
+
+Provided that any such person may be allowed to work in such shop for any period in excess of the limit fixed under this sub section subject to payment of overtime wages, if the period of work including overtime work, does not exceed ten hours in any day and in the aggregate fifty-four hours in any week:
+
+(2) No person employed in any shop shall be required or allowed to work therein for more than four hours in any day unless he has had an interval for rest of at least one hour.
+
+# 10. Spread over of periods of work</h8>
+The periods of work of a person employed in a shop shall be so arranged that, along with his intervals for rest, they shall not spread over more than twelve hours in any day.
+
+# 11. Closing of shops and grant of holidays</h8>
+(1) Every shop shall remain entirely closed on one day of the week which day shall be specified by the shopkeeper in a notice permanently exhibited in a conspicuous place in the shop; and the day so specified shall not be altered by the shopkeeper more often than once in three months.
+
+(2) Every person employed in a shop shall be allowed in each week a holiday of one whole day:
+
+Provided that nothing in this sub-section shall apply to any person whose total period of employment in the week, including any days spent on authorized leave, is less than six days, or entitle a person who has been allowed a whole holiday on the day on which the shop has remained closed in pursuance of sub-section (1), to an additional holiday.
+
+1 Subs. for “Provincial” by the Adaptation Order of 1950
+
+
+
+
+
+
+(3) (a) The 1[State] Government may, by notification, require in respect of shops or any specified class of shops, that they shall, in addition to the day provided for by sub-section(1), be closed at such hour in the afternoon of one week-day in every week at such hour as may be fixed by the 1[State] Government.
+
+(b) Every person employed in any shop to which a notification under clause (a) applies, shall be allowed in each week an additional holiday of one half day commencing at the hour in the afternoon fixed for the closing of the shop under clause (a).
+
+(4) The 1[State] Government may, for the purpose of sub-section (3), fix different hours for different shops or different classes of shops or for different areas or for different times of the year.
+
+(5) The weekly day on which a shop is closed in pursuance of requirement under sub-section (3) shall be specified by the shop-keeper in a notice permanently exhibited in a conspicuous place in the shop, and shall not be altered by the shopkeeper more often than once in three months.
+
+(6) No deduction shall be made from the wages of any person employed in a shop on account of any day or part of a day on which it has remained closed or a holiday has been allowed in accordance with this section; and if such person is employed on the basis that he would not ordinarily receive wages for such day or part of a day, he shall nonetheless be paid for such day or part of a day the wages he would have drawn, had the shop not remained closed, or had the holiday not been allowed, on that day or part of a day.
+
+# CHAPTER III
+
+# ESTABLISHMENTS OTHER THAN SHOPS
+
+12. Application of this chapter to establishments other than shops-- The provisions of this Chapter shall apply only to establishments other than shops.
+
+13. Opening and closing hours-- (1) Save as provided by or under any other enactment for the time being in force, no establishment shall on any day be opened earlier or closed later than such hour as may be fixed by the 1[State] Government, by general or special order in that behalf:
+
+Provided that in the case of a restaurant or eating house, any customer who was being served or was waiting to be served therein at the hour fixed for the closing may be served during the quarter of an hour immediately following such hour.
+
+(2) Before passing an order under sub-section (1), the 1[State] Government shall make an inquiry in the prescribed manner.
+
+(3) The 1[State] Government may, for the purposes of this section, fix different hours for different establishments or different classes of establishments or for different areas or for different times of the year.
+
+1 Subs. for “Provincial” by the Adaptation Order of 1950
+
+
+
+
+
+
+# 14. Daily and weekly hours of work
+
+(1) Subject to the provisions of this Act, no person employed in any establishment shall be required or allowed to work for more than eight hours in any day and forty-eight hours in any week:
+
+Provided that any such person may be allowed to work in such establishment for any period in excess of the limit fixed under this sub-section subject to payment of overtime wages, if the period of work, including overtime work, does not exceed ten hours in any day and in the aggregate fifty-four hours in any week.
+
+(2) No person employed in any establishment shall be required or allowed to work in such establishment for more than four hours in any day unless he has had an interval for rest of at least one hour.
+
+# 15. Spread over of periods of work
+
+The periods of work of a person employed in an establishment shall be so arranged that along with his intervals for rest, they shall not spread over more than twelve hours in any day.
+
+# 16. Holidays
+
+(1) Every person employed in an establishment shall be allowed in each week a holiday of one whole day:
+
+Provided that nothing in this sub-section shall apply to any person whose total period of employment in the week, including any days spent on authorized leave, is less than six days.
+
+(2) The 1[State] Government may, by notification, require in respect of any establishment or any specified class of establishments, that every person employed therein shall be allowed in each week an additional holiday of one half day commencing at such hour in the afternoon as may be fixed by the ¹[State] Government.
+
+(3) The ¹[State] Government may, for the purposes of sub-section (2), fix different hours for different establishments or different classes of establishments or for different areas or for different times of the year.
+
+(4) No deduction shall be made from the wages of any person employed in an establishment on account of any day or part of a day on which a holiday has been allowed in accordance with this section; and if such person is employed on the basis that he would not ordinarily receive wages for such day or part of a day, he shall nonetheless be paid for such day or part of a day the wages he would have drawn, had the holiday not been allowed on that day or part of a day.
+
+1 Subs. for “Provincial” by the Adaptation Order of 1950
+
+
+
+
+
+
+
+# CHAPTER IV
+
+# EMPLOYMENT OF CHILDREN AND YOUNG PERSONS
+
+17. Children not to work in establishments-- No child shall be required or allowed to work in any establishment.
+
+18. Young persons to work only between 6 a.m. and 7 p.m.-- No young person shall be required to work in any establishment before 6 a.m. and after 7 p.m.
+
+19. Daily and weekly hours of work for young persons-- Notwithstanding anything contained in this Act, no young person shall be required or allowed to work in any establishment for more than seven hours in any day and forty-two hours in any week nor shall such person be allowed to work overtime.
+
+# CHAPTER V
+
+# HEALTH AND SAFETY
+
+20. Cleanliness-- The premises of every establishment shall be kept clean and free from effluvia arising from any drain or privy or other nuisance and shall be cleansed at such times and by such methods as may be prescribed; and these methods may include lime washing, colour washing, painting, varnishing, disinfecting and deodorising.
+
+21. Ventilation-- The premises of every establishment shall be ventilated in accordance with such standards and by such methods as may be prescribed.
+
+22. Lighting-- (1) The premises of every establishment shall be sufficiently lighted during all working hours.
+
+(2) If it appears to an Inspector that the premises of any establishment within his jurisdiction is not sufficiently lighted or ventilated, he may serve on the employer an order in writing specifying the measures which, in his opinion, should be adopted and requiring them to be carried out before a specified date.
+
+23. Precautions against fire-- In every establishment, such precautions against fire shall be taken as may be prescribed.
+
+24. Appeal-- Against any order of the Inspector under this Chapter, an appeal shall lie to such authority and within such time as may be prescribed; and the decision of the appellate authority shall be final.
+
+
+
+
+
+
+# CHAPTER VI
+
+# HOLIDAYS WITH WAGES
+
+25. Holidays and sick leave-- (1) Every person employed in any establishment shall be entitled, after twelve months’ continuous service, to holidays with wages for a period of 12 days, in the subsequent period of twelve months:
+
+Provided that such holidays with wages may be accumulated up to a maximum of ¹[forty-five days].
+
+Explanation— For the purposes of this sub-section any continuous period of service preceding the date on which this Act applies to any establishment shall also count, subject to a maximum period of twelve months.
+
+(2) Every person employed in any establishment shall also be entitled during his first twelve months of continuous service after the commencement of this Act, and during every subsequent twelve months of such service, (a) to leave with wages for a period not exceeding 12 days, on the ground of any sickness incurred or accident sustained by him and (b) to casual leave with wages for a period not exceeding 12 days on any reasonable ground.
+
+(3) If a person entitled to any holidays under sub-section (1) is discharged by his employer before he has been allowed the holidays, or if having applied for and been refused the holidays, he quits his employment before he has been allowed the holidays, the employer shall pay him the amount payable, under this Act in respect of the holidays.
+
+(4) If a person entitled to any leave under sub-section (2) is discharged by his employer when he is sick or suffering from the result of an accident, the employer shall pay him the amount payable under this Act in respect of the period of the leave to which he was entitled at the time of his discharge, in addition to the amount, if any payable to him under sub-section (3).
+
+(5) A person employed shall be deemed to have completed a period of twelve months’ continuous service within the meaning of this section, notwithstanding any interruption in service during those twelve months brought about (i) by sickness, accident, or authorised leave (including authorised holidays) not exceeding ninety days in the aggregate for all three; or (ii) by a lock-out; (iii) by a strike which is not an illegal strike; or (iv) by intermittent periods of involuntary unemployment not exceeding thirty days in the aggregate and authorized leave shall be deemed not to include any weekly holiday or half-holiday allowed under this Act which occurs at the beginning or end of an interruption brought about by the leave.
+
+Subs. vide G.O. Ms. No. 162, Labour and Employment (K2), dated 14ᵗʰ November, 2018
+
+
+
+
+
+
+
+(6) A person employed in a hostel attached to a school or college or in an establishment maintained in a boarding school in connection with the boarding and lodging of pupils and resident masters shall be allowed the privileges referred to in sub-sections (1) to (5), reduced however proportionately to the period for which he was employed continuously in the previous year or to the period for which he will be employed continuously in the current year, as the case may be; and all references to periods of holidays or of leave in sub-sections (1) and (2) shall be construed accordingly, fractions of less than one day being disregarded.
+
+(7) The 1[State] Government shall have power to issue directions as to the manner in which the provisions of sub-section (6) shall be carried into effect in all or any class of cases or in any particular case.
+
+# 26. Pay during annual holidays
+
+Every person employed shall, for the holidays or the period of leave allowed under sub-section (1) or (2) of section 25, be paid at a rate equivalent to the daily average of his wages for the days on which he actually worked during the preceding three months exclusive of any earnings in respect of overtime.
+
+# 27. Power to increase the number of holidays
+
+Notwithstanding anything contained in Section 25, the ¹[State] Government may, by notification, increase the total number of annual holidays and the maximum number of days up to which such holidays may be accumulated in respect of any establishment or class of establishments.
+
+# 28. Power of Inspector to act for person employed
+
+Any Inspector may institute proceedings on behalf of any person employed to recover any sum required to be paid under this Chapter by an employer which he has not paid.
+
+# CHAPTER VII
+
+# WAGES
+
+# 29. Responsibility for payment of wages
+
+Every employer shall be responsible for the payment to persons employed by him of all wages and sums required to be paid under this act.
+
+# 30. Fixation of wage period
+
+1. Every employer shall fix periods (in this Act referred to as wage periods) in respect of which such wages shall be payable.
+2. No wage period shall exceed one month.
+
+# 31. Wages for overtime work
+
+Where any person employed in any establishment is required to work overtime, he shall be entitled, in respect of such overtime work, to wages at twice the ordinary rate of wages.
+
+Explanation—For the purpose of this section, the expression “ordinary rate of wages” shall mean such rate of wages as may be calculated in the manner prescribed.
+
+
+
+
+
+
+# 32. Time of payment of wages
+
+1. The wages of every person employed shall be paid before the expiry of the fifth day after the last day of the wage period in respect of which the wages are payable.
+2. Where the employment of any person is terminated by or on behalf of the employer, the wages earned by such person shall be paid before the expiry of the second working day from the day on which his employment is terminated.
+3. The 1[State] Government may, by general or special order, exempt an employer from the operation of this section in respect of the wages of any person employed or class of persons employed, to such extent and subject to such conditions as may be specified in the order.
+4. All payments of wages shall be made on a working day.
+
+# 33. Wages to be paid in current coin or currency notes
+
+All wages shall be paid in current coin or currency notes or in both.
+
+# 34. Deductions which may be made from wages
+
+1. The wages of a person employed shall be paid to him without deductions of any kind except those authorised by or under this Act.
+
+Explanation—Every payment made by a person employed to the employer shall, for the purpose of this Act, be deemed to be a deduction from wages.
+2. Deduction from the wages of a person employed shall be made only in accordance with the provisions of this Act, and may be of the following kinds only, namely:
+1. fines;
+2. deductions for absence from duty;
+3. deductions for damage to, or loss of, goods expressly entrusted to the employed person for custody, or for loss of money for which he is required to account, where such damage or loss is directly attributable to his neglect or default;
+4. deductions for house accommodation supplied by the employer;
+5. deductions for such amenities and services supplied by the employer as the 1[State] Government may, by general or special order, authorise;
+6. deductions for recovery of advances or for adjustment of overpayments of wages;
+7. deductions of income-tax payable by the employed person;
+8. deductions required to be made by order of a Court or other authority competent to make such order;
+
+
+
+
+
+
+
+(i) deductions for subscription to, and for repayment of advances from, any provident fund to which the Provident Funds Act, 1952 applies or any recognized provident fund as defined in section 58A of the Indian Income Tax Act 1922, or any provident fund approved in this behalf by the 1[State] Government during the continuance of such approval;
+
+(j) deductions for payments to co-operative societies approved in this behalf by the 1[State] Government or to a scheme of insurance maintained by the Indian Post Office or by any insurance company approved in this behalf by the ¹[State] Government;
+
+(k) deductions made with the written authorisation of the employed person in furtherance of any savings scheme approved by the 1[State] Government for the purchase of securities of the Central or 1[State] Government.
+
+# 35. Fines—
+
+1. No fine shall be imposed on any person employed save in respect of such acts and omissions on his part as the employer, with the previous approval of the 1[State] Government or of the prescribed authority, may have specified by notice under sub-section (2).
+2. A notice specifying such acts and omissions shall be exhibited in the prescribed manner on the premises in which the employment is carried on.
+3. No fine shall be imposed on any person employed until he has been given an opportunity of showing cause against the fine, or otherwise than in accordance with such procedure as may be prescribed for the imposition of fines.
+4. The total amount of fine which may be imposed in any one wage period on any person employed shall not exceed an amount equal to half an anna in the rupee of the wages payable to him in respect of that wage period.
+5. No fine shall be imposed on any person employed who has not completed fifteenth year.
+6. No fine imposed on any person employed shall be recovered from him after the expiry of sixty days from the day on which it was imposed.
+7. Every fine shall be deemed to have been imposed on the day of the act or omission in respect of which it was imposed.
+8. All fines and realizations thereof shall be recorded in a register to be kept by the employer in such form as may be prescribed; and all such realization shall be applied only to such purposes beneficial to the persons employed in the establishment as are approved by the prescribed authority.
+
+Explanation—When the persons employed are part only of a staff employed under the same management, all such realizations may be credited to a common fund maintained for the staff as a whole, provided that the fund shall be applied only to such purposes as are approved by the prescribed authority.
+
+
+
+
+
+
+# 36. Deductions for absence from duty
+
+(1) Deductions may be under clause (b) of sub-section (2) of section 34 only on account of the absence of an employed person from the place or places where, by the terms of his employment, he is required to work, such absence being for the whole or any part of the period during which he is so required to work.
+
+(2) The amount of such deduction shall in no case bear to the wages payable to the employed person in respect of the wage period for which the deduction is made, a larger proportion than the period for which he was absent bears to the total period, within such wage period during which by the terms of his employment, he was required to work:
+
+Provided that, subject to any rules made in this behalf by the 1[State] Government, if ten or more employed persons acting in concert absent themselves without due notice (that is to say, without giving the notice which is required under the terms of their contract of employment) and without reasonable cause such deduction from any such person may include such amount not exceeding his wages for eight days as may by any such terms be due to the employer in lieu of due notice.
+
+Explanation—For the purposes of this section, an employed person shall be deemed to be absent from the place where he is required to work, if, although present in such place, he refuses, in pursuance of a stay-in-strike or for any other cause which is not reasonable in the circumstances, to carry out his work.
+
+# 37. Deductions for damage or loss
+
+(1) A deduction under clause (c) of sub-section (2) of section 34 shall not exceed the amount of the damage or loss caused to the employer by the neglect or default of the person employed and shall not be made until the person employed has been given an opportunity of showing cause against the deduction, or otherwise than in accordance with such procedure as may be prescribed for the making of such deductions.
+
+(2) All such deductions and all realizations thereof shall be recorded in a register to be kept by the employer in such form as may be prescribed.
+
+# 38. Deductions for services rendered
+
+A deduction under clause (d) or clause (e) of sub-section (2) of section 34 shall not be made from the wages of a person employed unless the house accommodation, amenity or service has been accepted by him, as a term of employment or otherwise, and such deduction shall not exceed an amount equivalent to the value of the house accommodation, amenity or service supplied and in the case of deduction under the said clause (e) shall be subject to such conditions as the 1[State] Government may impose.
+
+1 Subs. for “Provincial” by the Adaptation Order of 1950
+
+
+
+
+
+
+# 39. Deductions for recovery of advances
+
+Deductions under clause (f) of subsection (2) of section 34 shall be subject to the following conditions, namely:-
+
+- (a) recovery of an advance of money given before employment began shall be made from the first payment of wages in respect of a complete wage period, but no recovery shall be made of such advances given for travelling expenses;
+- (b) recovery of advances of wages not already earned shall be subject to any rules made by the ¹[State] Government regulating the extent to which such advances may be given and the instalments by which they may be recovered.
+
+# 40. Deductions for payments to co-operative societies and insurance schemes
+
+Deductions under clauses (j) and (k) of sub-section (2) of section 34 shall be subject to such conditions as the ¹[State] Government may impose.
+
+# 41. Notice of dismissal
+
+1. No employer shall dispense with the services of a person employed continuously for a period of not less than six months, except for a reasonable cause and without giving such person at least one month's notice or wages in lieu of such notice, provided however, that such notice shall not be necessary where the services of such person are dispensed with on a charge of misconduct supported by satisfactory evidence recorded at an enquiry held for the purpose.
+2. The person employed shall have a right to appeal to such authority and within such time as may be prescribed either on the ground that there was no reasonable cause for dispensing with his services or on the ground that he had not been guilty of misconduct as held by the employer.
+3. 2(2-A) The appellate authority may, if it considers that any document or the testimony of any person is relevant or necessary for the discharge of its duties under this Act as appellate authority, call for and inspect such document or summon and examine such person. For the aforesaid purposes, it shall have the same powers as are vested in a civil court while trying a suit under the Code of Civil Procedure, 1908 (Central Act V of 1908), in respect of the following matters, namely:-
+
+
+
+
+
+
+
+(2-B) The appellate authority, may, after giving notice in the prescribed manner to the employer and the person employed, dismiss the appeal or direct the reinstatement of the person employed, with or without wages for the period he was kept out of employment or direct payment of compensation without reinstatement or grant such other relief as it deems fit in the circumstances of the case.
+
+3) The decision of the appellate authority shall be final and binding on both the employer and the person employed.
+
+1[41.A. Payment of full wages to person employed pending proceedings in Higher Courts -- Where in any case, the appellate authority, by its decision under Section 41, directs reinstatement of any person employed and the employer prefers any proceeding against such decision in a High Court or the Supreme Court, the employer shall be liable to pay such person employed, during the period of pendency of such proceedings in the High Court or the Supreme Court, full wages last drawn by him, inclusive of any maintenance allowance admissible to him under any rule if the person employed had not been employed in any establishment during such period and an affidavit by such person employed had been filed to that effect in such Court:
+
+Provided that where it is proved to the satisfaction of the High Court or the Supreme Court that such person employed had been employed and had been receiving adequate remuneration during any such period or part thereof, the Court shall order that no wages shall be payable under this section for such period or part, as the case may be.
+
+# CHAPTER VIII
+
+# APPOINTMENT, POWERS AND DUTIES OF INSPECTORS
+
+42. Appointment of Inspectors-- The 2[State] Government may, by notification, appoint such officers of the 2[State] Government or of any local authority as they think fit to be Inspectors for the purposes of this Act, within such local limits as the ²[State] Government may assign to them.
+
+43. Powers and duties of Inspectors-- Any inspector may at all reasonable hours enter into any premises, which is, or which he has reason to believe is, an establishment, with such assistants and make such examination of the premises and of the prescribed registers, records or notices as may be prescribed.
+
+44. Inspectors to be public servants -- Every Inspector shall be deemed to be a public servant within the meaning of Section 21 of the Indian Penal Code.
+
+1 Ins. By Tamil Nadu Act 44 of 2008, S.2 (with effect from 19 th June, 2008)
+
+2 Subs. for “Provincial” by the Adaptation Order of 1950
+
+
+
+
+
+
+# CHAPTER IX
+
+# PENALTIES FOR OFFENCES
+
+45. Penalties – 1Whoever contravenes any of the provisions of Section 7 to 11, 13 to 23, 25, 26, 29 to 41 and 47 shall be punishable for a first offence, with fine which may extend to five thousand rupees and for a second or subsequent offence, with fine which may extend to ten thousand rupees.
+
+245A. Penalty for failure to comply with the provisions of section 41-A-- Any employer who fails to comply with the provisions of Section 41-A shall be punishable with imprisonment for a term which may extend to six months, or with fine, or with both and where such failure is a continuing one, with a further fine which may extend to two hundred rupees for every day during which such failure continues after the conviction for the first and the court trying the offence, if it fines the offender, may direct that the whole or any part of the fine realised from him shall be paid, by way of compensation, to any person who, in its opinion has been injured by such failure.
+
+46. Penalty for obstructing Inspector, etc.-- Any person who wilfully obstructs an Inspector in the exercise of any power conferred on him under this Act or any person lawfully assisting an Inspector in the exercise of such power, or who fails to comply with any lawful direction made by an Inspector, shall be punishable with fine which may extend to two hundred and fifty rupees.
+
+346-A. Compounding of Offences – (1) Any offence punishable under section 45 or any rule made under section 49 may, either before or after the institution of the prosecution, be compounded by the Commissioner of Labour or such other officer as may be authorised in this behalf by the Commissioner of Labour, on payment, for credit to the State Government, of such sum as the Commissioner of Labour or such other officer may specify: Provided that such sum shall not, in any case, exceed the maximum amount of the fine which may be imposed under this Act for the offence so compounded.
+
+(2) Nothing contained in sub-section (1) shall apply to a person who commits the same or similar offence within a period of three years from the date on which the first offence, committed by him, was compounded.
+
+Explanation—For the purpose of this sub-section, any second or subsequent offence committed after the expiry of a period of three years from the date on which the offence was previously compounded, shall be deemed to be a first offence.
+
+1Subs. by Tamil Nadu Act 9 of 2017, S.2 (with effect from 01.04.2017)
+
+2Ins. By Tamil Nadu Act 44 of 2008, S.3 (with effect from 19th June, 2008)
+
+3Ins. By Tamil Nadu Act 18 of 1999, S.2 (with effect from 10th August, 1999)
+
+
+
+
+
+
+
+# CHAPTER X
+
+# MISCELLANEOUS
+
+47. Maintenance of registers and records and display of notices-- Subject to the general or special orders of the 1[State] Government, an employer shall maintain such register and records and display such notices as may be prescribed.
+
+48. Delegation of powers—(1) The ¹[State] Government may, by notification, authorize any officer or authority subordinate to them, to exercise any one or more of the powers vested in them by or under this Act, except the power mentioned in section 49, subject to such restrictions and conditions, if any, as may be specified in the notification.
+
+(2) The exercise of the powers delegated under sub-section (1) shall be subject to control and revision by the 1[State] Government or by such persons as may be empowered by them in that behalf. The 1[State] Government shall also have power to control and revise the acts or proceedings of any person so empowered.
+
+49. Power to make rules – (1) The 1[State] Government may make rules to carry out the purposes of this Act.
+
+(2) In making a rule under sub-section (1), the ¹[State] Government may provide that a contravention thereof shall be punishable with fine which may extend to fifty rupees.
+
+(3) The power to make rules conferred by this section shall be subject to the condition of the rules being made after previous publication.
+
+(4) All rules made under this section shall be published in the Fort St. George Gazette and on such publication shall have effect as if enacted in this Act.
+
+50. Rights and privileges under other law, etc., not affected -- Nothing contained in this Act shall affect any rights or privileges which any person employed in any establishment is entitled to on the date on which this Act comes into operation in respect of such establishment, under any other law, contract, custom or usage applicable to such establishment, if such rights or privileges are more favourable to him than those to which he would be entitled under this Act.
+
+1 Subs. for “Provincial” by the Adaptation Order of 1950
+
+
+
+
+
+
+# 19
+
+# 51. Commissioner of labour to decide certain questions
+
+If any question arises whether all or any of the provisions of this Act apply to an establishment or to a person employed therein or whether section 50 applies to any case or not, it shall be decided by the Commissioner of Labour and his decision there on shall be final and shall not be liable to be questioned in any Court of Law.
+
+# 52. Power of Government to suspend provisions of the Act during fairs and festivals
+
+On any special occasion in connection with a fair or festival or a succession of public holidays, the 1State Government may, by notification, suspend for a specified period the operation of all or any of the provisions of this Act.
+
+# 53. Central Act XVIII of 1942 not to apply to establishments governed by this Act
+
+On and from the date on which this Act comes into operation in respect of an establishment, the Weekly Holidays Act, 1942, shall cease to apply to such establishment.
+
+-----
+
+1 Subs. for “Provincial” by the Adaptation Order of 1950
+
+
+
+
+
+# Document Reference: EPFScheme
+--- Ingestion Timestamp: Sun Jun 28 19:56:34 2026 ---
+
+
+
+
+
+# Document Reference: K.V.Deepa vs The State Of Tamilnadu on 22 January, 2026
+--- Ingestion Timestamp: Sun Jun 28 19:56:34 2026 ---
+
+
+
+
+
+# Document Reference: Labour Welfare - Code on Wages 2019 - Enacted by Government of India
+--- Ingestion Timestamp: Sun Jun 28 19:56:34 2026 ---
+
+
+
+
+
+# Document Reference: Niranjan Shankar Golikari vs The Century Spinning And Mfg. Co. Ltd on 17 January, 1967
+--- Ingestion Timestamp: Sun Jun 28 19:56:34 2026 ---
+
+
+
+
+
+# Document Reference: The Bharatiya Nyaya Sanhita, 2023
+--- Ingestion Timestamp: Sun Jun 28 19:56:34 2026 ---
+
+
+
+
+
+# Document Reference: THE SPECIFIC RELIEF ACT, 1963
+--- Ingestion Timestamp: Sun Jun 28 19:56:34 2026 ---
+
+
+
+
+
+# Document Reference: the-indian-contract-act-1872
+--- Ingestion Timestamp: Sun Jun 28 19:56:34 2026 ---
+
+
+
+
+
+# Document Reference: the_employees_provident_funds_and_miscellaneous_provisions_act,_1952_no_19_of_1952_date_04.03.1952_
+--- Ingestion Timestamp: Sun Jun 28 19:56:34 2026 ---
+
+
+
+
+
+# Document Reference: tn-shops-and-establishments-act_1947
+--- Ingestion Timestamp: Sun Jun 28 19:56:34 2026 ---
+
+
+
