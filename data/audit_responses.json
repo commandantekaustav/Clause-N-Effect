@@ -1,0 +1,702 @@
+[
+  {
+    "category": "Recruitment & Onboarding",
+    "expert_audit_response": "No. Under the Digital Personal Data Protection (DPDP) Act, 2023, explicit, informed, and revocable consent is legally required before initiating any background or reference checks.",
+    "id": 1,
+    "primary_statute": "Digital Personal Data Protection Act, 2023",
+    "query": "Can we conduct pre-employment background checks without a candidate's consent?"
+  },
+  {
+    "category": "Recruitment & Onboarding",
+    "expert_audit_response": "Yes. Under various state-specific Shops and Establishments Acts, and standard labour codes, formalizing terms of employment in writing within specified days of joining is a strict statutory requirement.",
+    "id": 2,
+    "primary_statute": "Shops and Establishments Act (State-Specific)",
+    "query": "Are we required to provide written offer letters and appointment orders?"
+  },
+  {
+    "category": "Recruitment & Onboarding",
+    "expert_audit_response": "No. This is a discriminatory practice. Under the Equal Remuneration Act and constitutional provisions regarding equality, inquiries into personal lives are non-compliant and invite discrimination liability.",
+    "id": 3,
+    "primary_statute": "Equal Remuneration Act, 1976",
+    "query": "Can we ask female candidates about their marriage or family planning plans?"
+  },
+  {
+    "category": "Recruitment & Onboarding",
+    "expert_audit_response": "Yes. Employers must report new hires monthly through the Electronic Challan cum Return (ECR) via the EPFO Portal and register them on the ESIC Portal where applicable.",
+    "id": 4,
+    "primary_statute": "Employees' Provident Funds and Miscellaneous Provisions Act, 1952",
+    "query": "Is it mandatory to report newly joined employees to the government?"
+  },
+  {
+    "category": "Recruitment & Onboarding",
+    "expert_audit_response": "There is no single statutory limit across all sectors in India, but standard industry practice and many state laws stipulate a maximum of 6 months. Extended periods require specific justification.",
+    "id": 5,
+    "primary_statute": "Industrial Employment (Standing Orders) Act, 1946",
+    "query": "What is the maximum permissible probationary period?"
+  },
+  {
+    "category": "Recruitment & Onboarding",
+    "expert_audit_response": "No. Foreign nationals must possess a valid Employment Visa and register with the FRRO within 14 days of arrival if they are working in India.",
+    "id": 6,
+    "primary_statute": "Foreigners Act, 1946 / FRRO Guidelines",
+    "query": "Can we hire foreign nationals without a specialized visa?"
+  },
+  {
+    "category": "Recruitment & Onboarding",
+    "expert_audit_response": "Misclassification creates severe liability. If a contractor is deemed an employee by labour authorities, the company is liable for retroactive statutory benefits (PF, ESIC), gratuity, and tax penalties.",
+    "id": 7,
+    "primary_statute": "Employees' Provident Funds Act / Industrial Disputes Act",
+    "query": "What are the consequences of employee misclassification (e.g., contractor vs employee)?"
+  },
+  {
+    "category": "Recruitment & Onboarding",
+    "expert_audit_response": "While not universally mandatory, under many state Shops and Establishments Acts, the contract must be comprehensible to the employee, and having local language versions reduces legal ambiguity.",
+    "id": 8,
+    "primary_statute": "Shops and Establishments Act (State-Specific)",
+    "query": "Must we translate employment contracts into the local language?"
+  },
+  {
+    "category": "Recruitment & Onboarding",
+    "expert_audit_response": "Under Section 27 of the Indian Contract Act, post-employment restrictive covenants (non-compete) are generally void. Only non-disclosure agreements (NDAs) that protect during employment are enforceable.",
+    "id": 9,
+    "primary_statute": "Indian Contract Act, 1872",
+    "query": "Can we place an employee on a 'no-compete' agreement post-employment?"
+  },
+  {
+    "category": "Recruitment & Onboarding",
+    "expert_audit_response": "Yes. Under the Rights of Persons with Disabilities Act, 2016, organizations must publish an Equal Opportunity Policy and ensure no discrimination occurs in hiring.",
+    "id": 10,
+    "primary_statute": "Rights of Persons with Disabilities Act, 2016",
+    "query": "Are employers required to maintain an equal opportunity policy for Persons with Disabilities?"
+  },
+  {
+    "category": "Wage, Compensation, & Benefits",
+    "expert_audit_response": "Never. Under the Minimum Wages Act, 1948, employers must pay the statutory minimum wage. Failure to do so attracts penal consequences and back-pay liabilities.",
+    "id": 11,
+    "primary_statute": "Minimum Wages Act, 1948",
+    "query": "Are we allowed to pay below the prescribed State Minimum Wage?"
+  },
+  {
+    "category": "Wage, Compensation, & Benefits",
+    "expert_audit_response": "No. It is mandatory for employees earning up to a statutory threshold in establishments with 20 or more employees, though voluntary coverage is permitted above the threshold.",
+    "id": 12,
+    "primary_statute": "Employees' Provident Funds and Miscellaneous Provisions Act, 1952",
+    "query": "Is PF (Provident Fund) deduction mandatory for all employees?"
+  },
+  {
+    "category": "Wage, Compensation, & Benefits",
+    "expert_audit_response": "No. Under the ESI Act, 1948, coverage is mandatory for employees earning wages up to the prescribed threshold in covered factories and establishments. It is a statutory deduction.",
+    "id": 13,
+    "primary_statute": "Employees' State Insurance Act, 1948",
+    "query": "Can an employee opt out of ESIC (Employee State Insurance)?"
+  },
+  {
+    "category": "Wage, Compensation, & Benefits",
+    "expert_audit_response": "Calculated as: Last Drawn Salary × 15 days × Years of Service ÷ 26. It applies to organizations with 10 or more employees, payable upon 5 years of continuous service.",
+    "id": 14,
+    "primary_statute": "Payment of Gratuity Act, 1972",
+    "query": "What is the rule for calculating Gratuity?"
+  },
+  {
+    "category": "Wage, Compensation, & Benefits",
+    "expert_audit_response": "The Payment of Wages Act permits deductions only for specific reasons (fines, absence, damage to goods). Deductions as a general punishment are strictly regulated or prohibited.",
+    "id": 15,
+    "primary_statute": "Payment of Wages Act, 1936",
+    "query": "Can we deduct salaries for unapproved leaves or disciplinary actions?"
+  },
+  {
+    "category": "Wage, Compensation, & Benefits",
+    "expert_audit_response": "Yes. If an employee earns up to the statutory eligibility limit and the establishment has 20 or more employees, a minimum bonus of 8.35% of the annual salary or wage is legally required.",
+    "id": 16,
+    "primary_statute": "Payment of Bonus Act, 1965",
+    "query": "Are bonuses mandatory under the Payment of Bonus Act?"
+  },
+  {
+    "category": "Wage, Compensation, & Benefits",
+    "expert_audit_response": "Under the Factories Act and various Shops Acts, total overtime hours must not exceed 50 hours in any quarter, and total hours worked per week including overtime cannot exceed 60 hours.",
+    "id": 17,
+    "primary_statute": "Factories Act, 1948 / State Shops Acts",
+    "query": "What is the limit for maximum overtime hours allowed?"
+  },
+  {
+    "category": "Wage, Compensation, & Benefits",
+    "expert_audit_response": "No. Under state Shops and Establishments Acts, final settlement (including dues and wages) must be cleared within a stipulated timeframe, typically within 2 to 7 working days.",
+    "id": 18,
+    "primary_statute": "Shops and Establishments Act (State-Specific)",
+    "query": "Can we delay payment of the final settlement upon termination?"
+  },
+  {
+    "category": "Wage, Compensation, & Benefits",
+    "expert_audit_response": "While not centrally mandated for those above the ESIC cap, it is highly recommended as standard industry corporate best practice and a standard clause in global MNC operations.",
+    "id": 19,
+    "primary_statute": "Corporate Policy / Best Practices",
+    "query": "Are we required to provide health insurance if employees are above the ESIC cap?"
+  },
+  {
+    "category": "Wage, Compensation, & Benefits",
+    "expert_audit_response": "Leave encashment during employment is fully taxable. However, leave encashment upon retirement or termination is exempt up to a specific statutory limit under the Income Tax Act.",
+    "id": 20,
+    "primary_statute": "Income Tax Act, 1961",
+    "query": "How is 'leave encashment' taxed for employees?"
+  },
+  {
+    "category": "Leave, Working Hours, & Attendance",
+    "expert_audit_response": "Yes. Under the Maternity Benefit Act, 1961, commissioning and adoptive mothers legally adopting a child below 3 months are entitled to 12 weeks of paid maternity leave.",
+    "id": 21,
+    "primary_statute": "Maternity Benefit (Amendment) Act, 2017",
+    "query": "Is maternity leave available to adoptive or commissioning mothers?"
+  },
+  {
+    "category": "Leave, Working Hours, & Attendance",
+    "expert_audit_response": "No. State laws and internal policies cap the accumulation and encashment of privilege leaves (usually between 30 to 60 days). Accumulation past this cap results in leave forfeiture.",
+    "id": 22,
+    "primary_statute": "Shops and Establishments Act (State-Specific)",
+    "query": "Can employees accumulate privilege leaves indefinitely?"
+  },
+  {
+    "category": "Leave, Working Hours, & Attendance",
+    "expert_audit_response": "Paternity leave is not legally mandated by central law for the private sector, though many progressive organizations offer it as part of their standard leave policy.",
+    "id": 23,
+    "primary_statute": "Corporate Governance / Best Practices",
+    "query": "Is paternity leave mandated by Indian central law?"
+  },
+  {
+    "category": "Leave, Working Hours, & Attendance",
+    "expert_audit_response": "National holidays (Jan 26, Aug 15, Oct 2) are mandatory. Working on these days requires prior employee consent, double wages, or a compensatory day off.",
+    "id": 24,
+    "primary_statute": "National and Festival Holidays Act (State-Specific)",
+    "query": "Can an employer deny leave on national holidays?"
+  },
+  {
+    "category": "Leave, Working Hours, & Attendance",
+    "expert_audit_response": "Most state laws limit working hours to 9 hours a day, with a mandatory 30-minute rest interval required after 5 hours of continuous work.",
+    "id": 25,
+    "primary_statute": "Shops and Establishments Act / Factories Act",
+    "query": "What is the statutory limit for daily working hours?"
+  },
+  {
+    "category": "Leave, Working Hours, & Attendance",
+    "expert_audit_response": "Yes. If employees work on a weekly off or holiday, the policy must ensure a compensatory holiday is granted within a stipulated period, typically within the same or subsequent month.",
+    "id": 26,
+    "primary_statute": "State-Specific Rules",
+    "query": "Are there specific rules for tracking 'Compensatory Offs'?"
+  },
+  {
+    "category": "Leave, Working Hours, & Attendance",
+    "expert_audit_response": "No. If WFH is approved by the employer, the employee is on duty, and regular wages apply. Deduction of pay for such days constitutes an illegal wage cut.",
+    "id": 27,
+    "primary_statute": "Payment of Wages Act, 1936",
+    "query": "Can we deduct pay for Work From Home (WFH) days?"
+  },
+  {
+    "category": "Leave, Working Hours, & Attendance",
+    "expert_audit_response": "Statutory provisions for sick leave or casual leave vary by state and establishment acts. Where applicable under state law, it is required to be paid leave.",
+    "id": 28,
+    "primary_statute": "Shops and Establishments Act (State-Specific)",
+    "query": "Is 'Sick Leave' required to be paid by law?"
+  },
+  {
+    "category": "Leave, Working Hours, & Attendance",
+    "expert_audit_response": "Yes. All major labour regulations mandate that every employee must be allowed at least one full 24-hour day of rest each week, typically on Sunday.",
+    "id": 29,
+    "primary_statute": "Factories Act / State Shops Acts",
+    "query": "Do we need to provide a mandatory weekly rest day?"
+  },
+  {
+    "category": "Leave, Working Hours, & Attendance",
+    "expert_audit_response": "No, physical registers are not required; however, employers must maintain accurate, tamper-proof electronic attendance records to comply with labour inspection guidelines.",
+    "id": 30,
+    "primary_statute": "Labour Laws Exemption Rules / Digitization Acts",
+    "query": "Do we need to maintain physical attendance registers?"
+  },
+  {
+    "category": "Workplace Safety & POSH",
+    "expert_audit_response": "Yes. Under the Sexual Harassment of Women at Workplace Act, 2013, organizations with 10 or more employees must constitute an Internal Committee (IC).",
+    "id": 31,
+    "primary_statute": "POSH Act, 2013",
+    "query": "Is a POSH (Prevention of Sexual Harassment) Committee mandatory?"
+  },
+  {
+    "category": "Workplace Safety & POSH",
+    "expert_audit_response": "No. The law requires that the Presiding Officer of the IC must be a woman employed at a senior level at the workplace.",
+    "id": 32,
+    "primary_statute": "POSH Act, 2013",
+    "query": "Can men serve as the Presiding Officer of an IC?"
+  },
+  {
+    "category": "Workplace Safety & POSH",
+    "expert_audit_response": "Yes. The IC must include an external member familiar with issues relating to sexual harassment, such as an individual from an NGO or legal background.",
+    "id": 33,
+    "primary_statute": "POSH Act, 2013",
+    "query": "Is an external member mandatory for the POSH IC?"
+  },
+  {
+    "category": "Workplace Safety & POSH",
+    "expert_audit_response": "Yes. The Act requires employers to organize awareness programs and capacity-building workshops for employees at regular intervals and orient IC members.",
+    "id": 34,
+    "primary_statute": "POSH Act, 2013",
+    "query": "Do we have to conduct annual POSH awareness training?"
+  },
+  {
+    "category": "Workplace Safety & POSH",
+    "expert_audit_response": "Yes. Non-compliance (failing to constitute an IC) can attract fines up to INR 50,000, and repeated offenses can lead to cancellation of business licenses.",
+    "id": 35,
+    "primary_statute": "POSH Act, 2013",
+    "query": "Are there penalties for non-compliance with the POSH Act?"
+  },
+  {
+    "category": "Workplace Safety & POSH",
+    "expert_audit_response": "Yes. Under the Factories Act and various state Occupational Safety and Health guidelines, employers must conduct routine safety audits and hazard assessments.",
+    "id": 36,
+    "primary_statute": "Factories Act, 1948 / OSH Codes",
+    "query": "Are regular workplace safety audits legally mandated?"
+  },
+  {
+    "category": "Workplace Safety & POSH",
+    "expert_audit_response": "Yes. Employers are legally obligated to report specified workplace accidents causing injury or occupational diseases to the designated labour inspectorate immediately.",
+    "id": 37,
+    "primary_statute": "Factories Act, 1948 / Employee's Compensation Act",
+    "query": "Must we report workplace accidents to labour authorities?"
+  },
+  {
+    "category": "Workplace Safety & POSH",
+    "expert_audit_response": "Yes. Under the COTPA Act, smoking in public places (including workspaces) is prohibited, and employers are required to ensure compliance.",
+    "id": 38,
+    "primary_statute": "Cigarettes and Other Tobacco Products Act (COTPA), 2003",
+    "query": "Is it legal to have a completely smoke-free workplace?"
+  },
+  {
+    "category": "Workplace Safety & POSH",
+    "expert_audit_response": "No. Under the POSH Act, the IC is required to conduct an inquiry only upon receipt of a written complaint from the aggrieved woman or legal heirs.",
+    "id": 39,
+    "primary_statute": "POSH Act, 2013",
+    "query": "Can the IC initiate an inquiry without a written complaint?"
+  },
+  {
+    "category": "Workplace Safety & POSH",
+    "expert_audit_response": "Yes. The Act imposes strict confidentiality. Disclosing the identity of the aggrieved woman, respondent, or witnesses attracts significant legal penalties.",
+    "id": 40,
+    "primary_statute": "POSH Act, 2013",
+    "query": "Do we have to protect the confidentiality of POSH complaints?"
+  },
+  {
+    "category": "Employee Relations & Grievance",
+    "expert_audit_response": "No. Immediate termination without due process or a domestic inquiry can lead to wrongful termination claims. A structured internal inquiry must be held.",
+    "id": 41,
+    "primary_statute": "Industrial Disputes Act, 1947",
+    "query": "Can we immediately terminate an employee for alleged misconduct?"
+  },
+  {
+    "category": "Employee Relations & Grievance",
+    "expert_audit_response": "Retaliation occurs when an employer takes adverse action (demotion, termination) against an employee for exercising their statutory rights or filing a complaint.",
+    "id": 42,
+    "primary_statute": "Whistleblower Protection / General Jurisprudence",
+    "query": "What is the legal definition of 'retaliation' in employee grievances?"
+  },
+  {
+    "category": "Employee Relations & Grievance",
+    "expert_audit_response": "Under the Industrial Disputes Act, industrial establishments with 20 or more workmen must constitute a Grievance Redressal Committee for the resolution of disputes.",
+    "id": 43,
+    "primary_statute": "Industrial Disputes Act, 1947",
+    "query": "Is there a mandated grievance redressal committee for general issues?"
+  },
+  {
+    "category": "Employee Relations & Grievance",
+    "expert_audit_response": "The legality depends on internal company policies. It is recommended that employers explicitly dictate recording rules in the employee handbook to avoid data privacy disputes.",
+    "id": 44,
+    "primary_statute": "Company IT Policy / DPDP Act",
+    "query": "Can an employee record internal disciplinary meetings?"
+  },
+  {
+    "category": "Employee Relations & Grievance",
+    "expert_audit_response": "Yes. Under standard employment terms and state laws, employers must provide statutory notice (usually 30 to 90 days) or pay in lieu of notice.",
+    "id": 45,
+    "primary_statute": "Shops and Establishments Act (State-Specific)",
+    "query": "Must we provide a notice period before terminating an employee for poor performance?"
+  },
+  {
+    "category": "Employee Relations & Grievance",
+    "expert_audit_response": "Generally yes, on company-issued devices and networks, but the policy must be clearly communicated to employees in the IT/Acceptable Use Policy.",
+    "id": 46,
+    "primary_statute": "Information Technology Act, 2000",
+    "query": "Is it legal to monitor employee emails and internet usage?"
+  },
+  {
+    "category": "Employee Relations & Grievance",
+    "expert_audit_response": "Constructive dismissal occurs when an employee resigns because the employer has created a toxic or hostile work environment, effectively forcing the employee out.",
+    "id": 47,
+    "primary_statute": "Industrial Disputes Act / Wrongful Termination Principles",
+    "query": "What constitutes 'constructive dismissal'?"
+  },
+  {
+    "category": "Employee Relations & Grievance",
+    "expert_audit_response": "No. Under the Trade Unions Act and constitutional provisions, employees have the right to form and join trade unions. Interference attracts penalties.",
+    "id": 48,
+    "primary_statute": "Trade Unions Act, 1926",
+    "query": "Can we restrict employees from engaging in union activities?"
+  },
+  {
+    "category": "Employee Relations & Grievance",
+    "expert_audit_response": "While not a statutory mandate, conducting exit interviews is a vital HR compliance best practice to document reasons for departure and mitigate future liability.",
+    "id": 49,
+    "primary_statute": "Corporate Best Practices",
+    "query": "Is an exit interview legally required?"
+  },
+  {
+    "category": "Employee Relations & Grievance",
+    "expert_audit_response": "Yes. Under the Industrial Disputes Act, establishments with over 100 workmen must obtain prior permission from the appropriate government and follow formal seniority rules.",
+    "id": 50,
+    "primary_statute": "Industrial Disputes Act, 1947",
+    "query": "Must we notify labour unions before retrenching staff?"
+  },
+  {
+    "category": "Privacy & Data Protection (DPDP Act)",
+    "expert_audit_response": "No. Under the Digital Personal Data Protection (DPDP) Act, disclosing personal, sensitive, or employment financial data without clear authorization or a lawful base is a data breach.",
+    "id": 51,
+    "primary_statute": "Digital Personal Data Protection (DPDP) Act",
+    "query": "Can we publicly display an employee’s salary or performance metrics?"
+  },
+  {
+    "category": "Privacy & Data Protection (DPDP Act)",
+    "expert_audit_response": "Yes. Data principals (employees) hold the legal right to access, review, and request corrections or updates to any inaccurate personal information maintained by the employer.",
+    "id": 52,
+    "primary_statute": "Digital Personal Data Protection (DPDP) Act",
+    "query": "Do employees have the right to view or correct their HR records?"
+  },
+  {
+    "category": "Privacy & Data Protection (DPDP Act)",
+    "expert_audit_response": "Yes, provided the employee gives explicit, unambiguous consent prior to collection, and the data is stored in a secure, encrypted database with restricted access.",
+    "id": 53,
+    "primary_statute": "Digital Personal Data Protection (DPDP) Act",
+    "query": "Can we collect biometric data (fingerprints/face scans) for attendance tracking?"
+  },
+  {
+    "category": "Privacy & Data Protection (DPDP Act)",
+    "expert_audit_response": "Yes, but it requires explicit consent during onboarding, or it must be processed strictly as a necessary function of executing the employment contract.",
+    "id": 54,
+    "primary_statute": "Digital Personal Data Protection (DPDP) Act",
+    "query": "Are we allowed to share employee details with third-party vendors like insurance providers?"
+  },
+  {
+    "category": "Privacy & Data Protection (DPDP Act)",
+    "expert_audit_response": "Any unauthorized access, accidental alteration, disclosure, or loss of employee personal records. It mandates immediate internal containment and reporting to regulatory bodies.",
+    "id": 55,
+    "primary_statute": "Digital Personal Data Protection (DPDP) Act",
+    "query": "What constitutes an HR data breach under current guidelines?"
+  },
+  {
+    "category": "Privacy & Data Protection (DPDP Act)",
+    "expert_audit_response": "No. Using an individual's image or video for marketing or corporate branding requires specific, recorded consent detailing the scope of use.",
+    "id": 56,
+    "primary_statute": "Digital Personal Data Protection (DPDP) Act",
+    "query": "Can we use employee images or testimonials on social media without a waiver?"
+  },
+  {
+    "category": "Privacy & Data Protection (DPDP Act)",
+    "expert_audit_response": "Organizations processing significant volumes of personal data are classified as Significant Data Fiduciaries and are statutory required to designate a Data Protection Officer.",
+    "id": 57,
+    "primary_statute": "Digital Personal Data Protection (DPDP) Act",
+    "query": "Do corporate HR departments need to appoint a Data Fiduciary representative or DPO?"
+  },
+  {
+    "category": "Privacy & Data Protection (DPDP Act)",
+    "expert_audit_response": "No. Data must be erased once the purpose of collection is fulfilled, unless retention is strictly required to satisfy other statutory or tax record-keeping laws.",
+    "id": 58,
+    "primary_statute": "Digital Personal Data Protection (DPDP) Act",
+    "query": "Can we keep employee personal data indefinitely after they resign?"
+  },
+  {
+    "category": "Privacy & Data Protection (DPDP Act)",
+    "expert_audit_response": "Health data must be isolated from regular HR folders, access-controlled to essential personnel only, and processed with high-security guardrails.",
+    "id": 59,
+    "primary_statute": "Digital Personal Data Protection (DPDP) Act",
+    "query": "How should sensitive medical records or health certificates be handled?"
+  },
+  {
+    "category": "Privacy & Data Protection (DPDP Act)",
+    "expert_audit_response": "Cross-border transfers are legal provided they do not violate restriction lists published by the Central Government and the destination maintains compliant data protections.",
+    "id": 60,
+    "primary_statute": "Digital Personal Data Protection (DPDP) Act",
+    "query": "Is transferring employee data to overseas parent companies or cloud servers legal?"
+  },
+  {
+    "category": "Global Mobility & Immigration",
+    "expert_audit_response": "No. Long-term international remote work can inadvertently trigger corporate permanent establishment (PE) risk, local tax nexus liabilities, and statutory payroll violations.",
+    "id": 61,
+    "primary_statute": "International Tax Laws / FEMA",
+    "query": "Can an employee work from another country remotely without company registration there?"
+  },
+  {
+    "category": "Global Mobility & Immigration",
+    "expert_audit_response": "Yes. If the expatriate is rendering operational services within India, the Indian entity must deduct TDS under Section 192 and issue Form 16.",
+    "id": 62,
+    "primary_statute": "Income Tax Act, 1961",
+    "query": "Are employers responsible for managing tax withholding (TDS) for expatriate employees?"
+  },
+  {
+    "category": "Global Mobility & Immigration",
+    "expert_audit_response": "Yes. A standard Business Visa does not permit execution of operational, day-to-day corporate work or local project management; an Employment Visa is legally required.",
+    "id": 63,
+    "primary_statute": "Visa Manual / MHA Guidelines",
+    "query": "Do inbound business visitors require a formal Employment Visa for hands-on work?"
+  },
+  {
+    "category": "Global Mobility & Immigration",
+    "expert_audit_response": "Only if they qualify as an 'Excluded Employee' under a bilateral Social Security Agreement (SSA) and hold a valid Certificate of Coverage (CoC) from their home country.",
+    "id": 64,
+    "primary_statute": "EPF Act (Special Provisions for International Workers)",
+    "query": "Can an inbound foreign employee opt out of local social security contributions?"
+  },
+  {
+    "category": "Global Mobility & Immigration",
+    "expert_audit_response": "Any foreign national working for an eligible establishment in India, or an Indian employee working abroad who has not obtained a CoC under an applicable SSA.",
+    "id": 65,
+    "primary_statute": "Employees' Provident Funds Scheme, 1952",
+    "query": "What defines an 'International Worker' under Indian provident fund laws?"
+  },
+  {
+    "category": "Global Mobility & Immigration",
+    "expert_audit_response": "Yes. Corporate sponsors hold secondary liability. Visas lasting over 180 days require the foreign national to register with the FRRO within 14 days of arrival.",
+    "id": 66,
+    "primary_statute": "Foreigners Regional Registration Office (FRRO) Regulations",
+    "query": "Are companies liable if a foreign employee fails to register with the FRRO?"
+  },
+  {
+    "category": "Global Mobility & Immigration",
+    "expert_audit_response": "While adjustments for cost-of-living or relocation are permitted, arbitrary wage disparity for identical work roles risks violating anti-discrimination and equal remuneration principles.",
+    "id": 67,
+    "primary_statute": "Equal Remuneration Act, 1976",
+    "query": "Can we pay different baseline salaries to locals vs expats for identical roles?"
+  },
+  {
+    "category": "Global Mobility & Immigration",
+    "expert_audit_response": "Only if a structured, reasonable clawback agreement or indemnity bond was signed before incurring expenses. Unreasonable, punitive amounts are unenforceable.",
+    "id": 68,
+    "primary_statute": "Indian Contract Act, 1872",
+    "query": "Can visa processing and relocation expenses be legally clawed back if an expat quits?"
+  },
+  {
+    "category": "Global Mobility & Immigration",
+    "expert_audit_response": "This is not explicitly dictated by central labour codes but is universally required by immigration authorities as part of the corporate visa sponsorship undertaking.",
+    "id": 69,
+    "primary_statute": "Immigration & Sponsorship Undertakings",
+    "query": "Must the company cover repatriation travel expenses at contract termination?"
+  },
+  {
+    "category": "Exit & Termination",
+    "expert_audit_response": "Yes. Establishments employing fewer than 100 workmen can retrench staff without prior government approval, provided statutory notice (or notice pay) and retrenchment compensation are completed.",
+    "id": 70,
+    "primary_statute": "Industrial Disputes Act, 1947",
+    "query": "Is retrenchment legal for a small office without seeking government approvals?"
+  },
+  {
+    "category": "Exit & Termination",
+    "expert_audit_response": "Yes, if the employment contract contains an explicit clause allowing notice buyout, or if both the employer and employee mutually agree to it in writing.",
+    "id": 71,
+    "primary_statute": "Shops and Establishments Act (State-Specific)",
+    "query": "Can an employee short-close or buy out their mandatory notice period?"
+  },
+  {
+    "category": "Exit & Termination",
+    "expert_audit_response": "Yes. Most state Shops and Establishments rules mandate that an employer must provide a service certificate or experience letter detailing tenure and job nature upon separation.",
+    "id": 72,
+    "primary_statute": "Shops and Establishments Act (State-Specific)",
+    "query": "Are employers legally required to issue an Experience Letter?"
+  },
+  {
+    "category": "Exit & Termination",
+    "expert_audit_response": "No. Dues cannot be withheld based on mere suspicion. Deductions require explicit contract clauses, a completed internal disciplinary probe, or a formal court decree.",
+    "id": 73,
+    "primary_statute": "Payment of Wages Act, 1936",
+    "query": "Can we legally withhold a final settlement payout over unproven financial losses?"
+  },
+  {
+    "category": "Exit & Termination",
+    "expert_audit_response": "No. During garden leave, the employee remains on the active payroll, receives standard compensation, and is bound by all company policies, but is restricted from performing work duties.",
+    "id": 74,
+    "primary_statute": "Corporate Legal Jurisprudence",
+    "query": "Does placing an employee on 'Garden Leave' end the employment relationship?"
+  },
+  {
+    "category": "Exit & Termination",
+    "expert_audit_response": "Unvested options automatically lapse on the termination date. Vested options must be exercised within the window specified by the company's SEBI-compliant ESOP plan scheme.",
+    "id": 75,
+    "primary_statute": "Company ESOP Scheme / SEBI Guidelines",
+    "query": "What happens to unvested stock options (ESOPs) when an employee is terminated?"
+  },
+  {
+    "id": 76,
+    "category": "Exit & Termination",
+    "query": "Can we terminate an employee while they are on approved sick or maternity leave?",
+    "expert_audit_response": "No. Terminating an employee while on protected statutory leave (especially maternity leave) is strictly prohibited and carries criminal liability, unless the facility permanently closes or extreme fraud is proven via a domestic inquiry.",
+    "primary_statute": "Maternity Benefit Act, 1961 / State Shops Acts"
+  },
+  {
+    "id": 77,
+    "category": "Exit & Termination",
+    "query": "Is a signed 'Full and Final Settlement' release completely immune to future employee lawsuits?",
+    "expert_audit_response": "Not entirely. While it serves as strong evidence of waiver, courts can invalidate a release if the employee proves the settlement was signed under coercion, undue influence, or if statutory benefits like gratuity were underpaid.",
+    "primary_statute": "Indian Contract Act, 1872 / Payment of Gratuity Act"
+  },
+  {
+    "id": 78,
+    "category": "Exit & Termination",
+    "query": "Can a laid-off or retrenched private-sector worker claim statutory compensation?",
+    "expert_audit_response": "Yes. Under the Industrial Disputes Act, continuous service of one year or more entitles a 'workman' to 15 days of average pay for every completed year of service as retrenchment compensation.",
+    "primary_statute": "Industrial Disputes Act, 1947"
+  },
+  {
+    "id": 79,
+    "category": "Exit & Termination",
+    "query": "How long must an employer legally retain basic employment contracts and exit records?",
+    "expert_audit_response": "Contracts, settlement sheets, and tax documents must be safely preserved for a minimum of 5 to 8 years post-termination to satisfy corporate tax, PF, and state labour audit limitations.",
+    "primary_statute": "Income Tax Act, 1961 / Companies Act, 2013"
+  },
+  {
+    "id": 80,
+    "category": "Exit & Termination",
+    "query": "If an employee abandons their job without notice, can we immediately terminate them?",
+    "expert_audit_response": "No. Immediate termination for absconding is non-compliant. Employers must send a series of formal abandonment notices/show-cause letters to the registered address, giving a reasonable window to explain the absence.",
+    "primary_statute": "Industrial Employment (Standing Orders) Act / Principles of Natural Justice"
+  },
+  {
+    "id": 81,
+    "category": "Contingent Workforce & Contractors",
+    "query": "Are independent contractors entitled to statutory PF and ESIC benefits from the principal employer?",
+    "expert_audit_response": "No. Legitimate independent contractors are responsible for their own compliance. Providing them regular corporate benefits directly creates an audit risk of worker misclassification.",
+    "primary_statute": "Employees' Provident Funds Act, 1952"
+  },
+  {
+    "id": 82,
+    "category": "Contingent Workforce & Contractors",
+    "query": "Can we deploy contract agency workers for core, perennial operational workflows?",
+    "expert_audit_response": "No. Deploying contract labour for core, day-to-day operations that are permanent to the business structure is heavily restricted and can result in the government mandating absorption of those workers.",
+    "primary_statute": "Contract Labour (Regulation and Abolition) Act, 1970"
+  },
+  {
+    "id": 83,
+    "category": "Contingent Workforce & Contractors",
+    "query": "Is the principal employer liable if a third-party staffing agency fails to pay its workers?",
+    "expert_audit_response": "Yes. The principal employer holds secondary statutory liability. If the contractor defaults, the principal employer must pay the wages and subsequently recover the amount from the contractor.",
+    "primary_statute": "Contract Labour (Regulation and Abolition) Act, 1970"
+  },
+  {
+    "id": 84,
+    "category": "Contingent Workforce & Contractors",
+    "query": "Can we terminate a vendor or independent contractor agreement immediately without cause?",
+    "expert_audit_response": "This depends entirely on the Master Services Agreement (MSA). Terminating without cause requires adhering to the specific contractual notice clause to avoid breach-of-contract damages.",
+    "primary_statute": "Indian Contract Act, 1872"
+  },
+  {
+    "id": 85,
+    "category": "Contingent Workforce & Contractors",
+    "query": "Are independent freelancers or individual contractors required to be registered under GST?",
+    "expert_audit_response": "Only if their aggregate annual turnover from services exceeds the statutory threshold (currently INR 20 Lakhs / 10 Lakhs for special category states), or if they engage in inter-state services.",
+    "primary_statute": "Central Goods and Services Tax (CGST) Act, 2017"
+  },
+  {
+    "id": 86,
+    "category": "Contingent Workforce & Contractors",
+    "query": "Must we deduct Tax Deducted at Source (TDS) on all payouts made to independent contractors?",
+    "expert_audit_response": "Yes. Corporate entities must deduct TDS under Section 194C (for contracts) or Section 194J (for professional/technical services) if the single or aggregate payments exceed statutory limits.",
+    "primary_statute": "Income Tax Act, 1961"
+  },
+  {
+    "id": 87,
+    "category": "Contingent Workforce & Contractors",
+    "query": "Can an HR manager dictate strict shift times and step-by-step methods to an independent contractor?",
+    "expert_audit_response": "No. Micro-managing methods and controlling time creates a 'master-servant' relationship in the eyes of the law. Contracts must focus on final deliverables and outcomes, not behavioral control.",
+    "primary_statute": "Labour Law Misclassification Frameworks"
+  },
+  {
+    "id": 88,
+    "category": "Contingent Workforce & Contractors",
+    "query": "Are contract labourers eligible for maternity benefits from the principal employer?",
+    "expert_audit_response": "The primary responsibility lies with the contractor/agency. However, if the contractor fails to provide it, the principal employer can be held liable to ensure compliance under the Act.",
+    "primary_statute": "Maternity Benefit Act, 1961"
+  },
+  {
+    "id": 89,
+    "category": "Contingent Workforce & Contractors",
+    "query": "Can freelancers or independent contractors legally form a trade union to bargain with a corporation?",
+    "expert_audit_response": "No. The statutory right to form trade unions for collective bargaining under Indian law is reserved for regular 'workmen' or employees, not business-to-business independent contractors.",
+    "primary_statute": "Trade Unions Act, 1926"
+  },
+  {
+    "id": 90,
+    "category": "Contingent Workforce & Contractors",
+    "query": "What exactly is 'co-employment' risk during corporate outsourcing?",
+    "expert_audit_response": "It occurs when a client company exercises direct administrative control over agency workers (e.g., issuing performance appraisals or disciplinary actions), making the client legally liable as a joint employer.",
+    "primary_statute": "Contract Labour (Regulation and Abolition) Act, 1970"
+  },
+  {
+    "id": 91,
+    "category": "Compliance Administration & Recordkeeping",
+    "query": "What are the legal consequences of failing to maintain statutory employment registers?",
+    "expert_audit_response": "Failing to maintain records attracts compliance notices, financial penalties, and criminal fines during surprise inspections by state labour officers.",
+    "primary_statute": "Factories Act / State Shops and Establishments Acts"
+  },
+  {
+    "id": 92,
+    "category": "Compliance Administration & Recordkeeping",
+    "query": "Are digital e-signatures and electronic cloud storage legally acceptable for labour audits?",
+    "expert_audit_response": "Yes. Digital records, electronic attendance logs, and verified e-signatures are fully recognized and legally valid for compliance verification.",
+    "primary_statute": "Information Technology Act, 2000 / Labour Laws Simplification Rules"
+  },
+  {
+    "id": 93,
+    "category": "Compliance Administration & Recordkeeping",
+    "query": "How long must wage, overtime, and fine registers be preserved?",
+    "expert_audit_response": "Wage records and statutory registers must be securely preserved for a minimum of 3 years from the date of the last entry, though 5 years is recommended.",
+    "primary_statute": "Payment of Wages Rules / Minimum Wages Rules"
+  },
+  {
+    "id": 94,
+    "category": "Compliance Administration & Recordkeeping",
+    "query": "Is it legally mandatory to print and display abstract notices of labour laws at the office floor?",
+    "expert_audit_response": "Yes. Most state enactments mandate that abstracts of the Minimum Wages Act, Payment of Wages Act, and POSH guidelines must be prominently displayed in English and the local state language.",
+    "primary_statute": "Minimum Wages Act / POSH Act / Factories Act"
+  },
+  {
+    "id": 95,
+    "category": "Compliance Administration & Recordkeeping",
+    "query": "Do we need to notify government departments before altering standard office shift schedules?",
+    "expert_audit_response": "Yes. Under section 9A of the Industrial Disputes Act, any change in standard working hours, shift systems, or weekly holiday patterns requires a mandatory 21-day notice to affected workers.",
+    "primary_statute": "Industrial Disputes Act, 1947"
+  },
+  {
+    "id": 96,
+    "category": "Compliance Administration & Recordkeeping",
+    "query": "Can companies file a consolidated unified annual return for multiple labour laws?",
+    "expert_audit_response": "Yes. Centralized portals like the Shram Suvidha Portal allow companies to file a single, unified annual return to satisfy multiple central labour law filings simultaneously.",
+    "primary_statute": "Labour Laws (Amendment) Act"
+  },
+  {
+    "id": 97,
+    "category": "Compliance Administration & Recordkeeping",
+    "query": "What happens if a company misses the deadline for monthly PF or ESIC deposits?",
+    "expert_audit_response": "Late deposits attract mandatory statutory interest penalties (currently 12% per annum) plus heavy damages sliding up to 25% depending on the period of delay.",
+    "primary_statute": "EPF Act, 1952 / ESI Act, 1948"
+  },
+  {
+    "id": 98,
+    "category": "Compliance Administration & Recordkeeping",
+    "query": "Does a state labour inspector have the right to enter office premises without prior notice?",
+    "expert_audit_response": "Yes. Appointed inspectors have statutory powers to enter any workplace during operational hours without a warrant to inspect registers, download logs, and interview employees.",
+    "primary_statute": "Shops and Establishments Act / Factories Act"
+  },
+  {
+    "id": 99,
+    "category": "Compliance Administration & Recordkeeping",
+    "query": "Is a formal Whistleblower policy legally required for private startups?",
+    "expert_audit_response": "It is mandatory for listed public companies, companies accepting public deposits, or companies with borrowed institutional funds exceeding INR 50 Crores; however, it remains a governance best practice for all startups.",
+    "primary_statute": "Companies Act, 2013"
+  },
+  {
+    "id": 100,
+    "category": "Compliance Administration & Recordkeeping",
+    "query": "Are policies published in an internal Employee Handbook considered contractually binding?",
+    "expert_audit_response": "Yes. If the employment contract states that the employee is subject to company policies and regulations, the Handbook operates as a legally binding extension of that contract.",
+    "primary_statute": "Indian Contract Act, 1872 / Employment Jurisprudence"
+  }
+]
