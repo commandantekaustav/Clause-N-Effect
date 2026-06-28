@@ -4,9 +4,6 @@ import streamlit as st
 from agent_engine import app as crag_app
 from logger import log_transaction
 
-# ==========================================
-# Streamlit UI Configuration
-# ==========================================
 st.set_page_config(
     page_title="Clause-N-Effect: Legal Compliance Auditor",
     layout="wide",
@@ -14,9 +11,8 @@ st.set_page_config(
 )
 
 st.title("Clause-N-Effect")
-st.subheader("Agentic Legal Compliance Auditor (CRAG)")
+st.subheader("Agentic Legal Compliance Auditor (CRAG) - Actor-Critic Architecture")
 
-# Sidebar for API Configuration & Logs Preview
 with st.sidebar:
     st.header("Configuration")
     groq_api_key = st.text_input("Groq API Key", type="password")
@@ -29,9 +25,6 @@ with st.sidebar:
     else:
         st.info("No logs captured yet. Run an audit to generate telemetry.")
 
-# ==========================================
-# Main Application Flow
-# ==========================================
 col1, col2 = st.columns(2)
 
 with col1:
@@ -48,7 +41,6 @@ with col2:
         height=200
     )
 
-# Single Button Execution Block
 if st.button("Run Compliance Audit", type="primary"):
     if not groq_api_key or not tavily_api_key:
         st.error("Please provide both Groq and Tavily API keys in the sidebar.")
@@ -60,9 +52,13 @@ if st.button("Run Compliance Audit", type="primary"):
         
         status_placeholder = st.empty()
         
-        # Combine the two textboxes into the single "question" string expected by GraphState
         combined_payload = f"USER QUERY: {user_query.strip()}\n\nTARGET HR FACTS:\n{employer_facts.strip()}"
-        inputs = {"question": combined_payload}
+        
+        # Inject initialization for the cyclic routing mechanics
+        inputs = {
+            "question": combined_payload,
+            "revision_count": 0
+        }
         
         final_generation = ""
         final_steps = []
@@ -71,16 +67,24 @@ if st.button("Run Compliance Audit", type="primary"):
         start_time = time.perf_counter()
         
         try:
-            with status_placeholder.status("Executing Agentic Routing Nodes...", expanded=True) as status:
+            with status_placeholder.status("Executing Actor-Critic Routing Nodes...", expanded=True) as status:
                 for output in crag_app.stream(inputs):
                     for node_name, state_delta in output.items():
                         st.write(f"Completed Node: {node_name}")
+                        
+                        # Render Red Team Defense Live
+                        if "corporate_defense" in state_delta and state_delta["corporate_defense"]:
+                            with st.expander("Corporate HR Defense Generated"):
+                                st.write(state_delta["corporate_defense"])
+                                
+                        # Render Judge Criticisms Live
+                        if "judge_feedback" in state_delta and state_delta.get("judge_score") == "FAIL":
+                            st.warning(f"Judge Rejected Audit. Triggering Rewrite. Reason: {state_delta['judge_feedback']}")
                         
                         if "steps" in state_delta:
                             final_steps = state_delta["steps"]
                         if "generation" in state_delta:
                             final_generation = state_delta["generation"]
-                        # Intercept the distilled query post-compression
                         if "question" in state_delta:
                             distilled_query = state_delta["question"]
                 
@@ -91,7 +95,6 @@ if st.button("Run Compliance Audit", type="primary"):
             st.markdown("### Compliance Audit Report")
             st.markdown(final_generation, unsafe_allow_html=True)
             
-            # Log ONLY the distilled query to track.json, saving ~85% storage space
             log_transaction(
                 query=distilled_query,
                 response=final_generation,

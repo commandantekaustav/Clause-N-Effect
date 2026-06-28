@@ -5,9 +5,11 @@ from langchain_groq import ChatGroq
 from langchain_core.prompts import ChatPromptTemplate
 from langgraph.graph import StateGraph, START, END
 
-# Import Decoupled State, Prompts, and Tools
-from src.agents.state import GraphState, GradeResult
-from src.prompts.system_prompts import GRADER_SYSTEM_PROMPT, AUDIT_SYSTEM_PROMPT
+from src.agents.state import GraphState, GradeResult, JudgeResult
+from src.prompts.system_prompts import (
+    GRADER_SYSTEM_PROMPT, AUDIT_SYSTEM_PROMPT, 
+    CORPORATE_DEFENSE_PROMPT, JUDGE_SYSTEM_PROMPT
+)
 from src.tools.retriever import get_retriever
 from src.tools.search import execute_tavily_search
 from src.utils.text_crusher import crush_corporate_noise
@@ -16,7 +18,6 @@ from src.utils.text_crusher import crush_corporate_noise
 # 1. Lazy Model Initialization Helpers
 # ==========================================
 def get_fast_llm() -> ChatGroq:
-    """Lazily instantiates the fast utility model."""
     return ChatGroq(
         model="llama-3.1-8b-instant", 
         temperature=0,
@@ -25,17 +26,13 @@ def get_fast_llm() -> ChatGroq:
     )
 
 def get_complex_llm() -> ChatGroq:
-    """Lazily instantiates the complex analytical model."""
     return ChatGroq(
         model="llama-3.3-70b-versatile", 
-        temperature=0,
+        temperature=0.2, # Slight temperature increase for adversarial rebuttal
         max_tokens=1500,
         api_key=os.environ.get("GROQ_API_KEY")
     )
 
-# ==========================================
-# 2. Token Budgeting Utility
-# ==========================================
 def truncate_text_to_budget(text_list: List[str], max_chars: int) -> str:
     combined = ""
     for text in text_list:
@@ -43,43 +40,32 @@ def truncate_text_to_budget(text_list: List[str], max_chars: int) -> str:
         if len(combined) + len(clean_text) + 2 > max_chars:
             remaining = max_chars - len(combined)
             if remaining > 150:
-                combined += "\n\n" + clean_text[:remaining] + "... [Context Truncated for Rate Limits]"
+                combined += "\n\n" + clean_text[:remaining] + "... [Context Truncated]"
             break
         combined += "\n\n" + clean_text
     return combined.strip()
 
 # ==========================================
-# 3. Graph Nodes
+# 2. Graph Nodes
 # ==========================================
-
 def compress_query(state: GraphState) -> Dict[str, Any]:
     raw_question = state["question"]
     steps = state.get("steps", [])
     steps.append("compress_query")
     
-    # 1. Zero-Cost Preprocessing: Distill the email chain/corporate noise
     distilled_question = crush_corporate_noise(raw_question)
     
-    # 2. Skip LLM compression if the distilled text is already small enough
     if len(distilled_question) < 1200:
         return {"question": distilled_question, "steps": steps}
         
     compress_prompt = ChatPromptTemplate.from_messages([
-        ("system", "You are an elite legal data extractor. The user has provided a raw, fragmented corporate communication or contract. "
-                   "Your job is to radically distill this text into a pure timeline of facts, legal assertions, and the core compliance question. "
-                   "OMIT all conversational filler, emotional language, greetings, and repetitive signatures. "
-                   "Output ONLY the timeline of events and the specific legal/HR clauses under dispute. Keep it under 500 words."),
+        ("system", "Distill this text into a pure timeline of facts and the core compliance question. Omit filler. Max 500 words."),
         ("human", "Crushed Input:\n{raw_input}")
     ])
     
-    llm_fast = get_fast_llm()
-    chain = compress_prompt | llm_fast
-    
-    # Cap input to stay within TPM boundaries
-    truncated_input = distilled_question[:15000]
-    
+    chain = compress_prompt | get_fast_llm()
     try:
-        response = chain.invoke({"raw_input": truncated_input})
+        response = chain.invoke({"raw_input": distilled_question[:15000]})
         compressed_query = response.content.strip()
     except Exception:
         compressed_query = distilled_question[:3000]
@@ -91,11 +77,8 @@ def retrieve(state: GraphState) -> Dict[str, Any]:
     steps = state.get("steps", [])
     steps.append("retrieve_documents")
     
-    retriever = get_retriever()
-    docs = retriever.invoke(question)
-    doc_contents = [doc.page_content for doc in docs]
-    
-    return {"documents": doc_contents, "steps": steps}
+    docs = get_retriever().invoke(question)
+    return {"documents": [doc.page_content for doc in docs], "steps": steps}
 
 def grade_documents(state: GraphState) -> Dict[str, Any]:
     question = state["question"]
@@ -103,18 +86,16 @@ def grade_documents(state: GraphState) -> Dict[str, Any]:
     steps = state.get("steps", [])
     steps.append("grade_documents")
     
-    grader_prompt = ChatPromptTemplate.from_messages([
+    prompt = ChatPromptTemplate.from_messages([
         ("system", GRADER_SYSTEM_PROMPT),
-        ("human", "User Query: {question}\n\nRetrieved Context:\n{context}")
+        ("human", "Query: {question}\n\nContext:\n{context}")
     ])
     
-    llm_fast = get_fast_llm()
-    chain = grader_prompt | llm_fast.with_structured_output(GradeResult)
-    
-    combined_context = truncate_text_to_budget(documents, max_chars=6000)
+    chain = prompt | get_fast_llm().with_structured_output(GradeResult)
+    combined = truncate_text_to_budget(documents, max_chars=6000)
     
     try:
-        result = chain.invoke({"question": question, "context": combined_context})
+        result = chain.invoke({"question": question, "context": combined})
         score = result.score.upper().strip()
     except Exception:
         score = "NO"
@@ -126,53 +107,98 @@ def web_search(state: GraphState) -> Dict[str, Any]:
     steps = state.get("steps", [])
     steps.append("execute_web_search")
     
-    enhanced_query = f"{question} Indian Labor Code 2026 ruling statute"
-    context = execute_tavily_search(enhanced_query)
-    
+    query = f"{question} Indian Labor Law Tamil Nadu Shops Establishments Act"
+    context = execute_tavily_search(query)
     return {"web_search_context": context, "steps": steps}
+
+def draft_corporate_defense(state: GraphState) -> Dict[str, Any]:
+    question = state["question"]
+    steps = state.get("steps", [])
+    steps.append("draft_corporate_defense")
+    
+    prompt = ChatPromptTemplate.from_messages([
+        ("system", CORPORATE_DEFENSE_PROMPT),
+        ("human", "Employee Query & Facts:\n{question}")
+    ])
+    
+    chain = prompt | get_fast_llm()
+    response = chain.invoke({"question": question})
+    
+    return {"corporate_defense": response.content, "steps": steps}
 
 def generate_audit(state: GraphState) -> Dict[str, Any]:
     question = state["question"]
     documents = state["documents"]
-    web_context_raw = state.get("web_search_context", "No external web data needed.")
-    grade = state.get("generation", "YES") # Get the grader's decision
+    web_context = state.get("web_search_context", "No external context.")
+    corporate_defense = state.get("corporate_defense", "")
+    judge_feedback = state.get("judge_feedback", "None")
+    
     steps = state.get("steps", [])
     steps.append("generate_audit_report")
     
-    audit_prompt = ChatPromptTemplate.from_messages([
+    prompt = ChatPromptTemplate.from_messages([
         ("system", AUDIT_SYSTEM_PROMPT),
-        ("human", "Query: {question}\n\nInternal Company Context:\n{internal_context}\n\nExternal Legal Context:\n{external_context}")
+        ("human", "Query/Facts: {question}\n\nInternal Legal DB: {internal}\n\nWeb Statutes: {external}\n\nCorporate Defense To Destroy: {defense}\n\nPrevious Judge Feedback to Fix: {feedback}")
     ])
     
-    llm_complex = get_complex_llm()
-    chain = audit_prompt | llm_complex
+    internal_budget = truncate_text_to_budget(documents, max_chars=8000) if state.get("generation") != "NO" else "[INTERNAL DB IRRELEVANT]"
+    external_budget = truncate_text_to_budget([web_context], max_chars=4000)
     
-    # THE FIX: If the internal documents were useless, DO NOT feed them to the final LLM.
-    if grade == "NO":
-        internal_budget = "[SYSTEM LOG: INTERNAL DOCUMENTS DEEMED IRRELEVANT. LLM MUST RELY EXCLUSIVELY ON EXTERNAL LEGAL CONTEXT.]"
-    else:
-        internal_budget = truncate_text_to_budget(documents, max_chars=8000)
-        
-    external_budget = truncate_text_to_budget([web_context_raw], max_chars=4000)
-    
+    chain = prompt | get_complex_llm()
     response = chain.invoke({
         "question": question,
-        "internal_context": internal_budget,
-        "external_context": external_budget
+        "internal": internal_budget,
+        "external": external_budget,
+        "defense": corporate_defense,
+        "feedback": judge_feedback
     })
     
     return {"generation": response.content, "steps": steps}
 
+def evaluate_audit(state: GraphState) -> Dict[str, Any]:
+    generation = state["generation"]
+    steps = state.get("steps", [])
+    revision_count = state.get("revision_count", 0)
+    
+    steps.append("evaluate_audit")
+    
+    prompt = ChatPromptTemplate.from_messages([
+        ("system", JUDGE_SYSTEM_PROMPT),
+        ("human", "Generated Audit:\n{audit}")
+    ])
+    
+    chain = prompt | get_fast_llm().with_structured_output(JudgeResult)
+    
+    try:
+        result = chain.invoke({"audit": generation})
+        score = result.score.upper().strip()
+        feedback = result.feedback
+    except Exception:
+        score = "PASS" # Failsafe to prevent graph crash
+        feedback = "Evaluation API failed. Passing by default."
+        
+    return {
+        "judge_score": score, 
+        "judge_feedback": feedback, 
+        "revision_count": revision_count + 1,
+        "steps": steps
+    }
+
 # ==========================================
-# Routing Decisions
+# 3. Routing Decisions
 # ==========================================
-def route_after_grading(state: GraphState) -> Literal["web_search", "generate_audit"]:
+def route_after_grading(state: GraphState) -> Literal["web_search", "draft_corporate_defense"]:
     if state["generation"] == "NO":
          return "web_search"
+    return "draft_corporate_defense"
+
+def route_after_evaluation(state: GraphState) -> Literal["generate_audit", END]:
+    if state["judge_score"] == "PASS" or state["revision_count"] >= 2:
+        return END
     return "generate_audit"
 
 # ==========================================
-# Building the DAG
+# 4. Building the DAG
 # ==========================================
 workflow = StateGraph(GraphState)
 
@@ -180,13 +206,20 @@ workflow.add_node("compress_query", compress_query)
 workflow.add_node("retrieve", retrieve)
 workflow.add_node("grade_documents", grade_documents)
 workflow.add_node("web_search", web_search)
+workflow.add_node("draft_corporate_defense", draft_corporate_defense)
 workflow.add_node("generate_audit", generate_audit)
+workflow.add_node("evaluate_audit", evaluate_audit)
 
 workflow.add_edge(START, "compress_query")
 workflow.add_edge("compress_query", "retrieve")
 workflow.add_edge("retrieve", "grade_documents")
 workflow.add_conditional_edges("grade_documents", route_after_grading)
-workflow.add_edge("web_search", "generate_audit")
-workflow.add_edge("generate_audit", END)
+
+# Both retrieval routes converge at the Corporate Defense node
+workflow.add_edge("web_search", "draft_corporate_defense")
+workflow.add_edge("draft_corporate_defense", "generate_audit")
+
+workflow.add_edge("generate_audit", "evaluate_audit")
+workflow.add_conditional_edges("evaluate_audit", route_after_evaluation)
 
 app = workflow.compile()
