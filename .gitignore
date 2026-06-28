@@ -2,5 +2,79 @@
 # website: https://www.langchain.com/
 # website: https://www.langchain.com/langgraph
 
+# Sensitive Information || CRUCIAL
+.DONT_UPLOAD/
+
+
+# Version
+.python-version
+
 # LangGraph
 .langgraph_api/
+
+# env files
+.env
+.venv
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+*.manifest
+*.spec
+
+# --- Virtual Environments ---
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints
+*.nbconvert.ipynb
+
+# --- LangChain / LangGraph / LangSmith ---
+# Cache and temp data
+.langchain/
+.langgraph/
+.langsmith/
+lc_cache/
+lc_logs/
+lc_temp/
+langchain.db
+langsmith.db
+
+# API keys & credentials
+.env.local
+.env.*.local
+*.secrets
+*.key
+*.pem
+*.crt
+
+# --- Logs ---
+*.log
+logs/
+debug.log
+
+# --- OS-specific ---
+.DS_Store
+Thumbs.db
+
+# --- IDE / Editor ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
