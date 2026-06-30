@@ -8,13 +8,13 @@ import dotenv
 dotenv.load_dotenv()  # Load environment variables from .env file
 
 st.set_page_config(
-    page_title="Clause-N-Effect: Legal Compliance Auditor",
+    page_title="Clause-N-Effect: A Legal Compliance Auditor by [commandante](commandantekaustav.github.io) with :love: ",
     layout="wide",
     initial_sidebar_state="expanded"
 )
 
 st.title("Clause-N-Effect")
-st.subheader("Agentic Legal Compliance Auditor (CRAG) - Actor-Critic Architecture")
+st.subheader("reach out to commandantek@protonmail.com for any questions or feedback")
 
 with st.sidebar:
     st.header("Configuration")
@@ -33,14 +33,14 @@ col1, col2 = st.columns(2)
 with col1:
     employer_facts = st.text_area(
         "1. Paste the Employer Clause / Email:",
-        placeholder="e.g., 'Original certificates will be held for 3 years...' or paste the HR email here.",
+        placeholder="e.g., 'You have to reimburse the training cost of 3 lakhs' or paste the HR email here.",
         height=200
     )
 
 with col2:
     user_query = st.text_area(
         "2. What is your legal query?",
-        placeholder="e.g., Is this legal? How do I get my marksheet back?",
+        placeholder="e.g., Is this legal? Am I obligated?",
         height=200
     )
 
@@ -111,6 +111,12 @@ if st.button("Run Compliance Audit", type="primary"):
             st.error(f"An execution error occurred in the state machine: {str(e)}")
 
 if __name__ == "__main__":
-    st.info("This Streamlit app is designed to run the Clause-N-Effect compliance audit. Please provide the necessary inputs and API keys in the sidebar.")
+    st.info("""
+            Please provide the necessary inputs and API keys in the sidebar. Nobody has access to your Groq or Tavily API keys except you. They are used to securely query the respective LLMs for generating the audit and defense.    
+
+            Note: The system is designed to respect your privacy. No data is sent to any third-party servers except for the LLMs (Groq and Tavily) for processing your queries. All telemetry and logs are stored locally in `.DONT_UPLOAD/track.json` unless you choose to share them for debugging purposes.
+
+            Viva la Clause-N-Effect! Viva la Revolution! :sparkles: :love: :sparkles: :hammer_and_pick: :sparkles:
+            """)
     groq_api_key = os.getenv("GROQ_API_KEY")
     tavily_api_key = os.getenv("TAVILY_API_KEY")
