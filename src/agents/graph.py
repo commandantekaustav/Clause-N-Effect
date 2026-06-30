@@ -122,6 +122,9 @@ def web_search(state: GraphState) -> Dict[str, Any]:
             Input: Can we clawback visa expenses?
             Output: India Contract Act deduction visa expenses
 
+            Input: Manager is constantly shouting and mentally harassing employees.
+            Output: India workplace mental harassment grievance redressal laws
+
             Input: What happens to unvested stock options (ESOPs) when an employee is terminated?
             Output: India SEBI ESOP rules unvested options termination
 
