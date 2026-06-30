@@ -53,14 +53,20 @@ def compress_query(state: GraphState) -> Dict[str, Any]:
     steps = state.get("steps", [])
     steps.append("compress_query")
     
-    distilled_question = crush_corporate_noise(raw_question)
+    # Bypass regex crusher for now, as it might strip out important email quotes
+    distilled_question = raw_question.strip()
     
-    if len(distilled_question) < 1200:
+    # Increased budget: If the raw input is under 2500 chars (approx 500 words), 
+    # pass it directly to avoid the 8B model destroying the raw quotes.
+    if len(distilled_question) < 2500:
         return {"question": distilled_question, "steps": steps}
         
     compress_prompt = ChatPromptTemplate.from_messages([
-        ("system", "Distill this text into a pure timeline of facts and the core compliance question. Omit filler. Max 500 words."),
-        ("human", "Crushed Input:\n{raw_input}")
+        ("system", """You are a legal data extractor. Distill the provided text into a timeline of facts and the core compliance question. 
+        
+        CRITICAL DIRECTIVE: You MUST extract and preserve the exact, word-for-word text of any emails, company policies, or employer clauses provided in the input. Put them under a clear heading called 'RAW EVIDENCE QUOTES'. 
+        Do NOT summarize direct dialogue or policy text. Omit only corporate filler and pleasantries. Max 800 words."""),
+        ("human", "Raw Input:\n{raw_input}")
     ])
     
     chain = compress_prompt | get_fast_llm()
@@ -123,14 +129,12 @@ def web_search(state: GraphState) -> Dict[str, Any]:
             Output: India Contract Act deduction visa expenses
 
             Input: Manager is constantly shouting and mentally harassing employees.
-            Output: India workplace mental harassment grievance redressal laws
-
-            Input: What happens to unvested stock options (ESOPs) when an employee is terminated?
-            Output: India SEBI ESOP rules unvested options termination
+            Output: India workplace mental harassment grievance redressal laws -POSH
 
             Input: Is a POSH Committee mandatory?
             Output: India POSH Act 2013 internal committee mandatory
 
+            CRITICAL: If the query is about mental, verbal, or general harassment (not sexual), append "-POSH" to your search query to exclude irrelevant laws.
             Output ONLY the search query text without quotes or explanations."""),
                     ("human", "{question}")
     ])
