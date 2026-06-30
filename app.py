@@ -4,6 +4,9 @@ import streamlit as st
 from agent_engine import app as crag_app
 from logger import log_transaction
 
+import dotenv
+dotenv.load_dotenv()  # Load environment variables from .env file
+
 st.set_page_config(
     page_title="Clause-N-Effect: Legal Compliance Auditor",
     layout="wide",
@@ -106,3 +109,8 @@ if st.button("Run Compliance Audit", type="primary"):
             
         except Exception as e:
             st.error(f"An execution error occurred in the state machine: {str(e)}")
+
+if __name__ == "__main__":
+    st.info("This Streamlit app is designed to run the Clause-N-Effect compliance audit. Please provide the necessary inputs and API keys in the sidebar.")
+    groq_api_key = os.getenv("GROQ_API_KEY")
+    tavily_api_key = os.getenv("TAVILY_API_KEY")

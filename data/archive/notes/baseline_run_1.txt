@@ -1,0 +1,168 @@
+Starting Benchmark across 100 queries...
+
+Running Test 1/100: Recruitment & Onboarding
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 103/103 [00:00<00:00, 3613.63it/s]
+C:\Users\KAUSTAV\Desktop\Clause-N-Effect\src\tools\search.py:11: LangChainDeprecationWarning: The class `TavilySearchResults` was deprecated in LangChain 0.3.25 and will be removed in 1.0. An updated version of the class exists in the `langchain-tavily package and should be used instead. To use it run `pip install -U `langchain-tavily` and import as `from `langchain_tavily import TavilySearch``.
+  web_search_tool = TavilySearchResults(k=2)
+  -> Score: 2/5 | Statute Matched: False
+  -> Reasoning: The AI generated audit incorrectly cites the Information Technology Act, 2000, the Tamil Nadu Shops and Establishments Act, 1947, and the Industrial Disputes Act, 1947, instead of the correct Digital Personal Data Protection Act, 2023, and also fails to provide a nuanced understanding of the expert ground truth.
+
+Running Test 2/100: Recruitment & Onboarding
+  -> Score: 5/5 | Statute Matched: True
+  -> Reasoning: The AI generated audit accurately identifies the statutory requirement for written terms of employment under various state-specific Shops and Establishments Acts and standard labour codes, and correctly cites relevant sections of the Karnataka and Delhi Acts, while also implying the need for written documentation under the Tamil Nadu Act.
+
+Running Test 3/100: Recruitment & Onboarding
+  -> Score: 2/5 | Statute Matched: False
+  -> Reasoning: The AI correctly identifies the practice as discriminatory but fails to cite the correct primary statute, the Equal Remuneration Act, 1976, instead referencing other laws and constitutional provisions.
+
+Running Test 4/100: Recruitment & Onboarding
+  -> Score: 4/5 | Statute Matched: False
+  -> Reasoning: The AI correctly identifies the requirement for monthly reporting of new hires but fails to explicitly mention the use of the Electronic Challan cum Return (ECR) via the EPFO Portal and registration on the ESIC Portal as stated in the Expert Ground Truth.
+
+Running Test 5/100: Recruitment & Onboarding
+  -> Score: 2/5 | Statute Matched: False
+  -> Reasoning: The AI generated audit incorrectly cites the Tamil Nadu Shops and Establishments Act, 1947, and the Industrial Disputes Act, 1947, instead of the correct Industrial Employment (Standing Orders) Act, 1946, and fails to provide a clear and accurate answer to the question of the maximum permissible probationary period.
+
+Running Test 6/100: Recruitment & Onboarding
+  -> Score: 4/5 | Statute Matched: False
+  -> Reasoning: The AI correctly identified the requirement for foreign nationals to possess a valid Employment Visa and register with the FRRO, but failed to explicitly mention the 14-day registration deadline and cited non-existent laws such as 'Section 4.1, Indian Employment Visa' instead of the correct Foreigners Act, 1946 and FRRO Guidelines.
+
+Running Test 7/100: Recruitment & Onboarding
+  -> Score: 4/5 | Statute Matched: True
+  -> Reasoning: The AI generated audit correctly identifies the issue of employee misclassification and its implications, including liability for retroactive statutory benefits and tax penalties, but fails to explicitly mention the Employees' Provident Funds Act and only partially covers the ground truth.
+
+Running Test 8/100: Recruitment & Onboarding
+  -> Score: 5/5 | Statute Matched: True
+  -> Reasoning: The AI generated audit accurately reflects the requirements of the Tamil Nadu Shops and Establishments Act, 1947, and correctly identifies the employer's internal policy as non-compliant with local language requirements.
+
+Running Test 9/100: Recruitment & Onboarding
+  -> Score: 5/5 | Statute Matched: True
+  -> Reasoning: The AI generated audit accurately cites Section 27 of the Indian Contract Act and provides relevant case law to support its claim that post-employment non-compete agreements are generally void.
+
+Running Test 10/100: Recruitment & Onboarding
+  -> Score: 1/5 | Statute Matched: False
+  -> Reasoning: The AI generated audit completely missed the target statute, instead citing the Persons with Disabilities (Equal Opportunities, Protection of Right and Full Participation) Act, 1995, which is not the correct law, and also referenced other irrelevant laws such as the Tamil Nadu Shops and Establishments Act, 1947, and the Industrial Disputes Act.
+
+Running Test 11/100: Wage, Compensation, & Benefits
+  -> Score: 4/5 | Statute Matched: True
+  -> Reasoning: The AI correctly identified the importance of paying the statutory minimum wage and cited the Minimum Wages Act, 1948, but incorrectly emphasized the Tamil Nadu Shops and Establishments Act, 1947, and introduced internal policy documents and the 'At-Will' employment doctrine, which are not relevant to the ground truth.
+
+Running Test 12/100: Wage, Compensation, & Benefits
+  -> Score: 5/5 | Statute Matched: True
+  -> Reasoning: The AI generated audit accurately identifies the non-compliance of the employer with the Employees' Provident Funds and Miscellaneous Provisions Act, 1952, and provides a clear and nuanced explanation of the statutory requirements and the employer's violations.
+
+Running Test 13/100: Wage, Compensation, & Benefits
+  -> Score: 1/5 | Statute Matched: False
+  -> Reasoning: The AI generated audit is completely wrong and hallucinates non-existent laws, such as the option for employees to opt out of ESIC, which is not provided in the ESI Act, 1948.
+
+Running Test 14/100: Wage, Compensation, & Benefits
+  -> Score: 5/5 | Statute Matched: True
+  -> Reasoning: The AI correctly identified the Payment of Gratuity Act, 1972, as the relevant statute and accurately applied its provisions to determine non-compliance, providing a clear and detailed explanation of the correct calculation formula and the necessary steps for the employee to take.
+
+Running Test 15/100: Wage, Compensation, & Benefits
+  -> Score: 4/5 | Statute Matched: True
+  -> Reasoning: The AI correctly identifies the Payment of Wages Act as the relevant statute and accurately states that deductions as a general punishment are regulated or prohibited, but it also introduces additional information about the Tamil Nadu Shops and Establishments Act, 1947, which, while relevant, is not the target statute and slightly diverts from the focus on the Payment of Wages Act.
+
+Running Test 16/100: Wage, Compensation, & Benefits
+  -> Score: 2/5 | Statute Matched: True
+  -> Reasoning: The AI incorrectly stated the minimum bonus percentage as 5% instead of 8.33% as per the Payment of Bonus Act, 1965, but correctly cited the target statute.
+
+Running Test 17/100: Wage, Compensation, & Benefits
+  -> Score: 4/5 | Statute Matched: True
+  -> Reasoning: The AI correctly cited the relevant state Shops Act, but did not directly cite the Factories Act, 1948, and also did not perfectly align with the ground truth regarding the total overtime hours and total hours worked per week, including overtime.
+
+Running Test 18/100: Wage, Compensation, & Benefits
+  -> Score: 2/5 | Statute Matched: True
+  -> Reasoning: The AI incorrectly cited the Code on Wages, 2019, and the Industrial Disputes Act, 1947, as the relevant laws, and also provided incorrect information about the timeline for payment of final settlement, although it did cite the correct state Shops and Establishments Act.
+
+Running Test 19/100: Wage, Compensation, & Benefits
+  -> Score: 1/5 | Statute Matched: False
+  -> Reasoning: The AI generated audit completely misinterprets the concept of corporate best practices and wrongly cites the IRDAI directive as a mandate for employers to provide medical insurance, which is not accurate in the context of the target statute.
+
+Running Test 20/100: Wage, Compensation, & Benefits
+  -> Score: 5/5 | Statute Matched: True
+  -> Reasoning: The AI generated audit accurately reflects the expert ground truth, correctly citing the Income Tax Act and Section 10(10AA) as the relevant statute and provision for leave encashment taxation and exemptions.
+
+Running Test 21/100: Leave, Working Hours, & Attendance
+  -> Score: 5/5 | Statute Matched: True
+  -> Reasoning: The AI correctly cited the Maternity Benefit Act, 2017, and accurately provided the provisions for maternity leave benefits to adoptive and commissioning mothers.
+
+Running Test 22/100: Leave, Working Hours, & Attendance
+  -> Score: 5/5 | Statute Matched: True
+  -> Reasoning: The AI generated audit accurately identifies the relevant statute, the Tamil Nadu Shops and Establishments Act, 1947, and correctly interprets its provisions regarding leave accumulation and encashment, aligning with the expert ground truth.
+
+Running Test 23/100: Leave, Working Hours, & Attendance
+  -> Score: 4/5 | Statute Matched: False
+  -> Reasoning: The AI generated audit is mostly accurate and nuanced, correctly stating that paternity leave is not legally mandated by central law for the private sector in India, but it fails to acknowledge that many progressive organizations offer it as part of their standard leave policy, and it does not cite the correct primary statute related to Corporate Governance or Best Practices.
+
+Running Test 24/100: Leave, Working Hours, & Attendance
+  -> Score: 2/5 | Statute Matched: False
+  -> Reasoning: The AI generated audit incorrectly cited the Tamil Nadu Shops and Establishments Act, 1947, instead of the National and Festival Holidays Act, which is the target statute, and also introduced incorrect information about leave rules and penalties.
+
+Running Test 25/100: Leave, Working Hours, & Attendance
+  -> Score: 4/5 | Statute Matched: True
+  -> Reasoning: The AI generated audit is mostly accurate and well-reasoned, but it does not fully align with the expert ground truth, which states that most state laws limit working hours to 9 hours a day, whereas the AI audit cites the Tamil Nadu Shops and Establishments Act, which limits working hours to 8 hours a day.
+
+Running Test 26/100: Leave, Working Hours, & Attendance
+  -> Score: 4/5 | Statute Matched: True
+  -> Reasoning: The AI generated audit is mostly accurate and well-reasoned, but it does not perfectly align with the expert ground truth as it introduces additional concepts like overtime pay and does not explicitly state the compensatory holiday must be granted within a stipulated period.
+
+Running Test 27/100: Leave, Working Hours, & Attendance
+  -> Score: 1/5 | Statute Matched: False
+  -> Reasoning: The AI generated audit completely missed the correct statute, the Payment of Wages Act, 1936, and instead cited irrelevant laws, such as the Tamil Nadu Shops and Establishments Act, 1947, the OSH Code 2020, and the DPDP Act 2023, which do not apply to the given scenario.
+
+Running Test 28/100: Leave, Working Hours, & Attendance
+  -> Score: 5/5 | Statute Matched: True
+  -> Reasoning: The AI correctly cited the Tamil Nadu Shops and Establishments Act, 1947, and accurately interpreted its provisions regarding sick leave payment, demonstrating a nuanced understanding of the law.
+
+Running Test 29/100: Leave, Working Hours, & Attendance
+  -> Score: 5/5 | Statute Matched: True
+  -> Reasoning: The AI correctly cited the Tamil Nadu Shops and Establishments Act, 1947, and accurately applied its provisions to determine non-compliance with the law, aligning with the expert ground truth.
+
+Running Test 30/100: Leave, Working Hours, & Attendance
+  -> Score: 1/5 | Statute Matched: False
+  -> Reasoning: The AI generated audit completely misinterprets the labour laws exemption rules and digitization acts, incorrectly citing the Tamil Nadu Shops and Establishments Act 1947 and hallucinating requirements for physical attendance registers.
+
+Running Test 31/100: Workplace Safety & POSH
+  -> Score: 5/5 | Statute Matched: True
+  -> Reasoning: The AI correctly cited the POSH Act, 2013, and accurately explained the requirement for organizations with 10 or more employees to constitute an Internal Committee (IC), aligning with the Expert Ground Truth.
+
+Running Test 32/100: Workplace Safety & POSH
+  -> Score: 5/5 | Statute Matched: True
+  -> Reasoning: The AI correctly cited the POSH Act, 2013, and accurately stated that the Presiding Officer of the IC must be a woman employed at a senior level at the workplace, which aligns with the Expert Ground Truth.
+
+Running Test 33/100: Workplace Safety & POSH
+  -> Evaluation Failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kbm34qawfx9rtw5767ar9tg8` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99378, Requested 1397. Please try again in 11m9.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+  -> Score: 0/5 | Statute Matched: False
+  -> Reasoning: Evaluator LLM crashed.
+
+Running Test 34/100: Workplace Safety & POSH
+  -> CRAG Pipeline Failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kbm34qawfx9rtw5767ar9tg8` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99357, Requested 1835. Please try again in 17m9.887999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+  -> Evaluation Failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kbm34qawfx9rtw5767ar9tg8` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99357, Requested 955. Please try again in 4m29.567999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+  -> Score: 0/5 | Statute Matched: False
+  -> Reasoning: Evaluator LLM crashed.
+
+Running Test 35/100: Workplace Safety & POSH
+  -> CRAG Pipeline Failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kbm34qawfx9rtw5767ar9tg8` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99351, Requested 1631. Please try again in 14m8.448s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+  -> Evaluation Failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kbm34qawfx9rtw5767ar9tg8` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99351, Requested 967. Please try again in 4m34.752s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+  -> Score: 0/5 | Statute Matched: False
+  -> Reasoning: Evaluator LLM crashed.
+
+Running Test 36/100: Workplace Safety & POSH
+  -> CRAG Pipeline Failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kbm34qawfx9rtw5767ar9tg8` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99340, Requested 1910. Please try again in 18m0s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+  -> Evaluation Failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kbm34qawfx9rtw5767ar9tg8` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99339, Requested 961. Please try again in 4m19.2s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+  -> Score: 0/5 | Statute Matched: False
+  -> Reasoning: Evaluator LLM crashed.
+
+Running Test 37/100: Workplace Safety & POSH
+  -> CRAG Pipeline Failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kbm34qawfx9rtw5767ar9tg8` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99322, Requested 2122. Please try again in 20m47.616s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+  -> Evaluation Failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kbm34qawfx9rtw5767ar9tg8` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99322, Requested 961. Please try again in 4m4.512s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+  -> Score: 0/5 | Statute Matched: False
+  -> Reasoning: Evaluator LLM crashed.
+
+Running Test 38/100: Workplace Safety & POSH
+  -> CRAG Pipeline Failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kbm34qawfx9rtw5767ar9tg8` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99306, Requested 2100. Please try again in 20m14.784s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+  -> Evaluation Failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kbm34qawfx9rtw5767ar9tg8` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99306, Requested 969. Please try again in 3m57.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+  -> Score: 0/5 | Statute Matched: False
+  -> Reasoning: Evaluator LLM crashed.

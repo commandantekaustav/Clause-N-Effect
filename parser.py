@@ -2,9 +2,13 @@ import os
 import dotenv
 import shutil
 import time
+import warnings
 from pathlib import Path
-from llama_parse import LlamaParse
+from ingest import build_vector_db
 
+# Suppress LlamaParse deprecation warning for clean terminal output
+warnings.filterwarnings("ignore", category=DeprecationWarning)
+from llama_parse import LlamaParse
 
 # Initialize cloud keys
 dotenv.load_dotenv()
@@ -26,14 +30,15 @@ def ingest_curated_documents(
     curated_dir.mkdir(exist_ok=True)
     scanned_dir.mkdir(exist_ok=True)
     
-    # Locate all target PDFs
-    pdf_files = list(curated_dir.glob("*.pdf")) + list(curated_dir.glob("*.PDF"))
+    # THE FIX: Use a set() to eliminate duplicate files caused by Windows case-insensitivity
+    raw_files = list(curated_dir.glob("*.pdf")) + list(curated_dir.glob("*.PDF"))
+    pdf_files = list(set(raw_files))
     
     if not pdf_files:
         print(f"No documents detected in administrative directory: '{curated_dir.resolve()}'. Ingestion idle.")
         return
 
-    print(f"Scanning detected {len(pdf_files)} target documents. Initializing LlamaParse...")
+    print(f"Scanning detected {len(pdf_files)} unique target document(s). Initializing LlamaParse...")
     
     parser = LlamaParse(
         result_type="markdown",
@@ -42,6 +47,10 @@ def ingest_curated_documents(
     )
     
     for pdf_path in pdf_files:
+        # Failsafe: Ensure file hasn't been moved or deleted by another process
+        if not pdf_path.exists():
+            continue
+            
         print(f"Processing: {pdf_path.name}")
         start_time = time.perf_counter()
         
@@ -67,11 +76,21 @@ def ingest_curated_documents(
             
             # Relocate file to commit pipeline stage
             shutil.move(str(pdf_path), str(archive_destination))
-            print(f"Moved source file to archive: '{archive_destination.name}'")
+            print(f"Moved source file to archive: '{archive_destination.name}'\n")
             
         except Exception as e:
             print(f"Pipeline Execution Failure processing document '{pdf_path.name}': {str(e)}")
-            print("Document retained in curated execution path for recovery.")
+            print("Document retained in curated execution path for recovery.\n")
+
+ # ==========================================
+    # THE PIPELINE TRIGGER (ADD THIS AT THE VERY END OF THE FUNCTION)
+    # ==========================================
+    print("--------------------------------------------------")
+    print("Extraction complete. Initiating Vector Database Update...")
+    try:
+        build_vector_db() # This calls your ingest.py logic automatically
+    except Exception as e:
+        print(f"CRITICAL FAILURE: Could not update FAISS database. Error: {str(e)}")
 
 if __name__ == "__main__":
     ingest_curated_documents()

@@ -101,14 +101,17 @@ def grade_documents(state: GraphState) -> Dict[str, Any]:
         score = "NO"
         
     return {"generation": score, "steps": steps}
-
 def web_search(state: GraphState) -> Dict[str, Any]:
     question = state["question"]
     steps = state.get("steps", [])
     steps.append("execute_web_search")
     
-    query = f"{question} Indian Labor Law Tamil Nadu Shops Establishments Act"
-    context = execute_tavily_search(query)
+    # Use Llama 3.1 8B to generate a professional search query
+    query_prompt = f"Based on the following compliance issue, write a single search query targeting the specific Indian statute or Act regulating it. Output ONLY the search query: '{question}'"
+    llm = get_fast_llm()
+    search_query = llm.invoke(query_prompt).content.strip().replace('"', '')
+    
+    context = execute_tavily_search(search_query)
     return {"web_search_context": context, "steps": steps}
 
 def draft_corporate_defense(state: GraphState) -> Dict[str, Any]:
