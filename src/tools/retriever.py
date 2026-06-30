@@ -14,11 +14,13 @@ class ContextualRerankingRetriever:
     Custom high-precision re-ranking retriever.
     Combines semantic bi-encoder vector retrieval with a cross-encoder attention model
     to rank retrieved chunks by strict logical relevance rather than syntax alone.
+    Implements dynamic thresholding to discard low-affinity chunks, preventing prompt pollution.
     """
-    def __init__(self, base_retriever: Any, cross_encoder: Any, top_n: int = 2):
+    def __init__(self, base_retriever: Any, cross_encoder: Any, top_n: int = 2, score_threshold: float = -2.5):
         self.base_retriever = base_retriever
         self.cross_encoder = cross_encoder
         self.top_n = top_n
+        self.score_threshold = score_threshold
 
     def invoke(self, query: str) -> List[Any]:
         # Step 1: Perform broad semantic sweep (high recall, k=15)
@@ -35,8 +37,14 @@ class ContextualRerankingRetriever:
         # Step 4: Sort documents by descending cross-encoder relevance scores
         scored_docs = sorted(zip(docs, scores), key=lambda x: x[1], reverse=True)
 
-        # Step 5: Filter down to the top_n most contextually similar chunks
-        top_docs = [doc for doc, score in scored_docs[:self.top_n]]
+        # Step 5: Filter out documents below the relevance logit threshold to prevent prompt pollution
+        valid_docs = [
+            doc for doc, score in scored_docs 
+            if score >= self.score_threshold
+        ]
+
+        # Step 6: Filter down to the top_n most contextually similar chunks
+        top_docs = valid_docs[:self.top_n]
         return top_docs
 
 def get_retriever():
@@ -69,9 +77,10 @@ def get_retriever():
     # Stage 1: Pull top 15 candidates based on broad bi-encoder similarity
     base_retriever = _vectorstore.as_retriever(search_kwargs={"k": 15})
     
-    # Stage 2: Construct the contextual re-ranking pipeline
+    # Stage 2: Construct the contextual re-ranking pipeline with a strict logit limit
     return ContextualRerankingRetriever(
         base_retriever=base_retriever,
         cross_encoder=_cross_encoder,
-        top_n=2
+        top_n=2,
+        score_threshold=-2.5
     )

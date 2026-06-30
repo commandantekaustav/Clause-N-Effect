@@ -28,7 +28,7 @@ def get_fast_llm() -> ChatGroq:
 def get_complex_llm() -> ChatGroq:
     return ChatGroq(
         model="llama-3.3-70b-versatile", 
-        temperature=0.2, # Slight temperature increase for adversarial rebuttal
+        temperature=0.2, 
         max_tokens=1500,
         api_key=os.environ.get("GROQ_API_KEY")
     )
@@ -86,6 +86,9 @@ def grade_documents(state: GraphState) -> Dict[str, Any]:
     steps = state.get("steps", [])
     steps.append("grade_documents")
     
+    if not documents:
+        return {"generation": "NO", "steps": steps}
+        
     prompt = ChatPromptTemplate.from_messages([
         ("system", GRADER_SYSTEM_PROMPT),
         ("human", "Query: {question}\n\nContext:\n{context}")
@@ -101,18 +104,46 @@ def grade_documents(state: GraphState) -> Dict[str, Any]:
         score = "NO"
         
     return {"generation": score, "steps": steps}
+
 def web_search(state: GraphState) -> Dict[str, Any]:
     question = state["question"]
     steps = state.get("steps", [])
     steps.append("execute_web_search")
     
-    # Use Llama 3.1 8B to generate a professional search query
-    query_prompt = f"Based on the following compliance issue, write a single search query targeting the specific Indian statute or Act regulating it. Output ONLY the search query: '{question}'"
-    llm = get_fast_llm()
-    search_query = llm.invoke(query_prompt).content.strip().replace('"', '')
+    # Dynamically generate search query using 8B with FEW-SHOT EXAMPLES 
+    # to prevent search vector pollution and force statute-focused searches
+    query_prompt = ChatPromptTemplate.from_messages([
+        ("system", """Convert the HR compliance issue into a highly targeted, 4-6 word Google search query to find the exact Indian governing statute or Act. 
+        
+            Examples:
+            Input: Must we translate contracts to local language?
+            Output: India Shops Establishments Act contract language
+
+            Input: Can we clawback visa expenses?
+            Output: India Contract Act deduction visa expenses
+
+            Input: What happens to unvested stock options (ESOPs) when an employee is terminated?
+            Output: India SEBI ESOP rules unvested options termination
+
+            Input: Is a POSH Committee mandatory?
+            Output: India POSH Act 2013 internal committee mandatory
+
+            Output ONLY the search query text without quotes or explanations."""),
+                    ("human", "{question}")
+    ])
     
+    try:
+        llm = get_fast_llm()
+        chain = query_prompt | llm
+        search_query = chain.invoke({"question": question}).content.strip().replace('"', '')
+    except Exception as e:
+        # Failsafe: Hard slice the question to 100 characters and append general keywords
+        search_query = question[:100].strip() + " India labour law statute"
+        
     context = execute_tavily_search(search_query)
-    return {"web_search_context": context, "steps": steps}
+    
+    # Inject the executed search query into the context for benchmark tracing
+    return {"web_search_context": f"[AGENT SEARCH QUERY EXECUTED: {search_query}]\n\n{context}", "steps": steps}
 
 def draft_corporate_defense(state: GraphState) -> Dict[str, Any]:
     question = state["question"]
@@ -131,7 +162,7 @@ def draft_corporate_defense(state: GraphState) -> Dict[str, Any]:
 
 def generate_audit(state: GraphState) -> Dict[str, Any]:
     question = state["question"]
-    documents = state["documents"]
+    documents = state.get("documents", [])
     web_context = state.get("web_search_context", "No external context.")
     corporate_defense = state.get("corporate_defense", "")
     judge_feedback = state.get("judge_feedback", "None")
@@ -144,7 +175,11 @@ def generate_audit(state: GraphState) -> Dict[str, Any]:
         ("human", "Query/Facts: {question}\n\nInternal Legal DB: {internal}\n\nWeb Statutes: {external}\n\nCorporate Defense To Destroy: {defense}\n\nPrevious Judge Feedback to Fix: {feedback}")
     ])
     
-    internal_budget = truncate_text_to_budget(documents, max_chars=8000) if state.get("generation") != "NO" else "[INTERNAL DB IRRELEVANT]"
+    if state.get("generation") == "NO":
+        internal_budget = "[INTERNAL DB REJECTED OR EMPTY - YOU MUST RELY EXCLUSIVELY ON EXTERNAL LEGAL CONTEXT OR INTERNAL PRE-TRAINED KNOWLEDGE.]"
+    else:
+        internal_budget = truncate_text_to_budget(documents, max_chars=8000)
+        
     external_budget = truncate_text_to_budget([web_context], max_chars=4000)
     
     chain = prompt | get_complex_llm()
@@ -177,7 +212,7 @@ def evaluate_audit(state: GraphState) -> Dict[str, Any]:
         score = result.score.upper().strip()
         feedback = result.feedback
     except Exception:
-        score = "PASS" # Failsafe to prevent graph crash
+        score = "PASS" 
         feedback = "Evaluation API failed. Passing by default."
         
     return {
@@ -190,10 +225,12 @@ def evaluate_audit(state: GraphState) -> Dict[str, Any]:
 # ==========================================
 # 3. Routing Decisions
 # ==========================================
-def route_after_grading(state: GraphState) -> Literal["web_search", "draft_corporate_defense"]:
-    if state["generation"] == "NO":
-         return "web_search"
-    return "draft_corporate_defense"
+
+# We no longer need it because we aren't skipping the web search anymore. KEEPING IT FOR LOCAL DEBUGGING PURPOSES.
+# def route_after_grading(state: GraphState) -> Literal["web_search", "draft_corporate_defense"]:
+#     if state["generation"] == "NO":
+#          return "web_search"
+#     return "draft_corporate_defense"
 
 def route_after_evaluation(state: GraphState) -> Literal["generate_audit", END]:
     if state["judge_score"] == "PASS" or state["revision_count"] >= 2:
@@ -213,16 +250,28 @@ workflow.add_node("draft_corporate_defense", draft_corporate_defense)
 workflow.add_node("generate_audit", generate_audit)
 workflow.add_node("evaluate_audit", evaluate_audit)
 
+# 1. Start by compressing the query
 workflow.add_edge(START, "compress_query")
-workflow.add_edge("compress_query", "retrieve")
-workflow.add_edge("retrieve", "grade_documents")
-workflow.add_conditional_edges("grade_documents", route_after_grading)
 
-# Both retrieval routes converge at the Corporate Defense node
+# 2. Retrieve internal documents
+workflow.add_edge("compress_query", "retrieve")
+
+# 3. Grade the internal documents (sets the YES/NO flag)
+workflow.add_edge("retrieve", "grade_documents")
+
+# 4. ALWAYS run a web search for the actual law
+workflow.add_edge("grade_documents", "web_search")
+
+# 5. ALWAYS draft the corporate defense
 workflow.add_edge("web_search", "draft_corporate_defense")
+
+# 6. Feed EVERYTHING into the audit generator
 workflow.add_edge("draft_corporate_defense", "generate_audit")
 
+# 7. Evaluate the output
 workflow.add_edge("generate_audit", "evaluate_audit")
+
+# 8. Loop back if it fails, or end if it passes
 workflow.add_conditional_edges("evaluate_audit", route_after_evaluation)
 
 app = workflow.compile()
