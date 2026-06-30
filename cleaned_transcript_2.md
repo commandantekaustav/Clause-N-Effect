@@ -92,13 +92,7 @@ Dear Kaustav,
 You should understand how to reply to emails and talk to people. Please grow up.
 +Nazma Nijamji 
 Ashok Kumar KProgram Director
-FACE Prep Campus
-No. 12, Lakshmi Nagar, Thottipalayam Pirivu, (Off Avinashi Road), Coimbatore - 641 014
-Mobile: +91 9486777423 | Email: ashok@faceprep.in
-Website: www.faceprepcampus.in
-The information contained in this email and any attachments is confidential and may be subject to copyright or other intellectual property protection. If you are not the intended recipient, you are not authorized to use or disclose this
-information, and we request you to notify us by reply mail at email@focusacademy.in or telephone and delete the original message from your mail system.
-
+--Company Address--
 ---
 
 ### Email 8

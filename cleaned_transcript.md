@@ -8,9 +8,7 @@
 Subject: 
 It's not concern to anyone, reply first to your resignation. Update it first for further discussion. If you don't want to continue there is no point for this discussion. 
 Ashok Kumar KAssistant Vice President
-No. 12, Lakshmi Nagar, Thottipalayam Pirivu, (Off Avinashi Road), Coimbatore - 641 014Mobile: +91 8668159659 | Email: ashok@faceprep.inWebsite: www.faceprepcampus.in
-The information contained in this email and any attachments is confidential and may be subject to copyright or other intellectual property protection. If you are not the intended recipient, you are not authorized to use or disclose this
-information, and we request you to notify us by reply mail at email@focusacademy.in or telephone and delete the original message from your mail system.
+--Company Address--
 
 ---
 
@@ -24,8 +22,7 @@ Once you’re back from your vacation, we can connect and close this.
 Thanks,
 Tamilarasan GSenior Product Consultant
 -- 
-No. 12, Lakshmi Nagar, Thottipalayam Pirivu, (Off Avinashi Road), Coimbatore - 641 014Mobile: +91 9629745022 | Email: tamilarasan@faceprep.inWebsite: www.faceprep.in
-
+--Company Address--
 ---
 
 ### Email 3
@@ -55,8 +52,7 @@ We would like to avoid revisiting the same points multiple times and ensure smoo
 Thanks,
 Tamilarasan GSenior Product Consultant
 -- 
-No. 12, Lakshmi Nagar, Thottipalayam Pirivu, (Off Avinashi Road), Coimbatore - 641 014Mobile: +91 9629745022 | Email: tamilarasan@faceprep.inWebsite: www.faceprep.in
-
+--Company Address--
 ---
 
 ### Email 5
@@ -71,8 +67,7 @@ Please find your responsibilities outlined below:
 Thanks,
 Tamilarasan GSenior Product Consultant
 -- 
-No. 12, Lakshmi Nagar, Thottipalayam Pirivu, (Off Avinashi Road), Coimbatore - 641 014Mobile: +91 9629745022 | Email: tamilarasan@faceprep.inWebsite: www.faceprep.in
-
+--Company Address--
 ---
 
 ### Email 6
@@ -111,9 +106,7 @@ Second Point of escalation Nazma Nijamji Vice President (Talent Management) 9994
 We wish you continued success in your new role and look forward to your valuable contributions.
 Thanks,
 Swetha VInternal HR Associate
-No. 12, Lakshmi Nagar, Thottipalayam Pirivu, (Off Avinashi Road), Coimbatore - 641 014Mobile: +91 9043836570 | Email: hr.internal@faceprep.inWebsite: www.faceprep.in
-The information contained in this email and any attachments is confidential and may be subject to copyright or other intellectual property protection. If you are not the intended recipient, you are not authorized to use or disclose this
-information, and we request you to notify us by reply mail at email@focusacademy.in or telephone and delete the original message from your mail system.
+--Company Address--
 
 Thu, 
 To "kaustav.basu"<kaustav.basu@faceprep.in>
@@ -136,9 +129,7 @@ Second Point of escalation Nazma Nijamji Vice President (Talent Management) 9994
 We wish you continued success in your new role and look forward to your valuable contributions.
 Thanks,
 Swetha VInternal HR Associate
-No. 12, Lakshmi Nagar, Thottipalayam Pirivu, (Off Avinashi Road), Coimbatore - 641 014Mobile: +91 9043836570 | Email: hr.internal@faceprep.inWebsite: www.faceprep.in
-The information contained in this email and any attachments is confidential and may be subject to copyright or other intellectual property protection. If you are not the intended recipient, you are not authorized to use or disclose this
-information, and we request you to notify us by reply mail at email@focusacademy.in or telephone and delete the original message from your mail system.
+--Company Address--
 
 ---
 
@@ -166,9 +157,7 @@ Second Point of escalation Nazma Nijamji Vice President (Talent Management) 9994
 We wish you continued success in your new role and look forward to your valuable contributions.
 Thanks,
 Swetha VInternal HR Associate
-No. 12, Lakshmi Nagar, Thottipalayam Pirivu, (Off Avinashi Road), Coimbatore - 641 014Mobile: +91 9043836570 | Email: hr.internal@faceprep.inWebsite: www.faceprep.in
-The information contained in this email and any attachments is confidential and may be subject to copyright or other intellectual property protection. If you are not the intended recipient, you are not authorized to use or disclose this
-information, and we request you to notify us by reply mail at email@focusacademy.in or telephone and delete the original message from your mail system.
+--Company Address--
 
 Thu, 
 To "HR Internal"<hr.internal@faceprep.in>
@@ -202,9 +191,7 @@ Second Point of escalation Nazma Nijamji Vice President (Talent Management) 9994
 We wish you continued success in your new role and look forward to your valuable contributions.
 Thanks,
 Swetha VInternal HR Associate
-No. 12, Lakshmi Nagar, Thottipalayam Pirivu, (Off Avinashi Road), Coimbatore - 641 014Mobile: +91 9043836570 | Email: hr.internal@faceprep.inWebsite: www.faceprep.in
-The information contained in this email and any attachments is confidential and may be subject to copyright or other intellectual property protection. If you are not the intended recipient, you are not authorized to use or disclose this
-information, and we request you to notify us by reply mail at email@focusacademy.in or telephone and delete the original message from your mail system.
+--Company Address--
 
 Wed, 
 To "HR Internal"<hr.internal@faceprep.in>
@@ -241,9 +228,7 @@ Second Point of escalation Nazma Nijamji Vice President (Talent Management) 9994
 We wish you continued success in your new role and look forward to your valuable contributions.
 Thanks,
 Swetha VInternal HR Associate
-No. 12, Lakshmi Nagar, Thottipalayam Pirivu, (Off Avinashi Road), Coimbatore - 641 014Mobile: +91 9043836570 | Email: hr.internal@faceprep.inWebsite: www.faceprep.in
-The information contained in this email and any attachments is confidential and may be subject to copyright or other intellectual property protection. If you are not the intended recipient, you are not authorized to use or disclose this
-information, and we request you to notify us by reply mail at email@focusacademy.in or telephone and delete the original message from your mail system.
+--Company Address--
 
 Mon, 
 To "Kaustav Basu"<kaustav.basu@faceprep.in>
@@ -278,9 +263,7 @@ Second Point of escalation Nazma Nijamji Vice President (Talent Management) 9994
 We wish you continued success in your new role and look forward to your valuable contributions.
 Thanks,
 Swetha VInternal HR Associate
-No. 12, Lakshmi Nagar, Thottipalayam Pirivu, (Off Avinashi Road), Coimbatore - 641 014Mobile: +91 9043836570 | Email: hr.internal@faceprep.inWebsite: www.faceprep.in
-The information contained in this email and any attachments is confidential and may be subject to copyright or other intellectual property protection. If you are not the intended recipient, you are not authorized to use or disclose this
-information, and we request you to notify us by reply mail at email@focusacademy.in or telephone and delete the original message from your mail system.
+--Company Address--
 
 Tue, 
 To "Nazma Nijamji"<nazma.nijamji@faceprep.in>
@@ -313,9 +296,7 @@ Second Point of escalation Nazma Nijamji Vice President (Talent Management) 9994
 We wish you continued success in your new role and look forward to your valuable contributions.
 Thanks,
 Swetha VInternal HR Associate
-No. 12, Lakshmi Nagar, Thottipalayam Pirivu, (Off Avinashi Road), Coimbatore - 641 014Mobile: +91 9043836570 | Email: hr.internal@faceprep.inWebsite: www.faceprep.in
-The information contained in this email and any attachments is confidential and may be subject to copyright or other intellectual property protection. If you are not the intended recipient, you are not authorized to use or disclose this
-information, and we request you to notify us by reply mail at email@focusacademy.in or telephone and delete the original message from your mail system.
+--Company Address--
 
 Tue, 
 To "Kaustav Basu"<kaustav.basu@faceprep.in>
@@ -327,8 +308,7 @@ Thanks,
 Tamilarasan G
 Senior Product Consultant
 -- 
-No. 12, Lakshmi Nagar, Thottipalayam Pirivu, (Off Avinashi Road), Coimbatore - 641 014Mobile: +91 9629745022 | Email: tamilarasan@faceprep.inWebsite: www.faceprep.in
-
+--Company Address--
 ---
 
 ### Email 13
@@ -356,9 +336,7 @@ We wish you continued success in your new role and look forward to your valuable
 Thanks,
 Swetha VInternal HR Associate
 
-No. 12, Lakshmi Nagar, Thottipalayam Pirivu, (Off Avinashi Road), Coimbatore - 641 014Mobile: +91 9043836570 | Email: hr.internal@faceprep.inWebsite: www.faceprep.in
-The information contained in this email and any attachments is confidential and may be subject to copyright or other intellectual property protection. If you are not the intended recipient, you are not authorized to use or disclose this
-information, and we request you to notify us by reply mail at email@focusacademy.in or telephone and delete the original message from your mail system.
+--Company Address--
 
 Wed, 
 To "Tamilarasan Gunasekaran"<tamilarasan@faceprep.in>
@@ -405,9 +383,7 @@ We wish you continued success in your new role and look forward to your valuable
 Thanks,
 Swetha VInternal HR Associate
 
-No. 12, Lakshmi Nagar, Thottipalayam Pirivu, (Off Avinashi Road), Coimbatore - 641 014Mobile: +91 9043836570 | Email: hr.internal@faceprep.inWebsite: www.faceprep.in
-The information contained in this email and any attachments is confidential and may be subject to copyright or other intellectual property protection. If you are not the intended recipient, you are not authorized to use or disclose this
-information, and we request you to notify us by reply mail at email@focusacademy.in or telephone and delete the original message from your mail system.
+--Company Address--
 
 Wed, 
 To "Kaustav Basu"<kaustav.basu@faceprep.in>,"Dhanasekhar Sennaiyan"<dhanasekhar@faceprep.in>
@@ -421,8 +397,7 @@ Thanks,
 Tamilarasan G
 Senior Product Consultant
 -- 
-No. 12, Lakshmi Nagar, Thottipalayam Pirivu, (Off Avinashi Road), Coimbatore - 641 014Mobile: +91 9629745022 | Email: tamilarasan@faceprep.inWebsite: www.faceprep.in
-
+--Company Address--
 ---
 
 ### Email 15
@@ -449,9 +424,7 @@ Second Point of escalation Nazma Nijamji Vice President (Talent Management) 9994
 We wish you continued success in your new role and look forward to your valuable contributions.
 Thanks,
 Swetha VInternal HR Associate
-No. 12, Lakshmi Nagar, Thottipalayam Pirivu, (Off Avinashi Road), Coimbatore - 641 014Mobile: +91 9043836570 | Email: hr.internal@faceprep.inWebsite: www.faceprep.in
-The information contained in this email and any attachments is confidential and may be subject to copyright or other intellectual property protection. If you are not the intended recipient, you are not authorized to use or disclose this
-information, and we request you to notify us by reply mail at email@focusacademy.in or telephone and delete the original message from your mail system.
+--Company Address--
 
 Wed, 
 To "Tamilarasan Gunasekaran"<tamilarasan@faceprep.in>
@@ -487,9 +460,7 @@ Second Point of escalation Nazma Nijamji Vice President (Talent Management) 9994
 We wish you continued success in your new role and look forward to your valuable contributions.
 Thanks,
 Swetha VInternal HR Associate
-No. 12, Lakshmi Nagar, Thottipalayam Pirivu, (Off Avinashi Road), Coimbatore - 641 014Mobile: +91 9043836570 | Email: hr.internal@faceprep.inWebsite: www.faceprep.in
-The information contained in this email and any attachments is confidential and may be subject to copyright or other intellectual property protection. If you are not the intended recipient, you are not authorized to use or disclose
-this information, and we request you to notify us by reply mail at email@focusacademy.in or telephone and delete the original message from your mail system.
+--Company Address--
 
 Sat, 
 To "Tamilarasan Gunasekaran"<tamilarasan@faceprep.in>
@@ -524,9 +495,7 @@ Second Point of escalation Nazma Nijamji Vice President (Talent Management) 9994
 We wish you continued success in your new role and look forward to your valuable contributions.
 Thanks,
 Swetha VInternal HR Associate
-No. 12, Lakshmi Nagar, Thottipalayam Pirivu, (Off Avinashi Road), Coimbatore - 641 014Mobile: +91 9043836570 | Email: hr.internal@faceprep.inWebsite: www.faceprep.in
-The information contained in this email and any attachments is confidential and may be subject to copyright or other intellectual property protection. If you are not the intended recipient, you are not authorized to use or disclose
-this information, and we request you to notify us by reply mail at email@focusacademy.in or telephone and delete the original message from your mail system.
+--Company Address--
 
 Sat, 
 To "Kaustav Basu"<kaustav.basu@faceprep.in>
@@ -536,8 +505,7 @@ Thanks,
 Tamilarasan G
 Senior Product Consultant
 -- 
-No. 12, Lakshmi Nagar, Thottipalayam Pirivu, (Off Avinashi Road), Coimbatore - 641 014Mobile: +91 9629745022 | Email: tamilarasan@faceprep.inWebsite: www.faceprep.in
-
+--Company Address--
 ---
 
 ### Email 18
@@ -564,9 +532,7 @@ Second Point of escalation Nazma Nijamji Vice President (Talent Management) 9994
 We wish you continued success in your new role and look forward to your valuable contributions.
 Thanks,
 Swetha VInternal HR Associate
-No. 12, Lakshmi Nagar, Thottipalayam Pirivu, (Off Avinashi Road), Coimbatore - 641 014Mobile: +91 9043836570 | Email: hr.internal@faceprep.inWebsite: www.faceprep.in
-The information contained in this email and any attachments is confidential and may be subject to copyright or other intellectual property protection. If you are not the intended recipient, you are not authorized to use or
-disclose this information, and we request you to notify us by reply mail at email@focusacademy.in or telephone and delete the original message from your mail system.
+--Company Address--
 
 Sat, 
 To "Tamilarasan Gunasekaran"<tamilarasan@faceprep.in>
@@ -601,18 +567,14 @@ Second Point of escalation Nazma Nijamji Vice President (Talent Management) 9994
 We wish you continued success in your new role and look forward to your valuable contributions.
 Thanks,
 Swetha VInternal HR Associate
-No. 12, Lakshmi Nagar, Thottipalayam Pirivu, (Off Avinashi Road), Coimbatore - 641 014Mobile: +91 9043836570 | Email: hr.internal@faceprep.inWebsite: www.faceprep.in
-The information contained in this email and any attachments is confidential and may be subject to copyright or other intellectual property protection. If you are not the intended recipient, you are not authorized to use or
-disclose this information, and we request you to notify us by reply mail at email@focusacademy.in or telephone and delete the original message from your mail system.
+--Company Address--
 
 Sat, 
 To "Kaustav Basu"<kaustav.basu@faceprep.in>
 Cc"Tamilarasan Gunasekaran"<tamilarasan@faceprep.in>,"Dhanasekhar Sennaiyan"<dhanasekhar@faceprep.in>,"Nazma Nijamji"<nazma.nijamji@faceprep.in>,"HRInternal"<hr.internal@faceprep.in>
 It's not concern to anyone, reply first to your resignation. Update it first for further discussion. If you don't want to continue there is no point for this discussion. 
 Ashok Kumar KAssistant Vice President
-No. 12, Lakshmi Nagar, Thottipalayam Pirivu, (Off Avinashi Road), Coimbatore - 641 014Mobile: +91 8668159659 | Email: ashok@faceprep.inWebsite: www.faceprepcampus.in
-The information contained in this email and any attachments is confidential and may be subject to copyright or other intellectual property protection. If you are not the intended recipient, you are not authorized to use or disclose this
-information, and we request you to notify us by reply mail at email@focusacademy.in or telephone and delete the original message from your mail system.
+--Company Address--
 
 ---
 
@@ -640,9 +602,7 @@ Second Point of escalation Nazma Nijamji Vice President (Talent Management) 9994
 We wish you continued success in your new role and look forward to your valuable contributions.
 Thanks,
 Swetha VInternal HR Associate
-No. 12, Lakshmi Nagar, Thottipalayam Pirivu, (Off Avinashi Road), Coimbatore - 641 014Mobile: +91 9043836570 | Email: hr.internal@faceprep.inWebsite: www.faceprep.in
-The information contained in this email and any attachments is confidential and may be subject to copyright or other intellectual property protection. If you are not the intended recipient, you are not authorized to use or
-disclose this information, and we request you to notify us by reply mail at email@focusacademy.in or telephone and delete the original message from your mail system.
+--Company Address--
 
 Sat, 
 To "Ashok Kumar"<ashok@faceprep.in>
@@ -668,9 +628,7 @@ Please don't let emotions influence your decisions.
 Acknowledge that you understand and accept your roles and responsibilities.If you require any relaxation or exception to the policy, please submit it as a separate formal request via email. We will review it and respond accordingly.FACE Prep is committed to supporting the growth and development of every employee. It is important that you remain emotionally stable, stay focused on yourresponsibilities, and continue to be yourself while contributing positively to the organization.
 The choice is now yours on how you move forward professionally.
 Ashok Kumar KAssistant Vice President
-No. 12, Lakshmi Nagar, Thottipalayam Pirivu, (Off Avinashi Road), Coimbatore - 641 014Mobile: +91 8668159659 | Email: ashok@faceprep.inWebsite: www.faceprepcampus.in
-The information contained in this email and any attachments is confidential and may be subject to copyright or other intellectual property protection. If you are not the intended recipient, you are not authorized to use or disclose this
-information, and we request you to notify us by reply mail at email@focusacademy.in or telephone and delete the original message from your mail system.
+--Company Address--
 
 ---
 
