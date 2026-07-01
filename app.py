@@ -14,7 +14,7 @@ st.set_page_config(
 )
 
 st.title("Clause-N-Effect")
-st.subheader("reach out to commandantek@protonmail.com for any questions or feedback")
+st.subheader("A legal sidekick for the gen-z workforce.")
 
 with st.sidebar:
     st.header("Configuration")
@@ -114,9 +114,10 @@ if __name__ == "__main__":
     st.info("""
             Please provide the necessary inputs and API keys in the sidebar. Nobody has access to your Groq or Tavily API keys except you. They are used to securely query the respective LLMs for generating the audit and defense.    
 
-            Note: The system is designed to respect your privacy. No data is sent to any third-party servers except for the LLMs (Groq and Tavily) for processing your queries. All telemetry and logs are stored locally in `.DONT_UPLOAD/track.json` unless you choose to share them for debugging purposes.
-
-            Viva la Clause-N-Effect! Viva la Revolution! :sparkles: :love: :sparkles: :hammer_and_pick: :sparkles:
+            Note: The system is designed to respect your privacy. No data is sent to any third-party servers except for the LLMs (Groq and Tavily) for processing your queries.
+            ###### reach out to commandantek@protonmail.com for any questions or feedback
+            
+            ### Viva la revolución! <3
             """)
     groq_api_key = os.getenv("GROQ_API_KEY")
     tavily_api_key = os.getenv("TAVILY_API_KEY")

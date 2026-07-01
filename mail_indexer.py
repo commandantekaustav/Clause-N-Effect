@@ -195,7 +195,7 @@ def generate_markdown(emails):
 # --- execution entrypoint ---
 if __name__ == "__main__":
     # Specify the path to your source email chain PDF
-    pdf_input_file = "mailchain_tanisha.pdf" 
+    pdf_input_file = r"dilution_sdnbv.pdf" 
     output_md_file = "cleaned_transcript_" + pdf_input_file.replace(".pdf", ".md")
     
     try:
