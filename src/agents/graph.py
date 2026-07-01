@@ -63,10 +63,12 @@ def compress_query(state: GraphState) -> Dict[str, Any]:
         return {"question": distilled_question, "steps": steps}
         
     compress_prompt = ChatPromptTemplate.from_messages([
-        ("system", """You are a legal data extractor. Distill the provided text into a timeline of facts and the core compliance question. 
+        ("system", """You are an investigative HR and Legal data extractor. Distill the provided text into a timeline of facts and the core compliance question. 
         
-        CRITICAL DIRECTIVE: You MUST extract and preserve the exact, word-for-word text of any emails, company policies, or employer clauses provided in the input. Put them under a clear heading called 'RAW EVIDENCE QUOTES'. 
-        Do NOT summarize direct dialogue or policy text. Omit only corporate filler and pleasantries. Max 800 words."""),
+        CRITICAL DIRECTIVES:
+        1. HR & POWER DYNAMICS: You MUST explicitly capture any signs of workplace coercion, toxic power dynamics, reluctance, or defensive employee behaviors (e.g., BCC'ing personal emails, forced agreements, impossible deadlines). Do not sanitize human conflict into standard corporate processes.
+        2. RAW EVIDENCE QUOTES: You MUST extract and preserve the exact, word-for-word text of any emails, company policies, or employer clauses provided in the input. Put them under a clear heading called 'RAW EVIDENCE QUOTES'. Do NOT summarize direct dialogue. Omit only corporate filler.
+        3. Max 800 words."""),
         ("human", "Raw Input:\n{raw_input}")
     ])
     
@@ -241,7 +243,8 @@ def route_after_grading(state: GraphState) -> Literal["web_search", "draft_corpo
     return "draft_corporate_defense"
 
 def route_after_evaluation(state: GraphState) -> Literal["generate_audit", END]:
-    if state["judge_score"] == "PASS" or state["revision_count"] >= 2:
+    # Increased tolerance to 3 to allow the model to fix stubborn HTML tag issues
+    if state["judge_score"] == "PASS" or state["revision_count"] >= 3:
         return END
     return "generate_audit"
 
