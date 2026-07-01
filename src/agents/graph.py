@@ -221,9 +221,10 @@ def evaluate_audit(state: GraphState) -> Dict[str, Any]:
         result = chain.invoke({"audit": generation})
         score = result.score.upper().strip()
         feedback = result.feedback
-    except Exception:
-        score = "PASS" 
-        feedback = "Evaluation API failed. Passing by default."
+    except Exception as e:
+        # DO NOT PASS BY DEFAULT. Force a FAIL to trigger a rewrite loop.
+        score = "FAIL" 
+        feedback = f"Judge API threw an error. Generator MUST stick exactly to the Skeleton Format and use HTML span tags."
         
     return {
         "judge_score": score, 
