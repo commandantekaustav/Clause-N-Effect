@@ -19,7 +19,8 @@ from src.utils.text_crusher import crush_corporate_noise
 # ==========================================
 def get_fast_llm() -> ChatGroq:
     return ChatGroq(
-        model="llama-3.1-8b-instant", 
+        # model="llama-3.1-8b-instant", 
+        model="llama-3.3-70b-versatile", 
         temperature=0,
         max_tokens=1000,
         api_key=os.environ.get("GROQ_API_KEY")
@@ -56,9 +57,9 @@ def compress_query(state: GraphState) -> Dict[str, Any]:
     # Bypass regex crusher for now, as it might strip out important email quotes
     distilled_question = raw_question.strip()
     
-    # Increased budget: If the raw input is under 2500 chars (approx 500 words), 
+    # Increased budget: If the raw input is under 5000 chars (approx 1000 words), 
     # pass it directly to avoid the 8B model destroying the raw quotes.
-    if len(distilled_question) < 2500:
+    if len(distilled_question) < 5000:
         return {"question": distilled_question, "steps": steps}
         
     compress_prompt = ChatPromptTemplate.from_messages([
@@ -101,7 +102,7 @@ def grade_documents(state: GraphState) -> Dict[str, Any]:
     ])
     
     chain = prompt | get_fast_llm().with_structured_output(GradeResult)
-    combined = truncate_text_to_budget(documents, max_chars=6000)
+    combined = truncate_text_to_budget(documents, max_chars=12000)
     
     try:
         result = chain.invoke({"question": question, "context": combined})
@@ -185,9 +186,9 @@ def generate_audit(state: GraphState) -> Dict[str, Any]:
     if state.get("generation") == "NO":
         internal_budget = "[INTERNAL DB REJECTED OR EMPTY - YOU MUST RELY EXCLUSIVELY ON EXTERNAL LEGAL CONTEXT OR INTERNAL PRE-TRAINED KNOWLEDGE.]"
     else:
-        internal_budget = truncate_text_to_budget(documents, max_chars=8000)
+        internal_budget = truncate_text_to_budget(documents, max_chars=16000)
         
-    external_budget = truncate_text_to_budget([web_context], max_chars=4000)
+    external_budget = truncate_text_to_budget([web_context], max_chars=8000)
     
     chain = prompt | get_complex_llm()
     response = chain.invoke({
@@ -234,10 +235,10 @@ def evaluate_audit(state: GraphState) -> Dict[str, Any]:
 # ==========================================
 
 # We no longer need it because we aren't skipping the web search anymore. KEEPING IT FOR LOCAL DEBUGGING PURPOSES.
-# def route_after_grading(state: GraphState) -> Literal["web_search", "draft_corporate_defense"]:
-#     if state["generation"] == "NO":
-#          return "web_search"
-#     return "draft_corporate_defense"
+def route_after_grading(state: GraphState) -> Literal["web_search", "draft_corporate_defense"]:
+    if state["generation"] == "NO":
+         return "web_search"
+    return "draft_corporate_defense"
 
 def route_after_evaluation(state: GraphState) -> Literal["generate_audit", END]:
     if state["judge_score"] == "PASS" or state["revision_count"] >= 2:

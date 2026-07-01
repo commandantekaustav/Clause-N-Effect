@@ -8,7 +8,8 @@ import dotenv
 dotenv.load_dotenv()  # Load environment variables from .env file
 
 st.set_page_config(
-    page_title="Clause-N-Effect: A Legal Compliance Auditor by [commandante](commandantekaustav.github.io) with :love: ",
+    # page_title="Clause-N-Effect: A Legal Compliance Auditor by [commandante](commandantekaustav.github.io) with :love: ",
+    page_title = "FACEPREP CAPSTONE AGENT",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -34,7 +35,7 @@ with col1:
     employer_facts = st.text_area(
         "1. Paste the Employer Clause / Email:",
         placeholder="e.g., 'You have to reimburse the training cost of 3 lakhs' or paste the HR email here.",
-        height=200
+        height=200,
     )
 
 with col2:
@@ -111,13 +112,13 @@ if st.button("Run Compliance Audit", type="primary"):
             st.error(f"An execution error occurred in the state machine: {str(e)}")
 
 if __name__ == "__main__":
-    st.info("""
-            Please provide the necessary inputs and API keys in the sidebar. Nobody has access to your Groq or Tavily API keys except you. They are used to securely query the respective LLMs for generating the audit and defense.    
+    # st.info("""
+    #         Please provide the necessary inputs and API keys in the sidebar. Nobody has access to your Groq or Tavily API keys except you. They are used to securely query the respective LLMs for generating the audit and defense.    
 
-            Note: The system is designed to respect your privacy. No data is sent to any third-party servers except for the LLMs (Groq and Tavily) for processing your queries.
-            ###### reach out to commandantek@protonmail.com for any questions or feedback
+    #         Note: The system is designed to respect your privacy. No data is sent to any third-party servers except for the LLMs (Groq and Tavily) for processing your queries.
+    #         ###### reach out to commandantek@protonmail.com for any questions or feedback
             
-            ### Viva la revolución! <3
-            """)
+    #         ### Viva la revolución! <3
+    #         """)
     groq_api_key = os.getenv("GROQ_API_KEY")
     tavily_api_key = os.getenv("TAVILY_API_KEY")
