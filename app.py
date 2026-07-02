@@ -8,7 +8,7 @@ import dotenv
 dotenv.load_dotenv()
 
 st.set_page_config(
-    page_title="FACEPREP CAPSTONE AGENT",
+    page_title="Clause-N-Effect: Legal Sidekick for Gen-Z",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -22,7 +22,7 @@ if "last_run_time" not in st.session_state:
 GROQ_TPM_LIMIT = 6000  # Tokens Per Minute
 
 st.title("Clause-N-Effect")
-st.subheader("A legal sidekick for the gen-z workforce.")
+st.markdown("From [Kaustav](https://commandantekaustav.github.io), with Love! ;) ", text_alignment="left")
 
 with st.sidebar:
     st.header("Configuration")
@@ -207,3 +207,38 @@ if st.button("Run Compliance Audit", type="primary"):
                     st.error("❌ Groq API Rate Limit Hit! You have exhausted your free tier tokens. Please wait exactly 60 seconds and try again.")
                 else:
                     st.error(f"An execution error occurred in the state machine: {str(e)}")
+
+# ==========================================
+# THE MANIFESTO & FOOTNOTE
+# ==========================================
+st.markdown("---")
+with st.expander("About Clause-N-Effect | The Manifesto & Architecture"):
+        st.markdown("""
+        **The Purpose**
+        Information asymmetry is the oldest negotiation tactic in the corporate playbook. This tool exists to close that gap. Clause-N-Effect is an open-source educational utility designed to promote statutory awareness and strict organizational transparency. It translates internal HR jargon into bare legal realities, ensuring that "standard procedures" are actually statutory, and "mutual agreements" are genuinely mutual. 
+
+        **How to Use It**
+        1. Sanitize your data. Strip out your personal identifiable information (PII) if you prefer, but keep the professional metadata (To, Cc, Bcc, timestamps) intact.
+        2. Paste the exact verbatim text of the email chain, contract clause, or communication.
+        3. State your query clearly.
+        4. Let the state machine investigate.
+
+        **The Architecture**
+        This is not a standard generative wrapper. Clause-N-Effect operates on a deterministic LangGraph state machine utilizing Hybrid-Brain orchestration. It deploys a localized 8B parameter model for rapid forensic metadata extraction, query compression, and targeted web scraping. It reserves a 70B parameter model exclusively for deep statutory reasoning and compliance benchmarking. 
+        
+        The pipeline relies on a self-correcting Actor-Critic loop. The system deploys an internal 'Judge' that ruthlessly evaluates the AI's own audit against Indian Labor Codes. If the logic or evidence citation fails, the Judge forces the generator into a rewrite loop before the output ever reaches your screen.
+
+        **The Roadmap**
+        V1.0 is currently calibrated to intercept Unfair Labor Practices, Specific Relief Act violations (forced labor/resignation denial), and coercive metadata signatures (defensive paper trails). 
+        V2.0 is in active development. The roadmap includes BM25 Sparse Search integration for exact-keyword legal precedent retrieval, and GraphRAG (Knowledge Graphs) to mathematically map corporate hierarchies and toxic power dynamics.
+
+        **Legal Disclaimer**
+        This application does not provide formal legal counsel. It is a strictly educational framework built to help both individuals and organizations maintain rigorous alignment with the Industrial Disputes Act, 1947, the Indian Contract Act, 1872, and various State-specific mandates. Strict compliance protects everyone.
+
+        **To the incoming workforce:** 
+        Knowledge is leverage. Document your interactions, understand the actual definitions of your contracts, and never allow professional courtesy to be weaponized into blind compliance. You are the talent; protect your boundaries. 
+
+        Feedback, architecture discussions, or edge-case reports can be directed to: commandantek@protonmail.com.
+
+        In solidarity.
+        """)
