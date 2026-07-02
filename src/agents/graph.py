@@ -15,20 +15,19 @@ from src.tools.search import execute_tavily_search
 from src.utils.text_crusher import crush_corporate_noise
 
 # ==========================================
-# 1. Lazy Model Initialization Helpers
+# 1. HYBRID BRAIN: Lazy Model Initialization
 # ==========================================
 def get_fast_llm() -> ChatGroq:
     return ChatGroq(
-        # model="llama-3.1-8b-instant", 
-        model="llama-3.3-70b-versatile", 
+        model="llama-3.1-8b-instant", # The 8B workhorse for tasks (30,000 TPM limit)
         temperature=0,
-        max_tokens=1000,
+        max_tokens=2048, # Increased to prevent text cutoffs!
         api_key=os.environ.get("GROQ_API_KEY")
     )
 
 def get_complex_llm() -> ChatGroq:
     return ChatGroq(
-        model="llama-3.3-70b-versatile", 
+        model="llama-3.3-70b-versatile", # The 70B genius for the Audit (6,000 TPM limit)
         temperature=0.2, 
         max_tokens=1500,
         api_key=os.environ.get("GROQ_API_KEY")
@@ -54,24 +53,23 @@ def compress_query(state: GraphState) -> Dict[str, Any]:
     steps = state.get("steps", [])
     steps.append("compress_query")
     
-    # Bypass regex crusher for now, as it might strip out important email quotes
     distilled_question = raw_question.strip()
     
-    # Increased budget: If the raw input is under 5000 chars (approx 1000 words), 
-    # pass it directly to avoid the 8B model destroying the raw quotes.
-    if len(distilled_question) < 5000:
+    if len(distilled_question) < 400:
         return {"question": distilled_question, "steps": steps}
         
     compress_prompt = ChatPromptTemplate.from_messages([
         ("system", """You are an investigative HR and Legal data extractor. Distill the provided text into a timeline of facts and the core compliance question. 
         
         CRITICAL DIRECTIVES:
-        1. HR & POWER DYNAMICS: You MUST explicitly capture any signs of workplace coercion, toxic power dynamics, reluctance, or defensive employee behaviors (e.g., BCC'ing personal emails, forced agreements, impossible deadlines). Do not sanitize human conflict into standard corporate processes.
-        2. RAW EVIDENCE QUOTES: You MUST extract and preserve the exact, word-for-word text of any emails, company policies, or employer clauses provided in the input. Put them under a clear heading called 'RAW EVIDENCE QUOTES'. Do NOT summarize direct dialogue. Omit only corporate filler.
-        3. Max 800 words."""),
+        1. METADATA FORENSICS (CRITICAL): Pay extremely close attention to the To, Cc, and Bcc fields in the emails. If an employee Bcc's their personal email address, this is a MASSIVE red flag indicating fear of retaliation and the creation of a defensive paper trail. You MUST extract and highlight this behavior if present.
+        2. HR & POWER DYNAMICS: You MUST explicitly capture any signs of workplace coercion, toxic power dynamics, reluctance, or defensive behaviors (forced agreements, impossible deadlines, top-down pressure). Do not sanitize human conflict.
+        3. RAW EVIDENCE QUOTES: You MUST extract and preserve the exact, word-for-word text of any emails, company policies, or employer clauses. Put them under a clear heading called 'RAW EVIDENCE QUOTES'. Do NOT summarize direct dialogue.
+        4. Max 1500 words."""),
         ("human", "Raw Input:\n{raw_input}")
     ])
     
+    # Using 8B here is safe because we gave it 2048 tokens and strict metadata instructions
     chain = compress_prompt | get_fast_llm()
     try:
         response = chain.invoke({"raw_input": distilled_question[:15000]})
@@ -104,7 +102,7 @@ def grade_documents(state: GraphState) -> Dict[str, Any]:
     ])
     
     chain = prompt | get_fast_llm().with_structured_output(GradeResult)
-    combined = truncate_text_to_budget(documents, max_chars=12000)
+    combined = truncate_text_to_budget(documents, max_chars=10000)
     
     try:
         result = chain.invoke({"question": question, "context": combined})
@@ -119,40 +117,27 @@ def web_search(state: GraphState) -> Dict[str, Any]:
     steps = state.get("steps", [])
     steps.append("execute_web_search")
     
-    # Dynamically generate search query using 8B with FEW-SHOT EXAMPLES 
-    # to prevent search vector pollution and force statute-focused searches
     query_prompt = ChatPromptTemplate.from_messages([
-        ("system", """Convert the HR compliance issue into a highly targeted, 4-6 word Google search query to find the exact Indian governing statute or Act. 
+        ("system", """Convert the HR compliance issue into a highly targeted, 4-6 word Google search query to find the exact Indian governing statute. 
         
             Examples:
             Input: Must we translate contracts to local language?
             Output: India Shops Establishments Act contract language
 
-            Input: Can we clawback visa expenses?
-            Output: India Contract Act deduction visa expenses
-
-            Input: Manager is constantly shouting and mentally harassing employees.
-            Output: India workplace mental harassment grievance redressal laws -POSH
-
-            Input: Is a POSH Committee mandatory?
-            Output: India POSH Act 2013 internal committee mandatory
-
-            CRITICAL: If the query is about mental, verbal, or general harassment (not sexual), append "-POSH" to your search query to exclude irrelevant laws.
+            CRITICAL: If the query is about a toxic boss, coercion, unrealistic deadlines, or workplace pressure, DO NOT use the word "harassment". 
+            Instead, output EXACTLY: "India Industrial Disputes Act Unfair Labour Practices"
+            
             Output ONLY the search query text without quotes or explanations."""),
-                    ("human", "{question}")
+        ("human", "{question}")
     ])
     
     try:
-        llm = get_fast_llm()
-        chain = query_prompt | llm
+        chain = query_prompt | get_fast_llm()
         search_query = chain.invoke({"question": question}).content.strip().replace('"', '')
     except Exception as e:
-        # Failsafe: Hard slice the question to 100 characters and append general keywords
         search_query = question[:100].strip() + " India labour law statute"
         
     context = execute_tavily_search(search_query)
-    
-    # Inject the executed search query into the context for benchmark tracing
     return {"web_search_context": f"[AGENT SEARCH QUERY EXECUTED: {search_query}]\n\n{context}", "steps": steps}
 
 def draft_corporate_defense(state: GraphState) -> Dict[str, Any]:
@@ -177,6 +162,11 @@ def generate_audit(state: GraphState) -> Dict[str, Any]:
     corporate_defense = state.get("corporate_defense", "")
     judge_feedback = state.get("judge_feedback", "None")
     
+    # --- NEW: The Do-or-Die Warning ---
+    revision_count = state.get("revision_count", 0)
+    if revision_count >= 2:
+        judge_feedback = f"CRITICAL FINAL WARNING: You have failed formatting {revision_count} times. You MUST strictly use the exact Markdown skeleton and exact HTML span tags, or the system will crash. Previous error: " + judge_feedback
+
     steps = state.get("steps", [])
     steps.append("generate_audit_report")
     
@@ -188,10 +178,11 @@ def generate_audit(state: GraphState) -> Dict[str, Any]:
     if state.get("generation") == "NO":
         internal_budget = "[INTERNAL DB REJECTED OR EMPTY - YOU MUST RELY EXCLUSIVELY ON EXTERNAL LEGAL CONTEXT OR INTERNAL PRE-TRAINED KNOWLEDGE.]"
     else:
-        internal_budget = truncate_text_to_budget(documents, max_chars=16000)
+        internal_budget = truncate_text_to_budget(documents, max_chars=10000)
         
-    external_budget = truncate_text_to_budget([web_context], max_chars=8000)
+    external_budget = truncate_text_to_budget([web_context], max_chars=6000)
     
+    # THIS IS THE ONLY NODE THAT USES THE EXPENSIVE 70B MODEL
     chain = prompt | get_complex_llm()
     response = chain.invoke({
         "question": question,
@@ -215,6 +206,7 @@ def evaluate_audit(state: GraphState) -> Dict[str, Any]:
         ("human", "Generated Audit:\n{audit}")
     ])
     
+    # 8B is perfectly fine here. It just acts as a Regex checker for Markdown formatting.
     chain = prompt | get_fast_llm().with_structured_output(JudgeResult)
     
     try:
@@ -222,7 +214,6 @@ def evaluate_audit(state: GraphState) -> Dict[str, Any]:
         score = result.score.upper().strip()
         feedback = result.feedback
     except Exception as e:
-        # DO NOT PASS BY DEFAULT. Force a FAIL to trigger a rewrite loop.
         score = "FAIL" 
         feedback = f"Judge API threw an error. Generator MUST stick exactly to the Skeleton Format and use HTML span tags."
         
@@ -236,15 +227,12 @@ def evaluate_audit(state: GraphState) -> Dict[str, Any]:
 # ==========================================
 # 3. Routing Decisions
 # ==========================================
-
-# We no longer need it because we aren't skipping the web search anymore. KEEPING IT FOR LOCAL DEBUGGING PURPOSES.
 def route_after_grading(state: GraphState) -> Literal["web_search", "draft_corporate_defense"]:
     if state["generation"] == "NO":
          return "web_search"
     return "draft_corporate_defense"
 
 def route_after_evaluation(state: GraphState) -> Literal["generate_audit", END]:
-    # Increased tolerance to 3 to allow the model to fix stubborn HTML tag issues
     if state["judge_score"] == "PASS" or state["revision_count"] >= 3:
         return END
     return "generate_audit"
@@ -262,28 +250,13 @@ workflow.add_node("draft_corporate_defense", draft_corporate_defense)
 workflow.add_node("generate_audit", generate_audit)
 workflow.add_node("evaluate_audit", evaluate_audit)
 
-# 1. Start by compressing the query
 workflow.add_edge(START, "compress_query")
-
-# 2. Retrieve internal documents
 workflow.add_edge("compress_query", "retrieve")
-
-# 3. Grade the internal documents (sets the YES/NO flag)
 workflow.add_edge("retrieve", "grade_documents")
-
-# 4. ALWAYS run a web search for the actual law
 workflow.add_edge("grade_documents", "web_search")
-
-# 5. ALWAYS draft the corporate defense
 workflow.add_edge("web_search", "draft_corporate_defense")
-
-# 6. Feed EVERYTHING into the audit generator
 workflow.add_edge("draft_corporate_defense", "generate_audit")
-
-# 7. Evaluate the output
 workflow.add_edge("generate_audit", "evaluate_audit")
-
-# 8. Loop back if it fails, or end if it passes
 workflow.add_conditional_edges("evaluate_audit", route_after_evaluation)
 
 app = workflow.compile()
