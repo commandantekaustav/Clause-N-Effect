@@ -3,27 +3,28 @@ from typing import List, Any
 from langchain_community.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.cross_encoders import HuggingFaceCrossEncoder
+from langchain_community.retrievers import BM25Retriever
+from langchain_classic.retrievers import EnsembleRetriever
 
 # Process-level caching to prevent redundant I/O and memory overhead
 _embeddings = None
 _vectorstore = None
 _cross_encoder = None
+_ensemble_retriever = None  # <--- THIS WAS THE MISSING PIECE!
 
 class ContextualRerankingRetriever:
     """
     Custom high-precision re-ranking retriever.
-    Combines semantic bi-encoder vector retrieval with a cross-encoder attention model
-    to rank retrieved chunks by strict logical relevance rather than syntax alone.
-    Implements dynamic thresholding to discard low-affinity chunks, preventing prompt pollution.
+    Combines semantic FAISS and sparse BM25 retrieval with a cross-encoder attention model.
     """
-    def __init__(self, base_retriever: Any, cross_encoder: Any, top_n: int = 2, score_threshold: float = -2.5):
+    def __init__(self, base_retriever: Any, cross_encoder: Any, top_n: int = 3, score_threshold: float = -3.0):
         self.base_retriever = base_retriever
         self.cross_encoder = cross_encoder
         self.top_n = top_n
         self.score_threshold = score_threshold
 
     def invoke(self, query: str) -> List[Any]:
-        # Step 1: Perform broad semantic sweep (high recall, k=15)
+        # Step 1: Perform broad hybrid sweep (high recall, k=10 from FAISS, k=10 from BM25)
         docs = self.base_retriever.invoke(query)
         if not docs:
             return []
@@ -37,7 +38,7 @@ class ContextualRerankingRetriever:
         # Step 4: Sort documents by descending cross-encoder relevance scores
         scored_docs = sorted(zip(docs, scores), key=lambda x: x[1], reverse=True)
 
-        # Step 5: Filter out documents below the relevance logit threshold to prevent prompt pollution
+        # Step 5: Filter out documents below the relevance logit threshold
         valid_docs = [
             doc for doc, score in scored_docs 
             if score >= self.score_threshold
@@ -49,10 +50,10 @@ class ContextualRerankingRetriever:
 
 def get_retriever():
     """
-    Loads and caches the local FAISS retriever and the Cross-Encoder model.
+    Loads and caches the local FAISS retriever, BM25 Keyword Retriever, and the Cross-Encoder.
     Returns a custom contextual re-ranking interface.
     """
-    global _embeddings, _vectorstore, _cross_encoder
+    global _embeddings, _vectorstore, _cross_encoder, _ensemble_retriever
     
     if _embeddings is None:
         _embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
@@ -70,17 +71,29 @@ def get_retriever():
             allow_dangerous_deserialization=True
         )
         
+    if _ensemble_retriever is None:
+        # 1. Setup FAISS Dense Retriever
+        faiss_retriever = _vectorstore.as_retriever(search_kwargs={"k": 10})
+        
+        # 2. Extract documents from FAISS to build BM25 Keyword Retriever
+        docs = list(_vectorstore.docstore._dict.values())
+        bm25_retriever = BM25Retriever.from_documents(docs)
+        bm25_retriever.k = 10
+        
+        # 3. Combine them! 50% Keyword, 50% Semantic
+        _ensemble_retriever = EnsembleRetriever(
+            retrievers=[bm25_retriever, faiss_retriever], 
+            weights=[0.5, 0.5]
+        )
+
     if _cross_encoder is None:
         # Initialize lightweight CPU-friendly cross-encoder model
         _cross_encoder = HuggingFaceCrossEncoder(model_name="cross-encoder/ms-marco-MiniLM-L-6-v2")
         
-    # Stage 1: Pull top 15 candidates based on broad bi-encoder similarity
-    base_retriever = _vectorstore.as_retriever(search_kwargs={"k": 15})
-    
-    # Stage 2: Construct the contextual re-ranking pipeline with a strict logit limit
+    # Construct the contextual re-ranking pipeline
     return ContextualRerankingRetriever(
-        base_retriever=base_retriever,
+        base_retriever=_ensemble_retriever,
         cross_encoder=_cross_encoder,
-        top_n=2,
-        score_threshold=-2.5
+        top_n=5,
+        score_threshold=-3.0
     )

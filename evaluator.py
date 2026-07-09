@@ -17,25 +17,31 @@ class EvaluationScore(BaseModel):
     reasoning: str = Field(description="One sentence explaining the score.")
 
 def get_evaluator_llm():
-    """Uses the 8B model to preserve our 70B daily token limit."""
+    """Uses the 8B model with Native JSON Mode for absolute stability."""
     return ChatGroq(
         model="llama-3.1-8b-instant",
         temperature=0.0, 
-        max_tokens=500
+        max_tokens=500,
+        # This tells the Groq API to force a raw JSON string response
+        model_kwargs={"response_format": {"type": "json_object"}} 
     )
 
-# Using JsonOutputParser bypasses Groq's flaky tool-calling API
-parser = JsonOutputParser(pydantic_object=EvaluationScore)
-
+# Notice we explicitly tell it the exact JSON keys we want
 EVALUATOR_PROMPT = ChatPromptTemplate.from_messages([
-    ("system", "You are an impartial Supreme Court Judge evaluating an AI Compliance Auditor. "
-               "Compare the 'AI Generated Audit' against the 'Expert Ground Truth'. "
-               "Score the AI from 1 (completely wrong/hallucinated) to 5 (perfectly accurate, nuanced, and covers the ground truth). "
-               "Also verify if the AI successfully cited the 'Target Statute'. "
-               "Be strict. If the AI hallucinates non-existent laws, give it a 1.\n\n"
-               "CRITICAL: {format_instructions}"),
+    ("system", """You are an impartial, ruthless Supreme Court Judge evaluating an AI Compliance Auditor. 
+Compare the 'AI Generated Audit' against the 'Expert Ground Truth'. 
+Score the AI from 1 (completely wrong) to 5 (perfectly accurate). 
+Output 'True' for statute_match ONLY IF the AI cited the EXACT Indian Act. Close guesses are 'False'.
+
+OUTPUT FORMAT:
+You MUST return a valid JSON object with exactly these three keys:
+"accuracy_score": (integer 1-5)
+"statute_match": (boolean true/false)
+"reasoning": (string)"""),
     ("human", "Target Statute: {statute}\n\nExpert Ground Truth: {expert}\n\nAI Generated Audit:\n{generated}")
 ])
+
+
 
 def robust_invoke(chain_or_app, inputs: dict, max_retries: int = 4):
     """
@@ -50,45 +56,33 @@ def robust_invoke(chain_or_app, inputs: dict, max_retries: int = 4):
         try:
             return chain_or_app.invoke(inputs)
         except Exception as e:
-            error_msg = str(e)
+            error_msg = str(e).lower()
             
-            # Catch standard network connection drops
-            if "Connection error" in error_msg or "timeout" in error_msg.lower() or "503" in error_msg:
-                print(f"\n[!] Network/Server glitch detected. Retrying in 10 seconds...")
+            if "connection error" in error_msg or "timeout" in error_msg or "503" in error_msg:
+                print(f"\n[!] Network glitch. Retrying in 10s...")
                 time.sleep(10)
                 retries += 1
                 continue
             
-            # Detect Rate Limit Failures
-            if "rate_limit_exceeded" in error_msg or "429" in error_msg:
+            if "rate_limit" in error_msg or "429" in error_msg or "tpd" in error_msg:
+                if fallback_keys and current_key_idx < len(fallback_keys):
+                    next_key = fallback_keys[current_key_idx]
+                    print(f"\n[!] Limit Reached. Swapping to Fallback Key {current_key_idx + 1}...")
+                    
+                    # THE MULTI-PROVIDER HACK:
+                    # If you put an OpenRouter key in your fallback list, we change the endpoint!
+                    if next_key.startswith("sk-or-"): 
+                        os.environ["GROQ_API_BASE"] = "https://openrouter.ai/api/v1"
+                    
+                    os.environ["GROQ_API_KEY"] = next_key
+                    current_key_idx += 1
+                    continue 
                 
-                # Condition A: Tokens Per Day (TPD) Exhaustion
-                if "tokens per day" in error_msg or "TPD" in error_msg:
-                    if fallback_keys and current_key_idx < len(fallback_keys):
-                        print(f"\n[!] Daily Limit Reached. Rotating to Fallback API Key {current_key_idx + 1}...")
-                        os.environ["GROQ_API_KEY"] = fallback_keys[current_key_idx]
-                        current_key_idx += 1
-                        continue 
-                    else:
-                        print("\n[CRITICAL] Daily Token Limit (TPD) exhausted. No fallback keys available.")
-                        raise Exception("TPD_EXHAUSTED")
-
-                # Condition B: Tokens Per Minute (TPM) Exhaustion
-                match = re.search(r'try again in (?:(\d+)m)?(?:([\d.]+)s)?', error_msg)
-                if match:
-                    minutes = int(match.group(1)) if match.group(1) else 0
-                    seconds = float(match.group(2)) if match.group(2) else 0
-                    wait_time = (minutes * 60) + seconds + 3.0 
-                    print(f"\n[!] Rate Limit (TPM) Hit. Adaptive pause: Sleeping for {wait_time:.1f} seconds...")
-                    time.sleep(wait_time)
-                    retries += 1
-                    continue
-                else:
-                    wait_time = 60 * (retries + 1)
-                    print(f"\n[!] Rate Limit Hit (Unknown duration). Static pause: Sleeping for {wait_time} seconds...")
-                    time.sleep(wait_time)
-                    retries += 1
-                    continue
+                # If no keys left, sleep for a flat 60 seconds instead of brittle regex parsing
+                print(f"\n[!] TPM Hit. No fallbacks ready. Sleeping 65 seconds...")
+                time.sleep(65)
+                retries += 1
+                continue
             else:
                 raise e
                 
@@ -130,7 +124,7 @@ def run_benchmark(dataset_path: str = "./data/audit_responses.json", output_path
     print("Press Ctrl+C at any time to gracefully pause and save current progress.\n")
     
     # Define evaluator chain using the raw JSON parser
-    evaluator_chain = EVALUATOR_PROMPT | get_evaluator_llm() | parser
+    evaluator_chain = EVALUATOR_PROMPT | get_evaluator_llm()
     
     try:
         for i in range(start_index, len(dataset)):
@@ -154,17 +148,25 @@ def run_benchmark(dataset_path: str = "./data/audit_responses.json", output_path
                 final_audit = "ERROR"
                 
             # 2. Evaluate the Output
+# 2. Evaluate the Output
             try:
                 if final_audit != "ERROR":
-                    eval_result = robust_invoke(evaluator_chain, {
+                    # Micro-sleep to prevent 70B and 8B from colliding on the TPM limit
+                    time.sleep(5) 
+                    
+                    eval_result_raw = robust_invoke(evaluator_chain, {
                         "statute": target_statute,
                         "expert": expert_answer,
-                        "generated": final_audit,
-                        "format_instructions": parser.get_format_instructions()
+                        "generated": final_audit
                     })
-                    score = eval_result.get("accuracy_score", 0)
-                    statute_match = eval_result.get("statute_match", False)
-                    reasoning = eval_result.get("reasoning", "No reasoning provided.")
+                    
+                    # Safely parse the raw string into a Python dictionary
+                    eval_dict = json.loads(eval_result_raw.content)
+                    
+                    score = int(eval_dict.get("accuracy_score", 0))
+                    # Handle boolean conversion safely
+                    statute_match = str(eval_dict.get("statute_match", "false")).strip().lower() == "true"
+                    reasoning = str(eval_dict.get("reasoning", "No reasoning provided."))
                 else:
                     raise Exception("Skipping evaluation due to generation failure.")
             except Exception as e:
