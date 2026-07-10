@@ -1,8 +1,10 @@
 import os
+import re
 import dotenv
 import shutil
 import time
 import warnings
+import asyncio
 from pathlib import Path
 from ingest import build_vector_db
 
@@ -14,23 +16,33 @@ from llama_parse import LlamaParse
 dotenv.load_dotenv()
 os.environ["LLAMA_CLOUD_API_KEY"] = os.getenv("LLAMA_CLOUD_API_KEY")
 
-def ingest_curated_documents(
-    curated_dir_path: str = "curated", 
-    scanned_dir_path: str = "scanned", 
-    master_output_path: str = "output.md"
-):
-    """
-    Automated batch processing pipeline. Parses PDFs in the curated directory,
-    appends markdown output, and safely moves processed documents to scanned archive.
-    """
-    curated_dir = Path(curated_dir_path)
-    scanned_dir = Path(scanned_dir_path)
+def inject_metadata(raw_markdown: str, filename: str) -> str:
+    """Injects the legal statute name into every Markdown Header."""
+    clean_title = filename.replace("_", " ").replace("-", " ").upper()
+    enhanced_markdown = re.sub(
+        r'^(#+)\s*(.*)', 
+        rf'\1 [{clean_title}] \2', 
+        raw_markdown, 
+        flags=re.MULTILINE
+    )
+    preamble = f"\n\n{'='*60}\n"
+    preamble += f"# PRIMARY LEGAL STATUTE: {clean_title}\n"
+    preamble += f"> SYSTEM DIRECTIVE: The following text is the authoritative legal language for the {clean_title}. "
+    preamble += f"If you cite any clauses or sections below, you MUST attribute them to the {clean_title}.\n"
+    preamble += f"{'='*60}\n\n"
+    return preamble + enhanced_markdown
+
+async def process_documents():
+    curated_dir = Path("curated")
+    scanned_dir = Path("scanned")
+    master_output_path = "output.md"
     
-    # Ensure execution directories exist
     curated_dir.mkdir(exist_ok=True)
     scanned_dir.mkdir(exist_ok=True)
     
-    # THE FIX: Use a set() to eliminate duplicate files caused by Windows case-insensitivity
+    # Ensure output.md exists to prevent FAISS crashes
+    Path(master_output_path).touch(exist_ok=True)
+    
     raw_files = list(curated_dir.glob("*.pdf")) + list(curated_dir.glob("*.PDF"))
     pdf_files = list(set(raw_files))
     
@@ -47,7 +59,6 @@ def ingest_curated_documents(
     )
     
     for pdf_path in pdf_files:
-        # Failsafe: Ensure file hasn't been moved or deleted by another process
         if not pdf_path.exists():
             continue
             
@@ -55,42 +66,38 @@ def ingest_curated_documents(
         start_time = time.perf_counter()
         
         try:
-            # Parse PDF through Cloud Engine
-            parsed_data = parser.load_data(str(pdf_path))
-            combined_markdown = "\n\n".join([page.text for page in parsed_data])
+            # NATIVE ASYNC CALL (Bypasses all the event loop crashes)
+            parsed_data = await parser.aload_data(str(pdf_path))
+            raw_markdown = "\n\n".join([page.text for page in parsed_data])
             
-            # Append markdown payload to cumulative master record
+            # The Safety Check that just saved your database!
+            if len(raw_markdown.strip()) < 50:
+                raise ValueError("LlamaParse returned empty or near-empty text. Skipping.")
+            
+            enriched_markdown = inject_metadata(raw_markdown, pdf_path.stem)
+            
             with open(master_output_path, "a", encoding="utf-8") as master_file:
-                master_file.write(f"\n\n# Document Reference: {pdf_path.stem}\n")
-                master_file.write(f"--- Ingestion Timestamp: {time.asctime()} ---\n\n")
-                master_file.write(combined_markdown)
+                master_file.write(enriched_markdown)
                 master_file.write("\n\n")
                 
             latency = time.perf_counter() - start_time
-            print(f"Successfully compiled markdown for {pdf_path.name} in {latency:.2f}s.")
+            print(f"Successfully compiled and injected metadata for {pdf_path.name} in {latency:.2f}s.")
             
-            # Build non-colliding destination path in archive directory
             timestamp = int(time.time())
             archive_filename = f"{pdf_path.stem}_{timestamp}{pdf_path.suffix}"
             archive_destination = scanned_dir / archive_filename
-            
-            # Relocate file to commit pipeline stage
             shutil.move(str(pdf_path), str(archive_destination))
-            print(f"Moved source file to archive: '{archive_destination.name}'\n")
             
         except Exception as e:
             print(f"Pipeline Execution Failure processing document '{pdf_path.name}': {str(e)}")
-            print("Document retained in curated execution path for recovery.\n")
 
- # ==========================================
-    # THE PIPELINE TRIGGER (ADD THIS AT THE VERY END OF THE FUNCTION)
-    # ==========================================
     print("--------------------------------------------------")
     print("Extraction complete. Initiating Vector Database Update...")
     try:
-        build_vector_db() # This calls your ingest.py logic automatically
+        build_vector_db() 
     except Exception as e:
         print(f"CRITICAL FAILURE: Could not update FAISS database. Error: {str(e)}")
 
 if __name__ == "__main__":
-    ingest_curated_documents()
+    # Boot up the Native Python Async Event Loop
+    asyncio.run(process_documents())
