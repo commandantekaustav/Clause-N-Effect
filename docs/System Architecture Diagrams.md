@@ -2,11 +2,11 @@
 
 This document outlines the system architecture, data flows, detailed UMLs, and state machine diagrams for the Clause-N-Effect compliance engine. All diagrams are rendered using Mermaid.js, conforming to Docs-as-Code industry standards.
 
-## **1\. High-Level System Architecture**
+## **1. High-Level System Architecture**
 
 This diagram illustrates the macro-level interaction between the user interface, the LangGraph engine, the retrieval tools, and the telemetry layer.
 
-graph TB  
+<!-- graph TB  
     subgraph Frontend  
         UI\[Streamlit App \<br/\> \<code\>app.py\</code\>\]  
         UI\_State\[Session State: \<br/\> Token/Rate Limiter\]  
@@ -51,13 +51,15 @@ graph TB
     class UI,UI\_State frontend;  
     class DAG,Engine core;  
     class HybridRAG,WebSearch,TextCrush tools;  
-    class DB,Logs db;
+    class DB,Logs db; -->
+    
+![](./SAD_1.svg)
 
-## **2\. LangGraph State Machine (DAG)**
+## **2. LangGraph State Machine (DAG)**
 
 This diagram maps the exact routing logic, conditional edges, and the self-correcting Actor-Critic loop defined in graph.py.
 
-stateDiagram-v2  
+<!-- stateDiagram-v2  
     direction TB  
       
     \[\*\] \--\> compress\_query: Start  
@@ -85,13 +87,17 @@ stateDiagram-v2
         Critic Node enforces  
         Markdown formatting and  
         HTML Span exact matches.  
-    end note
+    end note -->
+
+    
+![System Architecture Diagrams](./SAD_2.svg)
+
 
 ## **3\. UML Class Diagram: State & Data Structures**
 
 This UML Class Diagram outlines the strict typing, Pydantic models, and custom Python classes that enforce data integrity across the application.
 
-classDiagram  
+<!-- classDiagram  
     class GraphState {  
         \<\<TypedDict\>\>  
         \+str question  
@@ -134,13 +140,15 @@ classDiagram
 
     GraphState ..\> GradeResult : Validates via Node  
     GraphState ..\> JudgeResult : Validates via Node  
-    ContextualRerankingRetriever \--\> GraphState : Feeds 'documents'
+    ContextualRerankingRetriever \--\> GraphState : Feeds 'documents' -->
+
+![System Architecture Diagrams](./SAD_3.svg)
 
 ## **4\. Mail Indexer & Subtraction Matrix (Sequence Diagram)**
 
 This sequence diagram illustrates the internal logic of mail\_indexer.py, specifically detailing how the Subtraction Matrix achieves deterministic deduplication of complex email threads.
 
-sequenceDiagram  
+<!-- sequenceDiagram  
     autonumber  
     participant PDF as Raw PDF (pypdf)  
     participant Indexer as mail\_indexer.py  
@@ -172,13 +180,15 @@ sequenceDiagram
       
     Indexer-\>\>Indexer: Sort chronologically by timestamp  
     Indexer-\>\>MD: generate\_markdown()  
-    MD--\>\>Indexer: Return Cleaned Transcript
+    MD--\>\>Indexer: Return Cleaned Transcript -->
+
+![System Architecture Diagrams](./SAD_4.svg)
 
 ## **5\. Component & Module Dependency Diagram**
 
 This structural diagram maps out how your Python files depend on one another, highlighting the clean separation of concerns in your src/ directory.
 
-graph TD  
+<!-- graph TD  
     App\[\<code\>app.py\</code\>\<br/\>Streamlit Frontend\] \--\> Engine\[\<code\>agent\_engine.py\</code\>\<br/\>API Proxy\]  
     App \--\> Logger\[\<code\>logger.py\</code\>\<br/\>Telemetry\]  
       
@@ -196,13 +206,15 @@ graph TD
     MailIndex\[\<code\>src/mail\_indexer.py\</code\>\<br/\>Email ETL\] \--\> Ingest
 
     classDef python fill:\#2b313e,stroke:\#ffb300,stroke-width:1px,color:\#fff;  
-    class App,Engine,Logger,Graph,State,Prompts,Retriever,Search,Crusher,Evaluator,Parser,Ingest,MailIndex python;
+    class App,Engine,Logger,Graph,State,Prompts,Retriever,Search,Crusher,Evaluator,Parser,Ingest,MailIndex python; -->
+
+![System Architecture Diagrams](./SAD_5.svg)
 
 ## **6\. Evaluation-Driven Development (EDD) Flow**
 
 This sequence diagram outlines how the benchmark suite tests the agent against a verified Golden Dataset while navigating API rate limits.
 
-sequenceDiagram  
+<!-- sequenceDiagram  
     autonumber  
     participant Dataset as Golden Dataset (JSON)  
     participant Eval as evaluator.py (Runner)  
@@ -229,4 +241,6 @@ sequenceDiagram
         Judge--\>\>Eval: Return Scoring Metrics  
           
         Eval-\>\>DB: Append Result & Flush to Disk  
-    end  
+    end   -->
+
+![System Architecture Diagrams](./SAD_6.svg)
