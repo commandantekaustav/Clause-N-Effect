@@ -158,6 +158,18 @@ if st.button("Run Compliance Audit", type="primary"):
                 # Update run time and display results
                 st.session_state.last_run_time = time.time()
                 
+                # --- VISUAL CLASSIFICATION PARSER ---
+                # Check for the tags using upper() to ensure case-insensitivity
+                gen_upper = final_generation.upper()
+                
+                if "[COMPLIANT]" in gen_upper:
+                    st.success("✅ **AUDIT RESULT: COMPLIANT** - The employer's actions align with statutory guidelines.")
+                elif "[NON-COMPLIANT]" in gen_upper:
+                    st.error("🚨 **AUDIT RESULT: NON-COMPLIANT** - The employer's actions violate Indian Labor Law.")
+                elif "[LEGALLY VOID]" in gen_upper:
+                    st.warning("⚠️ **AUDIT RESULT: LEGALLY VOID** - The contract clause or policy is unenforceable and legally null in India.")
+                # ------------------------------------
+                
                 # The final markdown output from the 70B model
                 st.markdown(final_generation, unsafe_allow_html=True)
                 
