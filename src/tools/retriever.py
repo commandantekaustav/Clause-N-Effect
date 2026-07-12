@@ -83,7 +83,7 @@ def get_retriever():
         # 3. Combine them! 50% Keyword, 50% Semantic
         _ensemble_retriever = EnsembleRetriever(
             retrievers=[bm25_retriever, faiss_retriever], 
-            weights=[0.7, 0.3] # 70% Keyword, 30% Semantic
+            weights=[0.5, 0.5] # 50% Keyword, 50% Semantic
         )
 
     if _cross_encoder is None:

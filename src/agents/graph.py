@@ -199,23 +199,16 @@ def generate_audit(state: GraphState) -> Dict[str, Any]:
 
 def evaluate_audit(state: GraphState) -> Dict[str, Any]:
     generation = state["generation"]
-    steps = state.get("steps", [])
     revision_count = state.get("revision_count", 0)
-    rejection_reasons = state.get("rejection_reasons", [])
-    steps.append("evaluate_audit")
     
-    # 1. DETERMINISTIC PYTHON CHECK
-    if "[NON-COMPLIANT]" in generation or "[LEGALLY VOID]" in generation:
-        if not any(union in generation for union in ["NITES", "KITU", "AIITEU"]):
-            # DEFUSED: Assign feedback first, then append!
-            feedback = "CRITICAL: You forgot to explicitly recommend NITES, KITU, or AIITEU in the Retaliation Strategy."
-            rejection_reasons.append(feedback)
+    # 1. HARD CODED RELIABILITY: Check for Unions in Python
+    if "[NON-COMPLIANT]" in generation:
+        unions = ["NITES", "KITU", "AIITEU"]
+        if not any(u in generation for u in unions):
             return {
-                "judge_score": "FAIL", 
-                "judge_feedback": feedback, 
-                "revision_count": revision_count + 1,
-                "rejection_reasons": rejection_reasons, # PASSED TO STATE
-                "steps": steps
+                "judge_score": "FAIL",
+                "judge_feedback": "Missing Indian IT Unions in Retaliation Strategy.",
+                "revision_count": revision_count + 1
             }
 
     # 2. STANDARD LLM JUDGE CHECK
