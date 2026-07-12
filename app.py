@@ -162,17 +162,18 @@ if st.button("Run Compliance Audit", type="primary"):
                 # Check for the tags using upper() to ensure case-insensitivity
                 gen_upper = final_generation.upper()
                 
-                if "[COMPLIANT]" in gen_upper:
-                    st.success("✅ **AUDIT RESULT: COMPLIANT** - The employer's actions align with statutory guidelines.")
-                elif "[NON-COMPLIANT]" in gen_upper:
-                    st.error("🚨 **AUDIT RESULT: NON-COMPLIANT** - The employer's actions violate Indian Labor Law.")
-                elif "[LEGALLY VOID]" in gen_upper:
-                    st.warning("⚠️ **AUDIT RESULT: LEGALLY VOID** - The contract clause or policy is unenforceable and legally null in India.")
-                # ------------------------------------
+                # UI Layer Styling: Colorize the blockquotes dynamically
+                if "[NON-COMPLIANT]" in gen_upper or "[LEGALLY VOID]" in gen_upper:
+                    # Make blockquotes red for violations
+                    display_text = final_generation.replace("\n> ", "\n> <span style='color:#ff4b4b; font-weight:bold'>")
+                    display_text = display_text.replace('"\n', '"</span>\n')
+                else:
+                    # Make blockquotes green for compliance
+                    display_text = final_generation.replace("\n> ", "\n> <span style='color:#00cc66; font-weight:bold'>")
+                    display_text = display_text.replace('"\n', '"</span>\n')
                 
-                # The final markdown output from the 70B model
-                st.markdown(final_generation, unsafe_allow_html=True)
-                
+                st.markdown(display_text, unsafe_allow_html=True)
+                                
                 log_transaction(
                     query=distilled_query,
                     response=final_generation,
