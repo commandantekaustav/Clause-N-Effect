@@ -14,6 +14,7 @@ class GraphState(TypedDict):
     judge_score: str
     judge_feedback: str
     revision_count: int
+    rejection_reasons: List[str]
     steps: List[str]
 
 class GradeResult(BaseModel):
@@ -24,3 +25,4 @@ class JudgeResult(BaseModel):
     """Schema for the final Actor-Critic evaluation."""
     score: str = Field(description="Evaluation score. Must be strictly 'PASS' or 'FAIL'.")
     feedback: str = Field(description="Specific reason for failure, or 'PERFECT' if PASS.")
+

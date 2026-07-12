@@ -8,49 +8,60 @@ import os
 import json
 from datetime import datetime
 from pathlib import Path
+from src.utils.pii_scrubber import scrub_pii
 
 LOG_DIR = Path(".DONT_UPLOAD")
 LOG_FILE = LOG_DIR / "track.json"
 
-def log_transaction(query: str, response: str, steps: list, execution_time: float):
+def log_transaction(
+    query: str, 
+    hr_facts: str, 
+    response: str, 
+    steps: list, 
+    execution_time: float,
+    revision_count: int = 0,
+    rejection_reasons: list = None
+    ):
     """
     Structured telemetry logging agent. Handles schema migrations dynamically
     without crashing historical evaluations.
     """
+    if rejection_reasons is None:
+        rejection_reasons = []
+        
     LOG_DIR.mkdir(exist_ok=True)
+    target_model = os.getenv("GROQ_MODEL_NAME", "llama-3.3-70b-versatile")
     
-    # Calculate quantitative string lengths for cost estimation
     query_chars = len(query)
     response_chars = len(response)
     estimated_tokens = int((query_chars + response_chars) / 4)
     
-    # Read active model configuration safely from system variables
-    target_model = os.getenv("GROQ_MODEL_NAME", "llama-3.3-70b-versatile")
-    
-    # Upgraded schema with detailed cost and model properties
+    # --- PII SCRUBBING PHASE ---
+    safe_query = scrub_pii(query.strip())
+    safe_facts = scrub_pii(hr_facts.strip())
+
+    # Upgraded schema with consolidated metrics
     new_entry = {
-        "execution_number": None, # Will be set dynamically below
+        "execution_number": None, 
         "timestamp": datetime.utcnow().isoformat() + "Z",
-        "system_configuration": {
+        "system_metrics": {
             "model_identifier": target_model,
             "latency_seconds": round(execution_time, 4),
             "estimated_tokens": estimated_tokens,
-            "character_matrix": {
-                "input_query_characters": query_chars,
-                "output_response_characters": response_chars
-            }
+            "actor_critic_revisions": revision_count,
+            "judge_rejection_reasons": rejection_reasons, 
+            "external_search_triggered": "execute_web_search" in steps
         },
         "routing_metrics": {
             "completed_graph_nodes": steps,
-            "external_search_active": "execute_web_search" in steps
         },
         "transactional_payload": {
-            "query_prompt": query.strip(),
+            "query_prompt": safe_query,
+            "hr_facts": safe_facts,
             "response_analysis": response.strip()
         }
     }
     
-    # Handle read and deserialization of the log index safely
     logs = []
     if LOG_FILE.exists() and LOG_FILE.stat().st_size > 0:
         try:
@@ -61,18 +72,14 @@ def log_transaction(query: str, response: str, steps: list, execution_time: floa
         except json.JSONDecodeError:
             logs = []
             
-    # Apply Migration: retroactively update existing records to align with execution indexes
     for index, entry in enumerate(logs):
         if not isinstance(entry, dict):
             continue
-        # Migrate old format to support execution numbers
         if "execution_number" not in entry or entry["execution_number"] is None:
             entry["execution_number"] = index + 1
             
-    # Assign execution number based on final migrated list offset
     new_entry["execution_number"] = len(logs) + 1
     logs.append(new_entry)
     
-    # Write transactions atomically
     with open(LOG_FILE, "w", encoding="utf-8") as f:
         json.dump(logs, f, indent=2, ensure_ascii=False)

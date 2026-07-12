@@ -12,22 +12,21 @@ from src.prompts.system_prompts import (
 )
 from src.tools.retriever import get_retriever
 from src.tools.search import execute_tavily_search
-from src.utils.text_crusher import crush_corporate_noise
 
 # ==========================================
 # 1. HYBRID BRAIN: Lazy Model Initialization
 # ==========================================
 def get_fast_llm() -> ChatGroq:
     return ChatGroq(
-        model="llama-3.1-8b-instant", # The 8B workhorse for tasks (30,000 TPM limit)
+        model="llama-3.1-8b-instant", 
         temperature=0,
-        max_tokens=2048, # Increased to prevent text cutoffs!
+        max_tokens=2048, 
         api_key=os.environ.get("GROQ_API_KEY")
     )
 
 def get_complex_llm() -> ChatGroq:
     return ChatGroq(
-        model="llama-3.3-70b-versatile", # The 70B genius for the Audit (6,000 TPM limit)
+        model="llama-3.3-70b-versatile", 
         temperature=0.2, 
         max_tokens=1500,
         api_key=os.environ.get("GROQ_API_KEY")
@@ -62,14 +61,13 @@ def compress_query(state: GraphState) -> Dict[str, Any]:
         ("system", """You are an investigative HR and Legal data extractor. Distill the provided text into a timeline of facts and the core compliance question. 
         
         CRITICAL DIRECTIVES:
-        1. METADATA FORENSICS (CRITICAL): Pay extremely close attention to the To, Cc, and Bcc fields in the emails. If an employee Bcc's their personal email address, this is a MASSIVE red flag indicating fear of retaliation and the creation of a defensive paper trail. You MUST extract and highlight this behavior if present.
-        2. HR & POWER DYNAMICS: You MUST explicitly capture any signs of workplace coercion, toxic power dynamics, reluctance, or defensive behaviors (forced agreements, impossible deadlines, top-down pressure). Do not sanitize human conflict.
-        3. RAW EVIDENCE QUOTES: You MUST extract and preserve the exact, word-for-word text of any emails, company policies, or employer clauses. Put them under a clear heading called 'RAW EVIDENCE QUOTES'. Do NOT summarize direct dialogue.
+        1. METADATA FORENSICS: Highlight Bcc usage, executive CCs, and timeline delays.
+        2. HR & POWER DYNAMICS: Capture signs of coercion, forced agreements, and impossible deadlines.
+        3. RAW EVIDENCE QUOTES: Extract verbatim text of emails under a clear heading 'RAW EVIDENCE QUOTES'.
         4. Max 1500 words."""),
         ("human", "Raw Input:\n{raw_input}")
     ])
     
-    # Using 8B here is safe because we gave it 2048 tokens and strict metadata instructions
     chain = compress_prompt | get_fast_llm()
     try:
         response = chain.invoke({"raw_input": distilled_question[:15000]})
@@ -119,14 +117,6 @@ def web_search(state: GraphState) -> Dict[str, Any]:
     
     query_prompt = ChatPromptTemplate.from_messages([
         ("system", """Convert the HR compliance issue into a highly targeted, 4-6 word Google search query to find the exact Indian governing statute. 
-        
-            Examples:
-            Input: Must we translate contracts to local language?
-            Output: India Shops Establishments Act contract language
-
-            CRITICAL: If the query is about a toxic boss, coercion, unrealistic deadlines, or workplace pressure, DO NOT use the word "harassment". 
-            Instead, output EXACTLY: "India Industrial Disputes Act Unfair Labour Practices"
-            
             Output ONLY the search query text without quotes or explanations."""),
         ("human", "{question}")
     ])
@@ -134,7 +124,7 @@ def web_search(state: GraphState) -> Dict[str, Any]:
     try:
         chain = query_prompt | get_fast_llm()
         search_query = chain.invoke({"question": question}).content.strip().replace('"', '')
-    except Exception as e:
+    except Exception:
         search_query = question[:100].strip() + " India labour law statute"
         
     context = execute_tavily_search(search_query)
@@ -162,10 +152,9 @@ def generate_audit(state: GraphState) -> Dict[str, Any]:
     corporate_defense = state.get("corporate_defense", "")
     judge_feedback = state.get("judge_feedback", "None")
     
-    # --- NEW: The Do-or-Die Warning ---
     revision_count = state.get("revision_count", 0)
     if revision_count >= 2:
-        judge_feedback = f"CRITICAL FINAL WARNING: You have failed formatting {revision_count} times. You MUST strictly use the exact Markdown skeleton and exact HTML span tags, or the system will crash. Previous error: " + judge_feedback
+        judge_feedback = f"CRITICAL FINAL WARNING: You have failed formatting {revision_count} times. You MUST strictly use the exact Markdown skeleton and use Markdown blockquotes (>) for evidence. Previous error: " + judge_feedback
 
     steps = state.get("steps", [])
     steps.append("generate_audit_report")
@@ -176,13 +165,12 @@ def generate_audit(state: GraphState) -> Dict[str, Any]:
     ])
     
     if state.get("generation") == "NO":
-        internal_budget = "[INTERNAL DB REJECTED OR EMPTY - YOU MUST RELY EXCLUSIVELY ON EXTERNAL LEGAL CONTEXT OR INTERNAL PRE-TRAINED KNOWLEDGE.]"
+        internal_budget = "[INTERNAL DB REJECTED OR EMPTY - RELY ON EXTERNAL CONTEXT.]"
     else:
         internal_budget = truncate_text_to_budget(documents, max_chars=10000)
         
     external_budget = truncate_text_to_budget([web_context], max_chars=6000)
     
-    # THIS IS THE ONLY NODE THAT USES THE EXPENSIVE 70B MODEL
     chain = prompt | get_complex_llm()
     response = chain.invoke({
         "question": question,
@@ -198,19 +186,24 @@ def evaluate_audit(state: GraphState) -> Dict[str, Any]:
     generation = state["generation"]
     steps = state.get("steps", [])
     revision_count = state.get("revision_count", 0)
+    rejection_reasons = state.get("rejection_reasons", [])
     steps.append("evaluate_audit")
     
     # 1. DETERMINISTIC PYTHON CHECK
     if "[NON-COMPLIANT]" in generation or "[LEGALLY VOID]" in generation:
         if not any(union in generation for union in ["NITES", "KITU", "AIITEU"]):
+            # DEFUSED: Assign feedback first, then append!
+            feedback = "CRITICAL: You forgot to explicitly recommend NITES, KITU, or AIITEU in the Retaliation Strategy."
+            rejection_reasons.append(feedback)
             return {
                 "judge_score": "FAIL", 
-                "judge_feedback": "CRITICAL: You forgot to explicitly recommend NITES, KITU, or AIITEU in the Retaliation Strategy.", 
+                "judge_feedback": feedback, 
                 "revision_count": revision_count + 1,
+                "rejection_reasons": rejection_reasons, # PASSED TO STATE
                 "steps": steps
             }
 
-    # 2. STANDARD LLM JUDGE CHECK (For formatting)
+    # 2. STANDARD LLM JUDGE CHECK
     prompt = ChatPromptTemplate.from_messages([
         ("system", JUDGE_SYSTEM_PROMPT),
         ("human", "Generated Audit:\n{audit}")
@@ -222,14 +215,18 @@ def evaluate_audit(state: GraphState) -> Dict[str, Any]:
         result = chain.invoke({"audit": generation})
         score = result.score.upper().strip()
         feedback = result.feedback
-    except Exception as e:
+        if score == "FAIL":
+            rejection_reasons.append(feedback)
+    except Exception:
         score = "FAIL" 
         feedback = "Judge API threw an error. Generator MUST stick exactly to the Skeleton Format."
+        rejection_reasons.append(feedback)        
         
     return {
         "judge_score": score, 
         "judge_feedback": feedback, 
         "revision_count": revision_count + 1,
+        "rejection_reasons": rejection_reasons,
         "steps": steps
     }
 

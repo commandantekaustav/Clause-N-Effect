@@ -144,12 +144,13 @@ if st.button("Run Compliance Audit", type="primary"):
                     terminal_box = st.empty()
                     
                     # Call the backend function and pass the UI components to it
-                    final_generation, final_steps, distilled_query, execution_latency = execute_and_stream_graph(
+                    final_generation, final_steps, safe_query, safe_facts, revisions, rejection_reasons, execution_latency = execute_and_stream_graph(
                         crag_app=crag_app,
                         inputs=inputs,
                         terminal_box=terminal_box,
                         input_tokens=input_tokens,
-                        update_tracker_callback=draw_sidebar_tracker
+                        update_tracker_callback=draw_sidebar_tracker,
+                        
                     )
                     # -----------------------------
                     
@@ -175,10 +176,13 @@ if st.button("Run Compliance Audit", type="primary"):
                 st.markdown(display_text, unsafe_allow_html=True)
                                 
                 log_transaction(
-                    query=distilled_query,
+                    query=safe_query,
+                    hr_facts=safe_facts,
                     response=final_generation,
                     steps=final_steps,
-                    execution_time=execution_latency
+                    execution_time=execution_latency,
+                    revision_count=revisions,
+                    rejection_reasons=rejection_reasons # <--- Pass it here
                 )
                 
                 st.toast(f"Audit completed in {execution_latency:.2f}s. Transaction logged.")

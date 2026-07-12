@@ -86,7 +86,17 @@ def execute_and_stream_graph(
                 final_generation = state_delta["generation"]
             if "question" in state_delta:
                 distilled_query = state_delta["question"]
-                
+            if "revision_count" in state_delta:
+                final_revisions = state_delta["revision_count"]
+            if "rejection_reasons" in state_delta:
+                final_rejection_reasons = state_delta["rejection_reasons"]
+
     execution_latency = time.perf_counter() - start_time
+
+    raw_query = inputs.get("question", "")
+    parts = raw_query.split("TARGET HR FACTS:")
+    user_query_only = parts[0].replace("USER QUERY:", "").strip() if len(parts) > 0 else raw_query
+    hr_facts_only = parts[1].strip() if len(parts) > 1 else "No HR Facts provided."
     
-    return final_generation, final_steps, distilled_query, execution_latency
+    # Add final_rejection_reasons to the return statement
+    return final_generation, final_steps, user_query_only, hr_facts_only, final_revisions, final_rejection_reasons, execution_latency
