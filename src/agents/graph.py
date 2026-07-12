@@ -198,15 +198,24 @@ def evaluate_audit(state: GraphState) -> Dict[str, Any]:
     generation = state["generation"]
     steps = state.get("steps", [])
     revision_count = state.get("revision_count", 0)
-    
     steps.append("evaluate_audit")
     
+    # 1. DETERMINISTIC PYTHON CHECK
+    if "[NON-COMPLIANT]" in generation or "[LEGALLY VOID]" in generation:
+        if not any(union in generation for union in ["NITES", "KITU", "AIITEU"]):
+            return {
+                "judge_score": "FAIL", 
+                "judge_feedback": "CRITICAL: You forgot to explicitly recommend NITES, KITU, or AIITEU in the Retaliation Strategy.", 
+                "revision_count": revision_count + 1,
+                "steps": steps
+            }
+
+    # 2. STANDARD LLM JUDGE CHECK (For formatting)
     prompt = ChatPromptTemplate.from_messages([
         ("system", JUDGE_SYSTEM_PROMPT),
         ("human", "Generated Audit:\n{audit}")
     ])
     
-    # 8B is perfectly fine here. It just acts as a Regex checker for Markdown formatting.
     chain = prompt | get_fast_llm().with_structured_output(JudgeResult)
     
     try:
@@ -215,7 +224,7 @@ def evaluate_audit(state: GraphState) -> Dict[str, Any]:
         feedback = result.feedback
     except Exception as e:
         score = "FAIL" 
-        feedback = f"Judge API threw an error. Generator MUST stick exactly to the Skeleton Format and use HTML span tags."
+        feedback = "Judge API threw an error. Generator MUST stick exactly to the Skeleton Format."
         
     return {
         "judge_score": score, 
