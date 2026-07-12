@@ -3,6 +3,7 @@ import time
 import streamlit as st
 from agent_engine import app as crag_app
 from logger import log_transaction
+from src.utils.stream_handler import execute_and_stream_graph
 
 import dotenv
 dotenv.load_dotenv()
@@ -37,13 +38,11 @@ with st.sidebar:
     
     def draw_sidebar_tracker():
         """Wipes and redraws the sidebar tracker live."""
-        # Check if 60 seconds have passed since the last run to reset tokens
         if time.time() - st.session_state.last_run_time > 60:
             st.session_state.session_tokens = 0
             
         usage_percent = min(st.session_state.session_tokens / GROQ_TPM_LIMIT, 1.0)
         
-        # Redraw everything inside the container
         with sidebar_tracker.container():
             st.progress(usage_percent)
             st.caption(f"**Groq TPM Usage (approx):** {int(st.session_state.session_tokens)} / {GROQ_TPM_LIMIT}")
@@ -55,7 +54,6 @@ with st.sidebar:
             else:
                 st.success("✅ API Status: Healthy")
 
-    # Draw it immediately on load
     draw_sidebar_tracker()
 
     st.markdown("---")
@@ -70,7 +68,7 @@ with st.sidebar:
 # ==========================================
 def render_token_progress(text, max_tokens):
     words = len(text.split())
-    tokens = int(len(text) / 4) # Standard 1 token ~= 4 chars approximation
+    tokens = int(len(text) / 4) 
     
     percentage = min(tokens / max_tokens, 1.0)
     filled = max(1, int(percentage * 6)) if tokens > 0 else 0
@@ -92,8 +90,10 @@ def render_token_progress(text, max_tokens):
         {slices_html}
     </div>
     """, unsafe_allow_html=True)
-# ==========================================
 
+# ==========================================
+# MAIN UI LAYOUT
+# ==========================================
 col1, col2 = st.columns(2)
 
 with col1:
@@ -118,9 +118,7 @@ if st.button("Run Compliance Audit", type="primary"):
     elif not user_query.strip() or not employer_facts.strip():
         st.warning("Please fill out both the employer facts and your specific query.")
     else:
-        # Pre-flight check: If they are already over the limit, block the execution
-        # Make sure to update the sidebar so it actively shows the cooldown status
-        draw_sidebar_tracker() 
+        draw_sidebar_tracker()
         
         if st.session_state.session_tokens >= GROQ_TPM_LIMIT and (time.time() - st.session_state.last_run_time) < 60:
             st.error("Groq Free Tier Rate Limit reached. Please wait 60 seconds before running another audit.")
@@ -137,54 +135,30 @@ if st.button("Run Compliance Audit", type="primary"):
                 "question": combined_payload,
                 "revision_count": 0
             }
-            
-            final_generation = ""
-            final_steps = []
-            distilled_query = combined_payload 
-            
-            start_time = time.perf_counter()
-            
+
             try:
                 with status_placeholder.status("Executing Actor-Critic Routing Nodes...", expanded=True) as status:
-                    for output in crag_app.stream(inputs):
-                        for node_name, state_delta in output.items():
-                            st.write(f"Completed Node: {node_name}")
-                            
-                            # --- REALISTIC TOKEN TRACKING ---
-                            if node_name == "generate_audit":
-                                estimated_cost = input_tokens + 4000
-                            elif node_name == "grade_documents":
-                                estimated_cost = input_tokens + 2500
-                            elif node_name == "evaluate_audit":
-                                estimated_cost = input_tokens + 1500
-                            else:
-                                estimated_cost = input_tokens + 500
-                                
-                            st.session_state.session_tokens += estimated_cost
-                            
-                            # LIVE UI UPDATE: Redraw the sidebar entirely
-                            draw_sidebar_tracker()
-                            # --------------------------------
-                            
-                            if "corporate_defense" in state_delta and state_delta["corporate_defense"]:
-                                with st.expander("Corporate HR Defense Generated"):
-                                    st.write(state_delta["corporate_defense"])
-                                    
-                            if "judge_feedback" in state_delta and state_delta.get("judge_score") == "FAIL":
-                                st.warning(f"Judge Rejected Audit. Triggering Rewrite. Reason: {state_delta['judge_feedback']}")
-                            
-                            if "steps" in state_delta:
-                                final_steps = state_delta["steps"]
-                            if "generation" in state_delta:
-                                final_generation = state_delta["generation"]
-                            if "question" in state_delta:
-                                distilled_query = state_delta["question"]
+                    
+                    # --- THE CLEAN ABSTRACTION ---
+                    # Create the empty UI box for the terminal
+                    terminal_box = st.empty()
+                    
+                    # Call the backend function and pass the UI components to it
+                    final_generation, final_steps, distilled_query, execution_latency = execute_and_stream_graph(
+                        crag_app=crag_app,
+                        inputs=inputs,
+                        terminal_box=terminal_box,
+                        input_tokens=input_tokens,
+                        update_tracker_callback=draw_sidebar_tracker
+                    )
+                    # -----------------------------
                     
                     status.update(label="Audit Completed!", state="complete", expanded=False)
                 
-                execution_latency = time.perf_counter() - start_time
+                # Update run time and display results
                 st.session_state.last_run_time = time.time()
                 
+                # The final markdown output from the 70B model
                 st.markdown(final_generation, unsafe_allow_html=True)
                 
                 log_transaction(
@@ -197,13 +171,10 @@ if st.button("Run Compliance Audit", type="primary"):
                 st.toast(f"Audit completed in {execution_latency:.2f}s. Transaction logged.")
                 
             except Exception as e:
-                # 2. THE RATE LIMIT CATCH: If Groq rejects the request before the math updates
                 if "429" in str(e) or "rate_limit" in str(e).lower():
-                    # Force the tokens to max and start the 60 second timer immediately
                     st.session_state.session_tokens = GROQ_TPM_LIMIT
                     st.session_state.last_run_time = time.time()
-                    draw_sidebar_tracker() # Instantly turn the sidebar red
-                    
+                    draw_sidebar_tracker() 
                     st.error("❌ Groq API Rate Limit Hit! You have exhausted your free tier tokens. Please wait exactly 60 seconds and try again.")
                 else:
                     st.error(f"An execution error occurred in the state machine: {str(e)}")
