@@ -7,6 +7,9 @@ class GraphState(TypedDict):
     Defines the strict type layout for data circulating within the LangGraph state machine.
     """
     question: str
+    gender: str          
+    work_state: str      
+    is_manager: bool     
     documents: List[str]
     web_search_context: str
     corporate_defense: str

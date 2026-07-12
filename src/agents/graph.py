@@ -13,6 +13,8 @@ from src.prompts.system_prompts import (
 from src.tools.retriever import get_retriever
 from src.tools.search import execute_tavily_search
 
+from src.utils.pii_scrubber import scrub_pii
+
 # ==========================================
 # 1. HYBRID BRAIN: Lazy Model Initialization
 # ==========================================
@@ -49,10 +51,14 @@ def truncate_text_to_budget(text_list: List[str], max_chars: int) -> str:
 # ==========================================
 def compress_query(state: GraphState) -> Dict[str, Any]:
     raw_question = state["question"]
+
+    # SCRUB FIRST
+    scrubbed_question = scrub_pii(raw_question)
+    
     steps = state.get("steps", [])
     steps.append("compress_query")
     
-    distilled_question = raw_question.strip()
+    distilled_question = scrubbed_question.strip()
     
     if len(distilled_question) < 400:
         return {"question": distilled_question, "steps": steps}
@@ -147,6 +153,12 @@ def draft_corporate_defense(state: GraphState) -> Dict[str, Any]:
 
 def generate_audit(state: GraphState) -> Dict[str, Any]:
     question = state["question"]
+    gender = state.get("gender", "Not Specified")
+    work_state = state.get("work_state", "India")
+    is_manager = state.get("is_manager", False)
+
+    role_type_string = "Managerial (Contract Act applies)" if is_manager else "Non-Managerial (Workman status possible)"
+
     documents = state.get("documents", [])
     web_context = state.get("web_search_context", "No external context.")
     corporate_defense = state.get("corporate_defense", "")
@@ -159,11 +171,6 @@ def generate_audit(state: GraphState) -> Dict[str, Any]:
     steps = state.get("steps", [])
     steps.append("generate_audit_report")
     
-    prompt = ChatPromptTemplate.from_messages([
-        ("system", AUDIT_SYSTEM_PROMPT),
-        ("human", "Query/Facts: {question}\n\nInternal Legal DB: {internal}\n\nWeb Statutes: {external}\n\nCorporate Defense To Destroy: {defense}\n\nPrevious Judge Feedback to Fix: {feedback}")
-    ])
-    
     if state.get("generation") == "NO":
         internal_budget = "[INTERNAL DB REJECTED OR EMPTY - RELY ON EXTERNAL CONTEXT.]"
     else:
@@ -171,13 +178,21 @@ def generate_audit(state: GraphState) -> Dict[str, Any]:
         
     external_budget = truncate_text_to_budget([web_context], max_chars=6000)
     
+    prompt = ChatPromptTemplate.from_messages([
+        ("system", AUDIT_SYSTEM_PROMPT),
+        ("human", "Query/Facts: {question}\n\nInternal Legal DB: {internal}\n\nWeb Statutes: {external}\n\nCorporate Defense To Destroy: {defense}\n\nPrevious Judge Feedback to Fix: {feedback}")
+    ])
+
     chain = prompt | get_complex_llm()
     response = chain.invoke({
         "question": question,
         "internal": internal_budget,
         "external": external_budget,
         "defense": corporate_defense,
-        "feedback": judge_feedback
+        "feedback": judge_feedback,
+        "gender": gender,
+        "work_state": work_state,
+        "role_type": role_type_string
     })
     
     return {"generation": response.content, "steps": steps}
@@ -259,7 +274,20 @@ workflow.add_node("evaluate_audit", evaluate_audit)
 workflow.add_edge(START, "compress_query")
 workflow.add_edge("compress_query", "retrieve")
 workflow.add_edge("retrieve", "grade_documents")
-workflow.add_edge("grade_documents", "web_search")
+
+# NEW CONDITIONAL ROUTE: Skip search if docs are good
+workflow.add_conditional_edges(
+    "grade_documents",
+    route_after_grading, # We already have this function, but let's fix it
+    {
+        "web_search": "web_search",
+        "draft_corporate_defense": "draft_corporate_defense"
+    }
+)
+
+workflow.add_edge("web_search", "draft_corporate_defense")
+workflow.add_edge("draft_corporate_defense", "generate_audit")
+
 workflow.add_edge("web_search", "draft_corporate_defense")
 workflow.add_edge("draft_corporate_defense", "generate_audit")
 workflow.add_edge("generate_audit", "evaluate_audit")

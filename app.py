@@ -31,6 +31,11 @@ with st.sidebar:
     tavily_api_key = st.text_input("Tavily API Key", type="password")
     
     st.markdown("---")
+    gender = st.radio("Gender", ["Male", "Female", "Non-binary"])
+    state = st.selectbox("Base of Operation", ["Karnataka", "Tamil Nadu", "Kerala", "Other"])
+    is_manager = st.checkbox("Are you in a Managerial Role?")    
+
+    st.markdown("---")
     st.markdown("### API Usage Tracker")
     
     # 1. THE SLEDGEHAMMER: A single empty container we will completely overwrite
@@ -133,6 +138,10 @@ if st.button("Run Compliance Audit", type="primary"):
             
             inputs = {
                 "question": combined_payload,
+                "gender": gender.lower(),
+                "work_state": state,
+                "is_manager": is_manager,
+                "revision_count": 0,
                 "revision_count": 0
             }
 

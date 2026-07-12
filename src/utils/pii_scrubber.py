@@ -22,7 +22,7 @@ def scrub_pii(text: str) -> str:
         return ""
         
     # Analyze the text for PII entities
-    results = analyzer.analyze(text=text, entities=["PERSON", "EMAIL_ADDRESS", "PHONE_NUMBER", "ORGANISATION"], language='en')
+    results = analyzer.analyze(text=text, entities=["PERSON", "EMAIL_ADDRESS", "PHONE_NUMBER", 'EMPLOYEE', 'OFFICE' ], language='en')
     
     # Anonymize the text based on the findings
     anonymized_result = anonymizer.anonymize(text=text, analyzer_results=results)
