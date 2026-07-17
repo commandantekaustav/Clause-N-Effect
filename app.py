@@ -142,7 +142,8 @@ if st.button("Run Compliance Audit", type="primary"):
                 "work_state": state,
                 "is_manager": is_manager,
                 "revision_count": 0,
-                "revision_count": 0
+                "rejection_reasons": [], # Initialize as empty list
+                "steps": []               # Initialize as empty list
             }
 
             try:

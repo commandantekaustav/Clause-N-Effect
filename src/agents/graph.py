@@ -201,14 +201,23 @@ def evaluate_audit(state: GraphState) -> Dict[str, Any]:
     generation = state["generation"]
     revision_count = state.get("revision_count", 0)
     
+    # FIX: Explicitly get these from state so they are defined in this scope
+    rejection_reasons = state.get("rejection_reasons", [])
+    steps = state.get("steps", [])
+    steps.append("evaluate_audit")
+    
     # 1. HARD CODED RELIABILITY: Check for Unions in Python
     if "[NON-COMPLIANT]" in generation:
         unions = ["NITES", "KITU", "AIITEU"]
         if not any(u in generation for u in unions):
+            feedback = "Missing Indian IT Unions in Retaliation Strategy."
+            rejection_reasons.append(feedback)
             return {
                 "judge_score": "FAIL",
-                "judge_feedback": "Missing Indian IT Unions in Retaliation Strategy.",
-                "revision_count": revision_count + 1
+                "judge_feedback": feedback,
+                "revision_count": revision_count + 1,
+                "rejection_reasons": rejection_reasons,
+                "steps": steps
             }
 
     # 2. STANDARD LLM JUDGE CHECK
@@ -225,9 +234,9 @@ def evaluate_audit(state: GraphState) -> Dict[str, Any]:
         feedback = result.feedback
         if score == "FAIL":
             rejection_reasons.append(feedback)
-    except Exception:
+    except Exception as e:
         score = "FAIL" 
-        feedback = "Judge API threw an error. Generator MUST stick exactly to the Skeleton Format."
+        feedback = f"Judge API error: {str(e)}"
         rejection_reasons.append(feedback)        
         
     return {
