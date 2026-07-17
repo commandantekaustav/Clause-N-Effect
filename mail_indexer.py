@@ -1,3 +1,4 @@
+import os
 import re
 from datetime import datetime
 import pypdf
@@ -194,18 +195,25 @@ def generate_markdown(emails):
 
 # --- execution entrypoint ---
 if __name__ == "__main__":
-    # Specify the path to your source email chain PDF
-    pdf_input_file = r"Re_ Attendance Discrepancies.pdf"  # Update this path as needed
-    output_md_file = "cleaned_transcript_" + pdf_input_file.replace(".pdf", ".md")
+    exp = re.compile(r"\w+case|case\w+", re.IGNORECASE)
+    parent_dir = ".."
     
-    try:
-        raw_text = extract_text_from_pdf(pdf_input_file)
-        unique_emails = parse_and_deduplicate_emails(raw_text)
-        markdown_content = generate_markdown(unique_emails)
+    # Gather all matching folders into a list
+    matching_folders = [f for f in os.listdir(parent_dir) if re.search(exp, f)]
+    
+    if not matching_folders:
+        print("No matching folders found.")
+        exit()
         
-        with open(output_md_file, "w", encoding="utf-8") as f:
-            f.write(markdown_content)
-            
-        print(f"Success! Processed {len(unique_emails)} unique emails into '{output_md_file}'")
-    except Exception as e:
-        print(f"An error occurred: {e}")
+    # Display options to the user
+    print("Select a folder to index:")
+    for idx, folder in enumerate(matching_folders):
+        print(f"[{idx}] {folder}")
+        
+    choice = int(input("Enter the folder number: "))
+    selected_folder = matching_folders[choice]
+    
+    # Build your paths using the user's choice
+    pdf_name = "Re_ Attendance Discrepancies.pdf"
+    pdf_input_file = os.path.join(parent_dir, selected_folder, pdf_name)
+    output_md_file = "cleaned_transcript_" + pdf_name.replace(".pdf", ".md")
