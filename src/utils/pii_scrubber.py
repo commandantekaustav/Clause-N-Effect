@@ -22,9 +22,13 @@ def scrub_pii(text: str) -> str:
     )
     
     sanitizer_prompt = f"""
-    REDACTION TASK:
-    Replace all Names of people, Company Names, and specific Office Locations in the text below with generic placeholders like [PERSON], [COMPANY], or [LOCATION].
-    LEAVE INTACT: Dates, timestamps, job titles, and statutory terms.
+    SYSTEM: You are a silent redaction engine. 
+    TASK: Replace all Names, Companies, and Locations with [PERSON], [COMPANY], or [LOCATION].
+    
+    STRICT RULES:
+    1. OUTPUT ONLY THE REDACTED TEXT. 
+    2. DO NOT include "Here is the text" or any conversational filler.
+    3. If the input is incomplete, REDACT WHAT IS THERE. DO NOT ASK QUESTIONS.
     
     TEXT:
     {text}
@@ -32,6 +36,10 @@ def scrub_pii(text: str) -> str:
     
     try:
         response = llm.invoke(sanitizer_prompt)
-        return str(response.content)
+        # Clean up any potential conversational leaks
+        cleaned = str(response.content).strip()
+        # If the model still adds "Here is the redacted text:", we strip it
+        cleaned = re.sub(r"^(Here is|The following is|Redacted text).*?:", "", cleaned, flags=re.IGNORECASE|re.DOTALL)
+        return cleaned.strip()
     except Exception:
         return text
