@@ -1,0 +1,72 @@
+[
+  {
+    "id": 21,
+    "category": "Training Bonds & Exit Penalties",
+    "query": "My company is demanding 2 Lakhs for a 'training bond' because I am resigned within 6 months. Is this legal?",
+    "expert_audit_response": "Conditional. Under Section 74 of the Indian Contract Act, 1872, training bonds are only enforceable if the employer proves 'actual expenses' incurred for specialized training. Liquidated damages cannot be a penalty; they must be reasonable compensation. If no specialized training was provided beyond standard induction, the bond is [LEGALLY VOID].",
+    "primary_statute": "Indian Contract Act, 1872 (Section 74)"
+  },
+  {
+    "id": 22,
+    "category": "Resignation & Notice Periods",
+    "query": "The HR is refusing to accept my resignation and says they will 'block' my experience letter unless I stay for another year.",
+    "expert_audit_response": "Illegal. Employment is a contract of service, not 'forced labour' under Article 23 of the Constitution. Under the Specific Relief Act, 1963, an employer cannot seek 'specific performance' of a contract of personal service. They can claim damages for notice period shortfall, but they cannot legally 'reject' a resignation or withhold service records.",
+    "primary_statute": "Specific Relief Act, 1963 / Constitution of India (Art 23)"
+  },
+  {
+    "id": 23,
+    "category": "Wage Theft",
+    "query": "Company hasn't paid my last 2 months' salary because I didn't meet my sales targets.",
+    "expert_audit_response": "Non-Compliant. Under the Payment of Wages Act, 1936, wages must be paid without unauthorized deductions. Sales targets are performance metrics and do not grant the employer the right to withhold the base salary. This is a clear violation of Section 7 and 12.",
+    "primary_statute": "Payment of Wages Act, 1936 (Section 7)"
+  },
+  {
+    "id": 24,
+    "category": "Post-Employment Restraint",
+    "query": "My contract says I cannot work for any competitor in India for 2 years after leaving. Can they sue me?",
+    "expert_audit_response": "No. Section 27 of the Indian Contract Act, 1872, explicitly states that any agreement restraining a person from exercising a lawful profession, trade, or business is void. Indian courts (Percept D'Mark v. Zaheer Khan) consistently rule that non-competes are unenforceable once the employment relationship ends.",
+    "primary_statute": "Indian Contract Act, 1872 (Section 27)"
+  },
+  {
+    "id": 25,
+    "category": "Probation Exploitation",
+    "query": "I've been on probation for 18 months. They keep extending it to avoid giving me benefits.",
+    "expert_audit_response": "Non-Compliant. Under the Industrial Employment (Standing Orders) Act, 1946, probation periods are typically capped (usually 3-6 months). Repeated extensions without a performance-based justification are considered an 'Unfair Labour Practice' under the Fifth Schedule of the Industrial Disputes Act.",
+    "primary_statute": "Industrial Employment (Standing Orders) Act, 1946"
+  },
+  {
+    "id": 26,
+    "category": "Full and Final (F&F) Settlement",
+    "query": "I left the company 90 days ago, and they still haven't cleared my dues.",
+    "expert_audit_response": "Violation. Most State Shops and Establishments Acts mandate that all earned wages and dues must be paid within 2 to 7 days of the employee's termination or resignation. A 90-day delay is a statutory breach.",
+    "primary_statute": "Shops and Establishments Act (State-Specific)"
+  },
+  {
+    "id": 27,
+    "category": "Wrongful Termination",
+    "query": "I was fired via a WhatsApp message without any notice or enquiry for 'organizational restructuring'.",
+    "expert_audit_response": "Non-Compliant. Section 25F of the Industrial Disputes Act, 1947, mandates that no 'workman' employed for more than a year can be retrenched without one month's notice (or wages in lieu) and compensation. Termination via WhatsApp without due process violates 'Principles of Natural Justice'.",
+    "primary_statute": "Industrial Disputes Act, 1947 (Section 25F)"
+  },
+  {
+    "id": 28,
+    "category": "Overtime Exploitation",
+    "query": "I am forced to work 12 hours a day without any extra pay. HR says SMEs don't get overtime.",
+    "expert_audit_response": "Statutory Violation. The Shops and Establishments Act (e.g., Karnataka Sec 14 / Tamil Nadu Sec 14) mandates overtime pay at double the ordinary rate for any work exceeding 8-9 hours a day or 48 hours a week, regardless of job title, unless in a high-level managerial 'exempt' category.",
+    "primary_statute": "Shops and Establishments Act (Section 14)"
+  },
+  {
+    "id": 29,
+    "category": "Sexual Harassment (Female Context)",
+    "query": "A female colleague is being threatened by her manager after she rejected his advances.",
+    "expert_audit_response": "Criminal & Statutory Violation. This triggers the POSH Act, 2013. The employer is mandated to initiate the Internal Committee (IC) investigation under Section 9. Failure to act subjects the company to a fine of INR 50,000 and cancellation of business license.",
+    "primary_statute": "POSH Act, 2013 (Section 9)"
+  },
+  {
+    "id": 30,
+    "category": "Workplace Bullying (Male Context)",
+    "query": "My manager uses abusive language in meetings and threatens to 'ruin my career' if I resign.",
+    "expert_audit_response": "Non-Compliant. While the POSH Act is gender-specific, abusive language and career threats constitute 'Workplace Harassment' and a violation of the 'Service Conditions' under the Industrial Employment (Standing Orders) Act, 1946. This is a breach of the implied 'Duty of Care' in an employment contract.",
+    "primary_statute": "Industrial Employment (Standing Orders) Act, 1946"
+  }
+]

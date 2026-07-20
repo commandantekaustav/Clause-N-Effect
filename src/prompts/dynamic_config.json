@@ -1,0 +1,6 @@
+{
+  "GRADER_PATCH": "",
+  "DEFENSE_PATCH": "",
+  "AUDIT_PATCH": "",
+  "JUDGE_PATCH": "Update JudgeResult function to accept 'score' and 'feedback' parameters and validate against the schema to prevent tool call validation errors."
+}

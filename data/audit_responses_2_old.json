@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "category": "Privacy & Data Protection",
+    "query": "Can we conduct pre-employment background checks without a candidate's consent?",
+    "expert_audit_response": "No. Under Section 5 and 6 of the Digital Personal Data Protection (DPDP) Act, 2023, personal data may only be processed for a lawful purpose for which the Data Principal has given explicit, informed, and unconditional consent, accompanied by a clear notice.",
+    "primary_statute": "Digital Personal Data Protection Act, 2023 (Sec 5 & 6)"
+  },
+  {
+    "id": 2,
+    "category": "Recruitment & Onboarding",
+    "query": "Can we place an employee on a 'no-compete' agreement post-employment?",
+    "expert_audit_response": "No. Post-employment non-compete clauses are void and unenforceable in India under Section 27 of the Indian Contract Act, 1872, as they are considered a restraint of trade. Exceptions only exist for the sale of business goodwill.",
+    "primary_statute": "Indian Contract Act, 1872 (Section 27)"
+  },
+  {
+    "id": 3,
+    "category": "Workplace Safety & POSH",
+    "query": "Is an external member mandatory for the POSH IC?",
+    "expert_audit_response": "Yes. Section 4(2)(c) of the POSH Act, 2013 strictly mandates that the Internal Committee must include one external member drawn from an NGO or associations committed to the cause of women, or a person familiar with issues relating to sexual harassment.",
+    "primary_statute": "POSH Act, 2013 (Section 4)"
+  },
+  {
+    "id": 4,
+    "category": "Leave, Working Hours, & Attendance",
+    "query": "Is maternity leave available to adoptive or commissioning mothers?",
+    "expert_audit_response": "Yes. Under Section 5(4) of the Maternity Benefit (Amendment) Act, 2017, a commissioning mother or a mother legally adopting a child below the age of three months is entitled to 12 weeks of paid maternity leave from the date the child is handed over.",
+    "primary_statute": "Maternity Benefit (Amendment) Act, 2017 (Sec 5(4))"
+  },
+  {
+    "id": 5,
+    "category": "Wage, Compensation, & Benefits",
+    "query": "What is the rule for calculating Gratuity?",
+    "expert_audit_response": "Under Section 4(2) of the Payment of Gratuity Act, 1972, it is calculated as 15 days' wages based on the rate of wages last drawn, for every completed year of service (or part thereof in excess of six months). It is payable after 5 years of continuous service.",
+    "primary_statute": "Payment of Gratuity Act, 1972 (Section 4)"
+  },
+  {
+    "id": 6,
+    "category": "Wage, Compensation, & Benefits",
+    "query": "Are we allowed to pay below the prescribed State Minimum Wage for trainees?",
+    "expert_audit_response": "No. Under the Minimum Wages Act, 1948, no employer can pay less than the minimum wage fixed by the appropriate government. Any contract or agreement relinquishing the right to a minimum wage is null and void.",
+    "primary_statute": "Minimum Wages Act, 1948"
+  },
+  {
+    "id": 7,
+    "category": "Employee Relations & Grievance",
+    "query": "What constitutes 'constructive dismissal'?",
+    "expert_audit_response": "Constructive dismissal occurs when an employee is forced to resign due to the employer's hostile, toxic, or unilateral alteration of employment terms, leaving the employee with no reasonable choice but to quit. Courts treat this as a termination by the employer.",
+    "primary_statute": "Industrial Disputes Act, 1947 / Indian Labour Jurisprudence"
+  },
+  {
+    "id": 8,
+    "category": "Privacy & Data Protection",
+    "query": "Do employees have the right to view or correct their HR records?",
+    "expert_audit_response": "Yes. Under Section 11 of the DPDP Act, 2023, the Data Principal (employee) has the right to access a summary of their personal data, the identities of all Data Fiduciaries it was shared with, and the right to request correction, completion, or updating of their data.",
+    "primary_statute": "Digital Personal Data Protection Act, 2023 (Section 11)"
+  },
+  {
+    "id": 9,
+    "category": "Contingent Workforce & Contractors",
+    "query": "Is the principal employer liable if a third-party staffing agency fails to pay its workers?",
+    "expert_audit_response": "Yes. Under Section 21 of the Contract Labour (Regulation and Abolition) Act, 1970, if the contractor fails to pay wages within the prescribed period, the principal employer is legally obligated to pay the wages in full and may later recover the amount from the contractor.",
+    "primary_statute": "Contract Labour (Regulation and Abolition) Act, 1970 (Section 21)"
+  },
+  {
+    "id": 10,
+    "category": "Exit & Termination",
+    "query": "Can we terminate an employee while they are on approved maternity leave?",
+    "expert_audit_response": "No. Section 12 of the Maternity Benefit Act, 1961 explicitly prohibits an employer from discharging or dismissing a woman during her absence on maternity leave, or giving notice of discharge expiring during such absence.",
+    "primary_statute": "Maternity Benefit Act, 1961 (Section 12)"
+  },
+  {
+    "id": 11,
+    "category": "Leave, Working Hours, & Attendance",
+    "query": "Can an employer deny leave on national holidays?",
+    "expert_audit_response": "No. Under various State National and Festival Holidays Acts, January 26, August 15, and October 2 are mandatory paid holidays. If operational needs require working on these days, the employer must provide double wages or a compensatory day off, subject to prior employee consent.",
+    "primary_statute": "National and Festival Holidays Act (State-Specific)"
+  },
+  {
+    "id": 12,
+    "category": "Workplace Safety & POSH",
+    "query": "Must we report workplace accidents to labour authorities?",
+    "expert_audit_response": "Yes. Under Section 88 of the Factories Act, 1948, if an accident causes death or bodily injury preventing the worker from working for 48 hours or more, the manager must immediately send notice to the prescribed regulatory authorities.",
+    "primary_statute": "Factories Act, 1948 (Section 88)"
+  },
+  {
+    "id": 13,
+    "category": "Employee Relations & Grievance",
+    "query": "Is there a mandated grievance redressal committee for general issues?",
+    "expert_audit_response": "Yes. Under Section 9C of the Industrial Disputes Act, 1947, every industrial establishment employing 20 or more workmen must constitute a Grievance Redressal Committee for the resolution of disputes arising out of individual grievances.",
+    "primary_statute": "Industrial Disputes Act, 1947 (Section 9C)"
+  },
+  {
+    "id": 14,
+    "category": "Privacy & Data Protection",
+    "query": "Can we keep employee personal data indefinitely after they resign?",
+    "expert_audit_response": "No. Under Section 8(7) of the DPDP Act, 2023, a Data Fiduciary must erase personal data once the specified purpose is fulfilled, unless retention is strictly necessary for compliance with other laws (e.g., tax or provident fund audits).",
+    "primary_statute": "Digital Personal Data Protection Act, 2023 (Section 8)"
+  },
+  {
+    "id": 15,
+    "category": "Recruitment & Onboarding",
+    "query": "Can we ask female candidates about their marriage or family planning plans?",
+    "expert_audit_response": "No. Such inquiries are discriminatory. The Equal Remuneration Act and Article 14, 15, and 16 of the Constitution of India prohibit discrimination in employment on the grounds of sex or marital status.",
+    "primary_statute": "Constitution of India / Equal Remuneration Act, 1976"
+  },
+  {
+    "id": 16,
+    "category": "Global Mobility & Tax",
+    "query": "Can an employee work from another country remotely without company registration there?",
+    "expert_audit_response": "No. Long-term international remote work triggers Corporate Permanent Establishment (PE) risk under international tax treaties, exposing the company to local corporate tax liabilities and statutory payroll violations in the host country.",
+    "primary_statute": "International Tax Laws (Permanent Establishment) / FEMA"
+  },
+  {
+    "id": 17,
+    "category": "Exit & Termination",
+    "query": "Does placing an employee on 'Garden Leave' end the employment relationship?",
+    "expert_audit_response": "No. During garden leave, the employment contract remains active. The employee receives full standard compensation and is bound by confidentiality and non-compete clauses, but is legally instructed to abstain from work duties and premises.",
+    "primary_statute": "Indian Contract Act, 1872 / Corporate Legal Jurisprudence"
+  },
+  {
+    "id": 18,
+    "category": "Exit & Termination",
+    "query": "What happens to unvested stock options (ESOPs) when an employee is terminated?",
+    "expert_audit_response": "Under the Companies (Share Capital and Debentures) Rules, 2014, and standard SEBI guidelines, all unvested options automatically lapse on the date of termination. Vested options must be exercised within the period specified in the company's ESOP scheme.",
+    "primary_statute": "Companies Act, 2014 / SEBI (SBEB) Regulations"
+  },
+  {
+    "id": 19,
+    "category": "Global Mobility & Tax",
+    "query": "Can an inbound foreign employee opt out of local Indian social security (PF) contributions?",
+    "expert_audit_response": "Only if they qualify as an 'Excluded Employee'. They must belong to a country with which India has a bilateral Social Security Agreement (SSA) and hold a valid Certificate of Coverage (CoC) from their home country.",
+    "primary_statute": "Employees' Provident Funds Scheme, 1952 (Special Provisions for International Workers)"
+  },
+  {
+    "id": 20,
+    "category": "Contingent Workforce",
+    "query": "Can we terminate a vendor or independent contractor agreement immediately without cause?",
+    "expert_audit_response": "This is governed entirely by the termination clause in the Master Services Agreement (MSA) or vendor contract. Terminating without cause requires adhering to the specific contractual notice period; failing to do so invites breach-of-contract damages under the Indian Contract Act.",
+    "primary_statute": "Indian Contract Act, 1872 (Breach of Contract)"
+  }
+]
