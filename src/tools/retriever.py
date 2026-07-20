@@ -76,7 +76,7 @@ def get_retriever():
         faiss_retriever = _vectorstore.as_retriever(search_kwargs={"k": 10})
         
         # 2. Extract documents from FAISS to build BM25 Keyword Retriever
-        docs = list(_vectorstore.docstore._dict.values())
+        docs = list(_vectorstore.docstore._dict.values()) # type: ignore
         bm25_retriever = BM25Retriever.from_documents(docs)
         bm25_retriever.k = 10
         

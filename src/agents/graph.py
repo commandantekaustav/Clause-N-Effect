@@ -21,15 +21,21 @@ from src.utils.pii_scrubber import scrub_pii
 # ==========================================
 def get_fast_llm() -> ChatGroq:
     key = os.environ.get("GROQ_API_KEY")
+    if key is None:
+        raise ValueError("GROQ_API_KEY is missing from environment")
+
     return ChatGroq(
         model="llama-3.1-8b-instant", 
         temperature=0, # Ensure this is ZERO to stop "creative" rejections
         max_tokens=1024, 
-        api_key=SecretStr(os.environ.get("GROQ_API_KEY"))
+        api_key=SecretStr(key)
     )
 
 def get_complex_llm() -> ChatGroq:
     key = os.environ.get("GROQ_API_KEY")
+    if key is None:
+        raise ValueError("GROQ_API_KEY is missing from environment")
+
     return ChatGroq(
         model="llama-3.3-70b-versatile", 
         temperature=0.2, 

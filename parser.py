@@ -7,6 +7,7 @@ import warnings
 import asyncio
 from pathlib import Path
 from ingest import build_vector_db
+from pydantic import SecretStr
 
 # Suppress LlamaParse deprecation warning for clean terminal output
 warnings.filterwarnings("ignore", category=DeprecationWarning)
@@ -14,7 +15,9 @@ from llama_parse import LlamaParse
 
 # Initialize cloud keys
 dotenv.load_dotenv()
-os.environ["LLAMA_CLOUD_API_KEY"] = os.getenv("LLAMA_CLOUD_API_KEY")
+
+key = os.getenv("LLAMA_CLOUD_API_KEY")
+api_key = SecretStr(key) if key else None
 
 def inject_metadata(raw_markdown: str, filename: str) -> str:
     """Injects the legal statute name into every Markdown Header."""
@@ -53,7 +56,7 @@ async def process_documents():
     print(f"Scanning detected {len(pdf_files)} unique target document(s). Initializing LlamaParse...")
     
     parser = LlamaParse(
-        result_type="markdown",
+        result_type="markdown", #type: ignore
         num_workers=4,
         verbose=True,
     )

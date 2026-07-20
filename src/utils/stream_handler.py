@@ -17,7 +17,9 @@ def execute_and_stream_graph(
     final_generation = ""
     final_steps = []
     distilled_query = inputs.get("question", "")
-    
+    final_revisions = 0
+    final_rejection_reasons = []
+
     start_time = time.perf_counter()
     
     for output in crag_app.stream(inputs):

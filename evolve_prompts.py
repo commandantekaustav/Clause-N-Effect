@@ -3,17 +3,21 @@ import os
 import re
 from langchain_groq import ChatGroq
 from dotenv import load_dotenv
+from pydantic import SecretStr
 
 # 1. LOAD DOTENV AT THE VERY START
 load_dotenv()
 
 def evolve_system():
     # --- CHECK API KEY FIRST ---
-    api_key = os.getenv("GROQ_API_KEY")
-    if not api_key:
-        print("❌ CRITICAL ERROR: GROQ_API_KEY not found in environment.")
-        print("Ensure your .env file exists and contains GROQ_API_KEY=your_key")
-        return
+    key = os.environ.get("GROQ_API_KEY")
+    if not key:
+        raise ValueError(
+            "GROQ_API_KEY is missing from environment. "
+            "Ensure your .env file exists and contains GROQ_API_KEY=your_key"
+        )
+
+    api_key = SecretStr(key)
 
     log_path = ".DONT_UPLOAD/track.json"
     if not os.path.exists(log_path):
@@ -51,7 +55,7 @@ def evolve_system():
         optimizer_llm = ChatGroq(
             model="llama-3.3-70b-versatile", 
             temperature=0.1,
-            api_key=api_key # Explicitly pass the key
+            api_key=api_key # Scret
         )
     except Exception as e:
         print(f"❌ LLM Initialization failed: {e}")

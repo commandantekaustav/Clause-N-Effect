@@ -20,8 +20,9 @@ def log_transaction(
     steps: list, 
     execution_time: float,
     revision_count: int = 0,
-    rejection_reasons: list = None
+    rejection_reasons: list = [],
     ):
+
     """
     Structured telemetry logging agent. Handles schema migrations dynamically
     without crashing historical evaluations.
