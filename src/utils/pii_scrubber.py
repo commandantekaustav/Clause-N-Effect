@@ -1,30 +1,37 @@
-from presidio_analyzer import AnalyzerEngine, RecognizerRegistry
-from presidio_analyzer.nlp_engine import NlpEngineProvider
-from presidio_anonymizer import AnonymizerEngine
-
-# 1. Configure Presidio to use the SMALL, RAM-friendly SpaCy model
-configuration = {
-    "nlp_engine_name": "spacy",
-    "models": [{"lang_code": "en", "model_name": "en_core_web_sm"}],
-}
-
-# 2. Initialize the engines
-provider = NlpEngineProvider(nlp_configuration=configuration)
-nlp_engine = provider.create_engine()
-analyzer = AnalyzerEngine(nlp_engine=nlp_engine, supported_languages=["en"])
-anonymizer = AnonymizerEngine()
+import re
+import os
+from langchain_groq import ChatGroq
+from pydantic import SecretStr
 
 def scrub_pii(text: str) -> str:
-    """
-    Detects and redacts PII (Names, Emails, Phone Numbers) using a lightweight NLP model.
-    """
-    if not text:
-        return ""
+    # 1. Regex Scrub
+    text = re.sub(r'\S+@\S+', '[EMAIL]', text)
+    text = re.sub(r'\+?\d{10,12}', '[PHONE]', text)
+    text = re.sub(r'http\S+|www\S+', '[URL]', text)
+
+    # 2. LLM Scrub
+    key = os.environ.get("GROQ_API_KEY")
+    if not key:
+        return text # Return regex-scrubbed text if no key
         
-    # Analyze the text for PII entities
-    results = analyzer.analyze(text=text, entities=["PERSON", "EMAIL_ADDRESS", "PHONE_NUMBER", 'EMPLOYEE', 'OFFICE' ], language='en')
+    llm = ChatGroq(
+        model="llama-3.1-8b-instant", 
+        temperature=0, 
+        # FIX: Ensure key is a string, not None
+        api_key=SecretStr(key) 
+    )
     
-    # Anonymize the text based on the findings
-    anonymized_result = anonymizer.anonymize(text=text, analyzer_results=results)
+    sanitizer_prompt = f"""
+    REDACTION TASK:
+    Replace all Names of people, Company Names, and specific Office Locations in the text below with generic placeholders like [PERSON], [COMPANY], or [LOCATION].
+    LEAVE INTACT: Dates, timestamps, job titles, and statutory terms.
     
-    return anonymized_result.text
+    TEXT:
+    {text}
+    """
+    
+    try:
+        response = llm.invoke(sanitizer_prompt)
+        return str(response.content)
+    except Exception:
+        return text

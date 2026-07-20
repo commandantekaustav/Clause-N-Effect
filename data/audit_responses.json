@@ -1,142 +1,72 @@
 [
   {
     "id": 1,
-    "category": "Privacy & Data Protection",
-    "query": "Can we conduct pre-employment background checks without a candidate's consent?",
-    "expert_audit_response": "No. Under Section 5 and 6 of the Digital Personal Data Protection (DPDP) Act, 2023, personal data may only be processed for a lawful purpose for which the Data Principal has given explicit, informed, and unconditional consent, accompanied by a clear notice.",
-    "primary_statute": "Digital Personal Data Protection Act, 2023 (Sec 5 & 6)"
+    "category": "Illegal Training Bonds/Exit Penalties",
+    "query": "HR is telling me I have to pay ₹2 lakhs because I'm resigning 8 months into my 2-year 'training bond', but the only training I got was a 3-day orientation and some YouTube videos they made us watch. Can they actually hold my relieving letter and force me to pay this?",
+    "expert_audit_response": "This is a textbook 'penalty dressed as liquidated damages'. Under Section 74 of the Indian Contract Act, 1872, an employer can only recover a genuine pre-estimate of actual, provable training expenditure — not an arbitrary lump sum, and the Supreme Court's own 2025 ruling in Vijaya Bank v. Narnaware only upholds bonds tied to real, demonstrable investment. Demand an itemized breakup of the alleged ₹2 lakh training cost; if HR cannot produce invoices, trainer fees, or certification costs, the bond amount is an unenforceable penalty. Separately, if the bond restricts your right to work at all (not just recover cost), it is void under Section 27 as a restraint of trade.",
+    "primary_statute": "Indian Contract Act, 1872 — Sections 74 (penalty vs. liquidated damages) and 27 (restraint of trade)"
   },
   {
     "id": 2,
-    "category": "Recruitment & Onboarding",
-    "query": "Can we place an employee on a 'no-compete' agreement post-employment?",
-    "expert_audit_response": "No. Post-employment non-compete clauses are void and unenforceable in India under Section 27 of the Indian Contract Act, 1872, as they are considered a restraint of trade. Exceptions only exist for the sale of business goodwill.",
-    "primary_statute": "Indian Contract Act, 1872 (Section 27)"
+    "category": "Resignation Rejection & Experience Letter Blackmailing",
+    "query": "I submitted my resignation and served my full notice period, but my manager is refusing to 'accept' it and HR says my experience letter will only be issued if I withdraw and stay for a 'critical project handover' of unknown duration. Am I still technically employed?",
+    "expert_audit_response": "No employer in India can compel you to continue working — employment is a contract of personal service, and under Section 14 of the Specific Relief Act, 1963, such contracts cannot be specifically enforced against you even by a court, let alone by HR withholding a letter. Once you complete your contractual notice period, your resignation takes legal effect regardless of 'acceptance,' and 'acceptance' clauses cannot be weaponized to indefinitely extend your service. Withholding the experience/relieving letter as leverage is not a recognized legal remedy and can itself be challenged as an unfair labour practice before the Labour Commissioner. Send a written communication stating your last working day per the notice clause and stop reporting to work after that date.",
+    "primary_statute": "Specific Relief Act, 1963 — Section 14 (contracts of personal service not specifically enforceable)"
   },
   {
     "id": 3,
-    "category": "Workplace Safety & POSH",
-    "query": "Is an external member mandatory for the POSH IC?",
-    "expert_audit_response": "Yes. Section 4(2)(c) of the POSH Act, 2013 strictly mandates that the Internal Committee must include one external member drawn from an NGO or associations committed to the cause of women, or a person familiar with issues relating to sexual harassment.",
-    "primary_statute": "POSH Act, 2013 (Section 4)"
+    "category": "Constructive Dismissal (Hostile environment forcing resignation)",
+    "query": "Ever since I raised a concern to HR, my manager has stripped away all my responsibilities, stopped inviting me to meetings, and given me a PIP with impossible, vague targets. Everyone says I should just 'resign gracefully' but it feels like they're pushing me out the back door.",
+    "expert_audit_response": "This pattern — isolation, responsibility-stripping, and a manufactured PIP — is a classic engineered exit designed to make you resign 'voluntarily' so the company avoids severance liability. Courts have consistently treated such coerced resignations as constructive dismissal, which is legally indistinguishable from retrenchment under Section 2(oo) of the Industrial Disputes Act, 1947, triggering the employer's obligation to follow Section 25F — notice, retrenchment compensation, and a valid reason. Do not resign; instead, document every instance of role-stripping and PIP ambiguity in writing (email trail), and if terminated, you can claim it was a disguised retrenchment executed without due process. This documentation is your strongest evidence if the matter goes to a Labour Court.",
+    "primary_statute": "Industrial Disputes Act, 1947 — Sections 2(oo) (definition of retrenchment) and 25F (conditions precedent to retrenchment)"
   },
   {
     "id": 4,
-    "category": "Leave, Working Hours, & Attendance",
-    "query": "Is maternity leave available to adoptive or commissioning mothers?",
-    "expert_audit_response": "Yes. Under Section 5(4) of the Maternity Benefit (Amendment) Act, 2017, a commissioning mother or a mother legally adopting a child below the age of three months is entitled to 12 weeks of paid maternity leave from the date the child is handed over.",
-    "primary_statute": "Maternity Benefit (Amendment) Act, 2017 (Sec 5(4))"
+    "category": "Unauthorized Wage Deductions (Performance-linked pay theft)",
+    "query": "My salary slip shows a ₹15,000 'performance deduction' this month because my manager said my ratings dropped, but no one told me this in advance and there's no PIP or written warning — it just disappeared from my pay. Is this even legal?",
+    "expert_audit_response": "Deducting already-earned wages as a unilateral 'performance penalty' without prior process is precisely what the Payment of Wages Act, 1936 was enacted to prevent — Section 7 permits deductions only from a closed, exhaustive list (fines, absence, damage, loss), and any fine-type deduction requires the procedural safeguards under Section 8, including a prior show-cause opportunity. A drop in performance rating is not a statutorily authorized ground for deduction; at most it can affect a future variable-pay calculation before it is earned, not claw back wages already accrued. File a written claim with the Labour Commissioner/Payment of Wages Authority under Section 15, which can order not just a refund but compensation up to ten times the deducted amount.",
+    "primary_statute": "Payment of Wages Act, 1936 — Sections 7 (authorized deductions) and 15 (claims authority)"
   },
   {
     "id": 5,
-    "category": "Wage, Compensation, & Benefits",
-    "query": "What is the rule for calculating Gratuity?",
-    "expert_audit_response": "Under Section 4(2) of the Payment of Gratuity Act, 1972, it is calculated as 15 days' wages based on the rate of wages last drawn, for every completed year of service (or part thereof in excess of six months). It is payable after 5 years of continuous service.",
-    "primary_statute": "Payment of Gratuity Act, 1972 (Section 4)"
+    "category": "Unilateral Role Expansion (JD changes without consent)",
+    "query": "I was hired as a Software Developer, but over the last 6 months I've quietly been given team-lead responsibilities, on-call rotations, and client-facing duties that were never in my offer letter — with zero pay revision. HR says 'this is normal in IT.' Do I have any say in this?",
+    "expert_audit_response": "Your offer letter and appointment letter constitute a binding contract, and under Section 62 of the Indian Contract Act, 1872, any material alteration to its terms — including scope of role, reporting structure, or duties — requires mutual consent, not unilateral imposition. 'This is normal in IT' is corporate jargon designed to normalize a breach; it has no legal standing. You are entitled to either refuse the expanded scope in writing while continuing your original role, or negotiate a formal role/compensation revision — and if the company terminates or demotes you for refusing unagreed duties, that strengthens a constructive dismissal claim. Put your objection in writing now to create a contemporaneous record.",
+    "primary_statute": "Indian Contract Act, 1872 — Section 62 (novation, rescission, and alteration of contract)"
   },
   {
     "id": 6,
-    "category": "Wage, Compensation, & Benefits",
-    "query": "Are we allowed to pay below the prescribed State Minimum Wage for trainees?",
-    "expert_audit_response": "No. Under the Minimum Wages Act, 1948, no employer can pay less than the minimum wage fixed by the appropriate government. Any contract or agreement relinquishing the right to a minimum wage is null and void.",
-    "primary_statute": "Minimum Wages Act, 1948"
+    "category": "Illegal Probation Extensions (To avoid benefits)",
+    "query": "I've been on probation for 14 months now — first it was 6 months, then extended 'due to project delays', then extended again 'pending manager review', and I still haven't gotten confirmation, PF benefits alignment, or bonus eligibility. Can they keep me on probation forever?",
+    "expert_audit_response": "No — indefinite, repeated probation extension is a well-documented tactic to deny confirmation-linked benefits (bonus eligibility, certain leave accruals, and job security), and it is legally unsustainable. Certified Standing Orders under the Industrial Employment (Standing Orders) Act, 1946 typically fix a probation period (commonly 3–6 months) with at most one defined extension for a stated reason — an employer cannot extend probation repeatedly without specific, documented performance justification communicated to you in writing. Indian courts have held that where an employee is allowed to continue working substantially beyond the maximum permissible probation period without a valid extension order, confirmation is deemed by conduct. Demand a copy of your company's certified Standing Orders or probation policy and the written justification for each extension.",
+    "primary_statute": "Industrial Employment (Standing Orders) Act, 1946 — probation clause under certified Standing Orders"
   },
   {
     "id": 7,
-    "category": "Employee Relations & Grievance",
-    "query": "What constitutes 'constructive dismissal'?",
-    "expert_audit_response": "Constructive dismissal occurs when an employee is forced to resign due to the employer's hostile, toxic, or unilateral alteration of employment terms, leaving the employee with no reasonable choice but to quit. Courts treat this as a termination by the employer.",
-    "primary_statute": "Industrial Disputes Act, 1947 / Indian Labour Jurisprudence"
+    "category": "Notice Period Coercion (Forcing service beyond contract)",
+    "query": "My contract says 60 days' notice, but I offered to buy it out and leave in 30 days for a new job — HR is refusing to let me go early even with buyout, saying I 'must serve full notice' or they'll mark it as absconding and withhold my relieving letter. Can they force me to physically stay?",
+    "expert_audit_response": "No employer can physically compel you to keep working — that would violate the constitutional prohibition on forced labour under Article 23, and as with resignation-rejection, employment contracts of personal service cannot be specifically enforced under Section 14 of the Specific Relief Act, 1963. If your contract permits a notice buyout (pay-in-lieu clause), the employer's refusal to accept a valid buyout is a breach on their part, not yours; if it doesn't explicitly allow buyout, your maximum liability for leaving early is payment of notice-period salary in lieu as liquidated damages under Section 74 of the Contract Act — not continued forced service. Labeling a lawful early exit as 'absconding' to justify withholding your relieving letter is a bad-faith mischaracterization you can challenge before the Labour Commissioner.",
+    "primary_statute": "Constitution of India, Article 23 (prohibition of forced labour) read with Specific Relief Act, 1963, Section 14"
   },
   {
     "id": 8,
-    "category": "Privacy & Data Protection",
-    "query": "Do employees have the right to view or correct their HR records?",
-    "expert_audit_response": "Yes. Under Section 11 of the DPDP Act, 2023, the Data Principal (employee) has the right to access a summary of their personal data, the identities of all Data Fiduciaries it was shared with, and the right to request correction, completion, or updating of their data.",
-    "primary_statute": "Digital Personal Data Protection Act, 2023 (Section 11)"
+    "category": "Workplace Bullying/Harassment (Male employee — Industrial Standing Orders)",
+    "query": "My team lead constantly humiliates me in front of colleagues, throws objects on my desk when angry, and has threatened to 'make my life hell' if I don't work weekends. HR says since I'm a man, there's 'no formal process' for this kind of complaint. Is that true?",
+    "expert_audit_response": "HR is wrong, and this is a serious gap they are exploiting. While the POSH Act is gender-specific, the Model Standing Orders under the Industrial Employment (Standing Orders) Act, 1946 independently classify 'riotous or disorderly behaviour' and conduct 'subversive of discipline' as actionable misconduct regardless of the complainant's or accused's gender, and every certified Standing Order must include a clause providing 'means of redress for workmen against unfair treatment.' You are entitled to file a formal written grievance invoking this redressal clause, and if your team lead's conduct is proven, the employer is obligated to initiate a domestic inquiry under the disciplinary procedure — before any action can be taken against either party, natural justice (a fair hearing) must be followed. Escalate in writing to HR citing the Standing Orders' misconduct and redressal clauses, and copy the Labour Commissioner if internally ignored.",
+    "primary_statute": "Industrial Employment (Standing Orders) Act, 1946 — Model Standing Orders on misconduct and grievance redressal"
   },
   {
     "id": 9,
-    "category": "Contingent Workforce & Contractors",
-    "query": "Is the principal employer liable if a third-party staffing agency fails to pay its workers?",
-    "expert_audit_response": "Yes. Under Section 21 of the Contract Labour (Regulation and Abolition) Act, 1970, if the contractor fails to pay wages within the prescribed period, the principal employer is legally obligated to pay the wages in full and may later recover the amount from the contractor.",
-    "primary_statute": "Contract Labour (Regulation and Abolition) Act, 1970 (Section 21)"
+    "category": "Wrongful Termination (WhatsApp firing/No due process)",
+    "query": "I got a WhatsApp message at 9 PM from my manager saying 'Your services are no longer required starting tomorrow, HR will process F&F.' No warning, no PIP, no meeting, nothing in writing besides that message. Is this even a valid termination?",
+    "expert_audit_response": "This is procedurally void. Termination of a workman without a stated valid reason, without notice or pay in lieu, and without following the disciplinary/domestic-inquiry process mandated by certified Standing Orders is a breach of natural justice and, more concretely, violates Section 25F of the Industrial Disputes Act, 1947, which conditions any retrenchment on written notice (or wages in lieu), retrenchment compensation, and reasons — none of which a WhatsApp message satisfies. A termination communicated this way is legally treated as illegal retrenchment, entitling you to seek reinstatement with back wages, or compensation, through the Labour Court. Preserve the WhatsApp message as primary evidence and immediately send a written reply demanding formal termination documentation and the legal basis relied upon.",
+    "primary_statute": "Industrial Disputes Act, 1947 — Section 25F (conditions precedent to retrenchment)"
   },
   {
     "id": 10,
-    "category": "Exit & Termination",
-    "query": "Can we terminate an employee while they are on approved maternity leave?",
-    "expert_audit_response": "No. Section 12 of the Maternity Benefit Act, 1961 explicitly prohibits an employer from discharging or dismissing a woman during her absence on maternity leave, or giving notice of discharge expiring during such absence.",
-    "primary_statute": "Maternity Benefit Act, 1961 (Section 12)"
-  },
-  {
-    "id": 11,
-    "category": "Leave, Working Hours, & Attendance",
-    "query": "Can an employer deny leave on national holidays?",
-    "expert_audit_response": "No. Under various State National and Festival Holidays Acts, January 26, August 15, and October 2 are mandatory paid holidays. If operational needs require working on these days, the employer must provide double wages or a compensatory day off, subject to prior employee consent.",
-    "primary_statute": "National and Festival Holidays Act (State-Specific)"
-  },
-  {
-    "id": 12,
-    "category": "Workplace Safety & POSH",
-    "query": "Must we report workplace accidents to labour authorities?",
-    "expert_audit_response": "Yes. Under Section 88 of the Factories Act, 1948, if an accident causes death or bodily injury preventing the worker from working for 48 hours or more, the manager must immediately send notice to the prescribed regulatory authorities.",
-    "primary_statute": "Factories Act, 1948 (Section 88)"
-  },
-  {
-    "id": 13,
-    "category": "Employee Relations & Grievance",
-    "query": "Is there a mandated grievance redressal committee for general issues?",
-    "expert_audit_response": "Yes. Under Section 9C of the Industrial Disputes Act, 1947, every industrial establishment employing 20 or more workmen must constitute a Grievance Redressal Committee for the resolution of disputes arising out of individual grievances.",
-    "primary_statute": "Industrial Disputes Act, 1947 (Section 9C)"
-  },
-  {
-    "id": 14,
-    "category": "Privacy & Data Protection",
-    "query": "Can we keep employee personal data indefinitely after they resign?",
-    "expert_audit_response": "No. Under Section 8(7) of the DPDP Act, 2023, a Data Fiduciary must erase personal data once the specified purpose is fulfilled, unless retention is strictly necessary for compliance with other laws (e.g., tax or provident fund audits).",
-    "primary_statute": "Digital Personal Data Protection Act, 2023 (Section 8)"
-  },
-  {
-    "id": 15,
-    "category": "Recruitment & Onboarding",
-    "query": "Can we ask female candidates about their marriage or family planning plans?",
-    "expert_audit_response": "No. Such inquiries are discriminatory. The Equal Remuneration Act and Article 14, 15, and 16 of the Constitution of India prohibit discrimination in employment on the grounds of sex or marital status.",
-    "primary_statute": "Constitution of India / Equal Remuneration Act, 1976"
-  },
-  {
-    "id": 16,
-    "category": "Global Mobility & Tax",
-    "query": "Can an employee work from another country remotely without company registration there?",
-    "expert_audit_response": "No. Long-term international remote work triggers Corporate Permanent Establishment (PE) risk under international tax treaties, exposing the company to local corporate tax liabilities and statutory payroll violations in the host country.",
-    "primary_statute": "International Tax Laws (Permanent Establishment) / FEMA"
-  },
-  {
-    "id": 17,
-    "category": "Exit & Termination",
-    "query": "Does placing an employee on 'Garden Leave' end the employment relationship?",
-    "expert_audit_response": "No. During garden leave, the employment contract remains active. The employee receives full standard compensation and is bound by confidentiality and non-compete clauses, but is legally instructed to abstain from work duties and premises.",
-    "primary_statute": "Indian Contract Act, 1872 / Corporate Legal Jurisprudence"
-  },
-  {
-    "id": 18,
-    "category": "Exit & Termination",
-    "query": "What happens to unvested stock options (ESOPs) when an employee is terminated?",
-    "expert_audit_response": "Under the Companies (Share Capital and Debentures) Rules, 2014, and standard SEBI guidelines, all unvested options automatically lapse on the date of termination. Vested options must be exercised within the period specified in the company's ESOP scheme.",
-    "primary_statute": "Companies Act, 2014 / SEBI (SBEB) Regulations"
-  },
-  {
-    "id": 19,
-    "category": "Global Mobility & Tax",
-    "query": "Can an inbound foreign employee opt out of local Indian social security (PF) contributions?",
-    "expert_audit_response": "Only if they qualify as an 'Excluded Employee'. They must belong to a country with which India has a bilateral Social Security Agreement (SSA) and hold a valid Certificate of Coverage (CoC) from their home country.",
-    "primary_statute": "Employees' Provident Funds Scheme, 1952 (Special Provisions for International Workers)"
-  },
-  {
-    "id": 20,
-    "category": "Contingent Workforce",
-    "query": "Can we terminate a vendor or independent contractor agreement immediately without cause?",
-    "expert_audit_response": "This is governed entirely by the termination clause in the Master Services Agreement (MSA) or vendor contract. Terminating without cause requires adhering to the specific contractual notice period; failing to do so invites breach-of-contract damages under the Indian Contract Act.",
-    "primary_statute": "Indian Contract Act, 1872 (Breach of Contract)"
+    "category": "Full & Final Settlement Delays (Statutory timeline breaches)",
+    "query": "It's been 60 days since my last working day and HR still hasn't released my F&F — no salary, no leave encashment, nothing — and every follow-up gets 'it's in process.' I thought the old 30-45 day norm was already generous; is there any actual legal deadline they're breaching?",
+    "expert_audit_response": "Yes, and the ground has shifted decisively in your favour: with India's new Labour Codes in force since November 21, 2025, Section 17(2) of the Code on Wages, 2019 now mandates that all wages be paid within two working days of an employee's last day, whether by resignation, termination, or retrenchment — the old 30-45 day 'industry practice' HR is relying on is no longer legally compliant. Sixty days of delay is a clear statutory breach, not administrative delay. Send a written legal notice citing Section 17(2) and demand immediate payment; if ignored, you can file a claim before the labour authority or Payment of Wages Authority, which can also award compensation for the delay.",
+    "primary_statute": "Code on Wages, 2019 — Section 17(2) (in force since 21 November 2025), superseding the earlier Payment of Wages Act, 1936 timelines"
   }
 ]

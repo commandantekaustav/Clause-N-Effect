@@ -39,7 +39,10 @@ SCORING RUBRIC (1 to 5):
 2: MATERIALLY FLAWED. The AI cited the WRONG Indian Act (e.g., citing the IT Act instead of the DPDP Act).
 1: CATASTROPHIC FAILURE. The AI hallucinated non-existent laws, cited foreign laws (e.g., US HIPAA, ADA, GDPR), or gave advice that would legally harm the user.
 
-STATUTE MATCH LOGIC (STRICT BUT SEMANTIC):
+STATUTE MATCH LOGIC: 
+- If the Expert Ground Truth cites 'Section 27 of the Contract Act' and the AI cites 'Industrial Disputes Act', this is a MATERIALLY FLAWED (2/5) score.
+- Do NOT give points for 'General Principles'. We need Statues.
+- If the user is Male and the AI mentions 'POSH', automatically give an ACCURACY_SCORE of 1.
 You must output 'True' for `statute_match` ONLY IF the AI cited the actual, legally equivalent statute as the Target Statute. 
 STATUTE MATCH LOGIC: Output 'True' if the AI identifies the correct core Indian Act. It does not need the exact year or full formal title, as long as the legal mechanism matches the Ground Truth perfectly. Do not pass incorrect laws.     
 OUTPUT FORMAT:
@@ -145,57 +148,57 @@ def run_benchmark(dataset_path: str = "./data/audit_responses.json", output_path
             print(f"Running Test {i+1}/{len(dataset)}: {item.get('category', 'General')}")
             
             # 1. Run the CRAG pipeline
-            inputs = {"question": query, "revision_count": 0}
+            inputs = {
+                "question": query, 
+                "revision_count": 0,
+                "gender": "male", # Crucial for your statutory routing
+                "work_state": "Karnataka",
+                "is_manager": False,
+                "rejection_reasons": []
+            }
+
+            final_audit = "ERROR"
+            revisions = 0 # Initialize here to prevent UnboundLocalError
+
             try:
                 graph_result = robust_invoke(crag_app, inputs)
                 final_audit = graph_result.get("generation", "FAILED TO GENERATE")
+                revisions = graph_result.get("revision_count", 0)
             except Exception as e:
-                if str(e) == "TPD_EXHAUSTED":
-                    print("Benchmark aborted to prevent state corruption.")
-                    break
                 print(f"  -> CRAG Pipeline Failed: {e}")
-                final_audit = "ERROR"
                 
             # 2. Evaluate the Output
-# 2. Evaluate the Output
-            try:
-                if final_audit != "ERROR":
-                    # Micro-sleep to prevent 70B and 8B from colliding on the TPM limit
-                    time.sleep(5) 
-                    
+            score = 0
+            statute_match = False
+            reasoning = "Evaluation skipped due to failure."
+
+            if final_audit != "ERROR":
+                try:
+                    time.sleep(2) 
                     eval_result_raw = robust_invoke(evaluator_chain, {
                         "statute": target_statute,
                         "expert": expert_answer,
                         "generated": final_audit
                     })
-                    
-                    # Safely parse the raw string into a Python dictionary
                     eval_dict = json.loads(eval_result_raw.content)
-                    
                     score = int(eval_dict.get("accuracy_score", 0))
-                    # Handle boolean conversion safely
-                    statute_match = str(eval_dict.get("statute_match", "false")).strip().lower() == "true"
-                    reasoning = str(eval_dict.get("reasoning", "No reasoning provided."))
-                else:
-                    raise Exception("Skipping evaluation due to generation failure.")
-            except Exception as e:
-                if str(e) == "TPD_EXHAUSTED":
-                    break
-                print(f"  -> Evaluation Failed: {e}")
-                score = 0
-                statute_match = False
-                reasoning = "Evaluation failed or was skipped."
-            
-            # 3. Save the record
+                    statute_match = str(eval_dict.get("statute_match", "false")).lower() == "true"
+                    reasoning = eval_dict.get("reasoning", "No reasoning.")
+                except Exception as e:
+                    print(f"  -> Evaluation Failed: {e}")
+
+            # 3. Save the record (Now safe from UnboundLocalError)
             record = {
                 "id": item.get("id", i),
                 "query": query,
+                "revisions_needed": revisions, 
                 "crag_output": final_audit,
                 "expert_ground_truth": expert_answer,
                 "accuracy_score": score,
                 "statute_match": statute_match,
                 "evaluator_reasoning": reasoning
             }
+            # ... rest of save logic
             results.append(record)
             
             print(f"  -> Score: {score}/5 | Statute Matched: {statute_match}")

@@ -136,14 +136,17 @@ if st.button("Run Compliance Audit", type="primary"):
             
             combined_payload = f"USER QUERY: {user_query.strip()}\n\nTARGET HR FACTS:\n{employer_facts.strip()}"
             
+            # Force gender into a clean string
+            clean_gender = str(gender).lower().strip()
+
             inputs = {
                 "question": combined_payload,
-                "gender": gender.lower(),
+                "gender": clean_gender, # Ensure this is 'female' or 'male'
                 "work_state": state,
                 "is_manager": is_manager,
                 "revision_count": 0,
-                "rejection_reasons": [], # Initialize as empty list
-                "steps": []               # Initialize as empty list
+                "rejection_reasons": [],
+                "steps": []
             }
 
             try:

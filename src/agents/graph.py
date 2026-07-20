@@ -1,5 +1,6 @@
 import os
-from typing import List, Dict, Any, Literal
+from typing import List, Dict, Any, Literal, cast, Union
+from pydantic import SecretStr
 
 from langchain_groq import ChatGroq
 from langchain_core.prompts import ChatPromptTemplate
@@ -12,36 +13,38 @@ from src.prompts.system_prompts import (
 )
 from src.tools.retriever import get_retriever
 from src.tools.search import execute_tavily_search
-
+from src.tools.gold_store import get_similar_success, save_successful_audit
 from src.utils.pii_scrubber import scrub_pii
 
 # ==========================================
-# 1. HYBRID BRAIN: Lazy Model Initialization
+# 1. HYBRID BRAIN: Model Initialization
 # ==========================================
 def get_fast_llm() -> ChatGroq:
+    key = os.environ.get("GROQ_API_KEY")
     return ChatGroq(
         model="llama-3.1-8b-instant", 
         temperature=0,
         max_tokens=2048, 
-        api_key=os.environ.get("GROQ_API_KEY")
+        api_key=SecretStr(key) if key else None
     )
 
 def get_complex_llm() -> ChatGroq:
+    key = os.environ.get("GROQ_API_KEY")
     return ChatGroq(
         model="llama-3.3-70b-versatile", 
         temperature=0.2, 
         max_tokens=1500,
-        api_key=os.environ.get("GROQ_API_KEY")
+        api_key=SecretStr(key) if key else None
     )
 
 def truncate_text_to_budget(text_list: List[str], max_chars: int) -> str:
     combined = ""
     for text in text_list:
-        clean_text = text.strip()
+        clean_text = str(text).strip()
         if len(combined) + len(clean_text) + 2 > max_chars:
             remaining = max_chars - len(combined)
             if remaining > 150:
-                combined += "\n\n" + clean_text[:remaining] + "... [Context Truncated]"
+                combined += "\n\n" + clean_text[:remaining] + "... [Truncated]"
             break
         combined += "\n\n" + clean_text
     return combined.strip()
@@ -49,37 +52,27 @@ def truncate_text_to_budget(text_list: List[str], max_chars: int) -> str:
 # ==========================================
 # 2. Graph Nodes
 # ==========================================
+
 def compress_query(state: GraphState) -> Dict[str, Any]:
     raw_question = state["question"]
-
-    # SCRUB FIRST
     scrubbed_question = scrub_pii(raw_question)
-    
     steps = state.get("steps", [])
     steps.append("compress_query")
     
-    distilled_question = scrubbed_question.strip()
-    
-    if len(distilled_question) < 400:
-        return {"question": distilled_question, "steps": steps}
+    if len(scrubbed_question) < 400:
+        return {"question": scrubbed_question, "steps": steps}
         
     compress_prompt = ChatPromptTemplate.from_messages([
-        ("system", """You are an investigative HR and Legal data extractor. Distill the provided text into a timeline of facts and the core compliance question. 
-        
-        CRITICAL DIRECTIVES:
-        1. METADATA FORENSICS: Highlight Bcc usage, executive CCs, and timeline delays.
-        2. HR & POWER DYNAMICS: Capture signs of coercion, forced agreements, and impossible deadlines.
-        3. RAW EVIDENCE QUOTES: Extract verbatim text of emails under a clear heading 'RAW EVIDENCE QUOTES'.
-        4. Max 1500 words."""),
-        ("human", "Raw Input:\n{raw_input}")
+        ("system", "Distill the following into a timeline of facts and the core legal question. Max 1000 words."),
+        ("human", "{raw_input}")
     ])
     
     chain = compress_prompt | get_fast_llm()
     try:
-        response = chain.invoke({"raw_input": distilled_question[:15000]})
-        compressed_query = response.content.strip()
+        response = chain.invoke({"raw_input": scrubbed_question[:15000]})
+        compressed_query = str(response.content).strip()
     except Exception:
-        compressed_query = distilled_question[:3000]
+        compressed_query = scrubbed_question[:3000]
         
     return {"question": compressed_query, "steps": steps}
 
@@ -87,7 +80,6 @@ def retrieve(state: GraphState) -> Dict[str, Any]:
     question = state["question"]
     steps = state.get("steps", [])
     steps.append("retrieve_documents")
-    
     docs = get_retriever().invoke(question)
     return {"documents": [doc.page_content for doc in docs], "steps": steps}
 
@@ -109,7 +101,7 @@ def grade_documents(state: GraphState) -> Dict[str, Any]:
     combined = truncate_text_to_budget(documents, max_chars=10000)
     
     try:
-        result = chain.invoke({"question": question, "context": combined})
+        result = cast(GradeResult, chain.invoke({"question": question, "context": combined}))
         score = result.score.upper().strip()
     except Exception:
         score = "NO"
@@ -121,20 +113,8 @@ def web_search(state: GraphState) -> Dict[str, Any]:
     steps = state.get("steps", [])
     steps.append("execute_web_search")
     
-    query_prompt = ChatPromptTemplate.from_messages([
-        ("system", """Convert the HR compliance issue into a highly targeted, 4-6 word Google search query to find the exact Indian governing statute. 
-            Output ONLY the search query text without quotes or explanations."""),
-        ("human", "{question}")
-    ])
-    
-    try:
-        chain = query_prompt | get_fast_llm()
-        search_query = chain.invoke({"question": question}).content.strip().replace('"', '')
-    except Exception:
-        search_query = question[:100].strip() + " India labour law statute"
-        
-    context = execute_tavily_search(search_query)
-    return {"web_search_context": f"[AGENT SEARCH QUERY EXECUTED: {search_query}]\n\n{context}", "steps": steps}
+    context = execute_tavily_search(f"{question} Indian labor law statute")
+    return {"web_search_context": context, "steps": steps}
 
 def draft_corporate_defense(state: GraphState) -> Dict[str, Any]:
     question = state["question"]
@@ -143,48 +123,41 @@ def draft_corporate_defense(state: GraphState) -> Dict[str, Any]:
     
     prompt = ChatPromptTemplate.from_messages([
         ("system", CORPORATE_DEFENSE_PROMPT),
-        ("human", "Employee Query & Facts:\n{question}")
+        ("human", "Facts:\n{question}")
     ])
     
-    chain = prompt | get_fast_llm()
-    response = chain.invoke({"question": question})
-    
-    return {"corporate_defense": response.content, "steps": steps}
+    response = get_fast_llm().invoke(prompt.format_messages(question=question))
+    return {"corporate_defense": str(response.content), "steps": steps}
 
 def generate_audit(state: GraphState) -> Dict[str, Any]:
     question = state["question"]
-    gender = state.get("gender", "Not Specified")
+    gender = state.get("gender", "not specified")
     work_state = state.get("work_state", "India")
     is_manager = state.get("is_manager", False)
-
-    role_type_string = "Managerial (Contract Act applies)" if is_manager else "Non-Managerial (Workman status possible)"
+    role_type_string = "Managerial" if is_manager else "Non-Managerial"
 
     documents = state.get("documents", [])
     web_context = state.get("web_search_context", "No external context.")
     corporate_defense = state.get("corporate_defense", "")
     judge_feedback = state.get("judge_feedback", "None")
     
-    revision_count = state.get("revision_count", 0)
-    if revision_count >= 2:
-        judge_feedback = f"CRITICAL FINAL WARNING: You have failed formatting {revision_count} times. You MUST strictly use the exact Markdown skeleton and use Markdown blockquotes (>) for evidence. Previous error: " + judge_feedback
-
     steps = state.get("steps", [])
     steps.append("generate_audit_report")
     
-    if state.get("generation") == "NO":
-        internal_budget = "[INTERNAL DB REJECTED OR EMPTY - RELY ON EXTERNAL CONTEXT.]"
-    else:
-        internal_budget = truncate_text_to_budget(documents, max_chars=10000)
-        
-    external_budget = truncate_text_to_budget([web_context], max_chars=6000)
+    # FETCH GOLD STANDARD MEMORY
+    gold_example = get_similar_success(question)
+    
+    internal_budget = truncate_text_to_budget(documents, max_chars=8000)
+    external_budget = truncate_text_to_budget([web_context], max_chars=4000)
     
     prompt = ChatPromptTemplate.from_messages([
         ("system", AUDIT_SYSTEM_PROMPT),
-        ("human", "Query/Facts: {question}\n\nInternal Legal DB: {internal}\n\nWeb Statutes: {external}\n\nCorporate Defense To Destroy: {defense}\n\nPrevious Judge Feedback to Fix: {feedback}")
+        ("human", "REFERENCE CASE:\n{example}\n\nCURRENT CASE DATA:\nFacts: {question}\nInternal Law: {internal}\nWeb Search: {external}\nCorporate Defense: {defense}\nJudge Feedback: {feedback}")
     ])
 
     chain = prompt | get_complex_llm()
     response = chain.invoke({
+        "example": gold_example,
         "question": question,
         "internal": internal_budget,
         "external": external_budget,
@@ -195,49 +168,55 @@ def generate_audit(state: GraphState) -> Dict[str, Any]:
         "role_type": role_type_string
     })
     
-    return {"generation": response.content, "steps": steps}
+    return {"generation": str(response.content), "steps": steps}
 
 def evaluate_audit(state: GraphState) -> Dict[str, Any]:
-    generation = state["generation"]
+    generation = state.get("generation", "")
+    raw_facts = state.get("question", "")
+    gender = state.get("gender", "unknown").lower()
     revision_count = state.get("revision_count", 0)
-    
-    # FIX: Explicitly get these from state so they are defined in this scope
     rejection_reasons = state.get("rejection_reasons", [])
     steps = state.get("steps", [])
     steps.append("evaluate_audit")
-    
-    # 1. HARD CODED RELIABILITY: Check for Unions in Python
-    if "[NON-COMPLIANT]" in generation:
-        unions = ["NITES", "KITU", "AIITEU"]
-        if not any(u in generation for u in unions):
-            feedback = "Missing Indian IT Unions in Retaliation Strategy."
-            rejection_reasons.append(feedback)
+
+    # 1. HARD-CODED PYTHON CHECK (ZERO Hallucination for Gender)
+    if gender == "male":
+        posh_triggers = ["POSH", "Sexual Harassment", "Internal Complaints Committee", "ICC"]
+        if any(t.lower() in generation.lower() for t in posh_triggers):
+            msg = "GENDER-STATUTE MISMATCH: Report cited POSH for a male user."
             return {
                 "judge_score": "FAIL",
-                "judge_feedback": feedback,
+                "judge_feedback": msg,
                 "revision_count": revision_count + 1,
-                "rejection_reasons": rejection_reasons,
+                "rejection_reasons": rejection_reasons + [msg],
                 "steps": steps
             }
 
-    # 2. STANDARD LLM JUDGE CHECK
+    # 2. LLM JUDGE CHECK (For tone and evidence)
     prompt = ChatPromptTemplate.from_messages([
         ("system", JUDGE_SYSTEM_PROMPT),
-        ("human", "Generated Audit:\n{audit}")
+        ("human", "Audit: {audit}\nRaw Evidence: {raw_facts}")
     ])
     
     chain = prompt | get_fast_llm().with_structured_output(JudgeResult)
     
     try:
-        result = chain.invoke({"audit": generation})
+        # Pass context correctly to the Judge
+        result = cast(JudgeResult, chain.invoke({
+            "audit": generation, 
+            "user_gender": gender, 
+            "raw_facts": raw_facts
+        }))
         score = result.score.upper().strip()
         feedback = result.feedback
-        if score == "FAIL":
-            rejection_reasons.append(feedback)
     except Exception as e:
-        score = "FAIL" 
-        feedback = f"Judge API error: {str(e)}"
-        rejection_reasons.append(feedback)        
+        score = "FAIL"
+        feedback = f"Judge Error: {str(e)}"
+        
+    if score == "PASS":
+        save_successful_audit(raw_facts, generation)
+    else:
+        rejection_reasons.append(feedback)
         
     return {
         "judge_score": score, 
@@ -250,14 +229,14 @@ def evaluate_audit(state: GraphState) -> Dict[str, Any]:
 # ==========================================
 # 3. Routing Decisions
 # ==========================================
-def route_after_grading(state: GraphState) -> Literal["web_search", "draft_corporate_defense"]:
+def route_after_grading(state: GraphState) -> str:
     if state["generation"] == "NO":
          return "web_search"
     return "draft_corporate_defense"
 
-def route_after_evaluation(state: GraphState) -> Literal["generate_audit", END]:
-    if state["judge_score"] == "PASS" or state["revision_count"] >= 3:
-        return END
+def route_after_evaluation(state: GraphState) -> str:
+    if state["judge_score"] == "PASS" or state.get("revision_count", 0) >= 3:
+        return "end"
     return "generate_audit"
 
 # ==========================================
@@ -277,10 +256,9 @@ workflow.add_edge(START, "compress_query")
 workflow.add_edge("compress_query", "retrieve")
 workflow.add_edge("retrieve", "grade_documents")
 
-# NEW CONDITIONAL ROUTE: Skip search if docs are good
 workflow.add_conditional_edges(
     "grade_documents",
-    route_after_grading, # We already have this function, but let's fix it
+    route_after_grading,
     {
         "web_search": "web_search",
         "draft_corporate_defense": "draft_corporate_defense"
@@ -289,10 +267,15 @@ workflow.add_conditional_edges(
 
 workflow.add_edge("web_search", "draft_corporate_defense")
 workflow.add_edge("draft_corporate_defense", "generate_audit")
-
-workflow.add_edge("web_search", "draft_corporate_defense")
-workflow.add_edge("draft_corporate_defense", "generate_audit")
 workflow.add_edge("generate_audit", "evaluate_audit")
-workflow.add_conditional_edges("evaluate_audit", route_after_evaluation)
+
+workflow.add_conditional_edges(
+    "evaluate_audit",
+    route_after_evaluation,
+    {
+        "generate_audit": "generate_audit",
+        "end": END
+    }
+)
 
 app = workflow.compile()
