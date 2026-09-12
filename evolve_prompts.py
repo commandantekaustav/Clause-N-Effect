@@ -24,7 +24,7 @@ def evolve_system():
         print("❌ No logs found to evolve from.")
         return
 
-    with open(log_path, "r") as f:
+    with open(log_path, "r", encoding="utf-8") as f:
         try:
             logs = json.load(f)
         except Exception as e:
@@ -94,7 +94,7 @@ def evolve_system():
         current_config = {"GRADER_PATCH": "", "DEFENSE_PATCH": "", "AUDIT_PATCH": "", "JUDGE_PATCH": ""}
         
         if os.path.exists(config_path):
-            with open(config_path, "r") as f:
+            with open(config_path, "r", encoding="utf-8") as f:
                 try:
                     current_config.update(json.load(f))
                 except: pass
@@ -104,7 +104,7 @@ def evolve_system():
             if key in new_patches and new_patches[key]:
                 current_config[key] = new_patches[key] 
 
-        with open(config_path, "w") as f:
+        with open(config_path, "w", encoding="utf-8") as f:
             json.dump(current_config, f, indent=2)
             
         print("🚀 System evolved. Patches applied to dynamic_config.json")

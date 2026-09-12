@@ -1,72 +1,72 @@
 [
   {
     "id": 1,
-    "category": "Illegal Training Bonds/Exit Penalties",
-    "query": "HR is telling me I have to pay ₹2 lakhs because I'm resigning 8 months into my 2-year 'training bond', but the only training I got was a 3-day orientation and some YouTube videos they made us watch. Can they actually hold my relieving letter and force me to pay this?",
-    "expert_audit_response": "This is a textbook 'penalty dressed as liquidated damages'. Under Section 74 of the Indian Contract Act, 1872, an employer can only recover a genuine pre-estimate of actual, provable training expenditure — not an arbitrary lump sum, and the Supreme Court's own 2025 ruling in Vijaya Bank v. Narnaware only upholds bonds tied to real, demonstrable investment. Demand an itemized breakup of the alleged ₹2 lakh training cost; if HR cannot produce invoices, trainer fees, or certification costs, the bond amount is an unenforceable penalty. Separately, if the bond restricts your right to work at all (not just recover cost), it is void under Section 27 as a restraint of trade.",
-    "primary_statute": "Indian Contract Act, 1872 — Sections 74 (penalty vs. liquidated damages) and 27 (restraint of trade)"
+    "category": "Training Bonds (Penalty vs damages)",
+    "query": "Company demands 2 Lakhs because I left in 6 months. I only had orientation training.",
+    "expert_audit_response": "Unenforceable penalty. Under Section 74 of the Indian Contract Act, 1872, an employer can only recover 'actual' documented costs of specialized training. Standard orientation does not qualify. Without invoices for certifications or third-party trainers, the bond is [LEGALLY VOID].",
+    "primary_statute": "Indian Contract Act, 1872 (Section 74)"
   },
   {
     "id": 2,
-    "category": "Resignation Rejection & Experience Letter Blackmailing",
-    "query": "I submitted my resignation and served my full notice period, but my manager is refusing to 'accept' it and HR says my experience letter will only be issued if I withdraw and stay for a 'critical project handover' of unknown duration. Am I still technically employed?",
-    "expert_audit_response": "No employer in India can compel you to continue working — employment is a contract of personal service, and under Section 14 of the Specific Relief Act, 1963, such contracts cannot be specifically enforced against you even by a court, let alone by HR withholding a letter. Once you complete your contractual notice period, your resignation takes legal effect regardless of 'acceptance,' and 'acceptance' clauses cannot be weaponized to indefinitely extend your service. Withholding the experience/relieving letter as leverage is not a recognized legal remedy and can itself be challenged as an unfair labour practice before the Labour Commissioner. Send a written communication stating your last working day per the notice clause and stop reporting to work after that date.",
-    "primary_statute": "Specific Relief Act, 1963 — Section 14 (contracts of personal service not specifically enforceable)"
+    "category": "Resignation Rejection (Forced Service)",
+    "query": "HR says they won't accept my resignation because it's 'mid-semester' and I must stay.",
+    "expert_audit_response": "Illegal. Under Section 14 of the Specific Relief Act, 1963, contracts of personal service cannot be specifically enforced. An employer cannot force you to work against your will. Resignation is a unilateral right; 'acceptance' is a corporate myth with no statutory basis.",
+    "primary_statute": "Specific Relief Act, 1963 (Section 14)"
   },
   {
     "id": 3,
-    "category": "Constructive Dismissal (Hostile environment forcing resignation)",
-    "query": "Ever since I raised a concern to HR, my manager has stripped away all my responsibilities, stopped inviting me to meetings, and given me a PIP with impossible, vague targets. Everyone says I should just 'resign gracefully' but it feels like they're pushing me out the back door.",
-    "expert_audit_response": "This pattern — isolation, responsibility-stripping, and a manufactured PIP — is a classic engineered exit designed to make you resign 'voluntarily' so the company avoids severance liability. Courts have consistently treated such coerced resignations as constructive dismissal, which is legally indistinguishable from retrenchment under Section 2(oo) of the Industrial Disputes Act, 1947, triggering the employer's obligation to follow Section 25F — notice, retrenchment compensation, and a valid reason. Do not resign; instead, document every instance of role-stripping and PIP ambiguity in writing (email trail), and if terminated, you can claim it was a disguised retrenchment executed without due process. This documentation is your strongest evidence if the matter goes to a Labour Court.",
-    "primary_statute": "Industrial Disputes Act, 1947 — Sections 2(oo) (definition of retrenchment) and 25F (conditions precedent to retrenchment)"
+    "category": "Constructive Dismissal (Engineered Exit)",
+    "query": "Manager removed my access and told me to sit idle until I resign 'voluntarily'.",
+    "expert_audit_response": "Non-Compliant. This constitutes 'Constructive Dismissal,' which is legally retrenchment under Section 2(oo) of the Industrial Disputes Act, 1947. This triggers mandatory notice pay and retrenchment compensation under Section 25F.",
+    "primary_statute": "Industrial Disputes Act, 1947 (Section 25F)"
   },
   {
     "id": 4,
-    "category": "Unauthorized Wage Deductions (Performance-linked pay theft)",
-    "query": "My salary slip shows a ₹15,000 'performance deduction' this month because my manager said my ratings dropped, but no one told me this in advance and there's no PIP or written warning — it just disappeared from my pay. Is this even legal?",
-    "expert_audit_response": "Deducting already-earned wages as a unilateral 'performance penalty' without prior process is precisely what the Payment of Wages Act, 1936 was enacted to prevent — Section 7 permits deductions only from a closed, exhaustive list (fines, absence, damage, loss), and any fine-type deduction requires the procedural safeguards under Section 8, including a prior show-cause opportunity. A drop in performance rating is not a statutorily authorized ground for deduction; at most it can affect a future variable-pay calculation before it is earned, not claw back wages already accrued. File a written claim with the Labour Commissioner/Payment of Wages Authority under Section 15, which can order not just a refund but compensation up to ten times the deducted amount.",
-    "primary_statute": "Payment of Wages Act, 1936 — Sections 7 (authorized deductions) and 15 (claims authority)"
+    "category": "Wage Theft (Unauthorized Deductions)",
+    "query": "HR deducted 20k from my salary for 'Low Performance' without any prior warning.",
+    "expert_audit_response": "Statutory Violation. The Payment of Wages Act, 1936 (Section 7) and the Code on Wages, 2019 (Section 18) provide an exhaustive list of allowed deductions. 'Performance penalties' are not listed. Any such deduction requires a prior show-cause notice.",
+    "primary_statute": "Code on Wages, 2019 (Section 18)"
   },
   {
     "id": 5,
-    "category": "Unilateral Role Expansion (JD changes without consent)",
-    "query": "I was hired as a Software Developer, but over the last 6 months I've quietly been given team-lead responsibilities, on-call rotations, and client-facing duties that were never in my offer letter — with zero pay revision. HR says 'this is normal in IT.' Do I have any say in this?",
-    "expert_audit_response": "Your offer letter and appointment letter constitute a binding contract, and under Section 62 of the Indian Contract Act, 1872, any material alteration to its terms — including scope of role, reporting structure, or duties — requires mutual consent, not unilateral imposition. 'This is normal in IT' is corporate jargon designed to normalize a breach; it has no legal standing. You are entitled to either refuse the expanded scope in writing while continuing your original role, or negotiate a formal role/compensation revision — and if the company terminates or demotes you for refusing unagreed duties, that strengthens a constructive dismissal claim. Put your objection in writing now to create a contemporaneous record.",
-    "primary_statute": "Indian Contract Act, 1872 — Section 62 (novation, rescission, and alteration of contract)"
+    "category": "Role Expansion (Contract Novation)",
+    "query": "Hired as a Dev, but now doing 12-hour support shifts and client calls without extra pay.",
+    "expert_audit_response": "Breach of Contract. Under Section 62 of the Indian Contract Act, 1872, any material change to the 'Service Conditions' (Novation) requires mutual written consent. Forcing extra-contractual duties without pay revision is a breach of the original offer letter.",
+    "primary_statute": "Indian Contract Act, 1872 (Section 62)"
   },
   {
     "id": 6,
-    "category": "Illegal Probation Extensions (To avoid benefits)",
-    "query": "I've been on probation for 14 months now — first it was 6 months, then extended 'due to project delays', then extended again 'pending manager review', and I still haven't gotten confirmation, PF benefits alignment, or bonus eligibility. Can they keep me on probation forever?",
-    "expert_audit_response": "No — indefinite, repeated probation extension is a well-documented tactic to deny confirmation-linked benefits (bonus eligibility, certain leave accruals, and job security), and it is legally unsustainable. Certified Standing Orders under the Industrial Employment (Standing Orders) Act, 1946 typically fix a probation period (commonly 3–6 months) with at most one defined extension for a stated reason — an employer cannot extend probation repeatedly without specific, documented performance justification communicated to you in writing. Indian courts have held that where an employee is allowed to continue working substantially beyond the maximum permissible probation period without a valid extension order, confirmation is deemed by conduct. Demand a copy of your company's certified Standing Orders or probation policy and the written justification for each extension.",
-    "primary_statute": "Industrial Employment (Standing Orders) Act, 1946 — probation clause under certified Standing Orders"
+    "category": "Probation Loop (PF/Bonus Avoidance)",
+    "query": "I've been on probation for 15 months. They keep extending it every 3 months.",
+    "expert_audit_response": "Unfair Labour Practice. Under the Industrial Employment (Standing Orders) Act, 1946, probation is typically capped at 6 months. Repeated extensions to avoid confirmation-linked benefits (PF/Bonus) are illegal under the Fifth Schedule of the ID Act.",
+    "primary_statute": "Industrial Employment (Standing Orders) Act, 1946"
   },
   {
     "id": 7,
-    "category": "Notice Period Coercion (Forcing service beyond contract)",
-    "query": "My contract says 60 days' notice, but I offered to buy it out and leave in 30 days for a new job — HR is refusing to let me go early even with buyout, saying I 'must serve full notice' or they'll mark it as absconding and withhold my relieving letter. Can they force me to physically stay?",
-    "expert_audit_response": "No employer can physically compel you to keep working — that would violate the constitutional prohibition on forced labour under Article 23, and as with resignation-rejection, employment contracts of personal service cannot be specifically enforced under Section 14 of the Specific Relief Act, 1963. If your contract permits a notice buyout (pay-in-lieu clause), the employer's refusal to accept a valid buyout is a breach on their part, not yours; if it doesn't explicitly allow buyout, your maximum liability for leaving early is payment of notice-period salary in lieu as liquidated damages under Section 74 of the Contract Act — not continued forced service. Labeling a lawful early exit as 'absconding' to justify withholding your relieving letter is a bad-faith mischaracterization you can challenge before the Labour Commissioner.",
-    "primary_statute": "Constitution of India, Article 23 (prohibition of forced labour) read with Specific Relief Act, 1963, Section 14"
+    "category": "Notice Period Buyout (Refusal)",
+    "query": "My contract allows a 60-day buyout, but HR is refusing the money and forcing me to stay.",
+    "expert_audit_response": "Contractual Breach. If the contract stipulates a 'pay-in-lieu' option, the employer's refusal is a violation. Physically forcing service is 'Forced Labour' under Article 23 of the Constitution. Their remedy is limited to financial damages, not physical restraint.",
+    "primary_statute": "Constitution of India (Article 23) / Specific Relief Act"
   },
   {
     "id": 8,
-    "category": "Workplace Bullying/Harassment (Male employee — Industrial Standing Orders)",
-    "query": "My team lead constantly humiliates me in front of colleagues, throws objects on my desk when angry, and has threatened to 'make my life hell' if I don't work weekends. HR says since I'm a man, there's 'no formal process' for this kind of complaint. Is that true?",
-    "expert_audit_response": "HR is wrong, and this is a serious gap they are exploiting. While the POSH Act is gender-specific, the Model Standing Orders under the Industrial Employment (Standing Orders) Act, 1946 independently classify 'riotous or disorderly behaviour' and conduct 'subversive of discipline' as actionable misconduct regardless of the complainant's or accused's gender, and every certified Standing Order must include a clause providing 'means of redress for workmen against unfair treatment.' You are entitled to file a formal written grievance invoking this redressal clause, and if your team lead's conduct is proven, the employer is obligated to initiate a domestic inquiry under the disciplinary procedure — before any action can be taken against either party, natural justice (a fair hearing) must be followed. Escalate in writing to HR citing the Standing Orders' misconduct and redressal clauses, and copy the Labour Commissioner if internally ignored.",
-    "primary_statute": "Industrial Employment (Standing Orders) Act, 1946 — Model Standing Orders on misconduct and grievance redressal"
+    "category": "Experience Letter Blackmail",
+    "query": "HR says they will only give my Relieving Letter if I sign a document saying I won't join competitors.",
+    "expert_audit_response": "Illegal Coercion. A Relieving Letter is a factual record of service, not a bargaining chip. Forcing a post-employment non-compete is void under Section 27 of the Contract Act. Withholding service records is an Unfair Labour Practice.",
+    "primary_statute": "Indian Contract Act, 1872 (Section 27)"
   },
   {
     "id": 9,
-    "category": "Wrongful Termination (WhatsApp firing/No due process)",
-    "query": "I got a WhatsApp message at 9 PM from my manager saying 'Your services are no longer required starting tomorrow, HR will process F&F.' No warning, no PIP, no meeting, nothing in writing besides that message. Is this even a valid termination?",
-    "expert_audit_response": "This is procedurally void. Termination of a workman without a stated valid reason, without notice or pay in lieu, and without following the disciplinary/domestic-inquiry process mandated by certified Standing Orders is a breach of natural justice and, more concretely, violates Section 25F of the Industrial Disputes Act, 1947, which conditions any retrenchment on written notice (or wages in lieu), retrenchment compensation, and reasons — none of which a WhatsApp message satisfies. A termination communicated this way is legally treated as illegal retrenchment, entitling you to seek reinstatement with back wages, or compensation, through the Labour Court. Preserve the WhatsApp message as primary evidence and immediately send a written reply demanding formal termination documentation and the legal basis relied upon.",
-    "primary_statute": "Industrial Disputes Act, 1947 — Section 25F (conditions precedent to retrenchment)"
+    "category": "Bullying & Abuse (Male User)",
+    "query": "My VP uses abusive language and threatened to 'end my career' in front of the whole team.",
+    "expert_audit_response": "Non-Compliant. Model Standing Orders under the Industrial Employment Act classify 'riotous/disorderly behavior' as misconduct. You are entitled to a formal grievance redressal committee under Section 9C of the Industrial Disputes Act, regardless of gender.",
+    "primary_statute": "Industrial Disputes Act, 1947 (Section 9C)"
   },
   {
     "id": 10,
-    "category": "Full & Final Settlement Delays (Statutory timeline breaches)",
-    "query": "It's been 60 days since my last working day and HR still hasn't released my F&F — no salary, no leave encashment, nothing — and every follow-up gets 'it's in process.' I thought the old 30-45 day norm was already generous; is there any actual legal deadline they're breaching?",
-    "expert_audit_response": "Yes, and the ground has shifted decisively in your favour: with India's new Labour Codes in force since November 21, 2025, Section 17(2) of the Code on Wages, 2019 now mandates that all wages be paid within two working days of an employee's last day, whether by resignation, termination, or retrenchment — the old 30-45 day 'industry practice' HR is relying on is no longer legally compliant. Sixty days of delay is a clear statutory breach, not administrative delay. Send a written legal notice citing Section 17(2) and demand immediate payment; if ignored, you can file a claim before the labour authority or Payment of Wages Authority, which can also award compensation for the delay.",
-    "primary_statute": "Code on Wages, 2019 — Section 17(2) (in force since 21 November 2025), superseding the earlier Payment of Wages Act, 1936 timelines"
+    "category": "WhatsApp Firing (No Due Process)",
+    "query": "I was terminated at 11 PM via a WhatsApp message saying 'Don't come tomorrow'.",
+    "expert_audit_response": "Void Ab Initio. Termination without a written show-cause notice or a domestic inquiry violates the Principles of Natural Justice. Under Section 25F of the ID Act, retrenchment requires 1 month notice and written reasons.",
+    "primary_statute": "Industrial Disputes Act, 1947 (Section 25F)"
   }
 ]

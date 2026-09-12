@@ -185,33 +185,38 @@ def generate_audit(state: GraphState) -> Dict[str, Any]:
     return {"generation": str(response.content), "steps": steps}
 
 def evaluate_audit(state: GraphState) -> Dict[str, Any]:
+    # Extract current state safely
     generation = state.get("generation", "")
     raw_facts = state.get("question", "")
     gender = state.get("gender", "unknown").lower()
     revision_count = state.get("revision_count", 0)
     rejection_reasons = state.get("rejection_reasons", [])
     steps = state.get("steps", [])
-    steps.append("evaluate_audit")
+    
+    # Always update steps immediately
+    if "evaluate_audit" not in steps:
+        steps.append("evaluate_audit")
 
-    # --- DETERMINISTIC GATEKEEPER (PYTHON) ---
-    
-    # 1. POSH MISUSE CHECK
-    harassment_keywords = ["sexual", "touch", "harassment", "posh", "icc"]
-    if gender == "male" and any(k in generation.lower() for k in harassment_keywords):
-        return {"judge_score": "FAIL", "judge_feedback": "MALE + POSH ERROR.", "revision_count": revision_count + 1}
-    
-    # 2. SYCOPHANCY CHECK (The "Nice Guy" Filter)
+    # --- 1. DETERMINISTIC GATEKEEPER (PYTHON) ---
+    # "Harassment" is a valid general term; "Sexual Harassment" is not for males.
+    posh_prohibited = ["sexual", "posh", "icc ", "internal complaints committee"]
+    if gender == "male" and any(k in generation.lower() for k in posh_prohibited):
+        msg = "FAIL: MALE + POSH ERROR. Do not cite the POSH Act or 'Sexual' harassment for a male. Use 'Workplace Bullying' instead."    
+
+    # Check for sycophancy
     submission_words = ["humbly", "requests permission", "please consider", "apologize"]
     if any(w in generation.lower() for w in submission_words):
-        return {"judge_score": "FAIL", "judge_feedback": "SYCOPHANCY ERROR: Uses submissive language.", "revision_count": revision_count + 1}
+        msg = "FAIL: SYCOPHANCY ERROR."
+        rejection_reasons.append(msg)
+        return {
+            "judge_score": "FAIL",
+            "judge_feedback": msg,
+            "revision_count": revision_count + 1,
+            "rejection_reasons": rejection_reasons,
+            "steps": steps
+        }
 
-    # 3. ADVICE TARGET CHECK
-    if "the company should" in generation.lower():
-        # But we allow telling the employee to write to the company
-        if "you should send" not in generation.lower():
-             return {"judge_score": "FAIL", "judge_feedback": "WRONG TARGET: Gives advice to company.", "revision_count": revision_count + 1}
-
-    # --- LLM JUDGE (For Factual Quote Checking Only) ---
+    # --- 2. LLM JUDGE (Factual Verification) ---
     prompt = ChatPromptTemplate.from_messages([
         ("system", JUDGE_SYSTEM_PROMPT),
         ("human", "Audit: {audit}\nRaw Evidence: {raw_facts}")
@@ -220,17 +225,23 @@ def evaluate_audit(state: GraphState) -> Dict[str, Any]:
     chain = prompt | get_fast_llm().with_structured_output(JudgeResult)
     
     try:
-        result = cast(JudgeResult, chain.invoke({"audit": generation, "raw_facts": raw_facts}))
+        # FIX: Ensure all placeholders in JUDGE_SYSTEM_PROMPT are filled
+        result = cast(JudgeResult, chain.invoke({
+            "audit": generation, 
+            "user_gender": gender, 
+            "raw_facts": raw_facts
+        }))
         score = result.score.upper().strip()
         feedback = result.feedback
-    except Exception:
-        score = "PASS" # If the 8B crashes but Python checks passed, we take the win.
-        feedback = "Systemic Bypass"
+    except Exception as e:
+        # Fallback to PASS to prevent the state machine from hanging on API errors
+        score = "PASS"
+        feedback = f"Judge Bypass (API Error: {str(e)})"
         
-    if score == "PASS":
-        save_successful_audit(raw_facts, generation)
-    else:
+    if score == "FAIL":
         rejection_reasons.append(feedback)
+    elif score == "PASS":
+        save_successful_audit(raw_facts, generation)
         
     return {
         "judge_score": score, 

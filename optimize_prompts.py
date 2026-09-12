@@ -4,17 +4,21 @@ from collections import Counter
 
 # Path to your telemetry log
 LOG_PATH = ".DONT_UPLOAD/track.json"
-
 def analyze_failures():
     if not os.path.exists(LOG_PATH):
         print(f"Error: {LOG_PATH} not found. Run a few audits first!")
         return
 
     try:
-        with open(LOG_PATH, "r") as f:
+        # FIX: Added encoding="utf-8"
+        with open(LOG_PATH, "r", encoding="utf-8") as f:
             # Handle cases where file is a list of JSON objects
             data = json.load(f)
-            # Ensure data is a list
+            logs = data if isinstance(data, list) else [data]
+    except UnicodeDecodeError:
+        # FALLBACK: In case there are really strange characters, use 'utf-8-sig'
+        with open(LOG_PATH, "r", encoding="utf-8-sig") as f:
+            data = json.load(f)
             logs = data if isinstance(data, list) else [data]
     except Exception as e:
         print(f"Error reading logs: {e}")

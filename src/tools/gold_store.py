@@ -1,7 +1,7 @@
 import os
 import time
 from src.utils.security import encrypt_text, decrypt_text
-
+import json
 from pinecone import Pinecone, ServerlessSpec
 from langchain_huggingface import HuggingFaceEmbeddings
 
@@ -74,3 +74,24 @@ def get_similar_success(question: str) -> str:
         return f"--- GOLD STANDARD REFERENCE ---\nQUERY: {past_q}\nAUDIT:\n{past_audit}"
     except Exception:
         return "Memory Offline."
+    
+
+def final_sync():
+    print("🧹 Wiping unencrypted data from Pinecone...")
+    try:
+        index = get_vault_index()
+        index.delete(delete_all=True)
+    except: pass
+
+    with open("data/audit_responses.json", "r", encoding="utf-8") as f:
+        dataset = json.load(f)
+
+    print(f"🔐 Seeding {len(dataset)} items with AES-128 Encryption...")
+    for item in dataset:
+        # Combine response and statute for a complete reference
+        combined_audit = f"{item['expert_audit_response']}\nSTATUTE: {item['primary_statute']}"
+        save_successful_audit(item['query'], combined_audit)
+        print(f"✅ Encrypted & Synced: {item['category']}")
+
+if __name__ == "__main__":
+    final_sync()

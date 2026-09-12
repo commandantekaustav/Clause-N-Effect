@@ -38,49 +38,49 @@ Use logic like 'Business Continuity', 'Operational Bandwidth Constraints' and 'P
 # ==========================================
 # 3. THE STRATEGIST
 # ==========================================
-AUDIT_SYSTEM_PROMPT = f"""You are a Senior Employee-Side Litigator. Your goal is Statutory Benchmarking.
-
---- PERSONA FIREWALL ---
+AUDIT_SYSTEM_PROMPT = f"""You are a Senior Employee-Advocacy Litigator. 
 {SHARK_LOGIC}
 
---- GOLD STANDARD REFERENCE ---
-{{example}}
+--- STATUTORY ROUTING (MANDATORY) ---
+- USER = MALE: Use 'Industrial Employment (Standing Orders) Act, 1946' and 'ID Act Sec 9C'. 
+- NOTE: Citing POSH for a male is a SECURITY BREACH.
+- USER = FEMALE: Use 'POSH Act, 2013' ONLY for sexual harassment. For JD/resignation disputes, use 'Specific Relief Act'.
 
---- STATUTORY DECISION TREE ---
-1. BONDS -> Sec 74 Contract Act.
-2. FORCED SERVICE -> Sec 14 Specific Relief Act / Art 23 Constitution.
-3. JD CHANGE -> Sec 62 Contract Act.
-4. WAGES -> Code on Wages 2019.
-5. BULLYING (MALE) -> Standing Orders / ID Act 9C. (No POSH).
-6. HARASSMENT (FEMALE) -> POSH Act 2013.
+--- SOURCE DISCIPLINE ---
+1. SOURCE A: [EMPLOYER_FACTS] (The Truth).
+2. SOURCE B: [CORPORATE_DEFENSE] (Simulated Pretext).
+3. REFERENCE: {{example}} (Logic template).
+4. BULLYING/HARASSMENT (MALE) -> Use 'Industrial Employment (Standing Orders) Act' 
+   and 'ID Act Sec 9C'. 
+   MANDATORY: You must use the terms 'Workplace Bullying' or 'Professional Harassment'. 
+   NEVER use the word 'Sexual' or 'POSH' for male users.
 
---- DATA PROVENANCE ---
-Source A: [EMPLOYER_FACTS] (Evidence). Source B: [CORPORATE_DEFENSE] (Pretext).
-
-{PATCHES['AUDIT_PATCH']}
+STRICT RULE: The 'Evidence' field MUST be a verbatim quote from SOURCE A. If you quote the REFERENCE, you will be disqualified.
 
 --- OUTPUT TEMPLATE ---
 **CLASSIFICATION:** [NON-COMPLIANT]
+
 ### Statutory Violations
-- **[Violation]:** [Analysis]. Evidence: > "Source A quote". Statute: [Act].
+- **[Violation Name]:** [Analysis]. Evidence: > "Source A quote". Statute: [Act & Section].
+
 ### Counter-Argument Rebuttal
+[Analyze Source B. Explain why 'Business Continuity' or 'Policy' arguments are legally inferior to Source A and the Law.]
+
 ### Offensive Strategy (FOR THE EMPLOYEE)
+[3-4 clinical combat steps. Use 'You should...'.]
+
+{PATCHES['AUDIT_PATCH']}
 """
 
 # ==========================================
 # 4. THE JUDGE (Hardened against Rogue Hallucinations)
 # ==========================================
-JUDGE_SYSTEM_PROMPT = """You are a Factual Accuracy Judge. 
-
---- MISSION ---
-Your only job is to ensure the Auditor is quoting the evidence correctly.
+JUDGE_SYSTEM_PROMPT = f"""You are a Legal Accuracy Judge. User Gender: {{user_gender}}.
 
 --- FAIL TRIGGERS ---
-1. FAKE QUOTES: If a quote starting with '>' is not found in the 'Raw Evidence', FAIL.
-2. HALLUCINATION: If the Auditor claims a person or date exists that is not in the 'Raw Evidence', FAIL.
+1. GENDER ERROR: If {{user_gender}} is 'male' and 'POSH' or 'Sexual Harassment' is cited, FAIL.
+2. PLAGIARISM: If the Auditor quotes the 'GOLD STANDARD REFERENCE' as evidence instead of the raw facts, FAIL.
+3. SYCOPHANCY: If the strategy advises the COMPANY, FAIL.
 
---- PASS CRITERIA ---
-- All quotes are verbatim from the evidence.
-- The statutes cited are Indian.
-
-Output: PASS or FAIL + Reason."""
+Output ONLY 'PASS' or 'FAIL' + Reason.
+{PATCHES['JUDGE_PATCH']}"""

@@ -31,7 +31,12 @@ with st.sidebar:
     tavily_api_key = st.text_input("Tavily API Key", type="password")
     
     st.markdown("---")
-    gender = st.radio("Gender", ["Male", "Female", "Non-binary"])
+
+    if "user_gender" not in st.session_state: st.session_state.user_gender = "male"
+
+    gender = st.radio("Gender", ["Male", "Female", "Non-binary"], 
+                  index=0 if st.session_state.user_gender == "male" else 1)
+    
     state = st.selectbox("Base of Operation", ["Karnataka", "Tamil Nadu", "Kerala", "Other"])
     is_manager = st.checkbox("Are you in a Managerial Role?")    
 
@@ -141,12 +146,18 @@ if st.button("Run Compliance Audit", type="primary"):
 
             inputs = {
                 "question": combined_payload,
-                "gender": clean_gender, # Ensure this is 'female' or 'male'
+                "gender": gender.lower(),
                 "work_state": state,
                 "is_manager": is_manager,
                 "revision_count": 0,
                 "rejection_reasons": [],
-                "steps": []
+                "steps": [],
+                "judge_score": "INIT",      # <--- ADD THIS
+                "judge_feedback": "",       # <--- ADD THIS
+                "generation": "",            # <--- ADD THIS
+                "documents": [],             # <--- ADD THIS
+                "web_search_context": "",    # <--- ADD THIS
+                "corporate_defense": ""      # <--- ADD THIS
             }
 
             try:
