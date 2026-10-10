@@ -25,3 +25,6 @@ tavily-python
 
 # --- UI ---
 streamlit
+
+# search
+rank_bm25
