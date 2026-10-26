@@ -2,12 +2,13 @@
 
 > Deterministic Indian labor law & corporate compliance auditor powered by a hybrid-brain LangGraph state machine and a zero-trust cryptographic data flywheel.
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
-[![LangGraph](https://img.shields.io/badge/Orchestration-LangGraph-orange.svg)](https://github.com/langchain-ai/langgraph)
-[![Vector DB](https://img.shields.io/badge/Vector%20Store-Pinecone%20%7C%20FAISS-green.svg)](https://www.pinecone.io/)
-[![Security](https://img.shields.io/badge/Security-Fernet%20AES--128--CBC-red.svg)](https://cryptography.io/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]([LICENSE](https://opensource.org/license/mit))
-
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![LangGraph](https://img.shields.io/badge/State_Machine-LangGraph-FF6F00)](https://github.com/langchain-ai/langgraph)
+[![Hybrid Routing](https://img.shields.io/badge/Hybrid_LLM-8B_Extractor_%7C_70B_Reasoner-8A2BE2)](docs/System%20Architecture%20Diagrams.md)
+[![Vector DB](https://img.shields.io/badge/CRAG-FAISS_%7C_Pinecone-00A98F)](https://www.pinecone.io/)
+[![Security](https://img.shields.io/badge/Zero_Trust-Fernet_AES--128--CBC-D32F2F)](https://cryptography.io/)
+[![Memory Envelope](https://img.shields.io/badge/RAM_Ceiling-8GB--24GB_Deterministic-0288D1)](docs/System%20Architecture%20Diagrams.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-FBC02D.svg)](https://opensource.org/licenses/MIT)
 ---
 
 ## The Manifesto: Destroying Corporate Information Asymmetry
@@ -159,13 +160,13 @@ streamlit run app.py
 
 ---
 
-## Deterministic Verification
+<!-- ## Deterministic Verification
 
 Run the core graph verification script to validate end-to-end PII scrubbing, model routing, and payload encryption without spinning up the UI:
 
 ```bash
 python -m unittest tests/test_pipeline.py
-```
+``` -->
 
 ---
 
